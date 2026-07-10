@@ -313,30 +313,19 @@ async def verify_iptv_channels(session):
                 
     print(f"Total unique candidates parsed: {len(raw_candidates)}")
     
-    # Filter priorities from raw candidate distribution
-    prioritized_candidates = []
-    country_counts = {}
+    # Include all candidates belonging to the 27 selected countries without any caps
+    prioritized_candidates = list(PRIORITIES)
+    urls_used = set(p["url"] for p in PRIORITIES)
+    allowed_countries = set(COUNTRY_MAP.values())
     
-    for p in PRIORITIES:
-        prioritized_candidates.append(p)
-        country_counts[p["country"]] = 1
-        
     for c in raw_candidates:
-        if c["url"] in [p["url"] for p in PRIORITIES]:
+        if c["url"] in urls_used:
             continue
-            
-        cnt = country_counts.get(c["country"], 0)
-        cap = 20
-        if c["country"] == "Türkiye":
-            cap = 100
-        elif c["country"] in ["ABD", "İngiltere", "Almanya", "Fransa", "İspanya", "İtalya"]:
-            cap = 80
-            
-        if cnt < cap:
+        if c["country"] in allowed_countries:
             prioritized_candidates.append(c)
-            country_counts[c["country"]] = cnt + 1
+            urls_used.add(c["url"])
             
-    print(f"Testing {len(prioritized_candidates)} prioritized channels concurrently...")
+    print(f"Testing {len(prioritized_candidates)} channels concurrently (unlimited country caps)...")
     
     # Concurrently test all candidates (except priorities, which are always kept!)
     verified_channels = list(PRIORITIES)
