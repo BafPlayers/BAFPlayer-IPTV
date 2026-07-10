@@ -24,7 +24,7 @@ movies_txt_file = os.path.join(CONTENT_DIR, "Movies_And_Series.txt")
 
 # Country Mapping (English -> Turkish)
 COUNTRY_MAP = {
-    "Turkey": "Türkiye",
+    "Turkiye": "Türkiye",
     "United States": "ABD",
     "United Kingdom": "İngiltere",
     "Germany": "Almanya",
