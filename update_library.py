@@ -22,48 +22,48 @@ podcasts_txt_file = os.path.join(CONTENT_DIR, "Podcasts.txt")
 movies_json_file = os.path.join(CONTENT_DIR, "Movies_And_Series.json")
 movies_txt_file = os.path.join(CONTENT_DIR, "Movies_And_Series.txt")
 
-# Country Mapping (English -> Turkish)
+# Country Mapping (English -> Prettier English)
 COUNTRY_MAP = {
-    "Turkiye": "Türkiye",
-    "United States": "ABD",
-    "United Kingdom": "İngiltere",
-    "Germany": "Almanya",
-    "France": "Fransa",
-    "Italy": "İtalya",
-    "Spain": "İspanya",
-    "Canada": "Kanada",
-    "Russia": "Rusya",
-    "Japan": "Japonya",
-    "South Korea": "Güney Kore",
-    "China": "Çin",
-    "Azerbaijan": "Azerbaycan",
-    "Brazil": "Brezilya",
-    "Netherlands": "Hollanda",
-    "Switzerland": "İsviçre",
-    "Belgium": "Belçika",
-    "Austria": "Avusturya",
-    "Greece": "Yunanistan",
-    "Ukraine": "Ukrayna",
-    "Sweden": "İsveç",
-    "Norway": "Norveç",
-    "Denmark": "Danimarka",
-    "Finland": "Finlandiya",
-    "Poland": "Polonya",
-    "Romania": "Romanya",
-    "Bulgaria": "Bulgaristan"
+    "Turkiye": "Turkey",
+    "United States": "United States",
+    "United Kingdom": "United Kingdom",
+    "Germany": "Germany",
+    "France": "France",
+    "Italy": "Italy",
+    "Spain": "Spain",
+    "Canada": "Canada",
+    "Russia": "Russia",
+    "Japan": "Japan",
+    "South Korea": "South Korea",
+    "China": "China",
+    "Azerbaijan": "Azerbaijan",
+    "Brazil": "Brazil",
+    "Netherlands": "Netherlands",
+    "Switzerland": "Switzerland",
+    "Belgium": "Belgium",
+    "Austria": "Austria",
+    "Greece": "Greece",
+    "Ukraine": "Ukraine",
+    "Sweden": "Sweden",
+    "Norway": "Norway",
+    "Denmark": "Denmark",
+    "Finland": "Finland",
+    "Poland": "Poland",
+    "Romania": "Romania",
+    "Bulgaria": "Bulgaria"
 }
 
 # Priorities list (guaranteed legal, high-quality streams)
 PRIORITIES = [
-    { "name": "TRT World (English News)", "logo": "https://www.trtworld.com/assets/images/logo-trt-world.png", "country": "Türkiye", "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8", "desc": "Turkey's international English news channel." },
-    { "name": "TRT Haber (Turkish News)", "logo": "https://logos-world.net/wp-content/uploads/2022/07/TRT-Haber-Logo.png", "country": "Türkiye", "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8", "desc": "Turkey's national news channel." },
-    { "name": "TRT Belgesel (Turkish Documentary)", "logo": "https://trthaberstatic.cdn.wp.trt.com.tr/static/images/trt-belgesel-logo.png", "country": "Türkiye", "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8", "desc": "Culture, nature, and history documentaries." },
-    { "name": "TRT Müzik (Turkish Music)", "logo": "https://trthaberstatic.cdn.wp.trt.com.tr/static/images/trt-muzik-logo.png", "country": "Türkiye", "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8", "desc": "Traditional and modern music broadcast." },
-    { "name": "TRT Çocuk (Turkish Cartoons)", "logo": "https://trthaberstatic.cdn.wp.trt.com.tr/static/images/trt-cocuk-logo.png", "country": "Türkiye", "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8", "desc": "Educational and fun cartoon broadcasts for kids." },
-    { "name": "DW News English", "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Deutsche_Welle_logo.svg", "country": "Almanya", "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8", "desc": "Germany's international broadcaster." },
-    { "name": "NHK World-Japan", "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_World_logo.svg", "country": "Japonya", "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8", "desc": "Japan's public broadcaster." },
-    { "name": "NASA TV Public", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg", "country": "ABD", "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8", "desc": "Official public live stream of NASA." },
-    { "name": "France 24 English", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/France_24_logo.svg", "country": "Fransa", "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8", "desc": "International news channel based in Paris." }
+    { "name": "TRT World (English News)", "logo": "https://www.trtworld.com/assets/images/logo-trt-world.png", "country": "Turkey", "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8", "desc": "Turkey's international English news channel." },
+    { "name": "TRT Haber (Turkish News)", "logo": "https://logos-world.net/wp-content/uploads/2022/07/TRT-Haber-Logo.png", "country": "Turkey", "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8", "desc": "Turkey's national news channel." },
+    { "name": "TRT Belgesel (Turkish Documentary)", "logo": "https://trthaberstatic.cdn.wp.trt.com.tr/static/images/trt-belgesel-logo.png", "country": "Turkey", "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8", "desc": "Culture, nature, and history documentaries." },
+    { "name": "TRT Müzik (Turkish Music)", "logo": "https://trthaberstatic.cdn.wp.trt.com.tr/static/images/trt-muzik-logo.png", "country": "Turkey", "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8", "desc": "Traditional and modern music broadcast." },
+    { "name": "TRT Çocuk (Turkish Cartoons)", "logo": "https://trthaberstatic.cdn.wp.trt.com.tr/static/images/trt-cocuk-logo.png", "country": "Turkey", "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8", "desc": "Educational and fun cartoon broadcasts for kids." },
+    { "name": "DW News English", "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Deutsche_Welle_logo.svg", "country": "Germany", "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8", "desc": "Germany's international broadcaster." },
+    { "name": "NHK World-Japan", "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_World_logo.svg", "country": "Japan", "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8", "desc": "Japan's public broadcaster." },
+    { "name": "NASA TV Public", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg", "country": "United States", "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8", "desc": "Official public live stream of NASA." },
+    { "name": "France 24 English", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/France_24_logo.svg", "country": "France", "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8", "desc": "International news channel based in Paris." }
 ]
 
 PODCAST_FEEDS = [
