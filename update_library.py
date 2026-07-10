@@ -431,12 +431,25 @@ def generate_playlists(verified_channels, web_radios, movies_catalog, cartoons_c
     # 4. Series (Cartoons & Podcasts) M3U
     series_m3u_content = "#EXTM3U\r\n"
     for c in cartoons_catalog:
+        title_lower = c['title'].lower()
+        series_name = "Çizgi Film"
+        if "superman" in title_lower:
+            series_name = "Superman"
+        elif "popeye" in title_lower:
+            series_name = "Popeye (Temel Reis)"
+        elif "betty boop" in title_lower:
+            series_name = "Betty Boop"
+        elif "bugs bunny" in title_lower:
+            series_name = "Bugs Bunny"
+        elif "gulliver" in title_lower:
+            series_name = "Gulliver's Travels"
+            
         title_with_year = f"{c['title']} ({c['year']})" if c.get('year', 0) > 0 else c['title']
-        series_m3u_content += f'#EXTINF:-1 tvg-logo="{c["poster_url"]}" group-title="Dizi" tvg-name="{c["title"]}",{title_with_year}\r\n'
+        series_m3u_content += f'#EXTINF:-1 tvg-logo="{c["poster_url"]}" group-title="Dizi - {series_name}" tvg-name="{c["title"]}",{title_with_year}\r\n'
         series_m3u_content += f'{c["stream_url"]}\r\n'
     for p in podcast_catalog:
         ep_title = p['episode_title'].replace(",", " ")
-        series_m3u_content += f'#EXTINF:-1 tvg-logo="{p["logo_url"]}" group-title="Dizi" tvg-name="{p["show_name"]} - {ep_title}",{p["show_name"]} - {ep_title}\r\n'
+        series_m3u_content += f'#EXTINF:-1 tvg-logo="{p["logo_url"]}" group-title="Dizi - {p["show_name"]}" tvg-name="{p["show_name"]} - {ep_title}",{p["show_name"]} - {ep_title}\r\n'
         series_m3u_content += f'{p["stream_url"]}\r\n'
     with open(series_m3u_file, 'w', encoding='utf-8') as f:
         f.write(series_m3u_content)
@@ -458,12 +471,25 @@ def generate_playlists(verified_channels, web_radios, movies_catalog, cartoons_c
         master_m3u_content += f'{m["stream_url"]}\r\n'
     # D. Series & Podcasts
     for c in cartoons_catalog:
+        title_lower = c['title'].lower()
+        series_name = "Çizgi Film"
+        if "superman" in title_lower:
+            series_name = "Superman"
+        elif "popeye" in title_lower:
+            series_name = "Popeye (Temel Reis)"
+        elif "betty boop" in title_lower:
+            series_name = "Betty Boop"
+        elif "bugs bunny" in title_lower:
+            series_name = "Bugs Bunny"
+        elif "gulliver" in title_lower:
+            series_name = "Gulliver's Travels"
+            
         title_with_year = f"{c['title']} ({c['year']})" if c.get('year', 0) > 0 else c['title']
-        master_m3u_content += f'#EXTINF:-1 tvg-logo="{c["poster_url"]}" group-title="Dizi" tvg-name="{c["title"]}",{title_with_year}\r\n'
+        master_m3u_content += f'#EXTINF:-1 tvg-logo="{c["poster_url"]}" group-title="Dizi - {series_name}" tvg-name="{c["title"]}",{title_with_year}\r\n'
         master_m3u_content += f'{c["stream_url"]}\r\n'
     for p in podcast_catalog:
         ep_title = p['episode_title'].replace(",", " ")
-        master_m3u_content += f'#EXTINF:-1 tvg-logo="{p["logo_url"]}" group-title="Dizi" tvg-name="{p["show_name"]} - {ep_title}",{p["show_name"]} - {ep_title}\r\n'
+        master_m3u_content += f'#EXTINF:-1 tvg-logo="{p["logo_url"]}" group-title="Dizi - {p["show_name"]}" tvg-name="{p["show_name"]} - {ep_title}",{p["show_name"]} - {ep_title}\r\n'
         master_m3u_content += f'{p["stream_url"]}\r\n'
         
     with open(master_m3u_file, 'w', encoding='utf-8') as f:
