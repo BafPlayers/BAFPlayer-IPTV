@@ -1,0 +1,241 @@
+﻿========================================
+Station Name: TRT FM
+Group/Genre: Pop / Turkish
+Description: TRT's popular music and entertainment talk radio.
+Stream URL: http://radio-trtfm.live.trt.com.tr/master.m3u8
+Logo URL: https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg
+========================================
+Station Name: TRT Radyo 1
+Group/Genre: Haber & Kültür
+Description: TRT's cultural, news, and general interest radio station.
+Stream URL: http://radio-trtradyo1.live.trt.com.tr/master.m3u8
+Logo URL: https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg
+========================================
+Station Name: TRT Radyo 3
+Group/Genre: Klasik & Caz
+Description: TRT's classical music, jazz, and classic pop radio station.
+Stream URL: http://radio-trtradyo3.live.trt.com.tr/master.m3u8
+Logo URL: https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg
+========================================
+Station Name: TRT Turku
+Group/Genre: Halk / Turkish
+Description: Traditional Turkish Folk Music broadcast.
+Stream URL: http://radio-trtturku.live.trt.com.tr/master.m3u8
+Logo URL: https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg
+========================================
+Station Name: TRT Radyo Haber
+Group/Genre: Haber & Kültür
+Description: TRT's news and talk radio.
+Stream URL: http://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+Logo URL: https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg
+========================================
+Station Name: SomaFM Groove Salad
+Group/Genre: Ambient / Chillout
+Description: A chilled plate of ambient/downtempo beats.
+Stream URL: https://ice1.somafm.com/groovesalad-128-mp3
+Logo URL: https://somafm.com/img/groovesalad120.png
+========================================
+Station Name: SomaFM Lush
+Group/Genre: Lounge / Ambient
+Description: Sensuous ambient and downtempo vocals, mostly female.
+Stream URL: https://ice1.somafm.com/lush-128-mp3
+Logo URL: https://somafm.com/img/lush120.png
+========================================
+Station Name: SomaFM Space Station Soma
+Group/Genre: Ambient / Space
+Description: Spaced-out ambient and mid-tempo electronica.
+Stream URL: https://ice1.somafm.com/spacestation-128-mp3
+Logo URL: https://somafm.com/img/spacestation120.png
+========================================
+Station Name: SomaFM Drone Zone
+Group/Genre: Ambient / Drone
+Description: Served hot, atmospheric ambient space music.
+Stream URL: https://ice1.somafm.com/dronezone-128-mp3
+Logo URL: https://somafm.com/img/dronezone120.png
+========================================
+Station Name: SomaFM Deep Space One
+Group/Genre: Ambient / Space
+Description: Deep ambient electronic and space music.
+Stream URL: https://ice1.somafm.com/deepspaceone-128-mp3
+Logo URL: https://somafm.com/img/deepspaceone120.png
+========================================
+Station Name: SomaFM Secret Agent
+Group/Genre: Lounge / Spy
+Description: Lounge and spy soundtrack music.
+Stream URL: https://ice1.somafm.com/secretagent-128-mp3
+Logo URL: https://somafm.com/img/secretagent120.png
+========================================
+Station Name: SomaFM Indie Pop Rocks!
+Group/Genre: Indie Rock
+Description: New and classic indie pop/rock.
+Stream URL: https://ice1.somafm.com/indiepop-128-mp3
+Logo URL: https://somafm.com/img/indiepop120.png
+========================================
+Station Name: SomaFM Left Coast 70s
+Group/Genre: Pop / Rock
+Description: Mellow album rock and pop from the 1970s.
+Stream URL: https://ice1.somafm.com/seventies-128-mp3
+Logo URL: https://somafm.com/img/seventies120.png
+========================================
+Station Name: SomaFM Beat Blender
+Group/Genre: Electronic / House
+Description: A blend of house and downtempo beats.
+Stream URL: https://ice1.somafm.com/beatblender-128-mp3
+Logo URL: https://somafm.com/img/beatblender120.png
+========================================
+Station Name: SomaFM Fluid
+Group/Genre: Hip-Hop / Soul
+Description: Instrumental hip-hop and future soul beats.
+Stream URL: https://ice1.somafm.com/fluid-128-mp3
+Logo URL: https://somafm.com/img/fluid120.png
+========================================
+Station Name: SomaFM Suburbs of Goa
+Group/Genre: World / Ambient
+Description: Desi-influenced ambient and Asian underground.
+Stream URL: https://ice1.somafm.com/suburbsofgoa-128-mp3
+Logo URL: https://somafm.com/img/suburbsofgoa120.png
+========================================
+Station Name: SomaFM Underground 80s
+Group/Genre: Synthpop / New Wave
+Description: UK synthpop and early 80s alternative.
+Stream URL: https://ice1.somafm.com/u80s-128-mp3
+Logo URL: https://somafm.com/img/u80s120.png
+========================================
+Station Name: SomaFM cliqhop idm
+Group/Genre: Electronic / IDM
+Description: Intelligent Dance Music and glitchy techno.
+Stream URL: https://ice1.somafm.com/cliqhop-128-mp3
+Logo URL: https://somafm.com/img/cliqhop120.png
+========================================
+Station Name: SomaFM Dub Step Beyond
+Group/Genre: Electronic / Bass
+Description: Dubstep and bass music from around the world.
+Stream URL: https://ice1.somafm.com/dubstep-128-mp3
+Logo URL: https://somafm.com/img/dubstep120.png
+========================================
+Station Name: SomaFM The Trip
+Group/Genre: Electronic / Trance
+Description: Progressive house, trance, and techno.
+Stream URL: https://ice1.somafm.com/thetrip-128-mp3
+Logo URL: https://somafm.com/img/thetrip120.png
+========================================
+Station Name: SomaFM PopTron
+Group/Genre: Electropop
+Description: Electropop and indie dance music.
+Stream URL: https://ice1.somafm.com/poptron-128-mp3
+Logo URL: https://somafm.com/img/poptron120.png
+========================================
+Station Name: SomaFM Boot Liquor
+Group/Genre: Americana / Country
+Description: Americana and classic outlaw country.
+Stream URL: https://ice1.somafm.com/bootliquor-128-mp3
+Logo URL: https://somafm.com/img/bootliquor120.png
+========================================
+Station Name: SomaFM Digitalis
+Group/Genre: Electronic / IDM
+Description: DIY electronic, chip-tunes, and glitch beats.
+Stream URL: https://ice1.somafm.com/digitalis-128-mp3
+Logo URL: https://somafm.com/img/digitalis120.png
+========================================
+Station Name: SomaFM Vaporwaves
+Group/Genre: Electronic / IDM
+Description: Vaporwave music, chill synth, and retrowave.
+Stream URL: https://ice1.somafm.com/vaporwaves-128-mp3
+Logo URL: https://somafm.com/img/vaporwaves120.png
+========================================
+Station Name: SomaFM Covers
+Group/Genre: Pop / Rock
+Description: Cover versions of popular songs.
+Stream URL: https://ice1.somafm.com/covers-128-mp3
+Logo URL: https://somafm.com/img/covers120.png
+========================================
+Station Name: SomaFM Mission Control
+Group/Genre: Ambient / Space
+Description: Ambient space music mixed with live NASA communications.
+Stream URL: https://ice1.somafm.com/missioncontrol-128-mp3
+Logo URL: https://somafm.com/img/missioncontrol120.png
+========================================
+Station Name: SomaFM SF 10-33
+Group/Genre: Ambient / Space
+Description: Ambient space music mixed with live San Francisco scanner.
+Stream URL: https://ice1.somafm.com/sf1033-128-mp3
+Logo URL: https://somafm.com/img/sf1033120.png
+========================================
+Station Name: SomaFM DEF CON Radio
+Group/Genre: Electronic / IDM
+Description: Electronic music from the DEF CON hacker conference.
+Stream URL: https://ice1.somafm.com/defcon-128-mp3
+Logo URL: https://somafm.com/img/defcon120.png
+========================================
+Station Name: BBC World Service
+Group/Genre: Haber & Kültür
+Description: BBC news, analysis, and culture.
+Stream URL: http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/e/eb/BBC_World_Service_logo_2022.svg
+========================================
+Station Name: BBC Radio 1
+Group/Genre: Pop / Variety
+Description: UK pop charts and new releases.
+Stream URL: http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/1/14/BBC_Radio_1_logo_2021.svg
+========================================
+Station Name: BBC Radio 2
+Group/Genre: Pop / Variety
+Description: Adult contemporary pop and rock.
+Stream URL: http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/2/23/BBC_Radio_2_logo_2022.svg
+========================================
+Station Name: BBC Radio 3
+Group/Genre: Klasik & Caz
+Description: Classical and jazz broadcasts.
+Stream URL: http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/4/43/BBC_Radio_3_logo_2022.svg
+========================================
+Station Name: WQXR Classical (USA)
+Group/Genre: Klasik & Caz
+Description: New York's classical music station.
+Stream URL: https://stream.wqxr.org/wqxr
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/e/eb/Wqxr_logo.svg
+========================================
+Station Name: Jazz24 (Seattle, USA)
+Group/Genre: Klasik & Caz
+Description: 7/24 premium jazz streaming.
+Stream URL: https://knkx-live-a.edge.audiocdn.com/6285_128k
+Logo URL: https://somafm.com/img/jazz_120.png
+========================================
+Station Name: Antenne Bayern Chillout
+Group/Genre: Ambient / Chillout
+Description: Germany's top chillout lounge stream.
+Stream URL: https://stream.antenne.de/chillout/stream/mp3
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/5/52/Antenne_Bayern_logo.svg
+========================================
+Station Name: Swiss Jazz
+Group/Genre: Klasik & Caz
+Description: Swiss jazz, blues, and soul.
+Stream URL: https://stream.srg-ssr.ch/m/rsj/mp3_128
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/d/de/Radio_Swiss_Jazz.svg
+========================================
+Station Name: Swiss Classic
+Group/Genre: Klasik & Caz
+Description: Swiss classical music broadcasts.
+Stream URL: https://stream.srg-ssr.ch/m/rsc_de/mp3_128
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/5/57/Radio_Swiss_Classic.svg
+========================================
+Station Name: Swiss Pop
+Group/Genre: Pop / Variety
+Description: Swiss pop and variety music.
+Stream URL: https://stream.srg-ssr.ch/m/rsp/mp3_128
+Logo URL: https://stream.srg-ssr.ch/m/rsp/mp3_128
+========================================
+Station Name: Rai Radio 3 (Italy)
+Group/Genre: Klasik & Caz
+Description: Italy's cultural and classical radio.
+Stream URL: http://icestreaming.rai.it/3.mp3
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/d/df/Rai_Radio_3_logo_%282010%29.svg
+========================================
+Station Name: RFI Monde (France)
+Group/Genre: Haber & Kültür
+Description: French international news radio.
+Stream URL: http://live02.rfi.fr/rfimonde-96k.mp3
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/4/4e/RFI_logo.svg
+

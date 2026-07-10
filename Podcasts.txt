@@ -1,0 +1,992 @@
+
+========================================================================
+SHOW: NASA's Curious Universe
+========================================================================
+----------------------------------------
+Episode Title: Meet the Artemis III Crew
+Published Date: Fri, 12 Jun 2026 14:00:00 -0000
+Description: Meet the astronauts who will fly on Artemis III: Commander Randy Bresnik, Pilot Luca Parmitano, and Mission Specialists Frank Rubio and Andre Douglas. In this special presentation of Houston We Have a Podcast, the Artemis III astronauts discuss their backgrounds and training ahead of them to prepare for one of the most complex human spaceflight ...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6756666120.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Catching Up With Perseverance on Mars
+Published Date: Tue, 02 Jun 2026 13:10:00 -0000
+Description: NASA’s robotic explorers are looking for signs of ancient life on Mars. In its five years and counting on the surface of the Red Planet, the Perseverance rover has collected dozens of rock samples, including tantalizing features that could be signs of past life. Scientists want to keep studying Mars. That’s why NASA plans to send a fleet of next...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7307102032.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Bonus: Behind the Scenes of Artemis II with NASA Experts
+Published Date: Sat, 02 May 2026 13:23:00 -0000
+Description: In this bonus episode, go behind the scenes of key moments from Artemis II with NASA experts who made them possible. Engineers who launched the rocket describe the hours-long process that led to a successful liftoff. The leader of the closeout crew recalls his sendoff message as the astronauts were sealed inside their spacecraft. And the Artemis...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5165690257.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Update: Artemis II Crew Comes Home
+Published Date: Wed, 15 Apr 2026 14:22:00 -0000
+Description: NASA’s Artemis II astronauts are back home. Hear reactions from the Artemis II crew—Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen—as they returned to Earth. 
+
+For more information about Artemis II, visit nasa.gov/artemis-ii
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6343672143.mp3?updated=1776263609
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Update: Artemis II Crew Flies Around the Moon
+Published Date: Wed, 08 Apr 2026 13:17:00 -0000
+Description: NASA’s Artemis II mission has flown around the Moon, and its four astronauts traveled farther from Earth than anyone in history. Relive this historic mission through the astronauts’ own words, including their scientific descriptions of the Moon’s surface, as well as the role of “space plumber” troubleshooting the toilet and the astronauts’ unify...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8947460753.mp3?updated=1775874887
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Artemis II: How NASA’s Moon Mission Returns to Earth 
+Published Date: Thu, 02 Apr 2026 12:22:00 -0000
+Description: Liftoff! NASA’s Artemis II mission launched on April 1, 2026, carrying four Moonbound astronauts. After an approximately 10-day mission, Artemis II ends with a splash. Lili Villarreal, the recovery and landing director for Artemis II, leads the team that will bring home the astronauts and their spacecraft. She describes the recovery playbook, wh...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4339213471.mp3?updated=1775860130
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Artemis II: The Ground Teams Powering NASA's Moon Mission
+Published Date: Tue, 17 Feb 2026 14:48:00 -0000
+Description: Behind NASA’s Artemis II mission and the astronauts who will fly around the Moon, teams on the ground are essential. Explore some of the epic equipment that makes Artemis II possible—the mobile launcher, crawler-transporter, and NASA’s barge Pegasus—and meet a few of the many specialists who act as the shoulders lifting astronauts into space.   ...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8742921926.mp3?updated=1775858869
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Artemis II: How NASA Will Study the Moon—And the Astronauts Going There
+Published Date: Tue, 03 Feb 2026 14:12:00 -0000
+Description: During Artemis II, four astronauts will see the lunar surface as few humans have—and possibly, parts of the Moon’s far side that no one has seen before. Learn what lunar science questions NASA hopes to answer through the astronauts' eyes with lunar geologist Kelsey Young. And those astronauts will also be subjects of science. Jancy McPhee, assoc...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9200308531.mp3?updated=1775858966
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Artemis II: Inside NASA’s New Ride to the Moon
+Published Date: Tue, 27 Jan 2026 14:12:00 -0000
+Description: During Artemis II, humans will fly Orion—NASA’s next-generation spaceship designed to take us to the Moon and beyond—for the first time. Tour Orion with Branelle Rodriguez, the vehicle manager for Artemis II, to hear about the support systems that keep astronauts alive and how exactly you use the bathroom en route to the Moon. Then, pop the hood...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4539378680.mp3?updated=1775859026
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Artemis II: What NASA Learned From Launching Artemis I
+Published Date: Tue, 20 Jan 2026 14:03:00 -0000
+Description: In 2022, NASA launched Artemis I, an uncrewed test flight of the rocket and spacecraft that will send humans to the Moon. Go inside Firing Room 1—the nerve center for Artemis launches—and hear from the engineers who launched Artemis I, including the intricate procedures they developed just to fuel the rocket correctly. Now NASA is preparing to l...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1015112791.mp3?updated=1775858942
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+
+========================================================================
+SHOW: Science Vs
+========================================================================
+----------------------------------------
+Episode Title: Narcissists: Are We Surrounded?
+Published Date: Thu, 02 Jul 2026 09:00:00 -0000
+Description: The internet tells us that narcissists are everywhere — and that the problem is only getting worse. It’s like narcissism is oozing out of our celebrities, politicians, partners, parents, maybe even ourselves?? So today, we’re taking a long look in the mirror to find out: are we all a bunch of narcissists? And what should we do if we think someon...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT6782439273.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Raw Milk: Secret Superfood??
+Published Date: Thu, 25 Jun 2026 09:00:00 -0000
+Description: Raw milk is having a major moment, with fans claiming it’s a gut-healing superfood that can prevent everything from asthma to allergies. But others are like HOLD ON — we pasteurize milk to make it safe! Drinking raw milk can kill you. So, who’s right? Could there be some benefits to guzzling milk straight from the teat? Or is it a terrible idea?...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7860046093.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Caffeine: How Much Is Too Much? 
+Published Date: Thu, 18 Jun 2026 09:00:00 -0000
+Description: Today we’re revisiting caffeine. It’s a drug that tons of us take every day. So, is that a bad thing?? What is it really doing to our bodies and our brains? Plus — if we get it in the form of energy drinks, is that super dangerous? We talk to Dr. Astrid Nehlig, Prof. Gregory Marcus, and Prof. Sachin Shah. [REBROADCAST]
+
+Find our transcript here:...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3470686165.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: The Woman Who Felt No Fear
+Published Date: Thu, 11 Jun 2026 09:00:00 -0000
+Description: A group of scientists meet a very unusual woman. A key part of her brain isn’t working: the amygdala. This is the part of the brain that we think is responsible for feeling fear. And in fact, this woman does seem pretty fearless. Researchers test her fear response using some very unconventional methods, but she takes everything in stride. Then, ...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9309855920.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Peptides: The Ultimate Body Hack? 
+Published Date: Thu, 04 Jun 2026 09:00:00 -0000
+Description: Peptides are huge right now. Influencers are telling us they can work wonders for all sorts of stuff. Struggling with an annoying injury that won't heal?? Belly fat that's pissing you off? Low energy? Gut issues?? There’s a peptide out there for you. People are buying peptides off the internet and injecting themselves with them, saying it's life...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT2480103834.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: How Toxic Is the Air You Breathe?
+Published Date: Thu, 28 May 2026 09:00:00 -0000
+Description: The Trump administration is rolling back restrictions on air pollution in the U.S., and some experts say this could affect the health of millions of people. And what makes air pollution especially dangerous is that we often can’t see it at all. 
+
+So today, we’re going back to the story of Ella Kissi-Debrah, a little girl who suddenly got sick an...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT2464584834.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Ibogaine: A Miracle Psychedelic?
+Published Date: Thu, 21 May 2026 09:00:00 -0000
+Description: Ibogaine. Fans say this psychedelic is a game changer for treating a bunch of mental health conditions — that even a single trip to your friendly ibogaine clinic could cure you of lifelong struggles with addiction. And recently President Trump signed an executive order fast-tracking research into this psychedelic drug. But how well does it reall...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3862141413.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Hantavirus: How Scary Is It??
+Published Date: Wed, 13 May 2026 18:40:00 -0000
+Description: A weird virus has popped up on a cruise ship, and it’s making a bunch of us nervous. It’s a type of hantavirus called Andes virus, and scientists think that it’s infected almost a dozen people so far — three of them have died. And now people are getting off the boat, some of them going into government quarantine, but some of them traveling home....
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9191659625.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Tattoos: Are They Toxic?
+Published Date: Thu, 07 May 2026 09:00:00 -0000
+Description: Tons of us are inked — one in three American adults has a tattoo — but lately, we’ve been hearing that tattoos are actually bad for us. We’re told that they mess with our immune system and could even lead to cancer. Can that be true?! Plus, are there any upsides to having a tattoo? We talk to immunologist Dr. Santiago González, epidemiologist Dr...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9612454996.mp3?updated=1778096686
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
+Episode Title: Boredom: Is It Good For You?
+Published Date: Thu, 30 Apr 2026 09:00:00 -0000
+Description: We keep hearing that we need to be BORED more, with people online swearing that boredom can work magic — restoring your mind, and even supercharging your creativity. So, is boredom secretly good for us? We talk to cognitive neuroscientist Prof. James Danckert and organizational psychologist Prof. Guihyun Park to find out. 
+
+Find our transcript h...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT5115362468.mp3?updated=1777494728
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+
+========================================================================
+SHOW: Astronomy Cast
+========================================================================
+----------------------------------------
+Episode Title: Ep. 799: Heavy Lift Rockets
+Published Date: Mon, 29 Jun 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 799: Heavy Lift Rockets By Fraser Cain & Dr. Pamela Gay Streamed live June 22, 2026. The Saturn 5 was a monster, capable of sending humans and a lander to the Moon and bringing them back again. But the number of heavy lift rockets since then has gotten pretty sparse. Now, with tens if not hundreds of thousands of satellites in...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260629.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 798: Our Summer Media List
+Published Date: Mon, 22 Jun 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 798: Our Summer Media List By Fraser Cain & Dr. Pamela Gay Streamed live on Jun 15, 2026. Well, we're just a couple of weeks away from summer hiatus and so it's time to give you some homework. Here's our list of stuff we've been reading watching and playing. This should fill the Astronomy-Cast-shaped hole in your media landsca...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260622.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 797: Summer in Space
+Published Date: Mon, 15 Jun 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 797: Summer in Space By Fraser Cain & Dr. Pamela Gay Streamed live June 10, 2026. We're about to take a much needed 2 month hiatus. But just because we're not here doesn't mean space stops existing and doing things. Today, let's give a preview of the big events due to happen in space this summer so you can prepare yourself and...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260615.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 796: Oceans & Organics on Mars
+Published Date: Mon, 08 Jun 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 796: Oceans & Organics on Mars By Fraser Cain & Dr. Pamela Gay Streamed live on Jun 1, 2026. Mars is cold & dry today, but the evidence is growing that it used to be warmer & wetter. with seas & oceans that covered large parts of its surface. With the additional findings of the chemicals for life, the search for life on Mars i...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260608.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 795: Expanse Science
+Published Date: Mon, 01 Jun 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 795: Expanse Science By Fraser Cain & Dr. Pamela Gay Streamed live on May 10, 2026. This is the final episode of our series on sci-fi universes. And this week we will tackle "The Expanse". Now we've got fusion drives, Proto-matter, g-forces! Listen up, belta lawda! Let's look at the science of our own possible (with a side of ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260601.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 794: Stargate Science
+Published Date: Mon, 18 May 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 794: Stargate Science By Fraser Cain & Dr. Pamela Gay Streamed live on May 10, 2026. We continue our ad-hoc miniseries through sci-fi franchises. This week we'll talk about Stargate, worm holes, mind parasites and self-replicating bots. There's a lot to talk about! This show is supported through people like you on Patreon.com/...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260518.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 793: Star Trek Science
+Published Date: Mon, 11 May 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 793: Star Trek Science By Fraser Cain & Dr. Pamela Gay Streamed live May 4, 2026. Today we continue our mini-series; evaluating the science of various sci-fi franchises. We did Star Wars last week, this week tackle Star Trek. From transporters to warp drives, from phasers to photon torpedos. Let's tackle what Star Trek gets ri...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260511.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 792: Star Wars Science
+Published Date: Mon, 04 May 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 792: Star Wars Science By Fraser Cain & Dr. Pamela Gay Streamed live April 29, 2026. May the fourth be with you! Isn't that what people say on the international holiday known as Star Wars Day? Today we're gonna talk about the science in everyone's favorite sci-fi fantasy stories. Which of it is real, and which is essentially m...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260504.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 791: Chang'e Sample Return
+Published Date: Mon, 27 Apr 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 791: Chang'e Sample Return By Fraser Cain & Dr. Pamela Gay Streamed live on Apr 20, 2026. Last week we talked about samples from other worlds delivered to Earth by meteorites. But sometimes you've gotta do the job yourself. Visit the far off place and bring the samples home. And today we're gonna talk about China's Chang'e sam...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260427.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 790: Meteorites From Other Worlds
+Published Date: Mon, 20 Apr 2026 20:00:00 +0000
+Description: Astronomy Cast Ep. 790: Meteorites From Other Worlds By Fraser Cain & Dr. Pamela Gay Streamed live April 17, 2026. Even though humanity has returned samples from a fraction of the worlds in the solar system, the cosmos has delivered many more without us having to lift a finger. Meteorites. We have meteorites from the Moon, Vesta and even Mars! W...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260420.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+
+========================================================================
+SHOW: Short Wave
+========================================================================
+----------------------------------------
+Episode Title: Plot twist: We're probably way undercounting insects on Earth
+Published Date: Fri, 10 Jul 2026 07:00:00 +0000
+Description: Maybe you’ve wondered about it late at night as a mosquito buzzes in your ear. Or when you kick over a rock and watch dozens of little critters crawl away: How many types of insects are there in the world? Scientists have been interested in answering this question for years. A new study — based on a census of tiny and, frankly terrifying, parasi...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/476b921f-66a2-49b6-bfb0-7b4bc99323eb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=476b921f-66a2-49b6-bfb0-7b4bc99323eb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5877431&p=510351&d=568&size=9090657
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: NASA's race against time to rescue a falling satellite
+Published Date: Wed, 08 Jul 2026 07:00:00 +0000
+Description: A valuable NASA satellite observatory is falling to Earth faster than scientists expected. It’s called the Neil Gehrels Swift Observatory, or “Swift” for short, and it can respond to celestial events much faster than its sky-gazing counterparts. To save Swift and test out a first-of-its-kind technology, NASA partnered with an Arizona-based start...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/107a0613-e856-4583-889e-e324435a7cbe/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=107a0613-e856-4583-889e-e324435a7cbe&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879365&p=510351&d=687&size=11008670
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Could this anti-aging dog pill lead to one for you too?
+Published Date: Tue, 07 Jul 2026 07:00:00 +0000
+Description: Every dog lover’s greatest fear is inevitably losing their pet to time. We want our furry pals to stick around as long as they can. That wish may soon become reality with a new pill from a company called Loyal. It aims to extend the lives–and health–of dogs. This new drug also serves as a pitstop on a much bigger quest: to eventually lengthen hu...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/34a58b33-12ff-47bb-aa8b-4ad9c8f1cefd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=34a58b33-12ff-47bb-aa8b-4ad9c8f1cefd&feed=F0qJcgXZ&t=podcast&e=nx-s1-5830039&p=510351&d=683&size=10942215
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Sky Uber? Air taxis could be here soon
+Published Date: Mon, 06 Jul 2026 07:00:00 +0000
+Description: Taking an air taxi to the airport may become as simple as ordering a ride share today. In our first episode in our summer series Tech Camp, we explore how a futuristic vehicle that transforms from helicopter to propeller plane is already taking flight in New York and San Francisco. This new kind of commuting might be here sooner than you think: ...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/674b52c8-a114-43cc-8d69-016bc7093c52/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=674b52c8-a114-43cc-8d69-016bc7093c52&feed=F0qJcgXZ&t=podcast&e=nx-s1-5821267&p=510351&d=845&size=13533980
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: This July 4th, are you a thrill- or chill-seeker?
+Published Date: Fri, 03 Jul 2026 07:00:00 +0000
+Description: Independence Day is approaching!Imagine if someone has procured illegal fireworks from a couple of states over. Are you:1. first in line to light them?2. content to watch while others set them off?3. going to find a fire extinguisher — just in case — while loudly condemning the activity?Ken Carter, a psychologist at Oxford College of Emory Unive...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f97833fe-5ada-4520-8910-c141f2130f44/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f97833fe-5ada-4520-8910-c141f2130f44&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879300&p=510351&d=799&size=12790014
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Is setting your trash on fire a good idea?
+Published Date: Wed, 01 Jul 2026 07:00:00 +0000
+Description: The U.S. generates 292 million tons of trash each year – and that trash has to go somewhere.  Sometimes, that’s to an incinerator, where it’s burned and turned into electricity. Proponents of incineration applaud the ability to generate energy from waste and divert garbage from landfills. Opponents worry about the potential health risks, especia...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2184ceb0-7836-49b6-8a11-25ede68d15ff/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2184ceb0-7836-49b6-8a11-25ede68d15ff&feed=F0qJcgXZ&t=podcast&e=nx-s1-5874794&p=510351&d=841&size=13462928
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Ticks are a growing problem, no matter where you live
+Published Date: Tue, 30 Jun 2026 07:00:00 +0000
+Description: In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly 50 species of ticks in the United States. Historicall...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c3501483-08c1-4b21-b2bd-ba29963c598d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c3501483-08c1-4b21-b2bd-ba29963c598d&feed=F0qJcgXZ&t=podcast&e=nx-s1-5843195&p=510351&d=794&size=12711019
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Is working from home actually good for you?
+Published Date: Mon, 29 Jun 2026 07:00:00 +0000
+Description: For many, being able to work from home is a boon: saving time on your commute, working in your sweatpants, throwing in a load of laundry before a meeting. People say it makes them happier. But a new study suggests that, despite all the advantages, working from home isn’t creating a happier workforce. It’s making people more socially isolated. We...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/89bd6459-f131-4b2a-8253-49c38620516f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=89bd6459-f131-4b2a-8253-49c38620516f&feed=F0qJcgXZ&t=podcast&e=nx-s1-5855413&p=510351&d=826&size=13222601
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Salty Clouds aren’t the only strange thing about this object in space
+Published Date: Fri, 26 Jun 2026 07:00:00 +0000
+Description: There’s an object in space 25 times the size of Jupiter that’s stumped scientists for years. They haven’t been able to figure out if it’s a planet or a failed star. But scientists are one step closer to an answer thanks to the powerful James Webb Space Telescope. After analyzing data collected by the telescope, astronomers have uncovered unexpec...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/eab19d4a-fed0-4123-bf84-fd26174dd5b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=eab19d4a-fed0-4123-bf84-fd26174dd5b3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5871273&p=510351&d=569&size=9117406
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Did Trump's foreign aid cuts fuel the Ebola outbreak?
+Published Date: Wed, 24 Jun 2026 07:00:00 +0000
+Description: The Ebola outbreak in the Democratic Republic of Congo is growing – and is likely larger than official numbers show. The deadly disease spreads through bodily fluids, on average killing half the people it infects. And while officially declared in May, the case numbers point to the virus circulating for months without being detected. To make matt...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/79af362f-e4e1-417b-b182-0d8bdccec005/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=79af362f-e4e1-417b-b182-0d8bdccec005&feed=F0qJcgXZ&t=podcast&e=nx-s1-5866497&p=510351&d=641&size=10271808
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+
+========================================================================
+SHOW: The History of Rome
+========================================================================
+----------------------------------------
+Episode Title: Ad-Free History of Rome Patreon
+Published Date: Tue, 05 Nov 2024 02:35:00 +0000
+Description: Become a patron and get the entire History of Rome backcatalog ad-fre, plus bonus content, behind the scenes peeks at the new book, plus a chat community where you can talk to me directly. Join today! Patreon: patreon.com/thehistoryofrome Merch Store: cottonbureau.com/mikeduncan
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/THoR_Patreon__-_11424_8.27_PM.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+----------------------------------------
+Episode Title: The Storm Before The Storm: Chapter 1- The Beasts of Italy
+Published Date: Thu, 27 Jul 2017 11:30:00 +0000
+Description: Audio excerpt from The Storm Before the Storm: The Beginning of the End of the Roman Republic by Mike Duncan. Forthcoming Oct. 24, 2017. Pre-order a copy today!   Amazon  Powells  Barnes & Noble Indibound  Books-a-Million Or visit us at: revolutionspodcast.com thehistoryofrome.com
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/SBTS_Ch1_Master.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+----------------------------------------
+Episode Title: Revolutions Launch
+Published Date: Mon, 16 Sep 2013 15:39:57 +0000
+Description: Available at revolutionspodcast.com, iTunes, or anywhere else fine podcasts can be found.
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/Revolutions_Announcement.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+----------------------------------------
+Episode Title: Update- One Year Later
+Published Date: Thu, 30 May 2013 15:18:57 +0000
+Description: Next show coming soon!
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/Post_History_of_Rome_Update.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+----------------------------------------
+Episode Title: 179- The End
+Published Date: Sun, 06 May 2012 18:18:38 +0000
+Description: The history of The History of Rome...Why the Western Empire Fell when it did...Some thoughts on the future...Thank you, goodnight.
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/179-_The_End.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+----------------------------------------
+Episode Title: 178- Not With A Bang But A Whimper
+Published Date: Mon, 30 Apr 2012 04:00:52 +0000
+Description: In the last few years of the Western Empire a series of Emperors came and went. The cycle finally ended in 476 with the exile of Romulus Augustulus.
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/178-_Not_With_a_Bang_But_a_Whimper.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+----------------------------------------
+Episode Title: 177- The Burning Ships
+Published Date: Sun, 22 Apr 2012 18:54:47 +0000
+Description: In 468 the two halves of the Empire combined forces to dislodge the Vandals from North Africa.They failed spectacularly.
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/177-_The_Burning_Ships.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+----------------------------------------
+Episode Title: 176- The Quote Unquote Emperor
+Published Date: Mon, 16 Apr 2012 04:29:27 +0000
+Description: From 461-465 the Western Empire was ruled by Ricimer through a puppet Emperor named Libius Severus. Not everyone in the west was supportive of the new regime.
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/176-_The_Quote_Unquote_Emperor.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+----------------------------------------
+Episode Title: 175- Trying to Take It All Back
+Published Date: Mon, 09 Apr 2012 00:35:31 +0000
+Description: From 457-461, Majorian marched around trying to reassert Imperial authority over the provinces while Ricimer remained in Italy.
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/175-_Trying_to_Take_It_All_Back.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+----------------------------------------
+Episode Title: 174- The Sack of Rome Part II
+Published Date: Mon, 02 Apr 2012 00:27:42 +0000
+Description: Following the death of Valentinian III there was an Imperial power struggle in the West. In the midst of this struggle, the Vandals sacked Rome in 455 AD.
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/174-_The_Sack_of_Rome_Part_2.mp3?dest-id=5627
+Logo URL: https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg
+
+========================================================================
+SHOW: Philosophize This!
+========================================================================
+----------------------------------------
+Episode Title: Episode #189 ... Everything that connects us is slowly disappearing. - Byung Chul Han pt. 2
+Published Date: Tue, 03 Oct 2023 22:59:00 +0000
+Description: Today we talk about the disappearance of rituals, truth, community, communication, public spaces and talk about the importance sometimes of being an idiot. Hope you love it! :)   Sponsor: Better Help https://www.BetterHelp.com/PHILTHIS   Get more: Website: https://www.philosophizethis.org/ Patreon: https://www.patreon.com/philosophizethis Philos...
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+----------------------------------------
+Episode Title: Episode #188 ... Achievement Society and the rise of narcissism, depression and anxiety - Byung-Chul Han
+Published Date: Thu, 07 Sep 2023 02:07:00 +0000
+Description: Today we talk about positive power, neoliberalism, narcissism as a reaction to modern life, how technology makes isolation easier, and some tactics to find peace in the digital panopticon.    Thanks for supporting the podcast by checking out our sponsors: Better Help: https://www.betterhelp.com/PHILTHIS LMNT: https://www.DrinkLMNT.com/PHILO   Ge...
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/byung-chul-han_master.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+----------------------------------------
+Episode Title: Episode #187 ... How much freedom would you trade for security? (Foucault, Hobbes, Mill, Agamben)
+Published Date: Thu, 31 Aug 2023 05:25:00 +0000
+Description: On today's episode we talk about the upsides of a surveillance state. The ongoing social dilemma of freedom vs security. The value of privacy. States of exception. And Deleuze's Postscript on Societies of Control.  Sponsor:  Rocket Money - https://www.RocketMoney.com/PT   Get more: Website: https://www.philosophizethis.org/ Patreon: https://www....
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/freedom-security_01.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+----------------------------------------
+Episode Title: Episode #186 ... Are we heading for a digital prison? - Panopticon (Foucault, Bentham, Cave)
+Published Date: Thu, 24 Aug 2023 00:09:00 +0000
+Description: Today we talk about Jeremy Bentham's concept of the Panopticon. Michel Foucault's comparison to society in 1975. The historical role of intelligence as a justification for dominance. The anatomy of free will, and how a digital world may systematically limit our free will without us knowing it.    Thank you to the sponsors of this episode:  LMNT ...
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/Panopticon_master.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+----------------------------------------
+Episode Title: Episode #185 ... Should we prepare for an AI revolution?
+Published Date: Thu, 10 Aug 2023 06:11:00 +0000
+Description: Today we talk about the revolutionary potential of generative AI. For better or worse.    Support the podcast by checking out our sponsors: Better Help - https://www.betterhelp.com/PHILTHIS LMNT - https://www.drinkLMNT.com/PHILO    Get more: Website: https://www.philosophizethis.org/ Patreon: https://www.patreon.com/philosophizethis Philosophize...
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/generative_AI_01.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+----------------------------------------
+Episode Title: Episode #184 ... Is Artificial Intelligence really an existential risk?
+Published Date: Wed, 02 Aug 2023 18:58:00 +0000
+Description: Get more: Website: https://www.philosophizethis.org/ Patreon: https://www.patreon.com/philosophizethis Philosophize This! Clips: https://www.youtube.com/@philosophizethisclips   Be social: Twitter: https://twitter.com/iamstephenwest Instagram: https://www.instagram.com/philosophizethispodcast TikTok: https://www.tiktok.com/@philosophizethispodca...
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/AGI_RISK.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+----------------------------------------
+Episode Title: Episode #183 ... Is ChatGPT really intelligent?
+Published Date: Sat, 22 Jul 2023 01:36:00 +0000
+Description: Today we discuss ideas from John Searle and Noam Chomsky and consider several questions surrounding machine intelligence.  Get more: Website: https://www.philosophizethis.org/ Patreon: https://www.patreon.com/philosophizethis Philosophize This! Clips: https://www.youtube.com/@philosophizethisclips   Be social: Twitter: https://twitter.com/iamste...
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/ChatGPT_AI.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+----------------------------------------
+Episode Title: Episode #182 ... What if free will is an illusion?
+Published Date: Sun, 02 Jul 2023 18:03:00 +0000
+Description: Get more: Website: https://www.philosophizethis.org/ Patreon: https://www.patreon.com/philosophizethis Philosophize This! Clips: https://www.youtube.com/@philosophizethisclips   Be social: Twitter: https://twitter.com/iamstephenwest Instagram: https://www.instagram.com/philosophizethispodcast TikTok: https://www.tiktok.com/@philosophizethispodca...
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/Is_Free_Will_An_Illusion.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+----------------------------------------
+Episode Title: Episode #181 ... What if consciousness is an illusion?
+Published Date: Fri, 23 Jun 2023 20:54:00 +0000
+Description: Get more:   Website: https://www.philosophizethis.org/ Patreon: https://www.patreon.com/philosophizethis Philosophize This! Clips: https://www.youtube.com/@philosophizethisclips   Be social:   Twitter: https://twitter.com/iamstephenwest Instagram: https://www.instagram.com/philosophizethispodcast TikTok: https://www.tiktok.com/@philosophizethisp...
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/illusionism_final.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+----------------------------------------
+Episode Title: Episode #180 ... What if everything is consciousness? - Phillip Goff on Panpsychism
+Published Date: Wed, 24 May 2023 20:35:00 +0000
+Description: Today we talk about one theory of consciousness known as Panpsychism.   www.philosophizethis.org www.patreon.com/philosophizethis
+Audio Stream URL: https://traffic.libsyn.com/secure/philosophizethis/Panpsychism_final.mp3?dest-id=144660
+Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
+
+========================================================================
+SHOW: In Our Time
+========================================================================
+----------------------------------------
+Episode Title: Machado de Assis
+Published Date: Thu, 09 Jul 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss one of the towering figures of Brazilian and world literature, Machado de Assis (1839 - 1908).  He was the descendant of slaves and built his career while slavery was still in place in Brazil  (abolished 1888) and many of his characters were from the slave-owning class who were also the readers of his books. At th...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nqz886.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: The Global Story - The soft power superpower, with Roman Mars
+Published Date: Fri, 03 Jul 2026 16:00:00 +0000
+Description: As 4th July approaches, we think you’ll like this episode of The Global Story. All week, The Global Story podcast is exploring the surprising and often hidden ways the US has shaped the modern world. Roman Mars – the host of 99% Invisible and the new BBC series A History of the United States in 100 Objects – joins as a guest to set out his theor...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nwp8wy.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: The Evolution of Trees
+Published Date: Thu, 02 Jul 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller an...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0npng58.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: The Welsh Marches
+Published Date: Thu, 25 Jun 2026 09:15:00 +0000
+Description: At the Hay Festival, Misha Glenny and guests discuss the impact of the Norman invasion on the people and land of Wales and across the modern border with England in what became known as The Welsh Marches, march being a term for a militarized borderland.  Hay was one of the first Marcher lordships. Even before 1066, William the Conqueror knew that...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsfns9.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: The Levellers
+Published Date: Thu, 18 Jun 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss the group which came to be known as the Levellers and emerged during what would become arguably one of the bloodiest and most turbulent periods of English history. After the First English Civil War, the Levellers started calling for reforms to achieve legal and social equality. They pushed for a new constitution, ...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsbb3f.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: The Garamantes
+Published Date: Thu, 11 Jun 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss an ancient civilisation who lived over 2000 years ago in the southwest of modern-day Libya. During prehistoric times, the Sahara Desert was greener and even had large lakes, but for the last 5000 years it has been a hyperarid environment. Extreme swings of temperature and limited surface water might make the Sahar...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nksv4p.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: Joseph Roth
+Published Date: Thu, 04 Jun 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss one of the great writers on Central Europe after the first world war and on the dying of the old orders with the collapse of the Austro-Hungarian empire.  As a German speaking Jew from Brody in the north-eastern edge of that Empire, which was then in Galicia, next in Poland and is now in Ukraine, Roth (1894 - 1939...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njft9k.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: Cybernetics
+Published Date: Thu, 28 May 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss cybernetics – the field of study which gave us the prefix ‘cyber’ and helped lay the foundations for the information age. After the Second World War, cybernetics emerged as the study of communication, feedback, and control in both animals and machines. Cybernetics was first defined in 1948 by the American mathemat...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nh72k9.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: Indian Indentured Labour
+Published Date: Thu, 21 May 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss how, after the abolition of slavery in the British Empire in 1833, sugar planters recruited workers from India to replace or compete with their formerly enslaved labourers.  Over the next 90 years, more than a million people in India travelled under five year contracts of indenture across the empire from Guyana to...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nfnqs9.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: M.C. Escher
+Published Date: Thu, 14 May 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss the work of Maurits Cornelis Escher (1898-1972), the graphic artist and printmaker best known for his impossible buildings, paradoxical perspectives, and repeating geometric patterns. Born in Leeuwarden and trained as a printmaker, Escher visited the Alhambra in Granada and found inspiration in the tessellating sh...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ndhl70.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+
+========================================================================
+SHOW: Lore
+========================================================================
+----------------------------------------
+Episode Title: EXHUMED Ch. 7: Leftovers
+Published Date: Wed, 08 Jul 2026 05:01:00 +0000
+Description: Although my new history book, EXHUMED, arrives on August 6th, you get to hear a whole chapter early! Enjoy this delicious sample from EXHUMED, and be sure to lock in your copy today—whether that's the hardcover, ebook, or audiobook version. Learn more and preorder your copy here: www.aaronmahnke.com/exhumed ——————————————————————————— ©2026 Aaro...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-Exhumed-sample_chapter.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
+Episode Title: Legends 83: Sweet Home
+Published Date: Mon, 06 Jul 2026 05:01:00 +0000
+Description: The American South might have its charm, but it also has a tragic history that lingers in the shadows to this day. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Sam Alberty. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   Get Ad-Free Lore: lorepodcast.com/support Episo...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-83d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
+Episode Title: Deeper Lore: 309 (81, 102, & 128)
+Published Date: Thu, 02 Jul 2026 05:01:00 +0000
+Description: Go deeper into the subject matter of our most recent episode (309: Party Favors) with these three recommendations from further back in the Lore catalog:  Episode 81: LorePodcast.com/episodes/81 Episode 102: LorePodcast.com/episodes/102 Episode 128: LorePodcast.com/episodes/128  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Epi...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-309.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
+Episode Title: Lore 309: Party Favors
+Published Date: Mon, 29 Jun 2026 05:01:00 +0000
+Description: Parties promise us a break from the mundane or troubling. But a few celebratory gatherings in history have turned the tables, delivering something far more frightening. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahn...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore309d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
+Episode Title: Legends 82: The Weight of Fear
+Published Date: Mon, 22 Jun 2026 05:01:00 +0000
+Description: Over the centuries, it has become common to refer to traumatizing or frightening experiences as "a nightmare." The true origins of that notion, though, are the most terrifying of all. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Sam Alberty. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ——————...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-82d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
+Episode Title: Deeper Lore: 308 (40, 114, & 150)
+Published Date: Thu, 18 Jun 2026 05:01:00 +0000
+Description: Go deeper into the subject matter of our most recent episode (308: Without a Trace) with these three recommendations from further back in the Lore catalog:  Episode 40: LorePodcast.com/episodes/40 Episode 114: LorePodcast.com/episodes/114 Episode 150: LorePodcast.com/episodes/150  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  ...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-308.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
+Episode Title: Lore 308: Without a Trace
+Published Date: Mon, 15 Jun 2026 05:01:00 +0000
+Description: Dark stories often have twists, turns, and the constant fear of getting lost in the shadows. Which is a lot like one real trail that haunts American history. Let's take a journey there together. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDE...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore308d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
+Episode Title: Legends 81: Undertaken
+Published Date: Mon, 08 Jun 2026 05:01:00 +0000
+Description: One of the most common fears we have is also the product of centuries of fiction mixed with a dash of truth. The result is a genre of storytelling that is truly horrifying. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Sam Alberty. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Re...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-81d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
+Episode Title: Deeper Lore: 307 (37, 79, & 215)
+Published Date: Thu, 04 Jun 2026 05:01:00 +0000
+Description: Go deeper into the subject matter of our most recent episode (Lore 307: Revisiting "Mary, Mary") with these three recommendations from further back in the Lore catalog:  Episode 37: LorePodcast.com/episodes/37 Episode 79: LorePodcast.com/episodes/79 Episode 215: LorePodcast.com/episodes/215  ———————— Lore Resources:   Episode Music: lorepodcast....
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-307.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
+Episode Title: Lore 307: Revisiting "Mary, Mary"
+Published Date: Mon, 01 Jun 2026 05:01:00 +0000
+Description: This week, as summer weaves its way into our lives, the Lore team is taking a well-deserved break. To make that possible, we're reissuing a fan favorite from nearly a decade ago: Episode 50: Mary, Mary. Researched, written, and produced by Aaron Mahnke, with music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ———————...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore307d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+
+========================================================================
+SHOW: Common Sense with Dan Carlin
+========================================================================
+----------------------------------------
+Episode Title: Show 326 The Water in Which We Swim
+Published Date: Wed, 20 May 2026 01:29:00 +0000
+Description: This show was never meant to see the light of day, yet here it is.
+Audio Stream URL: https://traffic.libsyn.com/secure/dancarlin/cswdcd26-The-Water-in-Which-We-Swim.mp3?dest-id=17027
+Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg
+----------------------------------------
+Episode Title: Show 325 Who's the Boss?
+Published Date: Mon, 24 Nov 2025 05:56:00 +0000
+Description: The President is outraged at multiple Democratic lawmakers for reminding members of the military of their constitutional oaths and responsibilities. Dan points out that individual agency among soldiers is a societal firewall protecting all of us.
+Audio Stream URL: https://traffic.libsyn.com/secure/dancarlin/cswdcd25-Whos-the-Boss.mp3?dest-id=17027
+Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg
+----------------------------------------
+Episode Title: Show 324 What's Good for the Goose
+Published Date: Sun, 23 Mar 2025 21:39:00 +0000
+Description: The U.S. political stage has long been primed for an American nightmare. Faction loyalists can argue over who'll end up pulling the constitutional trigger, but the metaphorical gun has been loaded for decades.
+Audio Stream URL: https://traffic.libsyn.com/secure/dancarlin/cswdcd24-whats-good-for-the-goose.mp3?dest-id=17027
+Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg
+----------------------------------------
+Episode Title: Show 323 Gas Up the Cold War
+Published Date: Wed, 02 Mar 2022 00:30:32 +0000
+Description: Vladimir Putin has instantaneously reignited the Cold War by savagely attacking Ukraine this week. In response to requests, Dan shares a few thoughts.   Show Notes:  "Buchanan on Empire" - Common Sense 71 Publish date: Mon, 30 Oct 2006
+Audio Stream URL: https://traffic.libsyn.com/secure/dancarlin/cswdcd23_Gas_Up_the_Cold_War.mp3?dest-id=17027
+Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg
+----------------------------------------
+Episode Title: Show 322 Betting on Long Shots
+Published Date: Wed, 01 Sep 2021 03:10:52 +0000
+Description: After 20 years in Afghanistan the U.S. exits the country thus ending the longest war in American history. Are there any lessons to be learned?  1. "Dismantling the Empire: America's Last Best Hope " by Chalmers Johnson 2.Secretary of State Madeleine K. Albright Interview on NBC-TV "The Today Show" with Matt Lauer Columbus, Ohio, February 19, 199...
+Audio Stream URL: https://traffic.libsyn.com/secure/dancarlin/cswdcd22-Betting-on-Long-Shots.mp3?dest-id=17027
+Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg
+----------------------------------------
+Episode Title: Show 321 Garbage In, Garbage Out
+Published Date: Thu, 14 Jan 2021 03:55:27 +0000
+Description: In a show recorded before the recent House impeachment vote, Dan examines the damage caused by the iceberg we recently hit when Americans stormed the U.S. Capitol and tries to suggest how we might avoid hitting another one. 1. "The Memoirs of Richard Nixon" by Richard Milhous Nixon 2. "Prejudices: A Selection" by H.L. Mencken
+Audio Stream URL: https://traffic.libsyn.com/secure/dancarlin/cswdcd21.mp3?dest-id=17027
+Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg
+----------------------------------------
+Episode Title: Show 320 Steering Into the Iceberg
+Published Date: Sun, 20 Sep 2020 22:06:50 +0000
+Description: To paraphrase John Lennon, So you say you want a civil war? With the U.S. facing one of the most consequential elections in its history, Dan has some thoughts about us all, our choices and the times in which we live.
+Audio Stream URL: https://traffic.libsyn.com/secure/dancarlin/cswdcd20.mp3?dest-id=17027
+Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg
+
+========================================================================
+SHOW: Planet Money
+========================================================================
+----------------------------------------
+Episode Title: Our mission: Find the world’s best economic ideas (Summer School World Tour)
+Published Date: Wed, 08 Jul 2026 07:30:00 +0000
+Description: Come along as we travel the world in search of the best economic ideas to bring home!From the beaches of Barbuda to the fjords of Norway, there's money (and money problems) everywhere. For this summer travel season, Planet Money Summer School will take you on a world tour for your ears. Pack that sense of wonder and nose for adventure, this is o...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: How to win a penalty shootout (with game theory)
+Published Date: Fri, 03 Jul 2026 21:00:00 +0000
+Description: Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory.According to game theory, there’s an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics — that is, until ...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Can the Trump administration make college cheaper?
+Published Date: Wed, 01 Jul 2026 07:00:00 +0000
+Description: Will limiting how much students can borrow force schools to lower their prices? The Department of Education thinks so. It has a new plan to bring down tuition costs. Starting today, July 1st, it’s going to cap how much it’s willing to loan to graduate students. You read that right. To reduce the burden of school…the plan is to give students less...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: We almost had a smartphone in the 90s. Why did it fail?
+Published Date: Fri, 26 Jun 2026 21:30:00 +0000
+Description: In the early 90’s, a company called General Magic began working on a portable device that would allow people to check email, make phone calls, even play games. It was basically a smartphone. But it never caught on.On today’s show, a theory about why this device failed. General Magic had generous investors, world-class talent and creative freedom...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Before Kalshi and Polymarket there was the Iowa Electronic Markets
+Published Date: Wed, 24 Jun 2026 07:00:00 +0000
+Description: Prediction markets aren’t new. Election betting was common until the 1940s, then mysteriously faded away.There was an entire political era when party bosses were expected to conspicuously gamble on their candidates (even if they secretly hedged).And in the 1980s, a few economists designed an election market that beat out election polling 74 perc...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: The real horror of ‘Alien’ and how it explains why we’re not paid enough
+Published Date: Fri, 19 Jun 2026 21:30:00 +0000
+Description: Maybe the real monster in the Alien franchise isn’t actually the killer alien. Because behind the acid blood and jump scares is an even more insidious horror: a single employer with unchecked power. That employer is named Weyland-Yutani, a mega-corporation that dominates workers across the galaxy.Weyland-Yutani is a sort of extreme example of wh...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Can computer hackers get inside your mind?
+Published Date: Wed, 17 Jun 2026 07:00:00 +0000
+Description: The cyber weapon that might have prevented nuclear war.The U.S. and Israel have long been in conflict with Iran over their nuclear development program. Some of that conflict has been out in the open, with bombs and blockades, but some of it has been invisible. Recently some security researchers discovered a cyberweapon likely tied to that invisi...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: It’s my tree. Why can’t I cut it down?
+Published Date: Fri, 12 Jun 2026 22:00:00 +0000
+Description: Can the government stop you from cutting down your own tree? In many towns and cities these days, removing a tree now requires a permit. You might have to pay a fee, or promise to plant replacement trees. But sometimes, the city won't let you cut down the tree at all, even a tree in your own backyard.That's because trees are important for air qu...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Two indicators for lowering the rent
+Published Date: Wed, 10 Jun 2026 07:15:00 +0000
+Description: One specific type of affordable housing used to be popular in American cities, kept rents low, then nearly vanished. Is it time to reconsider boarding houses and single room occupancy units? If they lowered rents in cities, why did they go away? We have the history.Then, let’s talk about corporate landlords. They’re blamed for driving up rents. ...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Why is there a supplement craze if they don’t even work?
+Published Date: Fri, 05 Jun 2026 21:00:00 +0000
+Description: One reason the $70 billion supplement industry is set to double in the next seven years? Lax regulation.On today's show, we tell the story of a century-long battle between the U.S. government and … you, the people, blinded by your love of a magic pill.We’re talking about protein powders, pre-workouts, creatine, stuff for gut health, joint health...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+
+========================================================================
+SHOW: How I Built This with Guy Raz
+========================================================================
+----------------------------------------
+Episode Title: Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
+Published Date: Thu, 09 Jul 2026 07:10:00 -0000
+Description: Jeni’s Splendid Ice Creams founder Jeni Britton joins Guy on the Advice Line to answer questions from three early-stage entrepreneurs. Plus, how Jeni’s newest venture Floura is tackling one of America’s largest dietary needs—fiber. First, we meet Jesse in Washington, D.C., who’s wondering how to best focus marketing efforts for his frozen french...
+Audio Stream URL: https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
+Episode Title: Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
+Published Date: Mon, 06 Jul 2026 07:10:00 -0000
+Description: Krishna Kaliannan wanted to start a tech company but failed at every attempt. On the side, he was teaching himself how to cook with high-protein, low-sugar ingredients. Not just out of interest, but out of necessity. As a teenager, Krishna had been diagnosed with diabetes and epilepsy, meaning he adopted a keto diet long before it was trendy. Kr...
+Audio Stream URL: https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
+Episode Title: Advice Line with Ronnen Harary of Spin Master/PAW Patrol
+Published Date: Thu, 02 Jul 2026 07:10:00 -0000
+Description: Today’s callers: Ann from Nashville asks how to adapt her jewelry business in the face of rising gold prices. Then Felix in Martha’s Vineyard considers strategies for growing his family’s legacy honey and skincare company. Finally, Matt in Massachusetts seeks strategies for maintaining a healthy work-life balance at his grief-inspired brewing pr...
+Audio Stream URL: https://rss.art19.com/episodes/3894a69a-a4de-4bd8-b5f5-d3bc195994d5.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
+Episode Title: e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
+Published Date: Mon, 29 Jun 2026 07:10:00 -0000
+Description: In 2004, Joey Shamah and his partner launched a cosmetics company built on an idea that made almost no sense:Sell high-quality makeup for just $1.At the time, high quality beauty products were supposed to be expensive. The biggest brands spent fortunes on celebrity endorsements, glossy ads, and premium shelf space.And every major retailer told J...
+Audio Stream URL: https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
+Episode Title: Advice Line with Susan Griffin-Black of EO Products
+Published Date: Thu, 25 Jun 2026 07:10:00 -0000
+Description: Today’s callers: Ruchi from Chicago looks for advice on which channels to focus distribution for her probiotic skincare line. Then Peter in San Francisco considers strategies to champion his line of organic South African wines. And Dominic from Barbados asks about expanding his specialty coffee brand into international markets like the United St...
+Audio Stream URL: https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
+Episode Title: STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct
+Published Date: Mon, 22 Jun 2026 07:10:00 -0000
+Description: Stephen Starr didn’t plan to get into the restaurant business.He set out to be a radio DJ. Then a nightclub owner. Then a music promoter.Along the way, he booked a young Jerry Seinfeld for $75, promoted shows for U2 and Madonna, and spent years pretending to be more successful than he really was.Then, in his late 30s, Stephen walked into a glitz...
+Audio Stream URL: https://rss.art19.com/episodes/6c0eb387-4722-4284-aded-23bbd0a9e6f4.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
+Episode Title: Advice Line with Shazi Visram of Happy Family Organics
+Published Date: Thu, 18 Jun 2026 07:10:00 -0000
+Description: Today’s callers: Daisy in the United Kingdom looks to grow her barefoot shoe brand across the pond in the United States. Then Rachel in Pennsylvania considers private labeling for her protein-packed sprinkles. And Andrew in California wonders whether he should seek investment for his pleasantly-scented soil additive.Plus, Shazi discusses why ent...
+Audio Stream URL: https://rss.art19.com/episodes/c354a554-e764-44c6-89f9-e2192e3e5a86.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
+Episode Title: Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire 
+Published Date: Mon, 15 Jun 2026 07:10:00 -0000
+Description: When Maxine Clark left a top job in retail to start a make-your-own stuffed animal store, people thought she’d lost her mind. Investors doubted it. Friends questioned it. Retail experts couldn't understand how it would scale.But drawing on more than 20 years as a retail executive, Maxine built a massively  successful shopping “experience,”  wher...
+Audio Stream URL: https://rss.art19.com/episodes/8e5da7d7-4e2b-4978-b625-f72cb5d57d88.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
+Episode Title: Advice Line with Christina Tosi of Milk Bar 
+Published Date: Thu, 11 Jun 2026 07:10:00 -0000
+Description: Today’s callers: Whitney in Utah  wonders how to bridge the gap between pre-seed and institutional investment for her fitness/retail combo space. Then Chloe in the U.K. considers which markets to target for her at-home crafting kits. And Christy in Washington wants to convert gifters into repeat customers for her coffee flavoring brand.Plus, Chr...
+Audio Stream URL: https://rss.art19.com/episodes/fd7f2406-fda8-4c1d-936c-d20210215f96.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
+Episode Title: Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)
+Published Date: Mon, 08 Jun 2026 07:10:00 -0000
+Description: In 2004, German programmer Tobias Lütke was living in Ottawa with his girlfriend.An avid snowboarder, he wanted to launch an online snowboard shop, but found the e-commerce software available at the time to be clunky and expensive.So he decided to write his own e-commerce software.After he launched his online snowboard business, called Snowdevil...
+Audio Stream URL: https://rss.art19.com/episodes/d0b07b6a-125e-4896-babd-678d19957306.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+
+========================================================================
+SHOW: TED Radio Hour
+========================================================================
+----------------------------------------
+Episode Title: Tracking what your body needs
+Published Date: Fri, 10 Jul 2026 07:00:00 +0000
+Description: Our bodies are always sending signals ... but are we listening? This hour, TED speakers explore new ways to track and understand our health — from cutting-edge technology to simple, everyday habits.Guests include exercise physiologist Keith Diaz, genomicist Michael Snyder and writer Lizzie Braicks-Rinker.TED Radio Hour+ listeners now get access ...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/7dce206e-31b1-40a9-bd9a-557cd8027f75/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=7dce206e-31b1-40a9-bd9a-557cd8027f75&feed=gGUt_fS1&t=podcast&e=nx-s1-5886183&p=510298&d=3000&size=48013106
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: The state of fashion
+Published Date: Fri, 03 Jul 2026 07:00:00 +0000
+Description: Whether you love fashion or hate it, we all have to get dressed in the morning, and the industry affects us in complex ways. This hour, the outrageous, environmental and seedy sides of fashion.Guests include designer Machine Dazzle, supply chain expert Aparna Mehta, journalist Amanda Mull and supermodel Cameron Russell.Original broadcast date: S...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/d98aa16f-0c33-4f87-8dee-a06df8491e25/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=d98aa16f-0c33-4f87-8dee-a06df8491e25&feed=gGUt_fS1&t=podcast&e=nx-s1-5876411&p=510298&d=3005&size=48087084
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Are we using screens as a scapegoat for teen mental health?
+Published Date: Fri, 26 Jun 2026 07:00:00 +0000
+Description: For years, we’ve heard that social media is fueling a teen mental health crisis. But the evidence is more complicated. Developmental psychologist Candice Odgers unpacks what the research actually says—and where parents, policymakers, and the media often get it wrong.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/889661b4-9ae5-4b2c-a918-551a25f3d697/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=889661b4-9ae5-4b2c-a918-551a25f3d697&feed=gGUt_fS1&t=podcast&e=nx-s1-5871161&p=510298&d=3010&size=48164406
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Sports psychology for everyday life
+Published Date: Fri, 19 Jun 2026 07:00:00 +0000
+Description: The thrill of victory, the agony of defeat — sports cliches are everywhere. But what does it actually take to think like a winner? This hour, TED speakers explore the psychology of winning and losing.Original broadcast date: July 19, 2024TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TED speakers and deeper conv...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/480ef5db-df6e-432e-8931-6b5fe1e6446c/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=480ef5db-df6e-432e-8931-6b5fe1e6446c&feed=gGUt_fS1&t=podcast&e=nx-s1-5861604&p=510298&d=2990&size=47840906
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: How predictions took over our lives
+Published Date: Fri, 12 Jun 2026 07:00:00 +0000
+Description: From betting apps to AI models, prediction has become big business. This hour, why we're so drawn to certainty, and what happens when we mistake forecasts for facts. Guests include professor Brendan Dwyer, philosopher Carissa Véliz, and journalist Simone Stolzoff.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TE...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/03cb3c89-1cbf-429d-83d1-495de4a49ee4/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=03cb3c89-1cbf-429d-83d1-495de4a49ee4&feed=gGUt_fS1&t=podcast&e=nx-s1-5855336&p=510298&d=2992&size=47888135
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: The case for merging human bodies with machines
+Published Date: Fri, 05 Jun 2026 07:00:00 +0000
+Description: From robot helpers to smart body parts, the line between human and machine is blurring. This hour, TED speakers design tech that enhances us without diminishing our humanity. Guests include robot choreographer and computer scientist Catie Cuan, engineer and biophysicist Hugh Herr, material scientist Anna Maria Coclite and biochemist Jennifer Dou...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/f14af1ee-250e-4595-8695-5908ec2da609/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=f14af1ee-250e-4595-8695-5908ec2da609&feed=gGUt_fS1&t=podcast&e=nx-s1-5846941&p=510298&d=2992&size=47879777
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: Beyond the manosphere: Supporting boys and men in the real world
+Published Date: Fri, 29 May 2026 07:00:00 +0000
+Description: The debate about masculinity has reached a fever pitch. But Richard Reeves says we must move past the culture wars and look at the facts. This hour, a thoughtful approach to supporting boys and men.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TED speakers and deeper conversations with Manoush. By signing up fo...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4c767510-5eb9-469c-b57a-453af72271ac/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4c767510-5eb9-469c-b57a-453af72271ac&feed=gGUt_fS1&t=podcast&e=nx-s1-5837553&p=510298&d=3056&size=48908374
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: What we'll eat on a warmer planet
+Published Date: Fri, 22 May 2026 07:00:00 +0000
+Description: From the farm, to the lab, to our tables, what we eat and how it's grown is changing. Agriculture contributes to global warming and is being transformed by it. This hour, a glimpse into the future of food.Guests include chef and policy advisor Sam Kass, farmers Jim Whitaker and Jessica Whitaker Allen, biotechnologist Isha Datar and artist Sam Va...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/c5937797-c689-4513-9804-6edcbf14ff60/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=c5937797-c689-4513-9804-6edcbf14ff60&feed=gGUt_fS1&t=podcast&e=nx-s1-5829898&p=510298&d=2992&size=47873925
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: How to feel alive in an exhausting world
+Published Date: Fri, 15 May 2026 07:00:00 +0000
+Description: Why do some of us feel so tired, while others seem to have endless energy? This hour, host Manoush Zomorodi explores what science is revealing about stress, breathing, cellular energy and the body.Guests include mitochondrial psychobiologist Martin Picard and science journalist James Nestor.TED Radio Hour+ listeners now get access to bonus episo...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/6b7f9e76-bf8a-4962-af39-e2674e381bb1/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=6b7f9e76-bf8a-4962-af39-e2674e381bb1&feed=gGUt_fS1&t=podcast&e=nx-s1-5821626&p=510298&d=2995&size=47932440
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: How to mend a broken heart
+Published Date: Fri, 08 May 2026 07:00:00 +0000
+Description: When stress, fear or sadness weigh on us, our hearts can suffer — even break. But there are ways to mend our broken hearts. This hour, TED speakers share stories and ideas about soothing heartache.Guests include cardiologist Sandeep Jauhar, law professor Jeannie Suk Gersen, pediatric nurse Hui-wen Sato, and social worker Knut Ivar Bjørlykhaug.Th...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/94870ed3-3aa0-4472-9515-35c86000f590/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=94870ed3-3aa0-4472-9515-35c86000f590&feed=gGUt_fS1&t=podcast&e=nx-s1-5815015&p=510298&d=2987&size=47802454
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+
+========================================================================
+SHOW: Lex Fridman Podcast
+========================================================================
+----------------------------------------
+Episode Title: #498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires
+Published Date: Tue, 30 Jun 2026 21:33:40 +0000
+Description: Anthony Kaldellis is a historian of the Roman Empire and author of “The New Roman Empire”, a comprehensive history of the Byzantine Empire (Eastern Roman Empire).
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, et...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
+Episode Title: #497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln
+Published Date: Fri, 29 May 2026 16:22:02 +0000
+Description: Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sc
+See below for timestamps, and to give feedback, submit questions, contact Lex, etc.
+CONTACT LEX:
+Feedback – give feedback to Lex: https:/...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
+Episode Title: #496 – FFmpeg: The Incredible Technology Behind Video on the Internet
+Published Date: Wed, 06 May 2026 22:06:47 +0000
+Description: Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc
+See below for timestamps, transcript, and to give feedback, ...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
+Episode Title: #495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age
+Published Date: Thu, 09 Apr 2026 17:43:17 +0000
+Description: Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.
+Transcript:
+https://le...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
+Episode Title: #494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution
+Published Date: Mon, 23 Mar 2026 16:28:42 +0000
+Description: Jensen Huang is the co-founder and CEO of NVIDIA, the world’s most valuable company and the engine powering the AI computing revolution.
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.
+Transcript:
+https://lex...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
+Episode Title: #493 – Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming
+Published Date: Wed, 11 Mar 2026 20:37:33 +0000
+Description: Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama – available to wishlist on Steam today, with alpha later in March.
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep493-sc
+See belo...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jeff_kaplan.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
+Episode Title: #492 – Rick Beato: Greatest Guitarists of All Time, History & Future of Music
+Published Date: Sun, 01 Mar 2026 04:33:22 +0000
+Description: Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello & piano. His incredible YouTube channel celebrates great musicians & musical ideas, and helps millions of people fall in love with great music all over again.
+Thank you for listening ❤ Check out our sponsors: https...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_rick_beato.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
+Episode Title: #491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger
+Published Date: Thu, 12 Feb 2026 03:10:39 +0000
+Description: Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that’s the fastest-growing project in GitHub history.
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep491-sc
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.
+Transcript:
+https://lexfri...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_peter_steinberger.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
+Episode Title: #490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI
+Published Date: Sun, 01 Feb 2026 02:46:43 +0000
+Description: Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. Sebastian Raschka is the author of Build a Large Language Model (From Scratch) and Build a Reasoning Model (From Scratch).
+Thank you for listening ❤...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ai_sota_2026.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
+Episode Title: #489 – Paul Rosolie: Uncontacted Tribes in the Amazon Jungle
+Published Date: Tue, 13 Jan 2026 20:15:15 +0000
+Description: Paul Rosolie is a naturalist, explorer, author of a new book titled Junglekeeper, and is someone who has dedicated his life to protecting the Amazon rainforest.
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep489-sc
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc....
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_paul_rosolie_3.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+
+========================================================================
+SHOW: The Tim Ferriss Show
+========================================================================
+----------------------------------------
+Episode Title: Bob Metcalfe — The Man (and Lessons) Behind Ethernet, Metcalfe's Law, and More
+Published Date: Tue, 13 Feb 2018 17:00:00 +0000
+Description: Bob Metcalfe (@BobMetcalfe) is an MIT-Harvard-trained engineer-entrepreneur who became an Internet pioneer in 1970, invented Ethernet in 1973, and founded 3Com Corporation in 1979. About 1.2B Ethernet ports were shipped last year — 400M wired and 800M wireless (Wi-Fi). 3Com went public in 1984, peaked at $5.7B in annual sales in 1999, and after ...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Bob_Metcalfe.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+----------------------------------------
+Episode Title: How to Build Popular Podcasts and Blogs
+Published Date: Sat, 10 Feb 2018 17:00:00 +0000
+Description: Many of you have asked me about strategies for building a popular blog and podcast. I've covered some aspects of growing a podcast in a previous post, and then Mari Takahashi (@atomicmari) — a successful ballerina, gamer, and content creator — sent me some very good questions that I haven't discussed before. This episode goes into detail about h...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_How_to_Build_a_Successful_Podcast.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+----------------------------------------
+Episode Title: Best Investments, Bad Advice to Avoid, and Other Life Lessons
+Published Date: Fri, 26 Jan 2018 20:28:05 +0000
+Description: This episode sets a new record with five guests -- each considered among the best in their field. It features Adam Robinson (@IAmAdamRobinson), Debbie Millman (@debbiemillman), Neil Strauss (@neilstrauss), Scott Belsky (@scottbelsky), and Veronica Belmont (@Veronica). This roundtable conversation discusses best investments, favorite failures, an...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_Investments_Failure_and_Bad_Advice.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+----------------------------------------
+Episode Title: Catherine Hoke — The Master of Second Chances
+Published Date: Mon, 22 Jan 2018 17:57:57 +0000
+Description: Catherine Hoke (@catherine_hoke) is the founder of Defy Ventures, a non-profit organization that "transforms the hustle" of currently and formerly incarcerated people. Defy's vision is to end mass incarceration by using entrepreneurship as a tool to transform legacies and human potential. Cat was named a #MakeTechHuman Agent of Change by WIRED a...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_Catherine_Hoke.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+----------------------------------------
+Episode Title: How The Best Overcome Fear
+Published Date: Sun, 14 Jan 2018 17:00:00 +0000
+Description: Welcome to another edition of The Tim Ferriss Radio Hour, where I share the habits and patterns of world-class performers revealed over nearly 300 interviews. In this episode, we'll explore fear. Specifically, how to manage, mitigate, and overcome fear, which is something I've battled for decades. This has been such a focal point of my life that...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Fear.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+----------------------------------------
+Episode Title: Gretchen Rubin — Experiments in Happiness and Creativity
+Published Date: Wed, 10 Jan 2018 17:00:00 +0000
+Description: Gretchen Rubin (@gretchenrubin) is the author of several books, including the New York Times bestsellers The Four Tendencies, Better Than Before, The Happiness Project, and Happier at Home. She has an enormous readership, both in print and online, and her books have sold three million copies worldwide, in more than thirty languages. On her popul...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Gretchen_Rubin.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+----------------------------------------
+Episode Title: How to Handle Information Overwhelm (And Social Media)
+Published Date: Thu, 04 Jan 2018 15:15:04 +0000
+Description: After reading Tools of Titans and Tribe of Mentors, many of you have asked me how I process all of the information I receive. This episode will help you manage information overwhelm, recommend techniques for dealing with social media, and answer a few questions that have been frequently asked about building a world-class network and writing book...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_How_to_Handle_Information_Overwhelm.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+----------------------------------------
+Episode Title: Lessons from Bozoma Saint John — From Spike Lee to Uber, From Ghana to Silicon Valley
+Published Date: Wed, 27 Dec 2017 17:44:48 +0000
+Description: Bozoma Saint John (@badassboz) is the Chief Brand Officer at Uber. Until June 2017, she was a marketing executive at Apple Music after joining the company in its acquisition of Beats Music. In 2016, Billboard named her Female Executive of the Year, she appeared on Fortune's 40 under 40, and Fast Company's 100 Most Creative People. Bozoma was fea...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_Bozoma_Saint_John.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+----------------------------------------
+Episode Title: Terry Crews — How to Have, Do, and Be All You Want
+Published Date: Thu, 21 Dec 2017 03:48:14 +0000
+Description: Terry Crews (@terrycrews) is an actor and former NFL player (Los Angeles Rams, San Diego Chargers, Washington Redskins, and Philadelphia Eagles). His wide-ranging credits include the original viral Old Spice commercials, television series such as The Newsroom, Arrested Development, and Everybody Hates Chris, and films including White Chicks, The...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Terry_Crews.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+----------------------------------------
+Episode Title: The Man Who Taught Me How to Invest
+Published Date: Wed, 13 Dec 2017 17:00:00 +0000
+Description: Mike Maples, Jr. (@m2jr) is the man who taught me how to invest. He's one of my favorite people and a personal mentor. He is a partner at Floodgate, a venture capital firm that specializes in micro-cap investments in startups. He has been on the Forbes Midas List since 2010 and named one of Fortune magazine's  "8 Rising VC Stars." Before becomin...
+Audio Stream URL: https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Mike_Maples.mp3?dest-id=189939
+Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg
+
+========================================================================
+SHOW: The Daily
+========================================================================
+----------------------------------------
+Episode Title: Cuba Under Siege
+Published Date: Fri, 10 Jul 2026 09:53:47 +0000
+Description: In January, after the capture of President Nicolás Maduro of Venezuela, the Trump administration turned its attention to Cuba. In the months since, the White House has used every tool at its disposal to unseat the Communist government.
+In May, sparking fears of a humanitarian crisis, Cuba reported that it had officially run out of oil as a resul...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8d610229-cbef-4e39-b9ab-41f1cc568a00/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8d610229-cbef-4e39-b9ab-41f1cc568a00&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: The Unprecedented Personal Profits of Trump’s Presidency
+Published Date: Thu, 9 Jul 2026 09:47:41 +0000
+Description: A recent financial disclosure shows that President Trump has made $2.2 billion since he returned to office.
+Today, Eric Lipton, a New York Times investigative reporter, reveals the Trump family’s next potential windfall and how the president’s position is once again helping it happen.
+Guest: Eric Lipton, an investigative reporter for The New Yor...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3a36c035-6c85-46b5-b3a9-ca6911c8c962/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3a36c035-6c85-46b5-b3a9-ca6911c8c962&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: The Implosion of Graham Platner
+Published Date: Wed, 8 Jul 2026 09:50:44 +0000
+Description: The campaign for Graham Platner, the Democratic nominee for Senate from Maine, imploded this week after he was accused of rape.
+Lisa Lerer and Shane Goldmacher, national political correspondents for The New York Times, discuss the battle over who should replace him on the ballot and the identity crisis inside the Democratic Party.
+Guest:
+
+ Lisa ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/091a4a06-9854-4979-9a64-b83d5d84ce96/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=091a4a06-9854-4979-9a64-b83d5d84ce96&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: The Onion’s Latest Joke: Taking Over Infowars
+Published Date: Tue, 7 Jul 2026 09:45:00 +0000
+Description: Last Thursday, the satirical newspaper The Onion started its own version of Infowars, the infamous online hub of misinformation created by Alex Jones.
+The takeover has been years in the making. After Mr. Jones lost two defamation cases, his assets were put up for auction. The Onion took over Infowars and said it planned to convert the site into ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f99e673f-f5b5-4973-9595-0e5d5e7a2396/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f99e673f-f5b5-4973-9595-0e5d5e7a2396&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: The Landmark Housing Bill That Trump Refuses to Sign
+Published Date: Mon, 6 Jul 2026 09:45:23 +0000
+Description: President Trump called a major bill to address the housing crisis “the most comprehensive and consequential housing legislation in the history of our country,” and a Congress controlled by his own party passed it by overwhelming margins.
+So why is he refusing to sign it?
+Michael Gold, who covers Congress for The New York Times, discusses Mr. Tru...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6fd1725d-8c08-498c-9b1e-89a29bbf06fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6fd1725d-8c08-498c-9b1e-89a29bbf06fc&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: The Most American Episode of The Daily, Ever.
+Published Date: Sun, 5 Jul 2026 10:00:00 +0000
+Description: In celebration of the United States of America’s 250th birthday, we posed a simple question to some of our favorite critics, columnists and editors across the New York Times newsroom, people who write about books, movies, TV shows, science, sports, wellness and food. We asked: What’s the most American thing on your beat?
+On today’s episode, we p...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8280c73e-de4a-40c7-9ee5-34b4a67b466e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8280c73e-de4a-40c7-9ee5-34b4a67b466e&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: 250 Years Later, Why We’re Still Fighting About Our Founding
+Published Date: Fri, 3 Jul 2026 09:45:00 +0000
+Description: Two hundred and fifty years ago, the founding fathers gave rise to a new nation. They also gave rise to an enduring myth about their virtue and what that meant about America’s virtue as a country.
+Jia Lynn Yang, a New York Times journalist, discusses how the founding myth has evolved, why we are still fighting about it and why it may hold the ke...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e274da91-0503-4ec3-bf5b-582f3d51a8a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e274da91-0503-4ec3-bf5b-582f3d51a8a6&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: The Fallout of Massive Earthquakes for Venezuela — and the U.S.
+Published Date: Thu, 2 Jul 2026 09:45:00 +0000
+Description: The rare doublet earthquake in Venezuela was one of the most powerful tectonic events to strike the country in the past century, and the death toll was virtually certain to rise as rescuers began to reach hard-hit areas and remote hillside towns.
+Carlos Prieto, a producer on “The Daily,” speaks to Venezuelans about how they’ve united after the d...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/808197c7-159e-4c30-a496-de85563e9a70/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=808197c7-159e-4c30-a496-de85563e9a70&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: Why Americans Will Get Less Help Paying for College
+Published Date: Wed, 1 Jul 2026 09:45:00 +0000
+Description: As the cost of higher education has soared in recent decades, universities have attracted more scrutiny about the value of a four-year degree.
+Now, the Trump administration is taking those questions to the next level with a set of policies that scales back the federal government’s student loan program.
+Ron Lieber, who writes about personal finan...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/75b3c60b-9308-4ddf-bbd1-5398dafeab86/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=75b3c60b-9308-4ddf-bbd1-5398dafeab86&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: The Supreme Court Expands Presidential Power. Again.
+Published Date: Tue, 30 Jun 2026 09:45:00 +0000
+Description: The Supreme Court on Monday delivered one of the biggest changes in decades to how the federal government works when it ruled that President Trump could fire independent government regulators. Then, it announced an exception to its own ruling.
+Ann E. Marimow, who covers the Supreme Court for The New York Times, explains what the court was up to....
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f89e0cc1-0804-4983-a2b3-b6c1a385331c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f89e0cc1-0804-4983-a2b3-b6c1a385331c&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

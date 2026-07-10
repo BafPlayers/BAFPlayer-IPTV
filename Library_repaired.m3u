@@ -1,0 +1,623 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.trtworld.com/assets/images/logo-trt-world.png" group-title="CanlÄ± TV",TRT World (English News)
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/07/TRT-Haber-Logo.png" group-title="CanlÄ± TV",TRT Haber (Turkish News)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/trt-belgesel-logo.png" group-title="CanlÄ± TV",TRT Belgesel (Turkish Documentary)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/trt-muzik-logo.png" group-title="CanlÄ± TV",TRT MÃ¼zik (Turkish Music)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/trt-cocuk-logo.png" group-title="CanlÄ± TV",TRT Ã‡ocuk (Turkish Cartoons)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Deutsche_Welle_logo.svg" group-title="CanlÄ± TV",DW News English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_World_logo.svg" group-title="CanlÄ± TV",NHK World-Japan
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="CanlÄ± TV",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/France_24_logo.svg" group-title="CanlÄ± TV",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/France_24_logo.svg" group-title="CanlÄ± TV",France 24 French
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/France_24_logo.svg" group-title="CanlÄ± TV",France 24 Spanish
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/France_24_logo.svg" group-title="CanlÄ± TV",France 24 Arabic
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Al_Jazeera_English_logo.svg" group-title="CanlÄ± TV",Al Jazeera English
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Al_Jazeera_logo.svg" group-title="CanlÄ± TV",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Euronews_logo_2016.svg" group-title="CanlÄ± TV",Euronews English
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Red_Bull_logo.svg" group-title="CanlÄ± TV",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/TRT_Spor_logo.svg" group-title="CanlÄ± TV",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/TRT_Spor_logo.svg" group-title="CanlÄ± TV",TRT Spor Yildiz
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="CanlÄ± TV",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="CanlÄ± TV",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="CanlÄ± TV",TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/TV5MONDE_logo.svg" group-title="CanlÄ± TV",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-logo="https://cbs12.com/resources/media/0c1ecad8-fb09-4bb2-beaa-fc561dfe624a-small21x9_LoomerStill.jpg?1603419052801" group-title="CanlÄ± TV",30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="CanlÄ± TV",365 ???? (576p)
+http://31.148.48.15/365_dney/index.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="CanlÄ± TV",Adventure Earth (1080p)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="CanlÄ± TV",Al Arabiya Programs (1280p)
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="CanlÄ± TV",Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="CanlÄ± TV",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="CanlÄ± TV",Asharq Documentary (1080p)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" group-title="CanlÄ± TV",Atlas (480p)
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="CanlÄ± TV",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qcTNvNU.png" group-title="CanlÄ± TV",Backstage (1080p)
+https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="CanlÄ± TV",BBC Earth
+http://81.15.109.89:8001/play/BBCEarth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="CanlÄ± TV",BBC Earth (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="CanlÄ± TV",Bloomberg Originals
+https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="CanlÄ± TV",Bloomberg Originals (1080p)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="CanlÄ± TV",Bloomberg Originals (1080p)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="CanlÄ± TV",BritBox Mysteries (1080p)
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="CanlÄ± TV",BTB Info (1080p)
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hy6FJLe.png" group-title="CanlÄ± TV",Cazador de Homicidas
+https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="CanlÄ± TV",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlF96eS.png" group-title="CanlÄ± TV",CCTV-Weapon & Technology (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="CanlÄ± TV",CGTN Documentary (1080p)
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="CanlÄ± TV",China Travel (1080p)
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="CanlÄ± TV",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="CanlÄ± TV",Court TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="CanlÄ± TV",Crimen & Historia (720p)
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="CanlÄ± TV",CT 2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/73HlRCg.png" group-title="CanlÄ± TV",Dallas Cowboys Cheerleaders
+https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aTk45R.png" group-title="CanlÄ± TV",DangerTV (720p)
+https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="CanlÄ± TV",Dateline 24/7 (1080p)
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDVZ5Vd.png" group-title="CanlÄ± TV",Deadly Women (1080p)
+https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="CanlÄ± TV",Discovering China (1080p)
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="CanlÄ± TV",DocuBox [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="CanlÄ± TV",DocuBox HD (1080p)
+https://iptv.prosto.tv/ch93/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x57klfS.png" group-title="CanlÄ± TV",Documentary+ (1080p)
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x57klfS.png" group-title="CanlÄ± TV",Documentary+ International (1080p)
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="CanlÄ± TV",Dokusat (1080p)
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Zx6dA7.png" group-title="CanlÄ± TV",Dossiers FBI
+https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="CanlÄ± TV",Ecovisión (720p)
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzYDSLo.png" group-title="CanlÄ± TV",FBI Files
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="CanlÄ± TV",Forensic Files
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="CanlÄ± TV",.sci-fi (576p)
+http://31.148.48.15/SONY_SCI_FI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQ0FpXV.png" group-title="CanlÄ± TV",BFM Tech & Co (1080p)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAMyExY.jpg" group-title="CanlÄ± TV",Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WovATGb.png" group-title="CanlÄ± TV",Eko TV (720p)
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MDULX7X.png" group-title="CanlÄ± TV",Ilm va Tabiat (1080p)
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="CanlÄ± TV",InWonder (1080p)
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.medibiztv.com/assets/logo-E76jcvP9.png" group-title="CanlÄ± TV",MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="CanlÄ± TV",Pluto TV Science
+https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="CanlÄ± TV",Pluto TV Space
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="CanlÄ± TV",Pluto TV Space
+https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="CanlÄ± TV",Pluto TV Space
+https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kt5j8Vr.png" group-title="CanlÄ± TV",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="CanlÄ± TV",Wonder (1080p)
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJ5oaeU.png" group-title="CanlÄ± TV",4ever Music (1080p)
+https://iptv.prosto.tv/ch132/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="CanlÄ± TV",4 Fun TV (576i) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="CanlÄ± TV",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="CanlÄ± TV",7 RadioVisione (720p)
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="CanlÄ± TV",7S Music (576p)
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="CanlÄ± TV",7 YOU & ME (720p)
+https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="CanlÄ± TV",9X Jalwa (1080p)
+https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="CanlÄ± TV",9XM (1080p)
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kj21hwd.png" group-title="CanlÄ± TV",15+ Music (1080p)
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="CanlÄ± TV",30A Music (720p)
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT FM
+http://radio-trtfm.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT Radyo 1
+http://radio-trtradyo1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT Radyo 3
+http://radio-trtradyo3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT Turku
+http://radio-trtturku.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT Radyo Haber
+http://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://somafm.com/img/groovesalad120.png" group-title="Radyo",SomaFM Groove Salad
+https://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/lush120.png" group-title="Radyo",SomaFM Lush
+https://ice1.somafm.com/lush-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/spacestation120.png" group-title="Radyo",SomaFM Space Station Soma
+https://ice1.somafm.com/spacestation-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/dronezone120.png" group-title="Radyo",SomaFM Drone Zone
+https://ice1.somafm.com/dronezone-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/deepspaceone120.png" group-title="Radyo",SomaFM Deep Space One
+https://ice1.somafm.com/deepspaceone-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/secretagent120.png" group-title="Radyo",SomaFM Secret Agent
+https://ice1.somafm.com/secretagent-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/indiepop120.png" group-title="Radyo",SomaFM Indie Pop Rocks!
+https://ice1.somafm.com/indiepop-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/seventies120.png" group-title="Radyo",SomaFM Left Coast 70s
+https://ice1.somafm.com/seventies-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/beatblender120.png" group-title="Radyo",SomaFM Beat Blender
+https://ice1.somafm.com/beatblender-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/fluid120.png" group-title="Radyo",SomaFM Fluid
+https://ice1.somafm.com/fluid-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/suburbsofgoa120.png" group-title="Radyo",SomaFM Suburbs of Goa
+https://ice1.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/u80s120.png" group-title="Radyo",SomaFM Underground 80s
+https://ice1.somafm.com/u80s-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/cliqhop120.png" group-title="Radyo",SomaFM cliqhop idm
+https://ice1.somafm.com/cliqhop-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/dubstep120.png" group-title="Radyo",SomaFM Dub Step Beyond
+https://ice1.somafm.com/dubstep-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/thetrip120.png" group-title="Radyo",SomaFM The Trip
+https://ice1.somafm.com/thetrip-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/poptron120.png" group-title="Radyo",SomaFM PopTron
+https://ice1.somafm.com/poptron-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/bootliquor120.png" group-title="Radyo",SomaFM Boot Liquor
+https://ice1.somafm.com/bootliquor-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/digitalis120.png" group-title="Radyo",SomaFM Digitalis
+https://ice1.somafm.com/digitalis-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/vaporwaves120.png" group-title="Radyo",SomaFM Vaporwaves
+https://ice1.somafm.com/vaporwaves-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/covers120.png" group-title="Radyo",SomaFM Covers
+https://ice1.somafm.com/covers-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/missioncontrol120.png" group-title="Radyo",SomaFM Mission Control
+https://ice1.somafm.com/missioncontrol-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/sf1033120.png" group-title="Radyo",SomaFM SF 10-33
+https://ice1.somafm.com/sf1033-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/defcon120.png" group-title="Radyo",SomaFM DEF CON Radio
+https://ice1.somafm.com/defcon-128-mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/BBC_World_Service_logo_2022.svg" group-title="Radyo",BBC World Service
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BBC_Radio_1_logo_2021.svg" group-title="Radyo",BBC Radio 1
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BBC_Radio_2_logo_2022.svg" group-title="Radyo",BBC Radio 2
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BBC_Radio_3_logo_2022.svg" group-title="Radyo",BBC Radio 3
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Wqxr_logo.svg" group-title="Radyo",WQXR Classical (USA)
+https://stream.wqxr.org/wqxr
+#EXTINF:-1 tvg-logo="https://somafm.com/img/jazz_120.png" group-title="Radyo",USA)
+https://knkx-live-a.edge.audiocdn.com/6285_128k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Antenne_Bayern_logo.svg" group-title="Radyo",Antenne Bayern Chillout
+https://stream.antenne.de/chillout/stream/mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Radio_Swiss_Jazz.svg" group-title="Radyo",Swiss Jazz
+https://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Radio_Swiss_Classic.svg" group-title="Radyo",Swiss Classic
+https://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 tvg-logo="https://stream.srg-ssr.ch/m/rsp/mp3_128" group-title="Radyo",Swiss Pop
+https://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Rai_Radio_3_logo_%282010%29.svg" group-title="Radyo",Rai Radio 3 (Italy)
+http://icestreaming.rai.it/3.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/RFI_logo.svg" group-title="Radyo",RFI Monde (France)
+http://live02.rfi.fr/rfimonde-96k.mp3
+#EXTINF:-1 tvg-logo="https://archive.org/download/night-of-the-living-dead-1968-english/night-of-the-living-dead-1968-english.thumbs%2FNight%20of%20the%20Living%20Dead%20(1968)%20English_005751.jpg" group-title="Film",Night of the Living Dead (1968)
+https://archive.org/download/night-of-the-living-dead-1968-english/Night%20of%20the%20Living%20Dead%20(1968)%20English.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/his_girl_friday/his_girl_friday.png" group-title="Film",His Girl Friday (1940)
+https://archive.org/download/his_girl_friday/his_girl_friday.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/The_General_Buster_Keaton/__ia_thumb.jpg" group-title="Film",The General (1926)
+https://archive.org/download/The_General_Buster_Keaton/The_General.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/nosferatu-1922/nosferatu-1922.thumbs%2FNosferatu%20(1922)_005578.jpg" group-title="Film",Nosferatu (1922)
+https://archive.org/download/nosferatu-1922/Nosferatu%20(1922).mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/CarnivalOfSouls1962/__ia_thumb.jpg" group-title="Film",Carnival of Souls (1962)
+https://archive.org/download/CarnivalOfSouls1962/Carnival_of_Souls_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/my-favorite-brunette-1947/my-favorite-brunette-1947.thumbs%2FMy%20Favorite%20Brunette%201947_002576.jpg" group-title="Film",My Favorite Brunette (1947)
+https://archive.org/download/my-favorite-brunette-1947/My%20Favorite%20Brunette%201947.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/SteamboatBillJr/SteamboatBillJr.thumbs%2FSteamboat_Bill.Jr_000180.jpg" group-title="Film",Steamboat Bill, Jr. (1928)
+https://archive.org/download/SteamboatBillJr/Steamboat_Bill.Jr_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/a-trip-to-the-moon-1902-colorized/a-trip-to-the-moon-1902-colorized.thumbs%2FA%20Trip%20to%20the%20Moon%20(1902)%20colorized_000599.jpg" group-title="Film",A Trip to the Moon (1902)
+https://archive.org/download/a-trip-to-the-moon-1902-colorized/A%20Trip%20to%20the%20Moon%20(1902)%20colorized.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/dressed_to_kill_ipod/dressed_to_kill_ipod.thumbs%2Fdressed_to_kill_000001.jpg" group-title="Film",Sherlock Holmes: Dressed to Kill (1946)
+https://archive.org/download/dressed_to_kill_ipod/dressed_to_kill.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/Sintel/Poster_thumb.jpg" group-title="Film",Sintel (2010)
+https://archive.org/download/Sintel/sintel-2048-surround.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/Tears-of-Steel/Tears-of-Steel.thumbs%2Ftears_of_steel_720p_000001.jpg" group-title="Film",Tears of Steel (2012)
+https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/ElephantsDream/ED-CM-St-16bit.png" group-title="Film",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_1024.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues.thumbs%2FSita_Sings_the_Blues_001431.jpg" group-title="Film",Sita Sings the Blues (2008)
+https://archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_large.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Monochrome_Logo.svg" group-title="Film",Big Buck Bunny (2008)
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/un-chien-andalou_1929/un-chien-andalou_1929.thumbs%2Fun-chien-andalou_1929_000479.jpg" group-title="Film",Un Chien Andalou (France) (1929)
+https://archive.org/download/un-chien-andalou_1929/un-chien-andalou_1929.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/ChelovekskinoapparatomManWithAMovieCamera/ChelovekskinoapparatomManWithAMovieCamera.thumbs%2FChelovek_s_kino-apparatom_000001.jpg" group-title="Film",Man with a Movie Camera (USSR) (1929)
+https://archive.org/download/ChelovekskinoapparatomManWithAMovieCamera/Chelovek_s_kino-apparatom_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/BattleshipPotemkin/BattleshipPotemkin.thumbs%2FBattleship_Potemkin_003060.jpg" group-title="Film",Battleship Potemkin (USSR) (1925)
+https://archive.org/download/BattleshipPotemkin/Battleship_Potemkin_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/TheCabinetOfDr.Caligari1920FULLMOVIE/TheCabinetOfDr.Caligari1920FULLMOVIE.thumbs%2FThe%20Cabinet%20of%20Dr.%20Caligari%20(1920)%20FULL%20MOVIE_000954.jpg" group-title="Film",The Cabinet of Dr. Caligari (Germany) (1920)
+https://archive.org/download/TheCabinetOfDr.Caligari1920FULLMOVIE/The%20Cabinet%20of%20Dr.%20Caligari%20(1920)%20FULL%20MOVIE.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/Apollo1116mmOnboardFilm/Apollo1116mmOnboardFilm.thumbs%2Fapollo11_6_1_005280.jpg" group-title="Film",Apollo 11: 16mm Onboard Film (Space) (1969)
+https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/MSFC-0601215/0601215.gif" group-title="Film",Laminar Flow Demonstration on ISS (Space) (2006)
+https://archive.org/download/MSFC-0601215/0601215.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/rain1932/rain1932.thumbs%2FRain_000060.jpg" group-title="Film",Rain (Regen) (Netherlands) (1929)
+https://archive.org/download/rain1932/Rain.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/SanFrancisco1955CinemascopeFilm/SanFrancisco1955CinemascopeFilm.thumbs%2FSanFrancisco_000834.jpg" group-title="Film",San Francisco in Cinemascope (1955) (1955)
+https://archive.org/download/SanFrancisco1955CinemascopeFilm/SanFrancisco.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/ParkCons1938/__ia_thumb.jpg" group-title="Film",Park Conscious (Scenic Nature, 1938) (1938)
+https://archive.org/download/ParkCons1938/ParkCons1938.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/fireplace/__ia_thumb.jpg" group-title="Film",Cozy Glen Lake Fireplace Loop (2007)
+https://archive.org/download/fireplace/FireplaceGlenLakeMi.11-06-07_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/lost_world/lost_world.png" group-title="Film",The Lost World (USA) (1925)
+https://archive.org/download/lost_world/lost_world.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/plan-9-from-outer-space/plan-9-from-outer-space_202105.thumbs%2Fplan-9-from-outer-space_004257.jpg" group-title="Film",Plan 9 from Outer Space (USA) (1957)
+https://archive.org/download/plan-9-from-outer-space/plan-9-from-outer-space.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/Metropolis1927EnglishVersion/Metropolis1927EnglishVersion.thumbs%2FMetropolis_1927_English_Version_000001.jpg" group-title="Film",Metropolis (Germany) (1927)
+https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/Hitchcock_Secret_Agent/Hitchcock_Secret_Agent.thumbs%2FSecret_Agent_005160.jpg" group-title="Film",Secret Agent (UK) (1936)
+https://archive.org/download/Hitchcock_Secret_Agent/Secret_Agent.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/BerlinSymphonyofaGreatCity/BerlinSymphonyofaGreatCity.thumbs%2FBERLIN_000780.jpg" group-title="Film",Berlin: Symphony of a Great City (Germany) (1927)
+https://archive.org/download/BerlinSymphonyofaGreatCity/BERLIN_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/__ia_thumb.jpg" group-title="Film",Kids Auto Race At Venice (USA) (1914)
+https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/CC_1914_02_07_KidsAutoRaceAtVenice_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/PopeyeAliBaba/PopeyeAliBaba.thumbs%2FPopeyeAliBaba_000780.jpg" group-title="Dizi" tvg-name="Popeye the Sailor Meets Ali Baba's Forty Thieves",Popeye the Sailor Meets Ali Baba's Forty Thieves (1937)
+https://archive.org/download/PopeyeAliBaba/PopeyeAliBaba_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/PopeyeTheSailorMeetsSindbadTheSailor_540/__ia_thumb.jpg" group-title="Dizi" tvg-name="Popeye the Sailor Meets Sindbad the Sailor",Popeye the Sailor Meets Sindbad the Sailor (1936)
+https://archive.org/download/PopeyeTheSailorMeetsSindbadTheSailor_540/Popeye_meetsSinbadtheSailor.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/superman_1941/__ia_thumb.jpg" group-title="Dizi" tvg-name="Superman: The Mad Scientist",Superman: The Mad Scientist (1941)
+https://archive.org/download/superman_1941/superman_1941_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/superman_mechanical_monsters/superman_mechanical_monsters.thumbs%2Fsuperman_mechanical_monsters_000001.jpg" group-title="Dizi" tvg-name="Superman: The Mechanical Monsters",Superman: The Mechanical Monsters (1941)
+https://archive.org/download/superman_mechanical_monsters/superman_mechanical_monsters.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/superman_billion_dollar_limited/superman_billion_dollar_limited.thumbs%2Fbillion_dollar_limited_000001.jpg" group-title="Dizi" tvg-name="Superman: Billion Dollar Limited",Superman: Billion Dollar Limited (1942)
+https://archive.org/download/superman_billion_dollar_limited/billion_dollar_limited.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/gullivers_travels1939/gullivers_travels1939.thumbs%2Fgullivers_travels1939_002760.jpg" group-title="Dizi" tvg-name="Gulliver's Travels",Gulliver's Travels (1939)
+https://archive.org/download/gullivers_travels1939/gullivers_travels1939.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/BettyBoopPoorCinderella1934HD/BettyBoopPoorCinderella1934HD.thumbs%2FBetty%20Boop%20-%20Poor%20Cinderella%20(1934)%20-%20HD_000045.jpg" group-title="Dizi" tvg-name="Betty Boop: Poor Cinderella",Betty Boop: Poor Cinderella (1934)
+https://archive.org/download/BettyBoopPoorCinderella1934HD/Betty%20Boop%20-%20Poor%20Cinderella%20(1934)%20-%20HD.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/CameToSupper/CameToSupper.thumbs%2Fcametosup_000001.jpg" group-title="Dizi" tvg-name="The Wabbit Who Came to Supper (Bugs Bunny)",The Wabbit Who Came to Supper (Bugs Bunny) (1942)
+https://archive.org/download/CameToSupper/cametosup.MP4
+#EXTINF:-1 tvg-logo="https://archive.org/download/ACornyConcerto1943BugsBunny/ACornyConcerto1943BugsBunny.thumbs%2FACornyConcerto1943BugsBunnyDaffyDuckElmerFudd-m735o_eewgg_000195.jpg" group-title="Dizi" tvg-name="A Corny Concerto (Bugs Bunny & Daffy Duck)",A Corny Concerto (Bugs Bunny & Daffy Duck) (1943)
+https://archive.org/download/ACornyConcerto1943BugsBunny/ACornyConcerto1943BugsBunnyDaffyDuckElmerFudd-m735o_eewgg.mp4
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Meet the Artemis III Crew",NASA's Curious Universe - Meet the Artemis III Crew
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6756666120.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Catching Up With Perseverance on Mars",NASA's Curious Universe - Catching Up With Perseverance on Mars
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7307102032.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Bonus: Behind the Scenes of Artemis II with NASA Experts",NASA's Curious Universe - Bonus: Behind the Scenes of Artemis II with NASA Experts
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5165690257.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Update: Artemis II Crew Comes Home Update: Artemis II Crew Comes Home",NASA's Curious Universe - Update: Artemis II Crew Comes Home Update: Artemis II Crew Comes Home
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6343672143.mp3?updated=1776263609
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Update: Artemis II Crew Flies Around the Moon Update: Artemis II Crew Flies Around the Moon",NASA's Curious Universe - Update: Artemis II Crew Flies Around the Moon Update: Artemis II Crew Flies Around the Moon
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8947460753.mp3?updated=1775874887
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Artemis II: How NASA’s Moon Mission Returns to Earth  How NASA’s Moon Mission Returns to Earth ",NASA's Curious Universe - Artemis II: How NASA’s Moon Mission Returns to Earth  How NASA’s Moon Mission Returns to Earth 
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4339213471.mp3?updated=1775860130
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Artemis II: The Ground Teams Powering NASA's Moon Mission",NASA's Curious Universe - Artemis II: The Ground Teams Powering NASA's Moon Mission
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8742921926.mp3?updated=1775858869
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Artemis II: How NASA Will Study the Moon—And the Astronauts Going There",NASA's Curious Universe - Artemis II: How NASA Will Study the Moon—And the Astronauts Going There
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9200308531.mp3?updated=1775858966
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Artemis II: Inside NASA’s New Ride to the Moon",NASA's Curious Universe - Artemis II: Inside NASA’s New Ride to the Moon
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4539378680.mp3?updated=1775859026
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="NASA's Curious Universe - Artemis II: What NASA Learned From Launching Artemis I What NASA Learned From Launching Artemis I",NASA's Curious Universe - Artemis II: What NASA Learned From Launching Artemis I What NASA Learned From Launching Artemis I
+https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1015112791.mp3?updated=1775858942
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - The Woman Who Felt No Fear",Science Vs - The Woman Who Felt No Fear
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9309855920.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - Peptides: The Ultimate Body Hack? ",Science Vs - Peptides: The Ultimate Body Hack? 
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT2480103834.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - How Toxic Is the Air You Breathe?",Science Vs - How Toxic Is the Air You Breathe?
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT2464584834.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - Ibogaine: A Miracle Psychedelic?",Science Vs - Ibogaine: A Miracle Psychedelic?
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3862141413.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - Hantavirus: How Scary Is It??",Science Vs - Hantavirus: How Scary Is It??
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9191659625.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - Tattoos: Are They Toxic?",Science Vs - Tattoos: Are They Toxic?
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9612454996.mp3?updated=1778096686
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - Boredom: Is It Good For You?",Science Vs - Boredom: Is It Good For You?
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT5115362468.mp3?updated=1777494728
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - Vaping: Does It Really Cause Cancer? ",Science Vs - Vaping: Does It Really Cause Cancer? 
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7883773130.mp3?updated=1776889376
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - Running: Will It Wreck Your Body?",Science Vs - Running: Will It Wreck Your Body?
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7384672019.mp3?updated=1776888350
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Science Vs - Artemis: Why Are We Really Going Back to the Moon?",Science Vs - Artemis: Why Are We Really Going Back to the Moon?
+https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3112945016.mp3?updated=1775760131
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 797: Summer in Space Astronomy Cast Ep. 797: Summer in Space",Astronomy Cast - Ep. 797: Summer in Space Astronomy Cast Ep. 797: Summer in Space
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260615.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 796: Oceans & Organics on Mars Astronomy Cast Ep. 796: Oceans &amp; Organics on Mars",Astronomy Cast - Ep. 796: Oceans & Organics on Mars Astronomy Cast Ep. 796: Oceans &amp; Organics on Mars
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260608.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 795: Expanse Science Astronomy Cast Ep. 795: Expanse Science",Astronomy Cast - Ep. 795: Expanse Science Astronomy Cast Ep. 795: Expanse Science
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260601.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 794: Stargate Science Astronomy Cast Ep. 794: Stargate Science",Astronomy Cast - Ep. 794: Stargate Science Astronomy Cast Ep. 794: Stargate Science
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260518.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 793: Star Trek Science Astronomy Cast Ep. 793: Star Trek Science",Astronomy Cast - Ep. 793: Star Trek Science Astronomy Cast Ep. 793: Star Trek Science
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260511.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 792: Star Wars Science Astronomy Cast Ep. 792: Star Wars Science",Astronomy Cast - Ep. 792: Star Wars Science Astronomy Cast Ep. 792: Star Wars Science
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260504.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 791: Chang'e Sample Return Astronomy Cast Ep. 791: Chang'e Sample Return",Astronomy Cast - Ep. 791: Chang'e Sample Return Astronomy Cast Ep. 791: Chang'e Sample Return
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260427.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 790: Meteorites From Other Worlds Ep. 790: Meteorites From Other Worlds",Astronomy Cast - Ep. 790: Meteorites From Other Worlds Ep. 790: Meteorites From Other Worlds
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260420.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 789: What Happens When a Planet's Star Dies Astronomy Cast Ep. 789: What Happens When a Planet's Star Dies",Astronomy Cast - Ep. 789: What Happens When a Planet's Star Dies Astronomy Cast Ep. 789: What Happens When a Planet's Star Dies
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260406.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg " group-title="Dizi" tvg-name="Astronomy Cast - Ep. 788: Life's Molecules Form in Space Astronomy Cast Ep. 788: Life's Molecules Form in Space",Astronomy Cast - Ep. 788: Life's Molecules Form in Space Astronomy Cast Ep. 788: Life's Molecules Form in Space
+https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260330.mp3?dest-id=11189
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - Is sewage the future of green aviation? Is sewage the future of green aviation?",Short Wave - Is sewage the future of green aviation? Is sewage the future of green aviation?
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/22fa7eef-9038-4d79-9bc0-e4bc3246995e/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=22fa7eef-9038-4d79-9bc0-e4bc3246995e&feed=F0qJcgXZ&t=podcast&e=nx-s1-5814725&p=510351&d=757&size=12120861
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - Could air pollution make your memory worse? Could air pollution make your memory worse?",Short Wave - Could air pollution make your memory worse? Could air pollution make your memory worse?
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f39b3623-5442-4e73-8061-a62f0eb16dc3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f39b3623-5442-4e73-8061-a62f0eb16dc3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5846602&p=510351&d=621&size=9943293
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - Inside the lab taste-testing the world's chocolate Inside the lab taste-testing the world's chocolate",Short Wave - Inside the lab taste-testing the world's chocolate Inside the lab taste-testing the world's chocolate
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/6ccfd9b2-a3a7-48b2-81e0-b69dc7c19229/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=6ccfd9b2-a3a7-48b2-81e0-b69dc7c19229&feed=F0qJcgXZ&t=podcast&e=nx-s1-5826898&p=510351&d=629&size=10079547
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - Why your sunscreen is finally getting a major upgrade Why your sunscreen is finally getting a major upgrade",Short Wave - Why your sunscreen is finally getting a major upgrade Why your sunscreen is finally getting a major upgrade
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a7fbbed5-3e55-4157-8375-e0b5ed05840e/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a7fbbed5-3e55-4157-8375-e0b5ed05840e&feed=F0qJcgXZ&t=podcast&e=nx-s1-5852208&p=510351&d=570&size=9123258
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - How a single flu shot could protect you for decades How a single flu shot could protect you for decades",Short Wave - How a single flu shot could protect you for decades How a single flu shot could protect you for decades
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c1f032be-323f-4337-889a-cd6f0a1e3774/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c1f032be-323f-4337-889a-cd6f0a1e3774&feed=F0qJcgXZ&t=podcast&e=nx-s1-5819822&p=510351&d=686&size=10978578
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - Your DNA is changing all the time. Here’s why Your DNA is changing all the time. Here’s why",Short Wave - Your DNA is changing all the time. Here’s why Your DNA is changing all the time. Here’s why
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d9e14ab3-2861-4c7f-9cf5-066ba2cf7151/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d9e14ab3-2861-4c7f-9cf5-066ba2cf7151&feed=F0qJcgXZ&t=podcast&e=nx-s1-5823864&p=510351&d=852&size=13634709
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - Inner monologues are still a mystery Inner monologues are still a mystery",Short Wave - Inner monologues are still a mystery Inner monologues are still a mystery
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7fb282ad-7afc-4348-a7d9-75ab45788c20/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7fb282ad-7afc-4348-a7d9-75ab45788c20&feed=F0qJcgXZ&t=podcast&e=nx-s1-5847933&p=510351&d=857&size=13718301
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - Prepare to be baffled by what we don't know about eels Prepare to be baffled by what we don't know about eels",Short Wave - Prepare to be baffled by what we don't know about eels Prepare to be baffled by what we don't know about eels
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/46c2bbb3-6551-4586-872c-91314ca872ef/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=46c2bbb3-6551-4586-872c-91314ca872ef&feed=F0qJcgXZ&t=podcast&e=nx-s1-5818527&p=510351&d=818&size=13092616
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - This common garden plant summons wasps as bodyguards This common garden plant summons wasps as bodyguards",Short Wave - This common garden plant summons wasps as bodyguards This common garden plant summons wasps as bodyguards
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f1c6078b-43ee-49c2-884a-ecd1204c0c32/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f1c6078b-43ee-49c2-884a-ecd1204c0c32&feed=F0qJcgXZ&t=podcast&e=nx-s1-5829853&p=510351&d=566&size=9059310
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Short Wave - Why are scientists planting tiny forests in big cities? Why are scientists planting tiny forests in big cities?",Short Wave - Why are scientists planting tiny forests in big cities? Why are scientists planting tiny forests in big cities?
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5a22e87a-872b-4c97-bf98-40d4801498e6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5a22e87a-872b-4c97-bf98-40d4801498e6&feed=F0qJcgXZ&t=podcast&e=nx-s1-5843175&p=510351&d=732&size=11714187
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - Ad-Free History of Rome Patreon Ad-Free History of Rome Patreon",The History of Rome - Ad-Free History of Rome Patreon Ad-Free History of Rome Patreon
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/THoR_Patreon__-_11424_8.27_PM.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - The Storm Before The Storm: Chapter 1- The Beasts of Italy The Storm Before The Storm: Chapter 1- The Beasts of Italy",The History of Rome - The Storm Before The Storm: Chapter 1- The Beasts of Italy The Storm Before The Storm: Chapter 1- The Beasts of Italy
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/SBTS_Ch1_Master.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - Revolutions Launch Revolutions Launch",The History of Rome - Revolutions Launch Revolutions Launch
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/Revolutions_Announcement.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - Update- One Year Later Update- One Year Later",The History of Rome - Update- One Year Later Update- One Year Later
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/Post_History_of_Rome_Update.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - 179- The End 179- The End",The History of Rome - 179- The End 179- The End
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/179-_The_End.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - 178- Not With A Bang But A Whimper 178- Not With A Bang But A Whimper",The History of Rome - 178- Not With A Bang But A Whimper 178- Not With A Bang But A Whimper
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/178-_Not_With_a_Bang_But_a_Whimper.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - 177- The Burning Ships 177- The Burning Ships",The History of Rome - 177- The Burning Ships 177- The Burning Ships
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/177-_The_Burning_Ships.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - 176- The Quote Unquote Emperor 176- The Quote Unquote Emperor",The History of Rome - 176- The Quote Unquote Emperor 176- The Quote Unquote Emperor
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/176-_The_Quote_Unquote_Emperor.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - 175- Trying to Take It All Back 175- Trying to Take It All Back",The History of Rome - 175- Trying to Take It All Back 175- Trying to Take It All Back
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/175-_Trying_to_Take_It_All_Back.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/1/2/f/c/12fc067020662e91/THoR_Logo_1500x1500.jpg " group-title="Dizi" tvg-name="The History of Rome - 174- The Sack of Rome Part II 174- The Sack of Rome Part II",The History of Rome - 174- The Sack of Rome Part II 174- The Sack of Rome Part II
+https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/174-_The_Sack_of_Rome_Part_2.mp3?dest-id=5627
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #248 ... What philosophers say about lying. ",Philosophize This! - Episode #248 ... What philosophers say about lying. 
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7582110057.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #247 ... The Failure of the Modern University - Alasdair MacIntyre",Philosophize This! - Episode #247 ... The Failure of the Modern University - Alasdair MacIntyre
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2057077498.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #246 ... The Myth of the Self-Made Person - Alasdair Macintyre",Philosophize This! - Episode #246 ... The Myth of the Self-Made Person - Alasdair Macintyre
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8919213610.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #245 ... The Rival Moral Approaches of the Modern World - Alasdair Macintyre",Philosophize This! - Episode #245 ... The Rival Moral Approaches of the Modern World - Alasdair Macintyre
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6327901023.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #244 ... After Virtue - Alasdair MacIntyre (why moral conversations feel unsatisfying)",Philosophize This! - Episode #244 ... After Virtue - Alasdair MacIntyre (why moral conversations feel unsatisfying)
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4165347687.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #243 ... Hamlet - William Shakespeare",Philosophize This! - Episode #243 ... Hamlet - William Shakespeare
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2253661774.mp3
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #242 ... Romeo and Juliet - William Shakespeare",Philosophize This! - Episode #242 ... Romeo and Juliet - William Shakespeare
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2458974739.mp3?updated=1769467952
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #241 ... The Tragedy of Julius Caesar - William Shakespeare",Philosophize This! - Episode #241 ... The Tragedy of Julius Caesar - William Shakespeare
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1169671275.mp3?updated=1769468099
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #240 ... Varieties of Religion Today (Charles Taylor)",Philosophize This! - Episode #240 ... Varieties of Religion Today (Charles Taylor)
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5390247006.mp3?updated=1769468250
+#EXTINF:-1 tvg-logo="https://megaphone.imgix.net/podcasts/24779146-88be-11ee-95a6-7b19628c6840/image/logo1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress " group-title="Dizi" tvg-name="Philosophize This! - Episode #239 ... Authenticity and the history of the self.  (Charles Taylor)",Philosophize This! - Episode #239 ... Authenticity and the history of the self.  (Charles Taylor)
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9899670419.mp3?updated=1769468144
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - The Garamantes",In Our Time - The Garamantes
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nksv4p.mp3
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - Joseph Roth",In Our Time - Joseph Roth
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njft9k.mp3
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - Cybernetics",In Our Time - Cybernetics
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nh72k9.mp3
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - Indian Indentured Labour",In Our Time - Indian Indentured Labour
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nfnqs9.mp3
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - M.C. Escher",In Our Time - M.C. Escher
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ndhl70.mp3
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - Handel's Messiah",In Our Time - Handel's Messiah
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nc1h8r.mp3
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - The Spanish-American War 1898",In Our Time - The Spanish-American War 1898
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9spcf.mp3
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - Silicon",In Our Time - Silicon
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n8j94p.mp3
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - Dadaism",In Our Time - Dadaism
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n73l91.mp3
+#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg " group-title="Dizi" tvg-name="In Our Time - Archaea",In Our Time - Archaea
+http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n5pwmd.mp3
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Lore 308: Without a Trace Lore 308: Without a Trace",Lore - Lore 308: Without a Trace Lore 308: Without a Trace
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore308d.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Legends 81: Undertaken Legends 81: Undertaken",Lore - Legends 81: Undertaken Legends 81: Undertaken
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-81d.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Deeper Lore: 307 (37  79  & 215) Deeper Lore: 307 (37  79  &amp; 215)",Lore - Deeper Lore: 307 (37  79  & 215) Deeper Lore: 307 (37  79  &amp; 215)
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-307.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Lore 307: Revisiting "Mary  Mary" Lore 307: Revisiting "Mary  Mary"",Lore - Lore 307: Revisiting "Mary  Mary" Lore 307: Revisiting "Mary  Mary"
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore307d.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Legends 80: He Said  She Said Legends 80: He Said  She Said",Lore - Legends 80: He Said  She Said Legends 80: He Said  She Said
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-80d.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Deeper Lore: 306 (111  127  & 136) Deeper Lore: 306 (111  127  &amp; 136)",Lore - Deeper Lore: 306 (111  127  & 136) Deeper Lore: 306 (111  127  &amp; 136)
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-306.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Lore 306: Disorienting Lore 306: Disorienting",Lore - Lore 306: Disorienting Lore 306: Disorienting
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore306exhumed.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Legends 79: Lone Scar Legends 79: Lone Scar",Lore - Legends 79: Lone Scar Legends 79: Lone Scar
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-79d.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Deeper Lore: 305 (42  106  & 180) Deeper Lore: 305 (42  106  &amp; 180)",Lore - Deeper Lore: 305 (42  106  & 180) Deeper Lore: 305 (42  106  &amp; 180)
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-305.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg " group-title="Dizi" tvg-name="Lore - Lore 305: Botched Lore 305: Botched",Lore - Lore 305: Botched Lore 305: Botched
+https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore305d.mp3?dest-id=259905
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg " group-title="Dizi" tvg-name="Common Sense with Dan Carlin - Show 326 The Water in Which We Swim The Water in Which We Swim",Common Sense with Dan Carlin - Show 326 The Water in Which We Swim The Water in Which We Swim
+https://traffic.libsyn.com/secure/dancarlin/cswdcd26-The-Water-in-Which-We-Swim.mp3?dest-id=17027
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg " group-title="Dizi" tvg-name="Common Sense with Dan Carlin - Show 325 Who's the Boss? Who's the Boss?",Common Sense with Dan Carlin - Show 325 Who's the Boss? Who's the Boss?
+https://traffic.libsyn.com/secure/dancarlin/cswdcd25-Whos-the-Boss.mp3?dest-id=17027
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg " group-title="Dizi" tvg-name="Common Sense with Dan Carlin - Show 324 What's Good for the Goose What's Good for the Goose",Common Sense with Dan Carlin - Show 324 What's Good for the Goose What's Good for the Goose
+https://traffic.libsyn.com/secure/dancarlin/cswdcd24-whats-good-for-the-goose.mp3?dest-id=17027
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg " group-title="Dizi" tvg-name="Common Sense with Dan Carlin - Show 323 Gas Up the Cold War Gas Up the Cold War",Common Sense with Dan Carlin - Show 323 Gas Up the Cold War Gas Up the Cold War
+https://traffic.libsyn.com/secure/dancarlin/cswdcd23_Gas_Up_the_Cold_War.mp3?dest-id=17027
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg " group-title="Dizi" tvg-name="Common Sense with Dan Carlin - Show 322 Betting on Long Shots Betting on Long Shots",Common Sense with Dan Carlin - Show 322 Betting on Long Shots Betting on Long Shots
+https://traffic.libsyn.com/secure/dancarlin/cswdcd22-Betting-on-Long-Shots.mp3?dest-id=17027
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg " group-title="Dizi" tvg-name="Common Sense with Dan Carlin - Show 321 Garbage In  Garbage Out Garbage In  Garbage Out",Common Sense with Dan Carlin - Show 321 Garbage In  Garbage Out Garbage In  Garbage Out
+https://traffic.libsyn.com/secure/dancarlin/cswdcd21.mp3?dest-id=17027
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTunes.jpg " group-title="Dizi" tvg-name="Common Sense with Dan Carlin - Show 320 Steering Into the Iceberg Steering Into the Iceberg",Common Sense with Dan Carlin - Show 320 Steering Into the Iceberg Steering Into the Iceberg
+https://traffic.libsyn.com/secure/dancarlin/cswdcd20.mp3?dest-id=17027
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - Can computer hackers get inside your mind? Can computer hackers get inside your mind?",Planet Money - Can computer hackers get inside your mind? Can computer hackers get inside your mind?
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - It’s my tree. Why can’t I cut it down? It’s my tree. Why can’t I cut it down?",Planet Money - It’s my tree. Why can’t I cut it down? It’s my tree. Why can’t I cut it down?
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - Two indicators for lowering the rent Two indicators for lowering the rent",Planet Money - Two indicators for lowering the rent Two indicators for lowering the rent
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - Why is there a supplement craze if they don’t even work? Why is there a supplement craze if they don’t even work?",Planet Money - Why is there a supplement craze if they don’t even work? Why is there a supplement craze if they don’t even work?
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - There's no business like dough business There's no business like dough business",Planet Money - There's no business like dough business There's no business like dough business
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - The sneaky way companies get new chemicals into our food The sneaky way companies get new chemicals into our food",Planet Money - The sneaky way companies get new chemicals into our food The sneaky way companies get new chemicals into our food
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - The leaked tapes that show how the rich avoid taxes The leaked tapes that show how the rich avoid taxes",Planet Money - The leaked tapes that show how the rich avoid taxes The leaked tapes that show how the rich avoid taxes
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47ae5ef1-886e-4b84-9f88-3a4362d00d84/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47ae5ef1-886e-4b84-9f88-3a4362d00d84&feed=hvWWWzRv&t=podcast&e=nx-s1-5835164&p=510289&d=1579&size=25272408
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - The giant factory town that might be a giant mistake The giant factory town that might be a giant mistake",Planet Money - The giant factory town that might be a giant mistake The giant factory town that might be a giant mistake
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - Vacation and why Americans take so little Vacation and why Americans take so little",Planet Money - Vacation and why Americans take so little Vacation and why Americans take so little
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="Planet Money - Jerome Powell and the Future of Fed Independence Jerome Powell and the Future of Fed Independence",Planet Money - Jerome Powell and the Future of Fed Independence Jerome Powell and the Future of Fed Independence
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire  Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire ",How I Built This with Guy Raz - Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire  Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire 
+https://rss.art19.com/episodes/8e5da7d7-4e2b-4978-b625-f72cb5d57d88.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - Advice Line with Christina Tosi of Milk Bar  Advice Line with Christina Tosi of Milk Bar ",How I Built This with Guy Raz - Advice Line with Christina Tosi of Milk Bar  Advice Line with Christina Tosi of Milk Bar 
+https://rss.art19.com/episodes/fd7f2406-fda8-4c1d-936c-d20210215f96.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019) Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)",How I Built This with Guy Raz - Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019) Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)
+https://rss.art19.com/episodes/d0b07b6a-125e-4896-babd-678d19957306.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - Advice Line with Tim Ferriss (August 2025) Advice Line with Tim Ferriss (August 2025)",How I Built This with Guy Raz - Advice Line with Tim Ferriss (August 2025) Advice Line with Tim Ferriss (August 2025)
+https://rss.art19.com/episodes/84f10963-70ff-444d-87df-cfedab442943.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - UGG: Brian Smith. How an epiphany  surfers  and $500 launched an iconic sheepskin footwear company. UGG: Brian Smith. How an epiphany  surfers  and $500 launched an iconic sheepskin footwear company.",How I Built This with Guy Raz - UGG: Brian Smith. How an epiphany  surfers  and $500 launched an iconic sheepskin footwear company. UGG: Brian Smith. How an epiphany  surfers  and $500 launched an iconic sheepskin footwear company.
+https://rss.art19.com/episodes/56230048-59d6-43c2-b386-7d06ea89f939.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - Advice Line with Jeffrey Hollender of Seventh Generation Advice Line with Jeffrey Hollender of Seventh Generation",How I Built This with Guy Raz - Advice Line with Jeffrey Hollender of Seventh Generation Advice Line with Jeffrey Hollender of Seventh Generation
+https://rss.art19.com/episodes/f8ce2410-1176-47d9-be44-03f9fa945714.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - Justin’s Nut Butter: Justin Gold. He Was Waiting Tables  Then...He Reinvented Peanut Butter. Justin’s Nut Butter: Justin Gold. He Was Waiting Tables  Then...He Reinvented Peanut Butter.",How I Built This with Guy Raz - Justin’s Nut Butter: Justin Gold. He Was Waiting Tables  Then...He Reinvented Peanut Butter. Justin’s Nut Butter: Justin Gold. He Was Waiting Tables  Then...He Reinvented Peanut Butter.
+https://rss.art19.com/episodes/b456c4b4-0243-4e46-9460-d0de7cf5d98b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - Advice Line with Sarah LaFleur of M.M. LaFleur Advice Line with Sarah LaFleur of M.M. LaFleur",How I Built This with Guy Raz - Advice Line with Sarah LaFleur of M.M. LaFleur Advice Line with Sarah LaFleur of M.M. LaFleur
+https://rss.art19.com/episodes/ace5a853-d0cf-4c65-95ad-1ecfc8808c03.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company",How I Built This with Guy Raz - NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company
+https://rss.art19.com/episodes/3d2f974e-a24c-4da4-9dfb-46c405545dfa.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg" group-title="Dizi" tvg-name="How I Built This with Guy Raz - Advice Line: New Offerings  Bigger Markets Advice Line: New Offerings  Bigger Markets",How I Built This with Guy Raz - Advice Line: New Offerings  Bigger Markets Advice Line: New Offerings  Bigger Markets
+https://rss.art19.com/episodes/4ccace90-9a45-40d6-9e11-2c769ddf5ddc.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - How predictions took over our lives How predictions took over our lives",TED Radio Hour - How predictions took over our lives How predictions took over our lives
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/03cb3c89-1cbf-429d-83d1-495de4a49ee4/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=03cb3c89-1cbf-429d-83d1-495de4a49ee4&feed=gGUt_fS1&t=podcast&e=nx-s1-5855336&p=510298&d=2992&size=47888135
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - The case for merging human bodies with machines The case for merging human bodies with machines",TED Radio Hour - The case for merging human bodies with machines The case for merging human bodies with machines
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/f14af1ee-250e-4595-8695-5908ec2da609/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=f14af1ee-250e-4595-8695-5908ec2da609&feed=gGUt_fS1&t=podcast&e=nx-s1-5846941&p=510298&d=2992&size=47879777
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - Beyond the manosphere: Supporting boys and men in the real world Beyond the manosphere: Supporting boys and men in the real world",TED Radio Hour - Beyond the manosphere: Supporting boys and men in the real world Beyond the manosphere: Supporting boys and men in the real world
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4c767510-5eb9-469c-b57a-453af72271ac/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4c767510-5eb9-469c-b57a-453af72271ac&feed=gGUt_fS1&t=podcast&e=nx-s1-5837553&p=510298&d=3056&size=48908374
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - What we'll eat on a warmer planet What we'll eat on a warmer planet",TED Radio Hour - What we'll eat on a warmer planet What we'll eat on a warmer planet
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/c5937797-c689-4513-9804-6edcbf14ff60/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=c5937797-c689-4513-9804-6edcbf14ff60&feed=gGUt_fS1&t=podcast&e=nx-s1-5829898&p=510298&d=2992&size=47873925
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - How to feel alive in an exhausting world How to feel alive in an exhausting world",TED Radio Hour - How to feel alive in an exhausting world How to feel alive in an exhausting world
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/6b7f9e76-bf8a-4962-af39-e2674e381bb1/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=6b7f9e76-bf8a-4962-af39-e2674e381bb1&feed=gGUt_fS1&t=podcast&e=nx-s1-5821626&p=510298&d=2995&size=47932440
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - How to mend a broken heart How to mend a broken heart",TED Radio Hour - How to mend a broken heart How to mend a broken heart
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/94870ed3-3aa0-4472-9515-35c86000f590/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=94870ed3-3aa0-4472-9515-35c86000f590&feed=gGUt_fS1&t=podcast&e=nx-s1-5815015&p=510298&d=2987&size=47802454
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - How to be a "Super Ager" (it's not your genes) How to be a "Super Ager" (it's not your genes)",TED Radio Hour - How to be a "Super Ager" (it's not your genes) How to be a "Super Ager" (it's not your genes)
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/66dce0b2-a3d9-4c5e-8113-b783d26ec832/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=66dce0b2-a3d9-4c5e-8113-b783d26ec832&feed=gGUt_fS1&t=podcast&e=nx-s1-5805979&p=510298&d=2992&size=47883538
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - Can we preserve knowledge … forever? Can we preserve knowledge … forever?",TED Radio Hour - Can we preserve knowledge … forever? Can we preserve knowledge … forever?
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/e42a09e0-d4af-4e8c-97e6-8a9a960dd208/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=e42a09e0-d4af-4e8c-97e6-8a9a960dd208&feed=gGUt_fS1&t=podcast&e=nx-s1-5797776&p=510298&d=2976&size=47631091
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - Using ancient philosophy to cope with your modern problems Using ancient philosophy to cope with your modern problems",TED Radio Hour - Using ancient philosophy to cope with your modern problems Using ancient philosophy to cope with your modern problems
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/0b17fe96-e550-414b-b9bb-95029eafbe3f/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=0b17fe96-e550-414b-b9bb-95029eafbe3f&feed=gGUt_fS1&t=podcast&e=nx-s1-5786531&p=510298&d=2997&size=47958771
+#EXTINF:-1 tvg-logo=" https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg" group-title="Dizi" tvg-name="TED Radio Hour - The hidden forces shaping your choices The hidden forces shaping your choices",TED Radio Hour - The hidden forces shaping your choices The hidden forces shaping your choices
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/300984cb-a703-4580-ae03-491443323c2c/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=300984cb-a703-4580-ae03-491443323c2c&feed=gGUt_fS1&t=podcast&e=nx-s1-5778554&p=510298&d=2991&size=47872671
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #497 – Biggest Mysteries in Physics: Antimatter  Dark Energy & ToE – Don Lincoln",Lex Fridman Podcast - #497 – Biggest Mysteries in Physics: Antimatter  Dark Energy & ToE – Don Lincoln
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #496 – FFmpeg: The Incredible Technology Behind Video on the Internet",Lex Fridman Podcast - #496 – FFmpeg: The Incredible Technology Behind Video on the Internet
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #495 – Vikings  Ragnar  Berserkers  Valhalla & the Warriors of the Viking Age",Lex Fridman Podcast - #495 – Vikings  Ragnar  Berserkers  Valhalla & the Warriors of the Viking Age
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution",Lex Fridman Podcast - #494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #493 – Jeff Kaplan: World of Warcraft  Overwatch  Blizzard  and Future of Gaming",Lex Fridman Podcast - #493 – Jeff Kaplan: World of Warcraft  Overwatch  Blizzard  and Future of Gaming
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jeff_kaplan.mp3
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #492 – Rick Beato: Greatest Guitarists of All Time  History & Future of Music",Lex Fridman Podcast - #492 – Rick Beato: Greatest Guitarists of All Time  History & Future of Music
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_rick_beato.mp3
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger",Lex Fridman Podcast - #491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_peter_steinberger.mp3
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #490 – State of AI in 2026: LLMs  Coding  Scaling Laws  China  Agents  GPUs  AGI",Lex Fridman Podcast - #490 – State of AI in 2026: LLMs  Coding  Scaling Laws  China  Agents  GPUs  AGI
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ai_sota_2026.mp3
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #489 – Paul Rosolie: Uncontacted Tribes in the Amazon Jungle",Lex Fridman Podcast - #489 – Paul Rosolie: Uncontacted Tribes in the Amazon Jungle
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_paul_rosolie_3.mp3
+#EXTINF:-1 tvg-logo=" https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png" group-title="Dizi" tvg-name="Lex Fridman Podcast - #488 – Infinity  Paradoxes that Broke Mathematics  Gödel Incompleteness & the Multiverse – Joel David Hamkins",Lex Fridman Podcast - #488 – Infinity  Paradoxes that Broke Mathematics  Gödel Incompleteness & the Multiverse – Joel David Hamkins
+https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_joel_david_hamkins.mp3
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - Bob Metcalfe — The Man (and Lessons) Behind Ethernet  Metcalfe's Law  and More Bob Metcalfe — The Man (and Lessons) Behind Ethernet  Metcalfe's Law  and More",The Tim Ferriss Show - Bob Metcalfe — The Man (and Lessons) Behind Ethernet  Metcalfe's Law  and More Bob Metcalfe — The Man (and Lessons) Behind Ethernet  Metcalfe's Law  and More
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Bob_Metcalfe.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - How to Build Popular Podcasts and Blogs How to Build Popular Podcasts and Blogs",The Tim Ferriss Show - How to Build Popular Podcasts and Blogs How to Build Popular Podcasts and Blogs
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_How_to_Build_a_Successful_Podcast.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - Best Investments  Bad Advice to Avoid  and Other Life Lessons Best Investments  Bad Advice to Avoid  and Other Life Lessons",The Tim Ferriss Show - Best Investments  Bad Advice to Avoid  and Other Life Lessons Best Investments  Bad Advice to Avoid  and Other Life Lessons
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_Investments_Failure_and_Bad_Advice.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - Catherine Hoke — The Master of Second Chances Catherine Hoke — The Master of Second Chances",The Tim Ferriss Show - Catherine Hoke — The Master of Second Chances Catherine Hoke — The Master of Second Chances
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_Catherine_Hoke.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - How The Best Overcome Fear How The Best Overcome Fear",The Tim Ferriss Show - How The Best Overcome Fear How The Best Overcome Fear
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Fear.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - Gretchen Rubin — Experiments in Happiness and Creativity Gretchen Rubin — Experiments in Happiness and Creativity",The Tim Ferriss Show - Gretchen Rubin — Experiments in Happiness and Creativity Gretchen Rubin — Experiments in Happiness and Creativity
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Gretchen_Rubin.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - How to Handle Information Overwhelm (And Social Media) How to Handle Information Overwhelm (And Social Media)",The Tim Ferriss Show - How to Handle Information Overwhelm (And Social Media) How to Handle Information Overwhelm (And Social Media)
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_How_to_Handle_Information_Overwhelm.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - Lessons from Bozoma Saint John — From Spike Lee to Uber  From Ghana to Silicon Valley Lessons from Bozoma Saint John — From Spike Lee to Uber  From Ghana to Silicon Valley",The Tim Ferriss Show - Lessons from Bozoma Saint John — From Spike Lee to Uber  From Ghana to Silicon Valley Lessons from Bozoma Saint John — From Spike Lee to Uber  From Ghana to Silicon Valley
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_Bozoma_Saint_John.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - Terry Crews — How to Have  Do  and Be All You Want Terry Crews — How to Have  Do  and Be All You Want",The Tim Ferriss Show - Terry Crews — How to Have  Do  and Be All You Want Terry Crews — How to Have  Do  and Be All You Want
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Terry_Crews.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerrissShowArt1400x1400.jpg " group-title="Dizi" tvg-name="The Tim Ferriss Show - The Man Who Taught Me How to Invest The Man Who Taught Me How to Invest",The Tim Ferriss Show - The Man Who Taught Me How to Invest The Man Who Taught Me How to Invest
+https://traffic.libsyn.com/secure/timferriss/The_Tim_Ferriss_Show_-_Mike_Maples.mp3?dest-id=189939
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - The Battle Over A.I. in the Classroom The Battle Over A.I. in the Classroom",The Daily - The Battle Over A.I. in the Classroom The Battle Over A.I. in the Classroom
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f43a7c93-e992-44af-90aa-4a0d23988372/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f43a7c93-e992-44af-90aa-4a0d23988372&feed=54nAGcIl
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - A Gen Z Revolution at the Movies A Gen Z Revolution at the Movies",The Daily - A Gen Z Revolution at the Movies A Gen Z Revolution at the Movies
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fee8385e-9da7-4172-9bdc-d5785ec04b47/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fee8385e-9da7-4172-9bdc-d5785ec04b47&feed=54nAGcIl
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - Inside Trumpâ??s New Deal With Iran Inside Trumpâ??s New Deal With Iran",The Daily - Inside Trumpâ??s New Deal With Iran Inside Trumpâ??s New Deal With Iran
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f8b16eea-194f-4b67-8730-0ce5d907d9f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f8b16eea-194f-4b67-8730-0ce5d907d9f6&feed=54nAGcIl
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - Do Aliens Exist? Steven Spielberg Believes They Do Do Aliens Exist? Steven Spielberg Believes They Do",The Daily - Do Aliens Exist? Steven Spielberg Believes They Do Do Aliens Exist? Steven Spielberg Believes They Do
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7bd7b1ae-3c4e-47a9-b691-4fca4dd13fc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7bd7b1ae-3c4e-47a9-b691-4fca4dd13fc5&feed=54nAGcIl
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - Seth Rogen Knows the Secret to Marriage â?? and Being Rich in Hollywood Seth Rogen Knows the Secret to Marriage â?? and Being Rich in Hollywood",The Daily - Seth Rogen Knows the Secret to Marriage â?? and Being Rich in Hollywood Seth Rogen Knows the Secret to Marriage â?? and Being Rich in Hollywood
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/69b086da-5bff-4989-96bc-1732a3b0c08f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=69b086da-5bff-4989-96bc-1732a3b0c08f&feed=54nAGcIl
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - 1979: How the U.S. and Iran Went From Allies to Enemies 1979: How the U.S. and Iran Went From Allies to Enemies",The Daily - 1979: How the U.S. and Iran Went From Allies to Enemies 1979: How the U.S. and Iran Went From Allies to Enemies
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/520349f8-07f7-42f9-828c-741355415bff/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=520349f8-07f7-42f9-828c-741355415bff&feed=54nAGcIl
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - The Young Economic Populists Reshaping the Left The Young Economic Populists Reshaping the Left",The Daily - The Young Economic Populists Reshaping the Left The Young Economic Populists Reshaping the Left
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d06b2f9a-550d-4aea-bdd7-0b13cc9beaf5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d06b2f9a-550d-4aea-bdd7-0b13cc9beaf5&feed=54nAGcIl
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - The Iran War's Devastating Butterfly Effect The Iran War's Devastating Butterfly Effect",The Daily - The Iran War's Devastating Butterfly Effect The Iran War's Devastating Butterfly Effect
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5ad7d1c0-ef36-47ac-b0be-13d98cbe8393/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5ad7d1c0-ef36-47ac-b0be-13d98cbe8393&feed=54nAGcIl
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - Maine Votes as Graham Platnerâ??s Past Poses New Conundrums Maine Votes as Graham Platnerâ??s Past Poses New Conundrums",The Daily - Maine Votes as Graham Platnerâ??s Past Poses New Conundrums Maine Votes as Graham Platnerâ??s Past Poses New Conundrums
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/01c0d3e2-ee8b-4f6c-8032-e481f98941b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=01c0d3e2-ee8b-4f6c-8032-e481f98941b2&feed=54nAGcIl
+#EXTINF:-1 tvg-logo="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed " group-title="Dizi" tvg-name="The Daily - Congressional Republicans Try a New Approach: Telling Trump No Congressional Republicans Try a New Approach: Telling Trump No",The Daily - Congressional Republicans Try a New Approach: Telling Trump No Congressional Republicans Try a New Approach: Telling Trump No
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cf547749-cc27-4978-99f0-11bf2b5b063e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cf547749-cc27-4978-99f0-11bf2b5b063e&feed=54nAGcIl

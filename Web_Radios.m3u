@@ -1,0 +1,81 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT FM
+http://radio-trtfm.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT Radyo 1
+http://radio-trtradyo1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT Radyo 3
+http://radio-trtradyo3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT Turku
+http://radio-trtturku.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/dosyalar/images/2021/04/09/20210409_150821_4966601_large.jpg" group-title="Radyo",TRT Radyo Haber
+http://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://somafm.com/img/groovesalad120.png" group-title="Radyo",SomaFM Groove Salad
+https://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/lush120.png" group-title="Radyo",SomaFM Lush
+https://ice1.somafm.com/lush-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/spacestation120.png" group-title="Radyo",SomaFM Space Station Soma
+https://ice1.somafm.com/spacestation-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/dronezone120.png" group-title="Radyo",SomaFM Drone Zone
+https://ice1.somafm.com/dronezone-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/deepspaceone120.png" group-title="Radyo",SomaFM Deep Space One
+https://ice1.somafm.com/deepspaceone-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/secretagent120.png" group-title="Radyo",SomaFM Secret Agent
+https://ice1.somafm.com/secretagent-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/indiepop120.png" group-title="Radyo",SomaFM Indie Pop Rocks!
+https://ice1.somafm.com/indiepop-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/seventies120.png" group-title="Radyo",SomaFM Left Coast 70s
+https://ice1.somafm.com/seventies-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/beatblender120.png" group-title="Radyo",SomaFM Beat Blender
+https://ice1.somafm.com/beatblender-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/fluid120.png" group-title="Radyo",SomaFM Fluid
+https://ice1.somafm.com/fluid-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/suburbsofgoa120.png" group-title="Radyo",SomaFM Suburbs of Goa
+https://ice1.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/u80s120.png" group-title="Radyo",SomaFM Underground 80s
+https://ice1.somafm.com/u80s-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/cliqhop120.png" group-title="Radyo",SomaFM cliqhop idm
+https://ice1.somafm.com/cliqhop-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/dubstep120.png" group-title="Radyo",SomaFM Dub Step Beyond
+https://ice1.somafm.com/dubstep-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/thetrip120.png" group-title="Radyo",SomaFM The Trip
+https://ice1.somafm.com/thetrip-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/poptron120.png" group-title="Radyo",SomaFM PopTron
+https://ice1.somafm.com/poptron-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/bootliquor120.png" group-title="Radyo",SomaFM Boot Liquor
+https://ice1.somafm.com/bootliquor-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/digitalis120.png" group-title="Radyo",SomaFM Digitalis
+https://ice1.somafm.com/digitalis-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/vaporwaves120.png" group-title="Radyo",SomaFM Vaporwaves
+https://ice1.somafm.com/vaporwaves-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/covers120.png" group-title="Radyo",SomaFM Covers
+https://ice1.somafm.com/covers-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/missioncontrol120.png" group-title="Radyo",SomaFM Mission Control
+https://ice1.somafm.com/missioncontrol-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/sf1033120.png" group-title="Radyo",SomaFM SF 10-33
+https://ice1.somafm.com/sf1033-128-mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img/defcon120.png" group-title="Radyo",SomaFM DEF CON Radio
+https://ice1.somafm.com/defcon-128-mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/BBC_World_Service_logo_2022.svg" group-title="Radyo",BBC World Service
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BBC_Radio_1_logo_2021.svg" group-title="Radyo",BBC Radio 1
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BBC_Radio_2_logo_2022.svg" group-title="Radyo",BBC Radio 2
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BBC_Radio_3_logo_2022.svg" group-title="Radyo",BBC Radio 3
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Wqxr_logo.svg" group-title="Radyo",WQXR Classical (USA)
+https://stream.wqxr.org/wqxr
+#EXTINF:-1 tvg-logo="https://somafm.com/img/jazz_120.png" group-title="Radyo",USA)
+https://knkx-live-a.edge.audiocdn.com/6285_128k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Antenne_Bayern_logo.svg" group-title="Radyo",Antenne Bayern Chillout
+https://stream.antenne.de/chillout/stream/mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Radio_Swiss_Jazz.svg" group-title="Radyo",Swiss Jazz
+https://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Radio_Swiss_Classic.svg" group-title="Radyo",Swiss Classic
+https://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 tvg-logo="https://stream.srg-ssr.ch/m/rsp/mp3_128" group-title="Radyo",Swiss Pop
+https://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Rai_Radio_3_logo_%282010%29.svg" group-title="Radyo",Rai Radio 3 (Italy)
+http://icestreaming.rai.it/3.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/RFI_logo.svg" group-title="Radyo",RFI Monde (France)
+http://live02.rfi.fr/rfimonde-96k.mp3
