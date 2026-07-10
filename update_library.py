@@ -338,11 +338,13 @@ async def verify_iptv_channels(session):
             
     print(f"Testing {len(prioritized_candidates)} prioritized channels concurrently...")
     
-    # Concurrently test all candidates
-    verified_channels = []
+    # Concurrently test all candidates (except priorities, which are always kept!)
+    verified_channels = list(PRIORITIES)
     sem = asyncio.Semaphore(120)  # limit concurrency to 120 threads
     
     async def worker(candidate):
+        if candidate["url"] in [p["url"] for p in PRIORITIES]:
+            return
         async with sem:
             is_active = await test_stream(session, candidate["url"])
             if is_active:
