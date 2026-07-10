@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "Seven allegedly fake Chanel bags vs The RealReal",
+    "pub_date": "Fri, 10 Jul 2026 21:00:00 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "Once upon a time, if you wanted to buy a luxury brand item secondhand (say, a Chanel handbag) you had to have an in. There was no easy way to find one. But over the past decade, the market for secondhand luxury goods has exploded. There are now many online resellers where you can shop for used and discounted luxury items. One big problem — how c..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "Our mission: Find the world’s best economic ideas (Summer School World Tour)",
     "pub_date": "Wed, 08 Jul 2026 07:30:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535",
@@ -792,7 +801,7 @@
     "description": "Come along as we travel the world in search of the best economic ideas to bring home!From the beaches of Barbuda to the fjords of Norway, there's money (and money problems) everywhere. For this summer travel season, Planet Money Summer School will take you on a world tour for your ears. Pack that sense of wonder and nose for adventure, this is o..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "How to win a penalty shootout (with game theory)",
     "pub_date": "Fri, 03 Jul 2026 21:00:00 +0000",
@@ -801,7 +810,7 @@
     "description": "Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory.According to game theory, there’s an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics — that is, until ..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Can the Trump administration make college cheaper?",
     "pub_date": "Wed, 01 Jul 2026 07:00:00 +0000",
@@ -810,7 +819,7 @@
     "description": "Will limiting how much students can borrow force schools to lower their prices? The Department of Education thinks so. It has a new plan to bring down tuition costs. Starting today, July 1st, it’s going to cap how much it’s willing to loan to graduate students. You read that right. To reduce the burden of school…the plan is to give students less..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "We almost had a smartphone in the 90s. Why did it fail?",
     "pub_date": "Fri, 26 Jun 2026 21:30:00 +0000",
@@ -819,7 +828,7 @@
     "description": "In the early 90’s, a company called General Magic began working on a portable device that would allow people to check email, make phone calls, even play games. It was basically a smartphone. But it never caught on.On today’s show, a theory about why this device failed. General Magic had generous investors, world-class talent and creative freedom..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
     "pub_date": "Wed, 24 Jun 2026 07:00:00 +0000",
@@ -828,7 +837,7 @@
     "description": "Prediction markets aren’t new. Election betting was common until the 1940s, then mysteriously faded away.There was an entire political era when party bosses were expected to conspicuously gamble on their candidates (even if they secretly hedged).And in the 1980s, a few economists designed an election market that beat out election polling 74 perc..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "The real horror of ‘Alien’ and how it explains why we’re not paid enough",
     "pub_date": "Fri, 19 Jun 2026 21:30:00 +0000",
@@ -837,7 +846,7 @@
     "description": "Maybe the real monster in the Alien franchise isn’t actually the killer alien. Because behind the acid blood and jump scares is an even more insidious horror: a single employer with unchecked power. That employer is named Weyland-Yutani, a mega-corporation that dominates workers across the galaxy.Weyland-Yutani is a sort of extreme example of wh..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Can computer hackers get inside your mind?",
     "pub_date": "Wed, 17 Jun 2026 07:00:00 +0000",
@@ -846,7 +855,7 @@
     "description": "The cyber weapon that might have prevented nuclear war.The U.S. and Israel have long been in conflict with Iran over their nuclear development program. Some of that conflict has been out in the open, with bombs and blockades, but some of it has been invisible. Recently some security researchers discovered a cyberweapon likely tied to that invisi..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "It’s my tree. Why can’t I cut it down?",
     "pub_date": "Fri, 12 Jun 2026 22:00:00 +0000",
@@ -855,22 +864,13 @@
     "description": "Can the government stop you from cutting down your own tree? In many towns and cities these days, removing a tree now requires a permit. You might have to pay a fee, or promise to plant replacement trees. But sometimes, the city won't let you cut down the tree at all, even a tree in your own backyard.That's because trees are important for air qu..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "Two indicators for lowering the rent",
     "pub_date": "Wed, 10 Jun 2026 07:15:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "One specific type of affordable housing used to be popular in American cities, kept rents low, then nearly vanished. Is it time to reconsider boarding houses and single room occupancy units? If they lowered rents in cities, why did they go away? We have the history.Then, let’s talk about corporate landlords. They’re blamed for driving up rents. ..."
-  },
-  {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Why is there a supplement craze if they don’t even work?",
-    "pub_date": "Fri, 05 Jun 2026 21:00:00 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "One reason the $70 billion supplement industry is set to double in the next seven years? Lax regulation.On today's show, we tell the story of a century-long battle between the U.S. government and … you, the people, blinded by your love of a magic pill.We’re talking about protein powders, pre-workouts, creatine, stuff for gut health, joint health..."
   },
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
