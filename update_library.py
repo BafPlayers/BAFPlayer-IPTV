@@ -402,7 +402,7 @@ def generate_playlists(verified_channels, web_radios, movies_catalog, cartoons_c
     # 1. IPTV Channels M3U
     tv_m3u_content = "#EXTM3U\r\n"
     for c in verified_channels:
-        tv_m3u_content += f'#EXTINF:-1 tvg-logo="{c["logo"]}" group-title="Canlı TV - {c["country"]}",{c["name"]}\r\n'
+        tv_m3u_content += f'#EXTINF:-1 tvg-logo="{c["logo"]}" group-title="Live TV - {c["country"]}",{c["name"]}\r\n'
         tv_m3u_content += f'{c["url"]}\r\n'
     with open(tv_m3u_file, 'w', encoding='utf-8') as f:
         f.write(tv_m3u_content)
@@ -450,7 +450,7 @@ def generate_playlists(verified_channels, web_radios, movies_catalog, cartoons_c
         
         tvg_name = f"{series_name} S01-E{ep_num:02d}"
         display_name = f"{series_name} S01-E{ep_num:02d} - {c['title']}"
-        series_m3u_content += f'#EXTINF:-1 tvg-logo="{c["poster_url"]}" user-agent="okhttp/4.10.0" group-title="Dizi" tvg-name="{tvg_name}",{display_name}\r\n'
+        series_m3u_content += f'#EXTINF:-1 tvg-logo="{c["poster_url"]}" user-agent="okhttp/4.10.0" group-title="Series" tvg-name="{tvg_name}",{display_name}\r\n'
         series_m3u_content += f'{c["stream_url"]}\r\n'
         
     podcast_counts = {}
@@ -462,7 +462,7 @@ def generate_playlists(verified_channels, web_radios, movies_catalog, cartoons_c
         ep_title = p['episode_title'].replace(",", " ")
         tvg_name = f"{show} S01-E{ep_num:02d}"
         display_name = f"{show} S01-E{ep_num:02d} - {ep_title}"
-        series_m3u_content += f'#EXTINF:-1 tvg-logo="{p["logo_url"]}" user-agent="okhttp/4.10.0" group-title="Dizi" tvg-name="{tvg_name}",{display_name}\r\n'
+        series_m3u_content += f'#EXTINF:-1 tvg-logo="{p["logo_url"]}" user-agent="okhttp/4.10.0" group-title="Series" tvg-name="{tvg_name}",{display_name}\r\n'
         series_m3u_content += f'{p["stream_url"]}\r\n'
         
     with open(series_m3u_file, 'w', encoding='utf-8') as f:
@@ -472,7 +472,7 @@ def generate_playlists(verified_channels, web_radios, movies_catalog, cartoons_c
     master_m3u_content = "#EXTM3U\r\n"
     # A. Channels
     for c in verified_channels:
-        master_m3u_content += f'#EXTINF:-1 tvg-logo="{c["logo"]}" group-title="Canlı TV - {c["country"]}",{c["name"]}\r\n'
+        master_m3u_content += f'#EXTINF:-1 tvg-logo="{c["logo"]}" group-title="Live TV - {c["country"]}",{c["name"]}\r\n'
         master_m3u_content += f'{c["url"]}\r\n'
     # B. Radios
     for r in web_radios:
@@ -504,7 +504,7 @@ def generate_playlists(verified_channels, web_radios, movies_catalog, cartoons_c
         
         tvg_name = f"{series_name} S01-E{ep_num:02d}"
         display_name = f"{series_name} S01-E{ep_num:02d} - {c['title']}"
-        master_m3u_content += f'#EXTINF:-1 tvg-logo="{c["poster_url"]}" user-agent="okhttp/4.10.0" group-title="Dizi" tvg-name="{tvg_name}",{display_name}\r\n'
+        master_m3u_content += f'#EXTINF:-1 tvg-logo="{c["poster_url"]}" user-agent="okhttp/4.10.0" group-title="Series" tvg-name="{tvg_name}",{display_name}\r\n'
         master_m3u_content += f'{c["stream_url"]}\r\n'
         
     podcast_counts_master = {}
@@ -516,7 +516,7 @@ def generate_playlists(verified_channels, web_radios, movies_catalog, cartoons_c
         ep_title = p['episode_title'].replace(",", " ")
         tvg_name = f"{show} S01-E{ep_num:02d}"
         display_name = f"{show} S01-E{ep_num:02d} - {ep_title}"
-        master_m3u_content += f'#EXTINF:-1 tvg-logo="{p["logo_url"]}" user-agent="okhttp/4.10.0" group-title="Dizi" tvg-name="{tvg_name}",{display_name}\r\n'
+        master_m3u_content += f'#EXTINF:-1 tvg-logo="{p["logo_url"]}" user-agent="okhttp/4.10.0" group-title="Series" tvg-name="{tvg_name}",{display_name}\r\n'
         master_m3u_content += f'{p["stream_url"]}\r\n'
         
     with open(master_m3u_file, 'w', encoding='utf-8') as f:
