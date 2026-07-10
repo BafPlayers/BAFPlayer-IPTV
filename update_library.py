@@ -99,7 +99,7 @@ async def test_stream(session, url):
     """Asynchronously check if HLS stream is active using HEAD or GET."""
     try:
         async with session.head(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=1.2) as response:
-            if response.status in [200, 206]:
+            if response.status in [200, 206, 403, 451]:
                 return True
     except asyncio.TimeoutError:
         # Treat connection timeouts as OK as long as no 404/500 was hit
@@ -108,7 +108,7 @@ async def test_stream(session, url):
         # Fallback to GET for servers that block HEAD requests
         try:
             async with session.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=1.2) as response:
-                if response.status in [200, 206]:
+                if response.status in [200, 206, 403, 451]:
                     return True
         except Exception:
             pass
