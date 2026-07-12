@@ -145,12 +145,6 @@ Description: Astronomy Cast Ep. 799: Heavy Lift Rockets By Fraser Cain & Dr. Pam
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260629.mp3?dest-id=11189
 Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
 ----------------------------------------
-Episode Title: Ep. 798: Our Summer Media List
-Published Date: Mon, 22 Jun 2026 20:00:00 +0000
-Description: Astronomy Cast Ep. 798: Our Summer Media List By Fraser Cain & Dr. Pamela Gay Streamed live on Jun 15, 2026. Well, we're just a couple of weeks away from summer hiatus and so it's time to give you some homework. Here's our list of stuff we've been reading watching and playing. This should fill the Astronomy-Cast-shaped hole in your media landsca...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260622.mp3?dest-id=11189
-Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
-----------------------------------------
 Episode Title: Ep. 797: Summer in Space
 Published Date: Mon, 15 Jun 2026 20:00:00 +0000
 Description: Astronomy Cast Ep. 797: Summer in Space By Fraser Cain & Dr. Pamela Gay Streamed live June 10, 2026. We're about to take a much needed 2 month hiatus. But just because we're not here doesn't mean space stops existing and doing things. Today, let's give a preview of the big events due to happen in space this summer so you can prepare yourself and...
@@ -187,16 +181,22 @@ Description: Astronomy Cast Ep. 792: Star Wars Science By Fraser Cain & Dr. Pame
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260504.mp3?dest-id=11189
 Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
 ----------------------------------------
-Episode Title: Ep. 791: Chang'e Sample Return
-Published Date: Mon, 27 Apr 2026 20:00:00 +0000
-Description: Astronomy Cast Ep. 791: Chang'e Sample Return By Fraser Cain & Dr. Pamela Gay Streamed live on Apr 20, 2026. Last week we talked about samples from other worlds delivered to Earth by meteorites. But sometimes you've gotta do the job yourself. Visit the far off place and bring the samples home. And today we're gonna talk about China's Chang'e sam...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260427.mp3?dest-id=11189
+Episode Title: Ep. 781: Awakening Black Holes
+Published Date: Mon, 09 Feb 2026 21:00:00 +0000
+Description: Astronomy Cast Ep. 781: Awakening Black Holes By Fraser Cain & Dr. Pamela Gay Streamed live on Feb 2, 2026. One long standing mystery in astronomy were the quasars. Incomprehensible energy blasting out of a point-like source, billions of light years away. We now know these are actively feeding supermassive black holes, which can turn off and on ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260209.mp3?dest-id=11189
 Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
 ----------------------------------------
-Episode Title: Ep. 790: Meteorites From Other Worlds
-Published Date: Mon, 20 Apr 2026 20:00:00 +0000
-Description: Astronomy Cast Ep. 790: Meteorites From Other Worlds By Fraser Cain & Dr. Pamela Gay Streamed live April 17, 2026. Even though humanity has returned samples from a fraction of the worlds in the solar system, the cosmos has delivered many more without us having to lift a finger. Meteorites. We have meteorites from the Moon, Vesta and even Mars! W...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260420.mp3?dest-id=11189
+Episode Title: Ep. 780: When Asteroids & Comets Attack!
+Published Date: Mon, 02 Feb 2026 21:00:00 +0000
+Description: Astronomy Cast Ep. 780: When Asteroids & Comets Attack! By Fraser Cain & Dr. Pamela Gay Streamed live on Jan 26, 2026. We live in a cosmic shooting gallery. It's not a matter of "if" but "when"! Dinosaurs, blah, blah, blah. You know the drill. But seriously, folks, it's raining rocks & ice out there! How seriously should we take it? What happens...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260202.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 779: Milankovitch Cycles
+Published Date: Mon, 19 Jan 2026 21:00:00 +0000
+Description: Astronomy Cast Ep. 779: Milankovitch Cycles By Fraser Cain & Dr. Pamela Gay Streamed live on Jan 12, 2026. Humans live short lives, and from our perspective the seasons are something that come and go with perfect regularity. But astronomers know the terrible truth! And that there are cycles that slowly shift over tens of thousands of years, shif...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260119.mp3?dest-id=11189
 Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
 
 ========================================================================
@@ -915,6 +915,18 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Mick Jagger Knows He May Have Played His Last Rolling Stones Show
+Published Date: Sat, 11 Jul 2026 10:00:00 +0000
+Description: The legendary rock star, now 82, on how fame, touring and aging have changed him.
+
+ Thoughts? Email us at theinterview@nytimes.com
+ Watch our show on YouTube: youtube.com/@TheInterviewPodcast
+ For transcripts and more, visit: nytimes.com/theinterview
+
+Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscrib...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ba65ffcf-6ca9-45e8-b506-ef068bfd5246/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ba65ffcf-6ca9-45e8-b506-ef068bfd5246&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Cuba Under Siege
 Published Date: Fri, 10 Jul 2026 09:53:47 +0000
 Description: In January, after the capture of President Nicolás Maduro of Venezuela, the Trump administration turned its attention to Cuba. In the months since, the White House has used every tool at its disposal to unseat the Communist government.
@@ -982,11 +994,4 @@ Description: As the cost of higher education has soared in recent decades, unive
 Now, the Trump administration is taking those questions to the next level with a set of policies that scales back the federal government’s student loan program.
 Ron Lieber, who writes about personal finan...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/75b3c60b-9308-4ddf-bbd1-5398dafeab86/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=75b3c60b-9308-4ddf-bbd1-5398dafeab86&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Supreme Court Expands Presidential Power. Again.
-Published Date: Tue, 30 Jun 2026 09:45:00 +0000
-Description: The Supreme Court on Monday delivered one of the biggest changes in decades to how the federal government works when it ruled that President Trump could fire independent government regulators. Then, it announced an exception to its own ruling.
-Ann E. Marimow, who covers the Supreme Court for The New York Times, explains what the court was up to....
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f89e0cc1-0804-4983-a2b3-b6c1a385331c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f89e0cc1-0804-4983-a2b3-b6c1a385331c&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
