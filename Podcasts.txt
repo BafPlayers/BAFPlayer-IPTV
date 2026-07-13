@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: How should we decide who, or what, is conscious?
+Published Date: Mon, 13 Jul 2026 07:00:00 +0000
+Description: In the age of AI, what differentiates humans from robots? What makes humans … human? To find answers, many people are studying consciousness: our capacity for experience. But doctors and researchers still have a long way to go when it comes to finding new ways to detect consciousness in humans — much less computer software. That gets especially ...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/818fb6dd-c830-4096-ad1d-6f3d9d9cb29c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=818fb6dd-c830-4096-ad1d-6f3d9d9cb29c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5812660&p=510351&d=786&size=12581870
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Plot twist: We're probably way undercounting insects on Earth
 Published Date: Fri, 10 Jul 2026 07:00:00 +0000
 Description: Maybe you’ve wondered about it late at night as a mosquito buzzes in your ear. Or when you kick over a rock and watch dozens of little critters crawl away: How many types of insects are there in the world? Scientists have been interested in answering this question for years. A new study — based on a census of tiny and, frankly terrifying, parasi...
@@ -255,12 +261,6 @@ Episode Title: Salty Clouds aren’t the only strange thing about this object in
 Published Date: Fri, 26 Jun 2026 07:00:00 +0000
 Description: There’s an object in space 25 times the size of Jupiter that’s stumped scientists for years. They haven’t been able to figure out if it’s a planet or a failed star. But scientists are one step closer to an answer thanks to the powerful James Webb Space Telescope. After analyzing data collected by the telescope, astronomers have uncovered unexpec...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/eab19d4a-fed0-4123-bf84-fd26174dd5b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=eab19d4a-fed0-4123-bf84-fd26174dd5b3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5871273&p=510351&d=569&size=9117406
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Did Trump's foreign aid cuts fuel the Ebola outbreak?
-Published Date: Wed, 24 Jun 2026 07:00:00 +0000
-Description: The Ebola outbreak in the Democratic Republic of Congo is growing – and is likely larger than official numbers show. The deadly disease spreads through bodily fluids, on average killing half the people it infects. And while officially declared in May, the case numbers point to the virus circulating for months without being detected. To make matt...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/79af362f-e4e1-417b-b182-0d8bdccec005/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=79af362f-e4e1-417b-b182-0d8bdccec005&feed=F0qJcgXZ&t=podcast&e=nx-s1-5866497&p=510351&d=641&size=10271808
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -459,6 +459,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Lore 310: Thunderstruck
+Published Date: Mon, 13 Jul 2026 05:01:00 +0000
+Description: While most folklore has a thrilling quality to it, there are some tales that are a bit more shocking. Just be careful where you stand while we explore them. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhum...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore310d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: EXHUMED Ch. 7: Leftovers
 Published Date: Wed, 08 Jul 2026 05:01:00 +0000
 Description: Although my new history book, EXHUMED, arrives on August 6th, you get to hear a whole chapter early! Enjoy this delicious sample from EXHUMED, and be sure to lock in your copy today—whether that's the hardcover, ebook, or audiobook version. Learn more and preorder your copy here: www.aaronmahnke.com/exhumed ——————————————————————————— ©2026 Aaro...
@@ -511,12 +517,6 @@ Episode Title: Deeper Lore: 307 (37, 79, & 215)
 Published Date: Thu, 04 Jun 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (Lore 307: Revisiting "Mary, Mary") with these three recommendations from further back in the Lore catalog:  Episode 37: LorePodcast.com/episodes/37 Episode 79: LorePodcast.com/episodes/79 Episode 215: LorePodcast.com/episodes/215  ———————— Lore Resources:   Episode Music: lorepodcast....
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-307.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore 307: Revisiting "Mary, Mary"
-Published Date: Mon, 01 Jun 2026 05:01:00 +0000
-Description: This week, as summer weaves its way into our lives, the Lore team is taking a well-deserved break. To make that possible, we're reissuing a fan favorite from nearly a decade ago: Episode 50: Mary, Mary. Researched, written, and produced by Aaron Mahnke, with music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ———————...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore307d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -633,6 +633,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
+Published Date: Mon, 13 Jul 2026 07:10:00 -0000
+Description: Tom Rinks got his start in the commission-only "shark tank" of midwestern furniture sales. That’s where he learned what makes customers buy. Decades later, those instincts helped him grow a joke of a side hustle into a $400 million success.In 2009, he created the iconic branding for an obscure sun tan lotion, drawing on a mish-mash of surf cultu...
+Audio Stream URL: https://rss.art19.com/episodes/77ab41eb-99a8-4dd2-ae39-d066818afc21.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
 Published Date: Thu, 09 Jul 2026 07:10:00 -0000
 Description: Jeni’s Splendid Ice Creams founder Jeni Britton joins Guy on the Advice Line to answer questions from three early-stage entrepreneurs. Plus, how Jeni’s newest venture Floura is tackling one of America’s largest dietary needs—fiber. First, we meet Jesse in Washington, D.C., who’s wondering how to best focus marketing efforts for his frozen french...
@@ -685,12 +691,6 @@ Episode Title: Advice Line with Christina Tosi of Milk Bar
 Published Date: Thu, 11 Jun 2026 07:10:00 -0000
 Description: Today’s callers: Whitney in Utah  wonders how to bridge the gap between pre-seed and institutional investment for her fitness/retail combo space. Then Chloe in the U.K. considers which markets to target for her at-home crafting kits. And Christy in Washington wants to convert gifters into repeat customers for her coffee flavoring brand.Plus, Chr...
 Audio Stream URL: https://rss.art19.com/episodes/fd7f2406-fda8-4c1d-936c-d20210215f96.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)
-Published Date: Mon, 08 Jun 2026 07:10:00 -0000
-Description: In 2004, German programmer Tobias Lütke was living in Ottawa with his girlfriend.An avid snowboarder, he wanted to launch an online snowboard shop, but found the e-commerce software available at the time to be clunky and expensive.So he decided to write his own e-commerce software.After he launched his online snowboard business, called Snowdevil...
-Audio Stream URL: https://rss.art19.com/episodes/d0b07b6a-125e-4896-babd-678d19957306.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -915,6 +915,20 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Why Are Grocery Store Prices So High
+Published Date: Mon, 13 Jul 2026 09:52:34 +0000
+Description: According to the Economic Research Service at the Department of Agriculture, prices across all food categories are expected to rise 3.2 percent in 2026.
+Today, Jessica Cheung, a senior audio producer for “The Daily,” talks with the general manger of a food co-op in Pittsburgh about how the store is being affected by the quickly increasing costs....
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ffffa11e-9d71-44b2-83f2-1d2c012ae056/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ffffa11e-9d71-44b2-83f2-1d2c012ae056&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: What’s Epic About the ‘Odyssey’? Everything.
+Published Date: Sun, 12 Jul 2026 10:00:00 +0000
+Description: This Friday, “The Odyssey,” directed by Christopher Nolan, hits theaters. Even before the movie’s release, though, it’s proving to be a cultural event. Spirited discussions of Nolan’s cinematic interpretation of the epic poem already abound online, and they are likely to intensify after the public sees the film.
+Why does a 12,000-line poem that ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3858e1bf-c330-4894-97b2-4ff0276127df/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3858e1bf-c330-4894-97b2-4ff0276127df&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Mick Jagger Knows He May Have Played His Last Rolling Stones Show
 Published Date: Sat, 11 Jul 2026 10:00:00 +0000
 Description: The legendary rock star, now 82, on how fame, touring and aging have changed him.
@@ -979,19 +993,4 @@ Published Date: Fri, 3 Jul 2026 09:45:00 +0000
 Description: Two hundred and fifty years ago, the founding fathers gave rise to a new nation. They also gave rise to an enduring myth about their virtue and what that meant about America’s virtue as a country.
 Jia Lynn Yang, a New York Times journalist, discusses how the founding myth has evolved, why we are still fighting about it and why it may hold the ke...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e274da91-0503-4ec3-bf5b-582f3d51a8a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e274da91-0503-4ec3-bf5b-582f3d51a8a6&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Fallout of Massive Earthquakes for Venezuela — and the U.S.
-Published Date: Thu, 2 Jul 2026 09:45:00 +0000
-Description: The rare doublet earthquake in Venezuela was one of the most powerful tectonic events to strike the country in the past century, and the death toll was virtually certain to rise as rescuers began to reach hard-hit areas and remote hillside towns.
-Carlos Prieto, a producer on “The Daily,” speaks to Venezuelans about how they’ve united after the d...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/808197c7-159e-4c30-a496-de85563e9a70/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=808197c7-159e-4c30-a496-de85563e9a70&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Why Americans Will Get Less Help Paying for College
-Published Date: Wed, 1 Jul 2026 09:45:00 +0000
-Description: As the cost of higher education has soared in recent decades, universities have attracted more scrutiny about the value of a four-year degree.
-Now, the Trump administration is taking those questions to the next level with a set of policies that scales back the federal government’s student loan program.
-Ron Lieber, who writes about personal finan...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/75b3c60b-9308-4ddf-bbd1-5398dafeab86/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=75b3c60b-9308-4ddf-bbd1-5398dafeab86&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
