@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: What's this super-aging butterfly’s longevity secret?
+Published Date: Tue, 14 Jul 2026 07:00:00 +0000
+Description: What if there were a great ape species that could live over 1,000 years? That’s basically Heliconius in the butterfly world. The insects live around 25 times longer than their butterfly cousins, and scientists think they have one clue as to why: pollen. But as Katie Wu, a science writer at The Atlantic, explains, that’s not the whole story. She ...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879494&p=510351&d=798&size=12782072
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How should we decide who, or what, is conscious?
 Published Date: Mon, 13 Jul 2026 07:00:00 +0000
 Description: In the age of AI, what differentiates humans from robots? What makes humans … human? To find answers, many people are studying consciousness: our capacity for experience. But doctors and researchers still have a long way to go when it comes to finding new ways to detect consciousness in humans — much less computer software. That gets especially ...
@@ -255,12 +261,6 @@ Episode Title: Is working from home actually good for you?
 Published Date: Mon, 29 Jun 2026 07:00:00 +0000
 Description: For many, being able to work from home is a boon: saving time on your commute, working in your sweatpants, throwing in a load of laundry before a meeting. People say it makes them happier. But a new study suggests that, despite all the advantages, working from home isn’t creating a happier workforce. It’s making people more socially isolated. We...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/89bd6459-f131-4b2a-8253-49c38620516f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=89bd6459-f131-4b2a-8253-49c38620516f&feed=F0qJcgXZ&t=podcast&e=nx-s1-5855413&p=510351&d=826&size=13222601
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Salty Clouds aren’t the only strange thing about this object in space
-Published Date: Fri, 26 Jun 2026 07:00:00 +0000
-Description: There’s an object in space 25 times the size of Jupiter that’s stumped scientists for years. They haven’t been able to figure out if it’s a planet or a failed star. But scientists are one step closer to an answer thanks to the powerful James Webb Space Telescope. After analyzing data collected by the telescope, astronomers have uncovered unexpec...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/eab19d4a-fed0-4123-bf84-fd26174dd5b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=eab19d4a-fed0-4123-bf84-fd26174dd5b3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5871273&p=510351&d=569&size=9117406
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -918,7 +918,7 @@ SHOW: The Daily
 Episode Title: Why Are Grocery Store Prices So High
 Published Date: Mon, 13 Jul 2026 09:52:34 +0000
 Description: According to the Economic Research Service at the Department of Agriculture, prices across all food categories are expected to rise 3.2 percent in 2026.
-Today, Jessica Cheung, a senior audio producer for “The Daily,” talks with the general manger of a food co-op in Pittsburgh about how the store is being affected by the quickly increasing costs....
+Today, Jessica Cheung, a senior audio producer for “The Daily,” talks with the general manager of a food co-op in Pittsburgh about how the store is being affected by the quickly increasing costs...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ffffa11e-9d71-44b2-83f2-1d2c012ae056/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ffffa11e-9d71-44b2-83f2-1d2c012ae056&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
 ----------------------------------------

@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "What's this super-aging butterfly’s longevity secret?",
+    "pub_date": "Tue, 14 Jul 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879494&p=510351&d=798&size=12782072",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "What if there were a great ape species that could live over 1,000 years? That’s basically Heliconius in the butterfly world. The insects live around 25 times longer than their butterfly cousins, and scientists think they have one clue as to why: pollen. But as Katie Wu, a science writer at The Atlantic, explains, that’s not the whole story. She ..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "How should we decide who, or what, is conscious?",
     "pub_date": "Mon, 13 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/818fb6dd-c830-4096-ad1d-6f3d9d9cb29c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=818fb6dd-c830-4096-ad1d-6f3d9d9cb29c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5812660&p=510351&d=786&size=12581870",
@@ -279,7 +288,7 @@
     "description": "In the age of AI, what differentiates humans from robots? What makes humans … human? To find answers, many people are studying consciousness: our capacity for experience. But doctors and researchers still have a long way to go when it comes to finding new ways to detect consciousness in humans — much less computer software. That gets especially ..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "Plot twist: We're probably way undercounting insects on Earth",
     "pub_date": "Fri, 10 Jul 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Maybe you’ve wondered about it late at night as a mosquito buzzes in your ear. Or when you kick over a rock and watch dozens of little critters crawl away: How many types of insects are there in the world? Scientists have been interested in answering this question for years. A new study — based on a census of tiny and, frankly terrifying, parasi..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "NASA's race against time to rescue a falling satellite",
     "pub_date": "Wed, 08 Jul 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "A valuable NASA satellite observatory is falling to Earth faster than scientists expected. It’s called the Neil Gehrels Swift Observatory, or “Swift” for short, and it can respond to celestial events much faster than its sky-gazing counterparts. To save Swift and test out a first-of-its-kind technology, NASA partnered with an Arizona-based start..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "Could this anti-aging dog pill lead to one for you too?",
     "pub_date": "Tue, 07 Jul 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Every dog lover’s greatest fear is inevitably losing their pet to time. We want our furry pals to stick around as long as they can. That wish may soon become reality with a new pill from a company called Loyal. It aims to extend the lives–and health–of dogs. This new drug also serves as a pitstop on a much bigger quest: to eventually lengthen hu..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Sky Uber? Air taxis could be here soon",
     "pub_date": "Mon, 06 Jul 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Taking an air taxi to the airport may become as simple as ordering a ride share today. In our first episode in our summer series Tech Camp, we explore how a futuristic vehicle that transforms from helicopter to propeller plane is already taking flight in New York and San Francisco. This new kind of commuting might be here sooner than you think: ..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "This July 4th, are you a thrill- or chill-seeker?",
     "pub_date": "Fri, 03 Jul 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "Independence Day is approaching!Imagine if someone has procured illegal fireworks from a couple of states over. Are you:1. first in line to light them?2. content to watch while others set them off?3. going to find a fire extinguisher — just in case — while loudly condemning the activity?Ken Carter, a psychologist at Oxford College of Emory Unive..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Is setting your trash on fire a good idea?",
     "pub_date": "Wed, 01 Jul 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "The U.S. generates 292 million tons of trash each year – and that trash has to go somewhere.  Sometimes, that’s to an incinerator, where it’s burned and turned into electricity. Proponents of incineration applaud the ability to generate energy from waste and divert garbage from landfills. Opponents worry about the potential health risks, especia..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "Ticks are a growing problem, no matter where you live",
     "pub_date": "Tue, 30 Jun 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly 50 species of ticks in the United States. Historicall..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "Is working from home actually good for you?",
     "pub_date": "Mon, 29 Jun 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/89bd6459-f131-4b2a-8253-49c38620516f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=89bd6459-f131-4b2a-8253-49c38620516f&feed=F0qJcgXZ&t=podcast&e=nx-s1-5855413&p=510351&d=826&size=13222601",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "For many, being able to work from home is a boon: saving time on your commute, working in your sweatpants, throwing in a load of laundry before a meeting. People say it makes them happier. But a new study suggests that, despite all the advantages, working from home isn’t creating a happier workforce. It’s making people more socially isolated. We..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "Salty Clouds aren’t the only strange thing about this object in space",
-    "pub_date": "Fri, 26 Jun 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/eab19d4a-fed0-4123-bf84-fd26174dd5b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=eab19d4a-fed0-4123-bf84-fd26174dd5b3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5871273&p=510351&d=569&size=9117406",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "There’s an object in space 25 times the size of Jupiter that’s stumped scientists for years. They haven’t been able to figure out if it’s a planet or a failed star. But scientists are one step closer to an answer thanks to the powerful James Webb Space Telescope. After analyzing data collected by the telescope, astronomers have uncovered unexpec..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -1239,7 +1239,7 @@
     "pub_date": "Mon, 13 Jul 2026 09:52:34 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ffffa11e-9d71-44b2-83f2-1d2c012ae056/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ffffa11e-9d71-44b2-83f2-1d2c012ae056&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "According to the Economic Research Service at the Department of Agriculture, prices across all food categories are expected to rise 3.2 percent in 2026.\nToday, Jessica Cheung, a senior audio producer for “The Daily,” talks with the general manger of a food co-op in Pittsburgh about how the store is being affected by the quickly increasing costs...."
+    "description": "According to the Economic Research Service at the Department of Agriculture, prices across all food categories are expected to rise 3.2 percent in 2026.\nToday, Jessica Cheung, a senior audio producer for “The Daily,” talks with the general manager of a food co-op in Pittsburgh about how the store is being affected by the quickly increasing costs..."
   },
   {
     "id": "the-daily--nyt--ep-2",
