@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Our favorite brains, including Einstein's stolen one
+Published Date: Wed, 15 Jul 2026 07:00:00 +0000
+Description: At Short Wave, we love a good brain. Which is why we’ve had a lot of conversations over the years with NPR’s neuroscience reporter, Jon Hamilton. Jon’s been writing about brains for over 15 years, from tiny brain organoids that grow in a dish, to fruit fly brains, mouse brains and some really memorable human brains. But Jon is retiring, so today...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/41783631-c378-486b-a41e-58a4385ac83b/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=41783631-c378-486b-a41e-58a4385ac83b&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887478&p=510351&d=832&size=13323747
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: What's this super-aging butterfly’s longevity secret?
 Published Date: Tue, 14 Jul 2026 07:00:00 +0000
 Description: What if there were a great ape species that could live over 1,000 years? That’s basically Heliconius in the butterfly world. The insects live around 25 times longer than their butterfly cousins, and scientists think they have one clue as to why: pollen. But as Katie Wu, a science writer at The Atlantic, explains, that’s not the whole story. She ...
@@ -255,12 +261,6 @@ Episode Title: Ticks are a growing problem, no matter where you live
 Published Date: Tue, 30 Jun 2026 07:00:00 +0000
 Description: In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly 50 species of ticks in the United States. Historicall...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c3501483-08c1-4b21-b2bd-ba29963c598d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c3501483-08c1-4b21-b2bd-ba29963c598d&feed=F0qJcgXZ&t=podcast&e=nx-s1-5843195&p=510351&d=794&size=12711019
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Is working from home actually good for you?
-Published Date: Mon, 29 Jun 2026 07:00:00 +0000
-Description: For many, being able to work from home is a boon: saving time on your commute, working in your sweatpants, throwing in a load of laundry before a meeting. People say it makes them happier. But a new study suggests that, despite all the advantages, working from home isn’t creating a happier workforce. It’s making people more socially isolated. We...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/89bd6459-f131-4b2a-8253-49c38620516f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=89bd6459-f131-4b2a-8253-49c38620516f&feed=F0qJcgXZ&t=podcast&e=nx-s1-5855413&p=510351&d=826&size=13222601
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -569,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Building things and breaking things in China (Summer School World Tour)
+Published Date: Wed, 15 Jul 2026 07:30:00 +0000
+Description: China’s turbocharged growth may have made it rich, but now it has to deal with rich country problems. High-speed trains that connect every town. Gleaming new bridges and skyscrapers. An apartment (or two) for every family. No country on Earth has seen the kind of economic growth that China has over the last 50 years. China has become the factory...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5879536&p=510362&d=2321&size=37148718
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Seven allegedly fake Chanel bags vs The RealReal
 Published Date: Fri, 10 Jul 2026 21:00:00 +0000
 Description: Once upon a time, if you wanted to buy a luxury brand item secondhand (say, a Chanel handbag) you had to have an in. There was no easy way to find one. But over the past decade, the market for secondhand luxury goods has exploded. There are now many online resellers where you can shop for used and discounted luxury items. One big problem — how c...
@@ -621,12 +627,6 @@ Episode Title: It’s my tree. Why can’t I cut it down?
 Published Date: Fri, 12 Jun 2026 22:00:00 +0000
 Description: Can the government stop you from cutting down your own tree? In many towns and cities these days, removing a tree now requires a permit. You might have to pay a fee, or promise to plant replacement trees. But sometimes, the city won't let you cut down the tree at all, even a tree in your own backyard.That's because trees are important for air qu...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Two indicators for lowering the rent
-Published Date: Wed, 10 Jun 2026 07:15:00 +0000
-Description: One specific type of affordable housing used to be popular in American cities, kept rents low, then nearly vanished. Is it time to reconsider boarding houses and single room occupancy units? If they lowered rents in cities, why did they go away? We have the history.Then, let’s talk about corporate landlords. They’re blamed for driving up rents. ...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -915,6 +915,20 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: From Trump’s Attorney to Attorney General: The Rise of Todd Blanche
+Published Date: Wed, 15 Jul 2026 09:30:00 +0000
+Description: To be confirmed as the next attorney general, Todd Blanche must convince members of the U.S. Senate that as political as the Department of Justice has become, it would be even worse without him on top.
+As his confirmation hearing begins, Glenn Thrush, a Justice Department reporter for The New York Times, recounts the unlikely story of how Mr. Bl...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c9038279-bbfd-4889-940c-bbc27297e929/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c9038279-bbfd-4889-940c-bbc27297e929&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: Why the Cease-Fire With Iran Keeps Crumbling
+Published Date: Tue, 14 Jul 2026 09:30:00 +0000
+Description: After back-and-forth attacks and an exchange of fiery language between President Trump and Iran’s leaders, it appears that both sides have returned to open conflict.
+Today, David Sanger, the White House and national security correspondent for The New York Times, explains what brought us to this point, and what this new phase of the war tells us ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/55a7756d-ad79-4dbd-b9b0-6e62579a5579/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=55a7756d-ad79-4dbd-b9b0-6e62579a5579&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Why Are Grocery Store Prices So High
 Published Date: Mon, 13 Jul 2026 09:52:34 +0000
 Description: According to the Economic Research Service at the Department of Agriculture, prices across all food categories are expected to rise 3.2 percent in 2026.
@@ -979,18 +993,4 @@ Description: President Trump called a major bill to address the housing crisis �
 So why is he refusing to sign it?
 Michael Gold, who covers Congress for The New York Times, discusses Mr. Tru...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6fd1725d-8c08-498c-9b1e-89a29bbf06fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6fd1725d-8c08-498c-9b1e-89a29bbf06fc&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Most American Episode of The Daily, Ever.
-Published Date: Sun, 5 Jul 2026 10:00:00 +0000
-Description: In celebration of the United States of America’s 250th birthday, we posed a simple question to some of our favorite critics, columnists and editors across the New York Times newsroom, people who write about books, movies, TV shows, science, sports, wellness and food. We asked: What’s the most American thing on your beat?
-On today’s episode, we p...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8280c73e-de4a-40c7-9ee5-34b4a67b466e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=8280c73e-de4a-40c7-9ee5-34b4a67b466e&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: 250 Years Later, Why We’re Still Fighting About Our Founding
-Published Date: Fri, 3 Jul 2026 09:45:00 +0000
-Description: Two hundred and fifty years ago, the founding fathers gave rise to a new nation. They also gave rise to an enduring myth about their virtue and what that meant about America’s virtue as a country.
-Jia Lynn Yang, a New York Times journalist, discusses how the founding myth has evolved, why we are still fighting about it and why it may hold the ke...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e274da91-0503-4ec3-bf5b-582f3d51a8a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e274da91-0503-4ec3-bf5b-582f3d51a8a6&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
