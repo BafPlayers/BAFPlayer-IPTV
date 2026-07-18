@@ -569,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Can World Cup mania grow MLS in the U.S.?
+Published Date: Fri, 17 Jul 2026 22:43:18 +0000
+Description: As the World Cup comes to a close, so does a massive real-time experiment happening just around the edges. Major League Soccer – the top men’s professional soccer league in the U.S. and Canada – has been scrambling to take advantage of this once-in-a-generation opportunity when average American sports fans suddenly cared a lot about soccer.In be...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Building things and breaking things in China (Summer School World Tour)
 Published Date: Wed, 15 Jul 2026 07:30:00 +0000
 Description: China’s turbocharged growth may have made it rich, but now it has to deal with rich country problems. High-speed trains that connect every town. Gleaming new bridges and skyscrapers. An apartment (or two) for every family. No country on Earth has seen the kind of economic growth that China has over the last 50 years. China has become the factory...
@@ -621,12 +627,6 @@ Episode Title: Can computer hackers get inside your mind?
 Published Date: Wed, 17 Jun 2026 07:00:00 +0000
 Description: The cyber weapon that might have prevented nuclear war.The U.S. and Israel have long been in conflict with Iran over their nuclear development program. Some of that conflict has been out in the open, with bombs and blockades, but some of it has been invisible. Recently some security researchers discovered a cyberweapon likely tied to that invisi...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: It’s my tree. Why can’t I cut it down?
-Published Date: Fri, 12 Jun 2026 22:00:00 +0000
-Description: Can the government stop you from cutting down your own tree? In many towns and cities these days, removing a tree now requires a permit. You might have to pay a fee, or promise to plant replacement trees. But sometimes, the city won't let you cut down the tree at all, even a tree in your own backyard.That's because trees are important for air qu...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -915,6 +915,15 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The President, His Plane and the Press
+Published Date: Fri, 17 Jul 2026 09:30:00 +0000
+Description: Last Friday night, F.B.I. agents showed up at the homes of several New York Times journalists and summoned them to testify before a grand jury.
+The move was a response by the Trump administration to an article about the safety of the new Air Force One.
+Tyler Pager, one of the journalists, discusses the story and the subpoenas.
+Guest: Tyler Pager...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5e0f6a93-79fa-4d26-8372-886e5a47d88e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5e0f6a93-79fa-4d26-8372-886e5a47d88e&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: ICE Ramps Back Up, With Deadly Results
 Published Date: Thu, 16 Jul 2026 09:30:00 +0000
 Description: Two fatal shootings by federal immigration agents in Texas and Maine have put the spotlight back on the Trump administration’s deportation tactics.
@@ -986,11 +995,4 @@ Guest:
 
  Lisa ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/091a4a06-9854-4979-9a64-b83d5d84ce96/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=091a4a06-9854-4979-9a64-b83d5d84ce96&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Onion’s Latest Joke: Taking Over Infowars
-Published Date: Tue, 7 Jul 2026 09:45:00 +0000
-Description: Last Thursday, the satirical newspaper The Onion started its own version of Infowars, the infamous online hub of misinformation created by Alex Jones.
-The takeover has been years in the making. After Mr. Jones lost two defamation cases, his assets were put up for auction. The Onion took over Infowars and said it planned to convert the site into ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f99e673f-f5b5-4973-9595-0e5d5e7a2396/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f99e673f-f5b5-4973-9595-0e5d5e7a2396&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
