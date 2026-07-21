@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: cyclosporiasis-illness-cyclospora-lettuce-taco-bell
+Published Date: Tue, 21 Jul 2026 07:00:00 +0000
+Description: What’s small, round and could give you explosive diarrhea? Cyclospora parasites. The diarrheal disease they cause is wreaking havoc on thousands this summer in what is the largest known flare up in the U.S. ever. What’s causing it and what can we do about it? NPR’s Joseph Kim joins host Nate Rott to talk about the outbreak – and how to protect y...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1b8298f1-afcb-4ee3-9002-f3e030967a28/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1b8298f1-afcb-4ee3-9002-f3e030967a28&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896330&p=510351&d=636&size=10186545
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Are Trump and AI driving a nuclear power boom?
 Published Date: Mon, 20 Jul 2026 07:00:00 +0000
 Description: A race started by President Trump is leading to the rapid construction of new, experimental nuclear reactors. If they work, they could power data centers for artificial intelligence. But critics worry that the breakneck pace is compromising safety and public trust. NPR correspondent Geoff Brumfiel talks about the potential risks and benefits, an...
@@ -255,12 +261,6 @@ Episode Title: Sky Uber? Air taxis could be here soon
 Published Date: Mon, 06 Jul 2026 07:00:00 +0000
 Description: Taking an air taxi to the airport may become as simple as ordering a ride share today. In our first episode in our summer series Tech Camp, we explore how a futuristic vehicle that transforms from helicopter to propeller plane is already taking flight in New York and San Francisco. This new kind of commuting might be here sooner than you think: ...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/674b52c8-a114-43cc-8d69-016bc7093c52/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=674b52c8-a114-43cc-8d69-016bc7093c52&feed=F0qJcgXZ&t=podcast&e=nx-s1-5821267&p=510351&d=845&size=13533980
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: This July 4th, are you a thrill- or chill-seeker?
-Published Date: Fri, 03 Jul 2026 07:00:00 +0000
-Description: Independence Day is approaching!Imagine if someone has procured illegal fireworks from a couple of states over. Are you:1. first in line to light them?2. content to watch while others set them off?3. going to find a fire extinguisher — just in case — while loudly condemning the activity?Ken Carter, a psychologist at Oxford College of Emory Unive...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f97833fe-5ada-4520-8910-c141f2130f44/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f97833fe-5ada-4520-8910-c141f2130f44&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879300&p=510351&d=799&size=12790014
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -915,10 +915,17 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: As the Iran War Escalates, Is the U.S. Hiding Its Toll?
+Published Date: Tue, 21 Jul 2026 09:45:00 +0000
+Description: The war in Iran has recently escalated in dangerous new ways, drawing in Bahrain, Kuwait and Saudi Arabia, as the Trump administration reeled from the Iranian killing of U.S. service members in Jordan.
+Eric Schmitt, a national security correspondent for The New York Times, discusses the latest attacks, and how they’ve coincided with a decision b...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a0cc5f62-a863-4786-a7d2-4818934d4f45/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a0cc5f62-a863-4786-a7d2-4818934d4f45&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: More Trump Tariffs Are Coming
 Published Date: Mon, 20 Jul 2026 09:45:00 +0000
 Description: At a moment when inflation and affordability are on virtually everyone’s mind in America, Jamieson Greer, the U.S. trade representative, said the Trump administration was planning a new slate of tariffs.
-Ana Swanson, who covers international trade for The New York Times and spoke to Mr. Greer, explains why he thinks the policy has been a success...
+Ana Swanson, who covers international trade for The New York Times and spoke to Mr. Greer, explains why Greer thinks the policy has been a succ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/93985e97-ab56-4213-9f48-e3b7fdb97f7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=93985e97-ab56-4213-9f48-e3b7fdb97f7f&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
 ----------------------------------------
@@ -984,16 +991,4 @@ Published Date: Sun, 12 Jul 2026 10:00:00 +0000
 Description: This Friday, “The Odyssey,” directed by Christopher Nolan, hits theaters. Even before the movie’s release, though, it’s proving to be a cultural event. Spirited discussions of Nolan’s cinematic interpretation of the epic poem already abound online, and they are likely to intensify after the public sees the film.
 Why does a 12,000-line poem that ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3858e1bf-c330-4894-97b2-4ff0276127df/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3858e1bf-c330-4894-97b2-4ff0276127df&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Mick Jagger Knows He May Have Played His Last Rolling Stones Show
-Published Date: Sat, 11 Jul 2026 10:00:00 +0000
-Description: The legendary rock star, now 82, on how fame, touring and aging have changed him.
-
- Thoughts? Email us at theinterview@nytimes.com
- Watch our show on YouTube: youtube.com/@TheInterviewPodcast
- For transcripts and more, visit: nytimes.com/theinterview
-
-Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscrib...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ba65ffcf-6ca9-45e8-b506-ef068bfd5246/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ba65ffcf-6ca9-45e8-b506-ef068bfd5246&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
