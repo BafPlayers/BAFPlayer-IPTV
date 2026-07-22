@@ -2,6 +2,15 @@
   {
     "id": "nasa-s-curious-universe-ep-1",
     "show_name": "NASA's Curious Universe",
+    "episode_title": "There’s More Space in Your Life Than You Think ",
+    "pub_date": "Tue, 21 Jul 2026 13:00:00 -0000",
+    "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6777593734.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "In its mission to explore the unknown in air and space, NASA ends up inventing a lot of new things. Then, the agency “spins off” those inventions to companies that produce products to make our lives easier and safer here on Earth. From memory foam mattresses and cordless power tools to wireless headphones and dating apps, NASA Technology is all ..."
+  },
+  {
+    "id": "nasa-s-curious-universe-ep-2",
+    "show_name": "NASA's Curious Universe",
     "episode_title": "Meet the Artemis III Crew",
     "pub_date": "Fri, 12 Jun 2026 14:00:00 -0000",
     "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6756666120.mp3",
@@ -9,7 +18,7 @@
     "description": "Meet the astronauts who will fly on Artemis III: Commander Randy Bresnik, Pilot Luca Parmitano, and Mission Specialists Frank Rubio and Andre Douglas. In this special presentation of Houston We Have a Podcast, the Artemis III astronauts discuss their backgrounds and training ahead of them to prepare for one of the most complex human spaceflight ..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-2",
+    "id": "nasa-s-curious-universe-ep-3",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Catching Up With Perseverance on Mars",
     "pub_date": "Tue, 02 Jun 2026 13:10:00 -0000",
@@ -18,7 +27,7 @@
     "description": "NASA’s robotic explorers are looking for signs of ancient life on Mars. In its five years and counting on the surface of the Red Planet, the Perseverance rover has collected dozens of rock samples, including tantalizing features that could be signs of past life. Scientists want to keep studying Mars. That’s why NASA plans to send a fleet of next..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-3",
+    "id": "nasa-s-curious-universe-ep-4",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Bonus: Behind the Scenes of Artemis II with NASA Experts",
     "pub_date": "Sat, 02 May 2026 13:23:00 -0000",
@@ -27,7 +36,7 @@
     "description": "In this bonus episode, go behind the scenes of key moments from Artemis II with NASA experts who made them possible. Engineers who launched the rocket describe the hours-long process that led to a successful liftoff. The leader of the closeout crew recalls his sendoff message as the astronauts were sealed inside their spacecraft. And the Artemis..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-4",
+    "id": "nasa-s-curious-universe-ep-5",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Update: Artemis II Crew Comes Home",
     "pub_date": "Wed, 15 Apr 2026 14:22:00 -0000",
@@ -36,7 +45,7 @@
     "description": "NASA’s Artemis II astronauts are back home. Hear reactions from the Artemis II crew—Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen—as they returned to Earth. \n\nFor more information about Artemis II, visit nasa.gov/artemis-ii"
   },
   {
-    "id": "nasa-s-curious-universe-ep-5",
+    "id": "nasa-s-curious-universe-ep-6",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Update: Artemis II Crew Flies Around the Moon",
     "pub_date": "Wed, 08 Apr 2026 13:17:00 -0000",
@@ -45,7 +54,7 @@
     "description": "NASA’s Artemis II mission has flown around the Moon, and its four astronauts traveled farther from Earth than anyone in history. Relive this historic mission through the astronauts’ own words, including their scientific descriptions of the Moon’s surface, as well as the role of “space plumber” troubleshooting the toilet and the astronauts’ unify..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-6",
+    "id": "nasa-s-curious-universe-ep-7",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Artemis II: How NASA’s Moon Mission Returns to Earth ",
     "pub_date": "Thu, 02 Apr 2026 12:22:00 -0000",
@@ -54,7 +63,7 @@
     "description": "Liftoff! NASA’s Artemis II mission launched on April 1, 2026, carrying four Moonbound astronauts. After an approximately 10-day mission, Artemis II ends with a splash. Lili Villarreal, the recovery and landing director for Artemis II, leads the team that will bring home the astronauts and their spacecraft. She describes the recovery playbook, wh..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-7",
+    "id": "nasa-s-curious-universe-ep-8",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Artemis II: The Ground Teams Powering NASA's Moon Mission",
     "pub_date": "Tue, 17 Feb 2026 14:48:00 -0000",
@@ -63,7 +72,7 @@
     "description": "Behind NASA’s Artemis II mission and the astronauts who will fly around the Moon, teams on the ground are essential. Explore some of the epic equipment that makes Artemis II possible—the mobile launcher, crawler-transporter, and NASA’s barge Pegasus—and meet a few of the many specialists who act as the shoulders lifting astronauts into space.   ..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-8",
+    "id": "nasa-s-curious-universe-ep-9",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Artemis II: How NASA Will Study the Moon—And the Astronauts Going There",
     "pub_date": "Tue, 03 Feb 2026 14:12:00 -0000",
@@ -72,22 +81,13 @@
     "description": "During Artemis II, four astronauts will see the lunar surface as few humans have—and possibly, parts of the Moon’s far side that no one has seen before. Learn what lunar science questions NASA hopes to answer through the astronauts' eyes with lunar geologist Kelsey Young. And those astronauts will also be subjects of science. Jancy McPhee, assoc..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-9",
+    "id": "nasa-s-curious-universe-ep-10",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Artemis II: Inside NASA’s New Ride to the Moon",
     "pub_date": "Tue, 27 Jan 2026 14:12:00 -0000",
     "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4539378680.mp3?updated=1775859026",
     "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "During Artemis II, humans will fly Orion—NASA’s next-generation spaceship designed to take us to the Moon and beyond—for the first time. Tour Orion with Branelle Rodriguez, the vehicle manager for Artemis II, to hear about the support systems that keep astronauts alive and how exactly you use the bathroom en route to the Moon. Then, pop the hood..."
-  },
-  {
-    "id": "nasa-s-curious-universe-ep-10",
-    "show_name": "NASA's Curious Universe",
-    "episode_title": "Artemis II: What NASA Learned From Launching Artemis I",
-    "pub_date": "Tue, 20 Jan 2026 14:03:00 -0000",
-    "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1015112791.mp3?updated=1775858942",
-    "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "In 2022, NASA launched Artemis I, an uncrewed test flight of the rocket and spacecraft that will send humans to the Moon. Go inside Firing Room 1—the nerve center for Artemis launches—and hear from the engineers who launched Artemis I, including the intricate procedures they developed just to fuel the rocket correctly. Now NASA is preparing to l..."
   },
   {
     "id": "science-vs--gimlet--ep-1",
@@ -272,14 +272,23 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
-    "episode_title": "cyclosporiasis-illness-cyclospora-lettuce-taco-bell",
+    "episode_title": "Does the science of peptides live up to the hype?",
+    "pub_date": "Wed, 22 Jul 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/458fba9d-d4a2-444e-a1f7-298f72ae72cb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=458fba9d-d4a2-444e-a1f7-298f72ae72cb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5897484&p=510351&d=772&size=12362859",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Synthetic peptides are getting some serious hype, from fitness influencers on your FYP to people seeking new options for chronic conditions. And while the human body already makes peptides, like insulin and the hormone oxytocin, most of the viral synthetic peptides are not approved by the Food and Drug Administration. Scientists say that raises ..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
+    "episode_title": "Cyclosporiasis: the science, risks and red flags",
     "pub_date": "Tue, 21 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1b8298f1-afcb-4ee3-9002-f3e030967a28/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1b8298f1-afcb-4ee3-9002-f3e030967a28&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896330&p=510351&d=636&size=10186545",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "What’s small, round and could give you explosive diarrhea? Cyclospora parasites. The diarrheal disease they cause is wreaking havoc on thousands this summer in what is the largest known flare up in the U.S. ever. What’s causing it and what can we do about it? NPR’s Joseph Kim joins host Nate Rott to talk about the outbreak – and how to protect y..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "Are Trump and AI driving a nuclear power boom?",
     "pub_date": "Mon, 20 Jul 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "A race started by President Trump is leading to the rapid construction of new, experimental nuclear reactors. If they work, they could power data centers for artificial intelligence. But critics worry that the breakneck pace is compromising safety and public trust. NPR correspondent Geoff Brumfiel talks about the potential risks and benefits, an..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "Why did designing the World Cup pitches take eight years?",
     "pub_date": "Fri, 17 Jul 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Yamal and Messi aren’t the only stars of the World Cup finals. If you’ve been watching any of the games, you’ve probably stared directly at a huge, unsung hero: the turf. Turf grass science is a real thing, and it’s John Sorochan’s area of expertise. He’s a scientist at the University of Tennessee at Knoxville, and he’s spent the last eight year..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "Our favorite brains, including Einstein's stolen one",
     "pub_date": "Wed, 15 Jul 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "At Short Wave, we love a good brain. Which is why we’ve had a lot of conversations over the years with NPR’s neuroscience reporter, Jon Hamilton. Jon’s been writing about brains for over 15 years, from tiny brain organoids that grow in a dish, to fruit fly brains, mouse brains and some really memorable human brains. But Jon is retiring, so today..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "What's this super-aging butterfly’s longevity secret?",
     "pub_date": "Tue, 14 Jul 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "What if there were a great ape species that could live over 1,000 years? That’s basically Heliconius in the butterfly world. The insects live around 25 times longer than their butterfly cousins, and scientists think they have one clue as to why: pollen. But as Katie Wu, a science writer at The Atlantic, explains, that’s not the whole story. She ..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "How should we decide who, or what, is conscious?",
     "pub_date": "Mon, 13 Jul 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "In the age of AI, what differentiates humans from robots? What makes humans … human? To find answers, many people are studying consciousness: our capacity for experience. But doctors and researchers still have a long way to go when it comes to finding new ways to detect consciousness in humans — much less computer software. That gets especially ..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Plot twist: We're probably way undercounting insects on Earth",
     "pub_date": "Fri, 10 Jul 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "Maybe you’ve wondered about it late at night as a mosquito buzzes in your ear. Or when you kick over a rock and watch dozens of little critters crawl away: How many types of insects are there in the world? Scientists have been interested in answering this question for years. A new study — based on a census of tiny and, frankly terrifying, parasi..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "NASA's race against time to rescue a falling satellite",
     "pub_date": "Wed, 08 Jul 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "A valuable NASA satellite observatory is falling to Earth faster than scientists expected. It’s called the Neil Gehrels Swift Observatory, or “Swift” for short, and it can respond to celestial events much faster than its sky-gazing counterparts. To save Swift and test out a first-of-its-kind technology, NASA partnered with an Arizona-based start..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "Could this anti-aging dog pill lead to one for you too?",
     "pub_date": "Tue, 07 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/34a58b33-12ff-47bb-aa8b-4ad9c8f1cefd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=34a58b33-12ff-47bb-aa8b-4ad9c8f1cefd&feed=F0qJcgXZ&t=podcast&e=nx-s1-5830039&p=510351&d=683&size=10942215",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "Every dog lover’s greatest fear is inevitably losing their pet to time. We want our furry pals to stick around as long as they can. That wish may soon become reality with a new pill from a company called Loyal. It aims to extend the lives–and health–of dogs. This new drug also serves as a pitstop on a much bigger quest: to eventually lengthen hu..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "Sky Uber? Air taxis could be here soon",
-    "pub_date": "Mon, 06 Jul 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/674b52c8-a114-43cc-8d69-016bc7093c52/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=674b52c8-a114-43cc-8d69-016bc7093c52&feed=F0qJcgXZ&t=podcast&e=nx-s1-5821267&p=510351&d=845&size=13533980",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Taking an air taxi to the airport may become as simple as ordering a ride share today. In our first episode in our summer series Tech Camp, we explore how a futuristic vehicle that transforms from helicopter to propeller plane is already taking flight in New York and San Francisco. This new kind of commuting might be here sooner than you think: ..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
+    "pub_date": "Tue, 21 Jul 2026 21:00:01 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation in the wake of George Floyd's killing. Antonio arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP. Less than a week later, he was shot and killed there. The case remains unsolved.In this..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "Can World Cup mania grow MLS in the U.S.?",
     "pub_date": "Fri, 17 Jul 2026 22:43:18 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743",
@@ -792,7 +801,7 @@
     "description": "As the World Cup comes to a close, so does a massive real-time experiment happening just around the edges. Major League Soccer – the top men’s professional soccer league in the U.S. and Canada – has been scrambling to take advantage of this once-in-a-generation opportunity when average American sports fans suddenly cared a lot about soccer.In be..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "Building things and breaking things in China (Summer School World Tour)",
     "pub_date": "Wed, 15 Jul 2026 07:30:00 +0000",
@@ -801,7 +810,7 @@
     "description": "China’s turbocharged growth may have made it rich, but now it has to deal with rich country problems. High-speed trains that connect every town. Gleaming new bridges and skyscrapers. An apartment (or two) for every family. No country on Earth has seen the kind of economic growth that China has over the last 50 years. China has become the factory..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Seven allegedly fake Chanel bags vs The RealReal",
     "pub_date": "Fri, 10 Jul 2026 21:00:00 +0000",
@@ -810,7 +819,7 @@
     "description": "Once upon a time, if you wanted to buy a luxury brand item secondhand (say, a Chanel handbag) you had to have an in. There was no easy way to find one. But over the past decade, the market for secondhand luxury goods has exploded. There are now many online resellers where you can shop for used and discounted luxury items. One big problem — how c..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "Our mission: Find the world’s best economic ideas (Summer School World Tour)",
     "pub_date": "Wed, 08 Jul 2026 07:30:00 +0000",
@@ -819,7 +828,7 @@
     "description": "Come along as we travel the world in search of the best economic ideas to bring home!From the beaches of Barbuda to the fjords of Norway, there's money (and money problems) everywhere. For this summer travel season, Planet Money Summer School will take you on a world tour for your ears. Pack that sense of wonder and nose for adventure, this is o..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "How to win a penalty shootout (with game theory)",
     "pub_date": "Fri, 03 Jul 2026 21:00:00 +0000",
@@ -828,7 +837,7 @@
     "description": "Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory.According to game theory, there’s an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics — that is, until ..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "Can the Trump administration make college cheaper?",
     "pub_date": "Wed, 01 Jul 2026 07:00:00 +0000",
@@ -837,7 +846,7 @@
     "description": "Will limiting how much students can borrow force schools to lower their prices? The Department of Education thinks so. It has a new plan to bring down tuition costs. Starting today, July 1st, it’s going to cap how much it’s willing to loan to graduate students. You read that right. To reduce the burden of school…the plan is to give students less..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "We almost had a smartphone in the 90s. Why did it fail?",
     "pub_date": "Fri, 26 Jun 2026 21:30:00 +0000",
@@ -846,7 +855,7 @@
     "description": "In the early 90’s, a company called General Magic began working on a portable device that would allow people to check email, make phone calls, even play games. It was basically a smartphone. But it never caught on.On today’s show, a theory about why this device failed. General Magic had generous investors, world-class talent and creative freedom..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
     "pub_date": "Wed, 24 Jun 2026 07:00:00 +0000",
@@ -855,22 +864,13 @@
     "description": "Prediction markets aren’t new. Election betting was common until the 1940s, then mysteriously faded away.There was an entire political era when party bosses were expected to conspicuously gamble on their candidates (even if they secretly hedged).And in the 1980s, a few economists designed an election market that beat out election polling 74 perc..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "The real horror of ‘Alien’ and how it explains why we’re not paid enough",
     "pub_date": "Fri, 19 Jun 2026 21:30:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "Maybe the real monster in the Alien franchise isn’t actually the killer alien. Because behind the acid blood and jump scares is an even more insidious horror: a single employer with unchecked power. That employer is named Weyland-Yutani, a mega-corporation that dominates workers across the galaxy.Weyland-Yutani is a sort of extreme example of wh..."
-  },
-  {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Can computer hackers get inside your mind?",
-    "pub_date": "Wed, 17 Jun 2026 07:00:00 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "The cyber weapon that might have prevented nuclear war.The U.S. and Israel have long been in conflict with Iran over their nuclear development program. Some of that conflict has been out in the open, with bombs and blockades, but some of it has been invisible. Recently some security researchers discovered a cyberweapon likely tied to that invisi..."
   },
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Trump’s Clashing Goals: More Housing, Fewer Immigrants",
+    "pub_date": "Wed, 22 Jul 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/22323ed4-10c5-496d-a6c1-816fe496e044/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=22323ed4-10c5-496d-a6c1-816fe496e044&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "To address the United States’ acute housing shortage, Congress recently passed a landmark piece of legislation designed to encourage the construction of new homes.\nThe problem is that President Trump’s crackdown on immigration has taken aim at the work force required to build those homes.\nRonda Kaysen, who covers housing for The New York Times, ..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "As the Iran War Escalates, Is the U.S. Hiding Its Toll?",
     "pub_date": "Tue, 21 Jul 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a0cc5f62-a863-4786-a7d2-4818934d4f45/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a0cc5f62-a863-4786-a7d2-4818934d4f45&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "The war in Iran has recently escalated in dangerous new ways, drawing in Bahrain, Kuwait and Saudi Arabia, as the Trump administration reeled from the Iranian killing of U.S. service members in Jordan.\nEric Schmitt, a national security correspondent for The New York Times, discusses the latest attacks, and how they’ve coincided with a decision b..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "More Trump Tariffs Are Coming",
     "pub_date": "Mon, 20 Jul 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "At a moment when inflation and affordability are on virtually everyone’s mind in America, Jamieson Greer, the U.S. trade representative, said the Trump administration was planning a new slate of tariffs.\nAna Swanson, who covers international trade for The New York Times and spoke to Mr. Greer, explains why Greer thinks the policy has been a succ..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The World Cup Final Is Here",
     "pub_date": "Sun, 19 Jul 2026 10:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "After a month of competition across North America and 103 matches, the 2026 World Cup is down to its final game. Spain and Argentina will meet this afternoon in a match expected to draw over one billion viewers around the world. \n Spain is hoping its well-oiled machine and young star can bring it its second World Cup win. Argentina is looking to..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
     "pub_date": "Sat, 18 Jul 2026 10:00:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe ..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The President, His Plane and the Press",
     "pub_date": "Fri, 17 Jul 2026 09:30:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "Last Friday night, F.B.I. agents showed up at the homes of several New York Times journalists and summoned them to testify before a grand jury.\nThe move was a response by the Trump administration to an article about the safety of the new Air Force One.\nTyler Pager, one of the journalists, discusses the story and the subpoenas.\nGuest: Tyler Pager..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "ICE Ramps Back Up, With Deadly Results",
     "pub_date": "Thu, 16 Jul 2026 09:30:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "Two fatal shootings by federal immigration agents in Texas and Maine have put the spotlight back on the Trump administration’s deportation tactics.\nHamed Aleaziz, who reports on immigration policy, explains how these killings signal a return to a more aggressive form of enforcement.\nGuest: Hamed Aleaziz, who covers the Department of Homeland Sec..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "From Trump’s Attorney to Attorney General: The Rise of Todd Blanche",
     "pub_date": "Wed, 15 Jul 2026 09:30:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "To be confirmed as the next attorney general, Todd Blanche must convince members of the U.S. Senate that as political as the Department of Justice has become, it would be even worse without him on top.\nAs his confirmation hearing begins, Glenn Thrush, a Justice Department reporter for The New York Times, recounts the unlikely story of how Mr. Bl..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Why the Cease-Fire With Iran Keeps Crumbling",
     "pub_date": "Tue, 14 Jul 2026 09:30:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "After back-and-forth attacks and an exchange of fiery language between President Trump and Iran’s leaders, it appears that both sides have returned to open conflict.\nToday, David Sanger, the White House and national security correspondent for The New York Times, explains what brought us to this point, and what this new phase of the war tells us ..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Why Are Grocery Store Prices So High",
     "pub_date": "Mon, 13 Jul 2026 09:52:34 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ffffa11e-9d71-44b2-83f2-1d2c012ae056/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ffffa11e-9d71-44b2-83f2-1d2c012ae056&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "According to the Economic Research Service at the Department of Agriculture, prices across all food categories are expected to rise 3.2 percent in 2026.\nToday, Jessica Cheung, a senior audio producer for “The Daily,” talks with the general manager of a food co-op in Pittsburgh about how the store is being affected by the quickly increasing costs..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "What’s Epic About the ‘Odyssey’? Everything.",
-    "pub_date": "Sun, 12 Jul 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3858e1bf-c330-4894-97b2-4ff0276127df/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3858e1bf-c330-4894-97b2-4ff0276127df&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "This Friday, “The Odyssey,” directed by Christopher Nolan, hits theaters. Even before the movie’s release, though, it’s proving to be a cultural event. Spirited discussions of Nolan’s cinematic interpretation of the epic poem already abound online, and they are likely to intensify after the public sees the film.\nWhy does a 12,000-line poem that ..."
   }
 ]
