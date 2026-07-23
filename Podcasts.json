@@ -542,6 +542,15 @@
   {
     "id": "bbc-in-our-time-ep-1",
     "show_name": "In Our Time",
+    "episode_title": "Vigée Le Brun",
+    "pub_date": "Thu, 23 Jul 2026 09:15:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntls0h.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
+    "description": "Misha Glenny and guests discuss the French portrait painter Élisabeth Vigée Le Brun (1755 - 1842). From her teens she delighted her high society subjects in and around Paris, notably Marie Antoinette who she painted around 30 times, and she invariably found ways to show her sitters at their best.  Some critics were affronted that she, a young wo..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-2",
+    "show_name": "In Our Time",
     "episode_title": "The Delian League",
     "pub_date": "Thu, 16 Jul 2026 09:15:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsj70w.mp3",
@@ -549,7 +558,7 @@
     "description": "Misha Glenny and guests discuss the origins and evolution of an alliance which transformed the geopolitics of the classical world: the Delian League. Since the start of the 5th Century BCE, city states across Greece had been fighting a series of armed conflicts in the Greco-Persian Wars.  After the defeat of a second Persian invasion in 478 BCE,..."
   },
   {
-    "id": "bbc-in-our-time-ep-2",
+    "id": "bbc-in-our-time-ep-3",
     "show_name": "In Our Time",
     "episode_title": "Machado de Assis",
     "pub_date": "Thu, 09 Jul 2026 09:15:00 +0000",
@@ -558,7 +567,7 @@
     "description": "Misha Glenny and guests discuss one of the towering figures of Brazilian and world literature, Machado de Assis (1839 - 1908).  He was the descendant of slaves and built his career while slavery was still in place in Brazil  (abolished 1888) and many of his characters were from the slave-owning class who were also the readers of his books. At th..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "The Global Story - The soft power superpower, with Roman Mars",
     "pub_date": "Fri, 03 Jul 2026 16:00:00 +0000",
@@ -567,7 +576,7 @@
     "description": "As 4th July approaches, we think you’ll like this episode of The Global Story. All week, The Global Story podcast is exploring the surprising and often hidden ways the US has shaped the modern world. Roman Mars – the host of 99% Invisible and the new BBC series A History of the United States in 100 Objects – joins as a guest to set out his theor..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "The Evolution of Trees",
     "pub_date": "Thu, 02 Jul 2026 09:15:00 +0000",
@@ -576,7 +585,7 @@
     "description": "Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller an..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "The Welsh Marches",
     "pub_date": "Thu, 25 Jun 2026 09:15:00 +0000",
@@ -585,7 +594,7 @@
     "description": "At the Hay Festival, Misha Glenny and guests discuss the impact of the Norman invasion on the people and land of Wales and across the modern border with England in what became known as The Welsh Marches, march being a term for a militarized borderland.  Hay was one of the first Marcher lordships. Even before 1066, William the Conqueror knew that..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "The Levellers",
     "pub_date": "Thu, 18 Jun 2026 09:15:00 +0000",
@@ -594,7 +603,7 @@
     "description": "Misha Glenny and guests discuss the group which came to be known as the Levellers and emerged during what would become arguably one of the bloodiest and most turbulent periods of English history. After the First English Civil War, the Levellers started calling for reforms to achieve legal and social equality. They pushed for a new constitution, ..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "The Garamantes",
     "pub_date": "Thu, 11 Jun 2026 09:15:00 +0000",
@@ -603,7 +612,7 @@
     "description": "Misha Glenny and guests discuss an ancient civilisation who lived over 2000 years ago in the southwest of modern-day Libya. During prehistoric times, the Sahara Desert was greener and even had large lakes, but for the last 5000 years it has been a hyperarid environment. Extreme swings of temperature and limited surface water might make the Sahar..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "Joseph Roth",
     "pub_date": "Thu, 04 Jun 2026 09:15:00 +0000",
@@ -612,22 +621,13 @@
     "description": "Misha Glenny and guests discuss one of the great writers on Central Europe after the first world war and on the dying of the old orders with the collapse of the Austro-Hungarian empire.  As a German speaking Jew from Brody in the north-eastern edge of that Empire, which was then in Galicia, next in Poland and is now in Ukraine, Roth (1894 - 1939..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "Cybernetics",
     "pub_date": "Thu, 28 May 2026 09:15:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nh72k9.mp3",
     "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
     "description": "Misha Glenny and guests discuss cybernetics – the field of study which gave us the prefix ‘cyber’ and helped lay the foundations for the information age. After the Second World War, cybernetics emerged as the study of communication, feedback, and control in both animals and machines. Cybernetics was first defined in 1948 by the American mathemat..."
-  },
-  {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "Indian Indentured Labour",
-    "pub_date": "Thu, 21 May 2026 09:15:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nfnqs9.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
-    "description": "Misha Glenny and guests discuss how, after the abolition of slavery in the British Empire in 1833, sugar planters recruited workers from India to replace or compete with their formerly enslaved labourers.  Over the next 90 years, more than a million people in India travelled under five year contracts of indenture across the empire from Guyana to..."
   },
   {
     "id": "lore--folklore---history--ep-1",
@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "Big Lettuce meets Small Intestine",
+    "pub_date": "Wed, 22 Jul 2026 23:16:26 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "The cyclospora outbreak that’s sickening thousands of Americans got us interested in the rise of Big Lettuce, and the challenges of keeping it clean. So on today’s show, we tell you just how much lettuce Americans eat every year (SO MUCH!), how bagged lettuce came to dominate grocery store shelves, what that means for food safety, and why these ..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
     "pub_date": "Tue, 21 Jul 2026 21:00:01 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286",
@@ -792,7 +801,7 @@
     "description": "In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation in the wake of George Floyd's killing. Antonio arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP. Less than a week later, he was shot and killed there. The case remains unsolved.In this..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "Can World Cup mania grow MLS in the U.S.?",
     "pub_date": "Fri, 17 Jul 2026 22:43:18 +0000",
@@ -801,7 +810,7 @@
     "description": "As the World Cup comes to a close, so does a massive real-time experiment happening just around the edges. Major League Soccer – the top men’s professional soccer league in the U.S. and Canada – has been scrambling to take advantage of this once-in-a-generation opportunity when average American sports fans suddenly cared a lot about soccer.In be..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Building things and breaking things in China (Summer School World Tour)",
     "pub_date": "Wed, 15 Jul 2026 07:30:00 +0000",
@@ -810,7 +819,7 @@
     "description": "China’s turbocharged growth may have made it rich, but now it has to deal with rich country problems. High-speed trains that connect every town. Gleaming new bridges and skyscrapers. An apartment (or two) for every family. No country on Earth has seen the kind of economic growth that China has over the last 50 years. China has become the factory..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "Seven allegedly fake Chanel bags vs The RealReal",
     "pub_date": "Fri, 10 Jul 2026 21:00:00 +0000",
@@ -819,7 +828,7 @@
     "description": "Once upon a time, if you wanted to buy a luxury brand item secondhand (say, a Chanel handbag) you had to have an in. There was no easy way to find one. But over the past decade, the market for secondhand luxury goods has exploded. There are now many online resellers where you can shop for used and discounted luxury items. One big problem — how c..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "Our mission: Find the world’s best economic ideas (Summer School World Tour)",
     "pub_date": "Wed, 08 Jul 2026 07:30:00 +0000",
@@ -828,7 +837,7 @@
     "description": "Come along as we travel the world in search of the best economic ideas to bring home!From the beaches of Barbuda to the fjords of Norway, there's money (and money problems) everywhere. For this summer travel season, Planet Money Summer School will take you on a world tour for your ears. Pack that sense of wonder and nose for adventure, this is o..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "How to win a penalty shootout (with game theory)",
     "pub_date": "Fri, 03 Jul 2026 21:00:00 +0000",
@@ -837,7 +846,7 @@
     "description": "Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory.According to game theory, there’s an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics — that is, until ..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Can the Trump administration make college cheaper?",
     "pub_date": "Wed, 01 Jul 2026 07:00:00 +0000",
@@ -846,7 +855,7 @@
     "description": "Will limiting how much students can borrow force schools to lower their prices? The Department of Education thinks so. It has a new plan to bring down tuition costs. Starting today, July 1st, it’s going to cap how much it’s willing to loan to graduate students. You read that right. To reduce the burden of school…the plan is to give students less..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "We almost had a smartphone in the 90s. Why did it fail?",
     "pub_date": "Fri, 26 Jun 2026 21:30:00 +0000",
@@ -855,7 +864,7 @@
     "description": "In the early 90’s, a company called General Magic began working on a portable device that would allow people to check email, make phone calls, even play games. It was basically a smartphone. But it never caught on.On today’s show, a theory about why this device failed. General Magic had generous investors, world-class talent and creative freedom..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
     "pub_date": "Wed, 24 Jun 2026 07:00:00 +0000",
@@ -864,16 +873,16 @@
     "description": "Prediction markets aren’t new. Election betting was common until the 1940s, then mysteriously faded away.There was an entire political era when party bosses were expected to conspicuously gamble on their candidates (even if they secretly hedged).And in the 1980s, a few economists designed an election market that beat out election polling 74 perc..."
   },
   {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "The real horror of ‘Alien’ and how it explains why we’re not paid enough",
-    "pub_date": "Fri, 19 Jun 2026 21:30:00 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "Maybe the real monster in the Alien franchise isn’t actually the killer alien. Because behind the acid blood and jump scares is an even more insidious horror: a single employer with unchecked power. That employer is named Weyland-Yutani, a mega-corporation that dominates workers across the galaxy.Weyland-Yutani is a sort of extreme example of wh..."
+    "id": "how-i-built-this-with-guy-raz-ep-1",
+    "show_name": "How I Built This with Guy Raz",
+    "episode_title": "Advice Line with Curt Richardson of OtterBox",
+    "pub_date": "Thu, 23 Jul 2026 07:10:00 -0000",
+    "stream_url": "https://rss.art19.com/episodes/e94bf774-de11-4434-843b-a551309a6773.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+    "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
+    "description": "Today’s callers: Andy from Sarasota weighs whether the path to scalability for his live game show business is through personality or product. Then, Marissa from Tampa wants to recapture sales for her fairy tale-inspired teas after taking a hiatus to focus on her family. And Vince from New Jersey wonders how to allocate marketing dollars for  his..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-1",
+    "id": "how-i-built-this-with-guy-raz-ep-2",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.",
     "pub_date": "Mon, 20 Jul 2026 07:10:00 -0000",
@@ -882,7 +891,7 @@
     "description": "After waiting too long to pay his restaurant bill, Aman Narang thought there had to be a better way. His first idea—a mobile payment app—flopped.But that failure revealed a much bigger opportunity.Restaurants were struggling with outdated software that many owners hated. Payment systems were expensive, unreliable, and trapped on servers hidden i..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Kenneth Cole",
     "pub_date": "Thu, 16 Jul 2026 07:10:00 -0000",
@@ -891,7 +900,7 @@
     "description": "Today’s callers: Matt from New York City unpacks the stigma working against his line of foot wellness products. Then Emefa in Toronto seeks a direct relationship with customers of her fashion brand in the wake of a key retailer going out of business. Finally, Levi in Rhode Island explores new audiences and product lines for his commemorative gol..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
     "pub_date": "Mon, 13 Jul 2026 07:10:00 -0000",
@@ -900,7 +909,7 @@
     "description": "Tom Rinks got his start in the commission-only \"shark tank\" of midwestern furniture sales. That’s where he learned what makes customers buy. Decades later, those instincts helped him grow a joke of a side hustle into a $400 million success.In 2009, he created the iconic branding for an obscure sun tan lotion, drawing on a mish-mash of surf cultu..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)",
     "pub_date": "Thu, 09 Jul 2026 07:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Jeni’s Splendid Ice Creams founder Jeni Britton joins Guy on the Advice Line to answer questions from three early-stage entrepreneurs. Plus, how Jeni’s newest venture Floura is tackling one of America’s largest dietary needs—fiber. First, we meet Jesse in Washington, D.C., who’s wondering how to best focus marketing efforts for his frozen french..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
     "pub_date": "Mon, 06 Jul 2026 07:10:00 -0000",
@@ -918,7 +927,7 @@
     "description": "Krishna Kaliannan wanted to start a tech company but failed at every attempt. On the side, he was teaching himself how to cook with high-protein, low-sugar ingredients. Not just out of interest, but out of necessity. As a teenager, Krishna had been diagnosed with diabetes and epilepsy, meaning he adopted a keto diet long before it was trendy. Kr..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
     "pub_date": "Thu, 02 Jul 2026 07:10:00 -0000",
@@ -927,7 +936,7 @@
     "description": "Today’s callers: Ann from Nashville asks how to adapt her jewelry business in the face of rising gold prices. Then Felix in Martha’s Vineyard considers strategies for growing his family’s legacy honey and skincare company. Finally, Matt in Massachusetts seeks strategies for maintaining a healthy work-life balance at his grief-inspired brewing pr..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant",
     "pub_date": "Mon, 29 Jun 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "In 2004, Joey Shamah and his partner launched a cosmetics company built on an idea that made almost no sense:Sell high-quality makeup for just $1.At the time, high quality beauty products were supposed to be expensive. The biggest brands spent fortunes on celebrity endorsements, glossy ads, and premium shelf space.And every major retailer told J..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Susan Griffin-Black of EO Products",
     "pub_date": "Thu, 25 Jun 2026 07:10:00 -0000",
@@ -945,22 +954,13 @@
     "description": "Today’s callers: Ruchi from Chicago looks for advice on which channels to focus distribution for her probiotic skincare line. Then Peter in San Francisco considers strategies to champion his line of organic South African wines. And Dominic from Barbados asks about expanding his specialty coffee brand into international markets like the United St..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct",
     "pub_date": "Mon, 22 Jun 2026 07:10:00 -0000",
     "stream_url": "https://rss.art19.com/episodes/6c0eb387-4722-4284-aded-23bbd0a9e6f4.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
     "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
     "description": "Stephen Starr didn’t plan to get into the restaurant business.He set out to be a radio DJ. Then a nightclub owner. Then a music promoter.Along the way, he booked a young Jerry Seinfeld for $75, promoted shows for U2 and Madonna, and spent years pretending to be more successful than he really was.Then, in his late 30s, Stephen walked into a glitz..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "Advice Line with Shazi Visram of Happy Family Organics",
-    "pub_date": "Thu, 18 Jun 2026 07:10:00 -0000",
-    "stream_url": "https://rss.art19.com/episodes/c354a554-e764-44c6-89f9-e2192e3e5a86.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-    "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
-    "description": "Today’s callers: Daisy in the United Kingdom looks to grow her barefoot shoe brand across the pond in the United States. Then Rachel in Pennsylvania considers private labeling for her protein-packed sprinkles. And Andrew in California wonders whether he should seek investment for his pleasantly-scented soil additive.Plus, Shazi discusses why ent..."
   },
   {
     "id": "ted-radio-hour-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Why Is the U.S. Building the Saudi Nuclear Program While Destroying Iran’s?",
+    "pub_date": "Thu, 23 Jul 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e6d6666a-578f-449d-ad02-eafe3258fb0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e6d6666a-578f-449d-ad02-eafe3258fb0d&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "The United States signed a landmark deal on Wednesday that allows Saudi Arabia to develop a nuclear program. At the same time, President Trump is escalating the war in Iran, a conflict that the White House says aims to destroy the country’s nuclear capabilities.\nDavid E. Sanger, a national security correspondent for The New York Times, explains ..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Trump’s Clashing Goals: More Housing, Fewer Immigrants",
     "pub_date": "Wed, 22 Jul 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/22323ed4-10c5-496d-a6c1-816fe496e044/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=22323ed4-10c5-496d-a6c1-816fe496e044&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "To address the United States’ acute housing shortage, Congress recently passed a landmark piece of legislation designed to encourage the construction of new homes.\nThe problem is that President Trump’s crackdown on immigration has taken aim at the work force required to build those homes.\nRonda Kaysen, who covers housing for The New York Times, ..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "As the Iran War Escalates, Is the U.S. Hiding Its Toll?",
     "pub_date": "Tue, 21 Jul 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "The war in Iran has recently escalated in dangerous new ways, drawing in Bahrain, Kuwait and Saudi Arabia, as the Trump administration reeled from the Iranian killing of U.S. service members in Jordan.\nEric Schmitt, a national security correspondent for The New York Times, discusses the latest attacks, and how they’ve coincided with a decision b..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "More Trump Tariffs Are Coming",
     "pub_date": "Mon, 20 Jul 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "At a moment when inflation and affordability are on virtually everyone’s mind in America, Jamieson Greer, the U.S. trade representative, said the Trump administration was planning a new slate of tariffs.\nAna Swanson, who covers international trade for The New York Times and spoke to Mr. Greer, explains why Greer thinks the policy has been a succ..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The World Cup Final Is Here",
     "pub_date": "Sun, 19 Jul 2026 10:00:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "After a month of competition across North America and 103 matches, the 2026 World Cup is down to its final game. Spain and Argentina will meet this afternoon in a match expected to draw over one billion viewers around the world. \n Spain is hoping its well-oiled machine and young star can bring it its second World Cup win. Argentina is looking to..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
     "pub_date": "Sat, 18 Jul 2026 10:00:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe ..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The President, His Plane and the Press",
     "pub_date": "Fri, 17 Jul 2026 09:30:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "Last Friday night, F.B.I. agents showed up at the homes of several New York Times journalists and summoned them to testify before a grand jury.\nThe move was a response by the Trump administration to an article about the safety of the new Air Force One.\nTyler Pager, one of the journalists, discusses the story and the subpoenas.\nGuest: Tyler Pager..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "ICE Ramps Back Up, With Deadly Results",
     "pub_date": "Thu, 16 Jul 2026 09:30:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "Two fatal shootings by federal immigration agents in Texas and Maine have put the spotlight back on the Trump administration’s deportation tactics.\nHamed Aleaziz, who reports on immigration policy, explains how these killings signal a return to a more aggressive form of enforcement.\nGuest: Hamed Aleaziz, who covers the Department of Homeland Sec..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "From Trump’s Attorney to Attorney General: The Rise of Todd Blanche",
     "pub_date": "Wed, 15 Jul 2026 09:30:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "To be confirmed as the next attorney general, Todd Blanche must convince members of the U.S. Senate that as political as the Department of Justice has become, it would be even worse without him on top.\nAs his confirmation hearing begins, Glenn Thrush, a Justice Department reporter for The New York Times, recounts the unlikely story of how Mr. Bl..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Why the Cease-Fire With Iran Keeps Crumbling",
     "pub_date": "Tue, 14 Jul 2026 09:30:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/55a7756d-ad79-4dbd-b9b0-6e62579a5579/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=55a7756d-ad79-4dbd-b9b0-6e62579a5579&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "After back-and-forth attacks and an exchange of fiery language between President Trump and Iran’s leaders, it appears that both sides have returned to open conflict.\nToday, David Sanger, the White House and national security correspondent for The New York Times, explains what brought us to this point, and what this new phase of the war tells us ..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Why Are Grocery Store Prices So High",
-    "pub_date": "Mon, 13 Jul 2026 09:52:34 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ffffa11e-9d71-44b2-83f2-1d2c012ae056/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ffffa11e-9d71-44b2-83f2-1d2c012ae056&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "According to the Economic Research Service at the Department of Agriculture, prices across all food categories are expected to rise 3.2 percent in 2026.\nToday, Jessica Cheung, a senior audio producer for “The Daily,” talks with the general manager of a food co-op in Pittsburgh about how the store is being affected by the quickly increasing costs..."
   }
 ]

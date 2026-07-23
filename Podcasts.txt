@@ -395,6 +395,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: Vigée Le Brun
+Published Date: Thu, 23 Jul 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss the French portrait painter Élisabeth Vigée Le Brun (1755 - 1842). From her teens she delighted her high society subjects in and around Paris, notably Marie Antoinette who she painted around 30 times, and she invariably found ways to show her sitters at their best.  Some critics were affronted that she, a young wo...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntls0h.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
 Episode Title: The Delian League
 Published Date: Thu, 16 Jul 2026 09:15:00 +0000
 Description: Misha Glenny and guests discuss the origins and evolution of an alliance which transformed the geopolitics of the classical world: the Delian League. Since the start of the 5th Century BCE, city states across Greece had been fighting a series of armed conflicts in the Greco-Persian Wars.  After the defeat of a second Persian invasion in 478 BCE,...
@@ -447,12 +453,6 @@ Episode Title: Cybernetics
 Published Date: Thu, 28 May 2026 09:15:00 +0000
 Description: Misha Glenny and guests discuss cybernetics – the field of study which gave us the prefix ‘cyber’ and helped lay the foundations for the information age. After the Second World War, cybernetics emerged as the study of communication, feedback, and control in both animals and machines. Cybernetics was first defined in 1948 by the American mathemat...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nh72k9.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
-----------------------------------------
-Episode Title: Indian Indentured Labour
-Published Date: Thu, 21 May 2026 09:15:00 +0000
-Description: Misha Glenny and guests discuss how, after the abolition of slavery in the British Empire in 1833, sugar planters recruited workers from India to replace or compete with their formerly enslaved labourers.  Over the next 90 years, more than a million people in India travelled under five year contracts of indenture across the empire from Guyana to...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nfnqs9.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 
 ========================================================================
@@ -569,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Big Lettuce meets Small Intestine
+Published Date: Wed, 22 Jul 2026 23:16:26 +0000
+Description: The cyclospora outbreak that’s sickening thousands of Americans got us interested in the rise of Big Lettuce, and the challenges of keeping it clean. So on today’s show, we tell you just how much lettuce Americans eat every year (SO MUCH!), how bagged lettuce came to dominate grocery store shelves, what that means for food safety, and why these ...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: New NPR Series: "We Keep Us Safe" from the Embedded podcast
 Published Date: Tue, 21 Jul 2026 21:00:01 +0000
 Description: In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation in the wake of George Floyd's killing. Antonio arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP. Less than a week later, he was shot and killed there. The case remains unsolved.In this...
@@ -622,16 +628,16 @@ Published Date: Wed, 24 Jun 2026 07:00:00 +0000
 Description: Prediction markets aren’t new. Election betting was common until the 1940s, then mysteriously faded away.There was an entire political era when party bosses were expected to conspicuously gamble on their candidates (even if they secretly hedged).And in the 1980s, a few economists designed an election market that beat out election polling 74 perc...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The real horror of ‘Alien’ and how it explains why we’re not paid enough
-Published Date: Fri, 19 Jun 2026 21:30:00 +0000
-Description: Maybe the real monster in the Alien franchise isn’t actually the killer alien. Because behind the acid blood and jump scares is an even more insidious horror: a single employer with unchecked power. That employer is named Weyland-Yutani, a mega-corporation that dominates workers across the galaxy.Weyland-Yutani is a sort of extreme example of wh...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
 SHOW: How I Built This with Guy Raz
 ========================================================================
+----------------------------------------
+Episode Title: Advice Line with Curt Richardson of OtterBox
+Published Date: Thu, 23 Jul 2026 07:10:00 -0000
+Description: Today’s callers: Andy from Sarasota weighs whether the path to scalability for his live game show business is through personality or product. Then, Marissa from Tampa wants to recapture sales for her fairy tale-inspired teas after taking a hiatus to focus on her family. And Vince from New Jersey wonders how to allocate marketing dollars for  his...
+Audio Stream URL: https://rss.art19.com/episodes/e94bf774-de11-4434-843b-a551309a6773.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 ----------------------------------------
 Episode Title: Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.
 Published Date: Mon, 20 Jul 2026 07:10:00 -0000
@@ -685,12 +691,6 @@ Episode Title: STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving
 Published Date: Mon, 22 Jun 2026 07:10:00 -0000
 Description: Stephen Starr didn’t plan to get into the restaurant business.He set out to be a radio DJ. Then a nightclub owner. Then a music promoter.Along the way, he booked a young Jerry Seinfeld for $75, promoted shows for U2 and Madonna, and spent years pretending to be more successful than he really was.Then, in his late 30s, Stephen walked into a glitz...
 Audio Stream URL: https://rss.art19.com/episodes/6c0eb387-4722-4284-aded-23bbd0a9e6f4.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Advice Line with Shazi Visram of Happy Family Organics
-Published Date: Thu, 18 Jun 2026 07:10:00 -0000
-Description: Today’s callers: Daisy in the United Kingdom looks to grow her barefoot shoe brand across the pond in the United States. Then Rachel in Pennsylvania considers private labeling for her protein-packed sprinkles. And Andrew in California wonders whether he should seek investment for his pleasantly-scented soil additive.Plus, Shazi discusses why ent...
-Audio Stream URL: https://rss.art19.com/episodes/c354a554-e764-44c6-89f9-e2192e3e5a86.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -915,6 +915,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Why Is the U.S. Building the Saudi Nuclear Program While Destroying Iran’s?
+Published Date: Thu, 23 Jul 2026 09:45:00 +0000
+Description: The United States signed a landmark deal on Wednesday that allows Saudi Arabia to develop a nuclear program. At the same time, President Trump is escalating the war in Iran, a conflict that the White House says aims to destroy the country’s nuclear capabilities.
+David E. Sanger, a national security correspondent for The New York Times, explains ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e6d6666a-578f-449d-ad02-eafe3258fb0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e6d6666a-578f-449d-ad02-eafe3258fb0d&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Trump’s Clashing Goals: More Housing, Fewer Immigrants
 Published Date: Wed, 22 Jul 2026 09:45:00 +0000
 Description: To address the United States’ acute housing shortage, Congress recently passed a landmark piece of legislation designed to encourage the construction of new homes.
@@ -985,11 +992,4 @@ Published Date: Tue, 14 Jul 2026 09:30:00 +0000
 Description: After back-and-forth attacks and an exchange of fiery language between President Trump and Iran’s leaders, it appears that both sides have returned to open conflict.
 Today, David Sanger, the White House and national security correspondent for The New York Times, explains what brought us to this point, and what this new phase of the war tells us ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/55a7756d-ad79-4dbd-b9b0-6e62579a5579/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=55a7756d-ad79-4dbd-b9b0-6e62579a5579&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Why Are Grocery Store Prices So High
-Published Date: Mon, 13 Jul 2026 09:52:34 +0000
-Description: According to the Economic Research Service at the Department of Agriculture, prices across all food categories are expected to rise 3.2 percent in 2026.
-Today, Jessica Cheung, a senior audio producer for “The Daily,” talks with the general manager of a food co-op in Pittsburgh about how the store is being affected by the quickly increasing costs...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ffffa11e-9d71-44b2-83f2-1d2c012ae056/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ffffa11e-9d71-44b2-83f2-1d2c012ae056&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
