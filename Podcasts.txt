@@ -572,7 +572,7 @@ SHOW: Planet Money
 Episode Title: Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
 Published Date: Fri, 24 Jul 2026 20:00:00 +0000
 Description: Let’s head to a small town in Kenya that’s become globally famous for helping economists answer some of the biggest questions facing humanity.In Kenya and Nigeria, economics isn’t just theory, it’s real life. We’ll look at some radical experiments that turned out to be enormously successful.What are the building blocks of health, education and p...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894831&p=510362&d=2318&size=37096473
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: Big Lettuce meets Small Intestine
@@ -915,6 +915,25 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Why Do Some Memories Survive Dementia?
+Published Date: Sun, 26 Jul 2026 10:00:00 +0000
+Description: When the Times reporter Ellen Barry’s father developed dementia after a fall, her family spent years trying to manage his erratic behavior and confusion. They struggled to convince him that he was home, he was safe, and he shouldn’t try to leave. The experience was exasperating and impossible to understand.
+Today, Ellen tells the story of those ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d8b0813d-3550-412b-96c3-e03b4922e9ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d8b0813d-3550-412b-96c3-e03b4922e9ce&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: Karl-Anthony Towns Knows the Knicks' Win Was Bigger Than Basketball
+Published Date: Sat, 25 Jul 2026 10:00:00 +0000
+Description: New York’s star center on playing for his mom, Patrick Ewing. generations of emotional fans — and himself.
+
+ Thoughts? Email us at theinterview@nytimes.com
+ Watch our show on YouTube: youtube.com/@TheInterviewPodcast
+ For transcripts and more, visit: nytimes.com/theinterview
+
+Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spoti...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bfa825ab-6d6c-430f-b887-11c2708733c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bfa825ab-6d6c-430f-b887-11c2708733c4&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Could ‘Trump Accounts’ Actually Close the Wealth Gap?
 Published Date: Fri, 24 Jul 2026 09:45:00 +0000
 Description: This month, President Trump announced the start of “Trump accounts,” an investment device that could eventually help address the nation’s wealth gap.
@@ -978,19 +997,4 @@ The move was a response by the Trump administration to an article about the safe
 Tyler Pager, one of the journalists, discusses the story and the subpoenas.
 Guest: Tyler Pager...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5e0f6a93-79fa-4d26-8372-886e5a47d88e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5e0f6a93-79fa-4d26-8372-886e5a47d88e&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: ICE Ramps Back Up, With Deadly Results
-Published Date: Thu, 16 Jul 2026 09:30:00 +0000
-Description: Two fatal shootings by federal immigration agents in Texas and Maine have put the spotlight back on the Trump administration’s deportation tactics.
-Hamed Aleaziz, who reports on immigration policy, explains how these killings signal a return to a more aggressive form of enforcement.
-Guest: Hamed Aleaziz, who covers the Department of Homeland Sec...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7159e166-3e05-4f54-b763-b49a6f2629c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7159e166-3e05-4f54-b763-b49a6f2629c6&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: From Trump’s Attorney to Attorney General: The Rise of Todd Blanche
-Published Date: Wed, 15 Jul 2026 09:30:00 +0000
-Description: To be confirmed as the next attorney general, Todd Blanche must convince members of the U.S. Senate that as political as the Department of Justice has become, it would be even worse without him on top.
-As his confirmation hearing begins, Glenn Thrush, a Justice Department reporter for The New York Times, recounts the unlikely story of how Mr. Bl...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c9038279-bbfd-4889-940c-bbc27297e929/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c9038279-bbfd-4889-940c-bbc27297e929&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

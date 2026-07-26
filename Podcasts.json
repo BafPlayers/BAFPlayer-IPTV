@@ -787,7 +787,7 @@
     "show_name": "Planet Money",
     "episode_title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
     "pub_date": "Fri, 24 Jul 2026 20:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894831&p=510362&d=2318&size=37096473",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "Let’s head to a small town in Kenya that’s become globally famous for helping economists answer some of the biggest questions facing humanity.In Kenya and Nigeria, economics isn’t just theory, it’s real life. We’ll look at some radical experiments that turned out to be enormously successful.What are the building blocks of health, education and p..."
   },
@@ -1235,6 +1235,24 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Why Do Some Memories Survive Dementia?",
+    "pub_date": "Sun, 26 Jul 2026 10:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d8b0813d-3550-412b-96c3-e03b4922e9ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d8b0813d-3550-412b-96c3-e03b4922e9ce&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "When the Times reporter Ellen Barry’s father developed dementia after a fall, her family spent years trying to manage his erratic behavior and confusion. They struggled to convince him that he was home, he was safe, and he shouldn’t try to leave. The experience was exasperating and impossible to understand.\nToday, Ellen tells the story of those ..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
+    "episode_title": "Karl-Anthony Towns Knows the Knicks' Win Was Bigger Than Basketball",
+    "pub_date": "Sat, 25 Jul 2026 10:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bfa825ab-6d6c-430f-b887-11c2708733c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bfa825ab-6d6c-430f-b887-11c2708733c4&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "New York’s star center on playing for his mom, Patrick Ewing. generations of emotional fans — and himself.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spoti..."
+  },
+  {
+    "id": "the-daily--nyt--ep-3",
+    "show_name": "The Daily",
     "episode_title": "Could ‘Trump Accounts’ Actually Close the Wealth Gap?",
     "pub_date": "Fri, 24 Jul 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/64b4162e-280c-420b-ae47-76ae7790a258/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=64b4162e-280c-420b-ae47-76ae7790a258&feed=54nAGcIl",
@@ -1242,7 +1260,7 @@
     "description": "This month, President Trump announced the start of “Trump accounts,” an investment device that could eventually help address the nation’s wealth gap.\nClaire Cain Miller, who covers families and education for The New York Times, explains how these accounts work and why so many Americans have yet to sign up.\nGuest: Claire Cain Miller writes for Th..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Why Is the U.S. Building the Saudi Nuclear Program While Destroying Iran’s?",
     "pub_date": "Thu, 23 Jul 2026 09:45:00 +0000",
@@ -1251,7 +1269,7 @@
     "description": "The United States signed a landmark deal on Wednesday that allows Saudi Arabia to develop a nuclear program. At the same time, President Trump is escalating the war in Iran, a conflict that the White House says aims to destroy the country’s nuclear capabilities.\nDavid E. Sanger, a national security correspondent for The New York Times, explains ..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Trump’s Clashing Goals: More Housing, Fewer Immigrants",
     "pub_date": "Wed, 22 Jul 2026 09:45:00 +0000",
@@ -1260,7 +1278,7 @@
     "description": "To address the United States’ acute housing shortage, Congress recently passed a landmark piece of legislation designed to encourage the construction of new homes.\nThe problem is that President Trump’s crackdown on immigration has taken aim at the work force required to build those homes.\nRonda Kaysen, who covers housing for The New York Times, ..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "As the Iran War Escalates, Is the U.S. Hiding Its Toll?",
     "pub_date": "Tue, 21 Jul 2026 09:45:00 +0000",
@@ -1269,7 +1287,7 @@
     "description": "The war in Iran has recently escalated in dangerous new ways, drawing in Bahrain, Kuwait and Saudi Arabia, as the Trump administration reeled from the Iranian killing of U.S. service members in Jordan.\nEric Schmitt, a national security correspondent for The New York Times, discusses the latest attacks, and how they’ve coincided with a decision b..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "More Trump Tariffs Are Coming",
     "pub_date": "Mon, 20 Jul 2026 09:45:00 +0000",
@@ -1278,7 +1296,7 @@
     "description": "At a moment when inflation and affordability are on virtually everyone’s mind in America, Jamieson Greer, the U.S. trade representative, said the Trump administration was planning a new slate of tariffs.\nAna Swanson, who covers international trade for The New York Times and spoke to Mr. Greer, explains why Greer thinks the policy has been a succ..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "The World Cup Final Is Here",
     "pub_date": "Sun, 19 Jul 2026 10:00:00 +0000",
@@ -1287,7 +1305,7 @@
     "description": "After a month of competition across North America and 103 matches, the 2026 World Cup is down to its final game. Spain and Argentina will meet this afternoon in a match expected to draw over one billion viewers around the world. \n Spain is hoping its well-oiled machine and young star can bring it its second World Cup win. Argentina is looking to..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
     "pub_date": "Sat, 18 Jul 2026 10:00:00 +0000",
@@ -1296,30 +1314,12 @@
     "description": "Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe ..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "The President, His Plane and the Press",
     "pub_date": "Fri, 17 Jul 2026 09:30:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5e0f6a93-79fa-4d26-8372-886e5a47d88e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5e0f6a93-79fa-4d26-8372-886e5a47d88e&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "Last Friday night, F.B.I. agents showed up at the homes of several New York Times journalists and summoned them to testify before a grand jury.\nThe move was a response by the Trump administration to an article about the safety of the new Air Force One.\nTyler Pager, one of the journalists, discusses the story and the subpoenas.\nGuest: Tyler Pager..."
-  },
-  {
-    "id": "the-daily--nyt--ep-9",
-    "show_name": "The Daily",
-    "episode_title": "ICE Ramps Back Up, With Deadly Results",
-    "pub_date": "Thu, 16 Jul 2026 09:30:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7159e166-3e05-4f54-b763-b49a6f2629c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7159e166-3e05-4f54-b763-b49a6f2629c6&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "Two fatal shootings by federal immigration agents in Texas and Maine have put the spotlight back on the Trump administration’s deportation tactics.\nHamed Aleaziz, who reports on immigration policy, explains how these killings signal a return to a more aggressive form of enforcement.\nGuest: Hamed Aleaziz, who covers the Department of Homeland Sec..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "From Trump’s Attorney to Attorney General: The Rise of Todd Blanche",
-    "pub_date": "Wed, 15 Jul 2026 09:30:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c9038279-bbfd-4889-940c-bbc27297e929/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c9038279-bbfd-4889-940c-bbc27297e929&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "To be confirmed as the next attorney general, Todd Blanche must convince members of the U.S. Senate that as political as the Department of Justice has become, it would be even worse without him on top.\nAs his confirmation hearing begins, Glenn Thrush, a Justice Department reporter for The New York Times, recounts the unlikely story of how Mr. Bl..."
   }
 ]
