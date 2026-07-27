@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Could this nasal spray replace all your vaccines one day?
+Published Date: Mon, 27 Jul 2026 07:00:00 +0000
+Description: There’s the flu vaccine. The covid shot. The RSV shot… What if all of these—and more—could be combined into one universal vaccine? That’s what immunologist Bali Pulendran is working on in his lab. For this episode in our Tech Camp series, Regina G. Barber talks to him about how far he’s gotten, how far he has to go and why our ancient immune sys...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d712c008-ad3f-417a-aa11-92b2a0deb664/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d712c008-ad3f-417a-aa11-92b2a0deb664&feed=F0qJcgXZ&t=podcast&e=nx-s1-5810969&p=510351&d=625&size=10001390
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The problem with modern avocados — and the ancient solution
 Published Date: Fri, 24 Jul 2026 07:00:00 +0000
 Description: Did you know that when you pick up avocados at the supermarket, make avocado toast at home or order guacamole in your burrito, you’re probably consuming only one genetic type of avocado? Yep, it’s the Hass avocado. Since it originated in California in the 20th century, it’s been grafted onto trees worldwide. And today, it makes up more than 80 p...
@@ -255,12 +261,6 @@ Episode Title: Plot twist: We're probably way undercounting insects on Earth
 Published Date: Fri, 10 Jul 2026 07:00:00 +0000
 Description: Maybe you’ve wondered about it late at night as a mosquito buzzes in your ear. Or when you kick over a rock and watch dozens of little critters crawl away: How many types of insects are there in the world? Scientists have been interested in answering this question for years. A new study — based on a census of tiny and, frankly terrifying, parasi...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/476b921f-66a2-49b6-bfb0-7b4bc99323eb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=476b921f-66a2-49b6-bfb0-7b4bc99323eb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5877431&p=510351&d=568&size=9090657
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: NASA's race against time to rescue a falling satellite
-Published Date: Wed, 08 Jul 2026 07:00:00 +0000
-Description: A valuable NASA satellite observatory is falling to Earth faster than scientists expected. It’s called the Neil Gehrels Swift Observatory, or “Swift” for short, and it can respond to celestial events much faster than its sky-gazing counterparts. To save Swift and test out a first-of-its-kind technology, NASA partnered with an Arizona-based start...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/107a0613-e856-4583-889e-e324435a7cbe/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=107a0613-e856-4583-889e-e324435a7cbe&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879365&p=510351&d=687&size=11008670
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -459,6 +459,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Lore 311: Twice Upon a Time
+Published Date: Mon, 27 Jul 2026 05:01:00 +0000
+Description: Folklore is full of stories about people who seem to have lived more than one life. Which is why these true tales from history are so incredibly bizarre. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore311d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Legends 84: Dead in the Water
 Published Date: Mon, 20 Jul 2026 05:01:00 +0000
 Description: The vast oceans of our planet are more mysterious to us than the surface of Mars. And because of that, they have become the place where dark legends dwell beneath the surface. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick, and research by Samuel Alberty. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ——...
@@ -511,12 +517,6 @@ Episode Title: Deeper Lore: 308 (40, 114, & 150)
 Published Date: Thu, 18 Jun 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (308: Without a Trace) with these three recommendations from further back in the Lore catalog:  Episode 40: LorePodcast.com/episodes/40 Episode 114: LorePodcast.com/episodes/114 Episode 150: LorePodcast.com/episodes/150  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  ...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-308.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore 308: Without a Trace
-Published Date: Mon, 15 Jun 2026 05:01:00 +0000
-Description: Dark stories often have twists, turns, and the constant fear of getting lost in the shadows. Which is a lot like one real trail that haunts American history. Let's take a journey there together. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDE...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore308d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -633,6 +633,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company. 
+Published Date: Mon, 27 Jul 2026 07:10:00 -0000
+Description: Chuck Surack never planned to build one of America's largest online retailers. He just wanted to be a musician. So right after high school, he took his sax and drove off in his old VW van to play gigs around the country. It didn’t work out. But with the audio and mixing skills Chuck learned gigging, he decided to convert his van into a mobile re...
+Audio Stream URL: https://rss.art19.com/episodes/50c2b5e3-3bc3-4039-a92d-26228b8ac908.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Advice Line with Curt Richardson of OtterBox
 Published Date: Thu, 23 Jul 2026 07:10:00 -0000
 Description: Today’s callers: Andy from Sarasota weighs whether the path to scalability for his live game show business is through personality or product. Then, Marissa from Tampa wants to recapture sales for her fairy tale-inspired teas after taking a hiatus to focus on her family. And Vince from New Jersey wonders how to allocate marketing dollars for  his...
@@ -685,12 +691,6 @@ Episode Title: Advice Line with Susan Griffin-Black of EO Products
 Published Date: Thu, 25 Jun 2026 07:10:00 -0000
 Description: Today’s callers: Ruchi from Chicago looks for advice on which channels to focus distribution for her probiotic skincare line. Then Peter in San Francisco considers strategies to champion his line of organic South African wines. And Dominic from Barbados asks about expanding his specialty coffee brand into international markets like the United St...
 Audio Stream URL: https://rss.art19.com/episodes/58096820-613c-40ad-9743-f1d642447c91.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct
-Published Date: Mon, 22 Jun 2026 07:10:00 -0000
-Description: Stephen Starr didn’t plan to get into the restaurant business.He set out to be a radio DJ. Then a nightclub owner. Then a music promoter.Along the way, he booked a young Jerry Seinfeld for $75, promoted shows for U2 and Madonna, and spent years pretending to be more successful than he really was.Then, in his late 30s, Stephen walked into a glitz...
-Audio Stream URL: https://rss.art19.com/episodes/6c0eb387-4722-4284-aded-23bbd0a9e6f4.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -915,6 +915,14 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: What A.I. Is Actually Doing to the Economy
+Published Date: Mon, 27 Jul 2026 09:45:00 +0000
+Description: As artificial intelligence becomes more advanced, people are getting more nervous about how it could change the economy and their jobs.
+Ben Casselman, the chief economics correspondent for The New York Times, explains why A.I.’s impact is so hard to pin down and what we can learn from the tech disruptions of the past.
+Guest: Ben Casselman, the c...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a88ecc7f-2789-456a-83a4-03f11abbb7ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a88ecc7f-2789-456a-83a4-03f11abbb7ff&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Why Do Some Memories Survive Dementia?
 Published Date: Sun, 26 Jul 2026 10:00:00 +0000
 Description: When the Times reporter Ellen Barry’s father developed dementia after a fall, her family spent years trying to manage his erratic behavior and confusion. They struggled to convince him that he was home, he was safe, and he shouldn’t try to leave. The experience was exasperating and impossible to understand.
@@ -988,13 +996,4 @@ Description: Lulu Garcia-Navarro sits down for an interview with the mayor of Ne
 
 Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6f9ad6ad-3cb3-4485-b44c-a966c68d6b39/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6f9ad6ad-3cb3-4485-b44c-a966c68d6b39&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The President, His Plane and the Press
-Published Date: Fri, 17 Jul 2026 09:30:00 +0000
-Description: Last Friday night, F.B.I. agents showed up at the homes of several New York Times journalists and summoned them to testify before a grand jury.
-The move was a response by the Trump administration to an article about the safety of the new Air Force One.
-Tyler Pager, one of the journalists, discusses the story and the subpoenas.
-Guest: Tyler Pager...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5e0f6a93-79fa-4d26-8372-886e5a47d88e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5e0f6a93-79fa-4d26-8372-886e5a47d88e&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
