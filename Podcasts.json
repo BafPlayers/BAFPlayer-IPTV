@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "A cooler of eggs and a bold plan to save leopard sharks",
+    "pub_date": "Tue, 28 Jul 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/21550541-05c7-464b-8742-61ba0f401237/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=21550541-05c7-464b-8742-61ba0f401237&feed=F0qJcgXZ&t=podcast&e=nx-s1-5903001&p=510351&d=820&size=13131067",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Leopard sharks have nearly vanished from the waters in Raja Ampat, Indonesia. The country is one of the largest shark fishing nations in the world. Now, a first-of-its-kind conservation project is working to bring Indo-Pacific leopard sharks back from the brink of extinction. This international project hatches their eggs and raises shark pups to..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "Could this nasal spray replace all your vaccines one day?",
     "pub_date": "Mon, 27 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d712c008-ad3f-417a-aa11-92b2a0deb664/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d712c008-ad3f-417a-aa11-92b2a0deb664&feed=F0qJcgXZ&t=podcast&e=nx-s1-5810969&p=510351&d=625&size=10001390",
@@ -279,7 +288,7 @@
     "description": "There’s the flu vaccine. The covid shot. The RSV shot… What if all of these—and more—could be combined into one universal vaccine? That’s what immunologist Bali Pulendran is working on in his lab. For this episode in our Tech Camp series, Regina G. Barber talks to him about how far he’s gotten, how far he has to go and why our ancient immune sys..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "The problem with modern avocados — and the ancient solution",
     "pub_date": "Fri, 24 Jul 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Did you know that when you pick up avocados at the supermarket, make avocado toast at home or order guacamole in your burrito, you’re probably consuming only one genetic type of avocado? Yep, it’s the Hass avocado. Since it originated in California in the 20th century, it’s been grafted onto trees worldwide. And today, it makes up more than 80 p..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "Does the science of peptides live up to the hype?",
     "pub_date": "Wed, 22 Jul 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Synthetic peptides are getting some serious hype, from fitness influencers on your FYP to people seeking new options for chronic conditions. And while the human body already makes peptides, like insulin and the hormone oxytocin, most of the viral synthetic peptides are not approved by the Food and Drug Administration. Scientists say that raises ..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "Cyclosporiasis: the science, risks and red flags",
     "pub_date": "Tue, 21 Jul 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "What’s small, round and could give you explosive diarrhea? Cyclospora parasites. The diarrheal disease they cause is wreaking havoc on thousands this summer in what is the largest known flare up in the U.S. ever. What’s causing it and what can we do about it? NPR’s Joseph Kim joins host Nate Rott to talk about the outbreak – and how to protect y..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Are Trump and AI driving a nuclear power boom?",
     "pub_date": "Mon, 20 Jul 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "A race started by President Trump is leading to the rapid construction of new, experimental nuclear reactors. If they work, they could power data centers for artificial intelligence. But critics worry that the breakneck pace is compromising safety and public trust. NPR correspondent Geoff Brumfiel talks about the potential risks and benefits, an..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Why did designing the World Cup pitches take eight years?",
     "pub_date": "Fri, 17 Jul 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "Yamal and Messi aren’t the only stars of the World Cup finals. If you’ve been watching any of the games, you’ve probably stared directly at a huge, unsung hero: the turf. Turf grass science is a real thing, and it’s John Sorochan’s area of expertise. He’s a scientist at the University of Tennessee at Knoxville, and he’s spent the last eight year..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Our favorite brains, including Einstein's stolen one",
     "pub_date": "Wed, 15 Jul 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "At Short Wave, we love a good brain. Which is why we’ve had a lot of conversations over the years with NPR’s neuroscience reporter, Jon Hamilton. Jon’s been writing about brains for over 15 years, from tiny brain organoids that grow in a dish, to fruit fly brains, mouse brains and some really memorable human brains. But Jon is retiring, so today..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "What's this super-aging butterfly’s longevity secret?",
     "pub_date": "Tue, 14 Jul 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "What if there were a great ape species that could live over 1,000 years? That’s basically Heliconius in the butterfly world. The insects live around 25 times longer than their butterfly cousins, and scientists think they have one clue as to why: pollen. But as Katie Wu, a science writer at The Atlantic, explains, that’s not the whole story. She ..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "How should we decide who, or what, is conscious?",
     "pub_date": "Mon, 13 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c5c05a80-fad9-4802-8456-ee703e18a946/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c5c05a80-fad9-4802-8456-ee703e18a946&feed=F0qJcgXZ&t=podcast&e=nx-s1-5812660&p=510351&d=786&size=12581869",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "In the age of AI, what differentiates humans from robots? What makes humans … human? To find answers, many people are studying consciousness: our capacity for experience. But doctors and researchers still have a long way to go when it comes to finding new ways to detect consciousness in humans — much less computer software. That gets especially ..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "Plot twist: We're probably way undercounting insects on Earth",
-    "pub_date": "Fri, 10 Jul 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/476b921f-66a2-49b6-bfb0-7b4bc99323eb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=476b921f-66a2-49b6-bfb0-7b4bc99323eb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5877431&p=510351&d=568&size=9090657",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Maybe you’ve wondered about it late at night as a mosquito buzzes in your ear. Or when you kick over a rock and watch dozens of little critters crawl away: How many types of insects are there in the world? Scientists have been interested in answering this question for years. A new study — based on a census of tiny and, frankly terrifying, parasi..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -1053,96 +1053,6 @@
     "description": "From the farm, to the lab, to our tables, what we eat and how it's grown is changing. Agriculture contributes to global warming and is being transformed by it. This hour, a glimpse into the future of food.Guests include chef and policy advisor Sam Kass, farmers Jim Whitaker and Jessica Whitaker Allen, biotechnologist Isha Datar and artist Sam Va..."
   },
   {
-    "id": "lex-fridman-podcast-ep-1",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
-    "pub_date": "Tue, 30 Jun 2026 21:33:40 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Anthony Kaldellis is a historian of the Roman Empire and author of “The New Roman Empire”, a comprehensive history of the Byzantine Empire (Eastern Roman Empire).\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, et..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-2",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
-    "pub_date": "Fri, 29 May 2026 16:22:02 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sc\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.\nCONTACT LEX:\nFeedback – give feedback to Lex: https:/..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-3",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
-    "pub_date": "Wed, 06 May 2026 22:06:47 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc\nSee below for timestamps, transcript, and to give feedback, ..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-4",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
-    "pub_date": "Thu, 09 Apr 2026 17:43:17 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://le..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-5",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution",
-    "pub_date": "Mon, 23 Mar 2026 16:28:42 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Jensen Huang is the co-founder and CEO of NVIDIA, the world’s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lex..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-6",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#493 – Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
-    "pub_date": "Wed, 11 Mar 2026 20:37:33 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jeff_kaplan.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama – available to wishlist on Steam today, with alpha later in March.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep493-sc\nSee belo..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-7",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#492 – Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
-    "pub_date": "Sun, 01 Mar 2026 04:33:22 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_rick_beato.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello & piano. His incredible YouTube channel celebrates great musicians & musical ideas, and helps millions of people fall in love with great music all over again.\nThank you for listening ❤ Check out our sponsors: https..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-8",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger",
-    "pub_date": "Thu, 12 Feb 2026 03:10:39 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_peter_steinberger.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that’s the fastest-growing project in GitHub history.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep491-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfri..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-9",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
-    "pub_date": "Sun, 01 Feb 2026 02:46:43 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ai_sota_2026.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. Sebastian Raschka is the author of Build a Large Language Model (From Scratch) and Build a Reasoning Model (From Scratch).\nThank you for listening ❤..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-10",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#489 – Paul Rosolie: Uncontacted Tribes in the Amazon Jungle",
-    "pub_date": "Tue, 13 Jan 2026 20:15:15 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_paul_rosolie_3.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Paul Rosolie is a naturalist, explorer, author of a new book titled Junglekeeper, and is someone who has dedicated his life to protecting the Amazon rainforest.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep489-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc...."
-  },
-  {
     "id": "the-tim-ferriss-show-ep-1",
     "show_name": "The Tim Ferriss Show",
     "episode_title": "Bob Metcalfe — The Man (and Lessons) Behind Ethernet, Metcalfe's Law, and More",
@@ -1235,6 +1145,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The Iranians Who Want More War",
+    "pub_date": "Tue, 28 Jul 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1a5d9ce3-198e-4329-8310-100ee171b112/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1a5d9ce3-198e-4329-8310-100ee171b112&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "Fractures in Tehran are pitting a faction favoring negotiation with Washington against hard-liners who oppose making a deal with the United States. \nGuest:\n\n Abdi Latif Dahir, a Middle East correspondent for The New York Times, covering Lebanon and Syria.\n Farnaz Fassihi, the United Nations bureau chief for The New York Times. She also covers Ir..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "What A.I. Is Actually Doing to the Economy",
     "pub_date": "Mon, 27 Jul 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a88ecc7f-2789-456a-83a4-03f11abbb7ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a88ecc7f-2789-456a-83a4-03f11abbb7ff&feed=54nAGcIl",
@@ -1242,7 +1161,7 @@
     "description": "As artificial intelligence becomes more advanced, people are getting more nervous about how it could change the economy and their jobs.\nBen Casselman, the chief economics correspondent for The New York Times, explains why A.I.’s impact is so hard to pin down and what we can learn from the tech disruptions of the past.\nGuest: Ben Casselman, the c..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Why Do Some Memories Survive Dementia?",
     "pub_date": "Sun, 26 Jul 2026 10:00:00 +0000",
@@ -1251,7 +1170,7 @@
     "description": "When the Times reporter Ellen Barry’s father developed dementia after a fall, her family spent years trying to manage his erratic behavior and confusion. They struggled to convince him that he was home, he was safe, and he shouldn’t try to leave. The experience was exasperating and impossible to understand.\nToday, Ellen tells the story of those ..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Karl-Anthony Towns Knows the Knicks' Win Was Bigger Than Basketball",
     "pub_date": "Sat, 25 Jul 2026 10:00:00 +0000",
@@ -1260,7 +1179,7 @@
     "description": "New York’s star center on playing for his mom, Patrick Ewing. generations of emotional fans — and himself.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spoti..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Could ‘Trump Accounts’ Actually Close the Wealth Gap?",
     "pub_date": "Fri, 24 Jul 2026 09:45:00 +0000",
@@ -1269,7 +1188,7 @@
     "description": "This month, President Trump announced the start of “Trump accounts,” an investment device that could eventually help address the nation’s wealth gap.\nClaire Cain Miller, who covers families and education for The New York Times, explains how these accounts work and why so many Americans have yet to sign up.\nGuest: Claire Cain Miller writes for Th..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Why Is the U.S. Building the Saudi Nuclear Program While Destroying Iran’s?",
     "pub_date": "Thu, 23 Jul 2026 09:45:00 +0000",
@@ -1278,7 +1197,7 @@
     "description": "The United States signed a landmark deal on Wednesday that allows Saudi Arabia to develop a nuclear program. At the same time, President Trump is escalating the war in Iran, a conflict that the White House says aims to destroy the country’s nuclear capabilities.\nDavid E. Sanger, a national security correspondent for The New York Times, explains ..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Trump’s Clashing Goals: More Housing, Fewer Immigrants",
     "pub_date": "Wed, 22 Jul 2026 09:45:00 +0000",
@@ -1287,7 +1206,7 @@
     "description": "To address the United States’ acute housing shortage, Congress recently passed a landmark piece of legislation designed to encourage the construction of new homes.\nThe problem is that President Trump’s crackdown on immigration has taken aim at the work force required to build those homes.\nRonda Kaysen, who covers housing for The New York Times, ..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "As the Iran War Escalates, Is the U.S. Hiding Its Toll?",
     "pub_date": "Tue, 21 Jul 2026 09:45:00 +0000",
@@ -1296,7 +1215,7 @@
     "description": "The war in Iran has recently escalated in dangerous new ways, drawing in Bahrain, Kuwait and Saudi Arabia, as the Trump administration reeled from the Iranian killing of U.S. service members in Jordan.\nEric Schmitt, a national security correspondent for The New York Times, discusses the latest attacks, and how they’ve coincided with a decision b..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "More Trump Tariffs Are Coming",
     "pub_date": "Mon, 20 Jul 2026 09:45:00 +0000",
@@ -1305,21 +1224,12 @@
     "description": "At a moment when inflation and affordability are on virtually everyone’s mind in America, Jamieson Greer, the U.S. trade representative, said the Trump administration was planning a new slate of tariffs.\nAna Swanson, who covers international trade for The New York Times and spoke to Mr. Greer, explains why Greer thinks the policy has been a succ..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "The World Cup Final Is Here",
     "pub_date": "Sun, 19 Jul 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/007640a5-fbbf-4c73-b2c8-ea7522c81724/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=007640a5-fbbf-4c73-b2c8-ea7522c81724&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "After a month of competition across North America and 103 matches, the 2026 World Cup is down to its final game. Spain and Argentina will meet this afternoon in a match expected to draw over one billion viewers around the world. \n Spain is hoping its well-oiled machine and young star can bring it its second World Cup win. Argentina is looking to..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
-    "pub_date": "Sat, 18 Jul 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6f9ad6ad-3cb3-4485-b44c-a966c68d6b39/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6f9ad6ad-3cb3-4485-b44c-a966c68d6b39&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe ..."
   }
 ]
