@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Want to spend a year living in NASA's Mars simulation?
+Published Date: Fri, 31 Jul 2026 07:00:00 +0000
+Description: Have you ever wanted to be an astronaut without risking your life in space? If so, we have the perfect opportunity for you. NASA is calling for people with a science background to apply for a simulated mission to the Moon and Mars. Four adults will spend a year isolated in two enclosures meant to simulate both traveling through deep space and li...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/631438f0-267f-4f5b-bfc4-74dfb98ae435/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=631438f0-267f-4f5b-bfc4-74dfb98ae435&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887659&p=510351&d=727&size=11633520
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Are extreme wildfires the new normal?
 Published Date: Wed, 29 Jul 2026 07:00:00 +0000
 Description: With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire Short Wave staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surp...
@@ -253,12 +259,6 @@ Episode Title: Our favorite brains, including Einstein's stolen one
 Published Date: Wed, 15 Jul 2026 07:00:00 +0000
 Description: At Short Wave, we love a good brain. Which is why we’ve had a lot of conversations over the years with NPR’s neuroscience reporter, Jon Hamilton. Jon’s been writing about brains for over 15 years, from tiny brain organoids that grow in a dish, to fruit fly brains, mouse brains and some really memorable human brains. But Jon is retiring, so today...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/41783631-c378-486b-a41e-58a4385ac83b/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=41783631-c378-486b-a41e-58a4385ac83b&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887478&p=510351&d=832&size=13323747
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: What's this super-aging butterfly’s longevity secret?
-Published Date: Tue, 14 Jul 2026 07:00:00 +0000
-Description: What if there were a great ape species that could live over 1,000 years? That’s basically Heliconius in the butterfly world. The insects live around 25 times longer than their butterfly cousins, and scientists think they have one clue as to why: pollen. But as Katie Wu, a science writer at The Atlantic, explains, that’s not the whole story. She ...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879494&p=510351&d=798&size=12782072
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -695,6 +695,12 @@ Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: Addiction, motherhood and Jesus with writer Anne Lamott
+Published Date: Fri, 31 Jul 2026 07:00:00 +0000
+Description: Writer Anne Lamott has gained a cult following through shockingly honest prose on love, death, faith, writing and more. This hour, her wisdom from a career spanning 21 books and some 40 years.This episode originally aired April 2024.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage yo...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4b4f4cbd-e499-4389-b551-59dd8156dab6/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4b4f4cbd-e499-4389-b551-59dd8156dab6&feed=gGUt_fS1&t=podcast&e=nx-s1-5913647&p=510298&d=3003&size=48049049
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Rethinking addiction in the age of Ozempic
 Published Date: Fri, 24 Jul 2026 07:00:00 +0000
 Description: GLP-1s could be a breakthrough in addiction treatment. But is medicine alone enough to treat such a complicated disease? This hour, TED speakers explore modern science and old wisdom on addiction. Guests include journalist and physician Dr. Dhruv Khullar, author and behavioral coach Eric Zimmer, and journalist Nayeema Raza.See pcm.adswizz.com fo...
@@ -747,12 +753,6 @@ Episode Title: Beyond the manosphere: Supporting boys and men in the real world
 Published Date: Fri, 29 May 2026 07:00:00 +0000
 Description: The debate about masculinity has reached a fever pitch. But Richard Reeves says we must move past the culture wars and look at the facts. This hour, a thoughtful approach to supporting boys and men.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TED speakers and deeper conversations with Manoush. By signing up fo...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4c767510-5eb9-469c-b57a-453af72271ac/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4c767510-5eb9-469c-b57a-453af72271ac&feed=gGUt_fS1&t=podcast&e=nx-s1-5837553&p=510298&d=3056&size=48908374
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: What we'll eat on a warmer planet
-Published Date: Fri, 22 May 2026 07:00:00 +0000
-Description: From the farm, to the lab, to our tables, what we eat and how it's grown is changing. Agriculture contributes to global warming and is being transformed by it. This hour, a glimpse into the future of food.Guests include chef and policy advisor Sam Kass, farmers Jim Whitaker and Jessica Whitaker Allen, biotechnologist Isha Datar and artist Sam Va...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/c5937797-c689-4513-9804-6edcbf14ff60/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=c5937797-c689-4513-9804-6edcbf14ff60&feed=gGUt_fS1&t=podcast&e=nx-s1-5829898&p=510298&d=2992&size=47873925
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -917,6 +917,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Fight Tearing Apart Silicon Valley
+Published Date: Fri, 31 Jul 2026 09:46:26 +0000
+Description: For years, a debate has been simmering in Silicon Valley over the right way to build artificial intelligence. Should it be open and free for anyone to use, or should we tightly control how it’s made and who can access it?
+Mike Isaac, who covers technology for The New York Times, explains why the release of two Chinese models pushed that debate t...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4ab1be6e-84be-4af2-8cad-ff07bb0e157f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4ab1be6e-84be-4af2-8cad-ff07bb0e157f&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Europe Is Burning
 Published Date: Thu, 30 Jul 2026 09:45:00 +0000
 Description: This summer, wildfires have been raging across Europe. France and Spain have been hit particularly badly, with hundreds of thousands of acres incinerated and entire communities devastated.
@@ -989,11 +996,4 @@ Description: To address the United States’ acute housing shortage, Congress re
 The problem is that President Trump’s crackdown on immigration has taken aim at the work force required to build those homes.
 Ronda Kaysen, who covers housing for The New York Times, ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/22323ed4-10c5-496d-a6c1-816fe496e044/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=22323ed4-10c5-496d-a6c1-816fe496e044&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: As the Iran War Escalates, Is the U.S. Hiding Its Toll?
-Published Date: Tue, 21 Jul 2026 09:45:00 +0000
-Description: The war in Iran has recently escalated in dangerous new ways, drawing in Bahrain, Kuwait and Saudi Arabia, as the Trump administration reeled from the Iranian killing of U.S. service members in Jordan.
-Eric Schmitt, a national security correspondent for The New York Times, discusses the latest attacks, and how they’ve coincided with a decision b...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a0cc5f62-a863-4786-a7d2-4818934d4f45/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a0cc5f62-a863-4786-a7d2-4818934d4f45&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

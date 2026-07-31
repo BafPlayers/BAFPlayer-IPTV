@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "Want to spend a year living in NASA's Mars simulation?",
+    "pub_date": "Fri, 31 Jul 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/631438f0-267f-4f5b-bfc4-74dfb98ae435/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=631438f0-267f-4f5b-bfc4-74dfb98ae435&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887659&p=510351&d=727&size=11633520",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Have you ever wanted to be an astronaut without risking your life in space? If so, we have the perfect opportunity for you. NASA is calling for people with a science background to apply for a simulated mission to the Moon and Mars. Four adults will spend a year isolated in two enclosures meant to simulate both traveling through deep space and li..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "Are extreme wildfires the new normal?",
     "pub_date": "Wed, 29 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/dd54f085-5b01-4dd6-8601-3737d4e2dfe8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=dd54f085-5b01-4dd6-8601-3737d4e2dfe8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5909367&p=510351&d=801&size=12818016",
@@ -279,7 +288,7 @@
     "description": "With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire Short Wave staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surp..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "A cooler of eggs and a bold plan to save leopard sharks",
     "pub_date": "Tue, 28 Jul 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Leopard sharks have nearly vanished from the waters in Raja Ampat, Indonesia. The country is one of the largest shark fishing nations in the world. Now, a first-of-its-kind conservation project is working to bring Indo-Pacific leopard sharks back from the brink of extinction. This international project hatches their eggs and raises shark pups to..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "Could this nasal spray replace all your vaccines one day?",
     "pub_date": "Mon, 27 Jul 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "There’s the flu vaccine. The covid shot. The RSV shot… What if all of these—and more—could be combined into one universal vaccine? That’s what immunologist Bali Pulendran is working on in his lab. For this episode in our Tech Camp series, Regina G. Barber talks to him about how far he’s gotten, how far he has to go and why our ancient immune sys..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "The problem with modern avocados — and the ancient solution",
     "pub_date": "Fri, 24 Jul 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Did you know that when you pick up avocados at the supermarket, make avocado toast at home or order guacamole in your burrito, you’re probably consuming only one genetic type of avocado? Yep, it’s the Hass avocado. Since it originated in California in the 20th century, it’s been grafted onto trees worldwide. And today, it makes up more than 80 p..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Does the science of peptides live up to the hype?",
     "pub_date": "Wed, 22 Jul 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Synthetic peptides are getting some serious hype, from fitness influencers on your FYP to people seeking new options for chronic conditions. And while the human body already makes peptides, like insulin and the hormone oxytocin, most of the viral synthetic peptides are not approved by the Food and Drug Administration. Scientists say that raises ..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Cyclosporiasis: the science, risks and red flags",
     "pub_date": "Tue, 21 Jul 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "What’s small, round and could give you explosive diarrhea? Cyclospora parasites. The diarrheal disease they cause is wreaking havoc on thousands this summer in what is the largest known flare up in the U.S. ever. What’s causing it and what can we do about it? NPR’s Joseph Kim joins host Nate Rott to talk about the outbreak – and how to protect y..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Are Trump and AI driving a nuclear power boom?",
     "pub_date": "Mon, 20 Jul 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "A race started by President Trump is leading to the rapid construction of new, experimental nuclear reactors. If they work, they could power data centers for artificial intelligence. But critics worry that the breakneck pace is compromising safety and public trust. NPR correspondent Geoff Brumfiel talks about the potential risks and benefits, an..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "Why did designing the World Cup pitches take eight years?",
     "pub_date": "Fri, 17 Jul 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Yamal and Messi aren’t the only stars of the World Cup finals. If you’ve been watching any of the games, you’ve probably stared directly at a huge, unsung hero: the turf. Turf grass science is a real thing, and it’s John Sorochan’s area of expertise. He’s a scientist at the University of Tennessee at Knoxville, and he’s spent the last eight year..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "Our favorite brains, including Einstein's stolen one",
     "pub_date": "Wed, 15 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/41783631-c378-486b-a41e-58a4385ac83b/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=41783631-c378-486b-a41e-58a4385ac83b&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887478&p=510351&d=832&size=13323747",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "At Short Wave, we love a good brain. Which is why we’ve had a lot of conversations over the years with NPR’s neuroscience reporter, Jon Hamilton. Jon’s been writing about brains for over 15 years, from tiny brain organoids that grow in a dish, to fruit fly brains, mouse brains and some really memorable human brains. But Jon is retiring, so today..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "What's this super-aging butterfly’s longevity secret?",
-    "pub_date": "Tue, 14 Jul 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879494&p=510351&d=798&size=12782072",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "What if there were a great ape species that could live over 1,000 years? That’s basically Heliconius in the butterfly world. The insects live around 25 times longer than their butterfly cousins, and scientists think they have one clue as to why: pollen. But as Katie Wu, a science writer at The Atlantic, explains, that’s not the whole story. She ..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -965,6 +965,15 @@
   {
     "id": "ted-radio-hour-ep-1",
     "show_name": "TED Radio Hour",
+    "episode_title": "Addiction, motherhood and Jesus with writer Anne Lamott",
+    "pub_date": "Fri, 31 Jul 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4b4f4cbd-e499-4389-b551-59dd8156dab6/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4b4f4cbd-e499-4389-b551-59dd8156dab6&feed=gGUt_fS1&t=podcast&e=nx-s1-5913647&p=510298&d=3003&size=48049049",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
+    "description": "Writer Anne Lamott has gained a cult following through shockingly honest prose on love, death, faith, writing and more. This hour, her wisdom from a career spanning 21 books and some 40 years.This episode originally aired April 2024.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage yo..."
+  },
+  {
+    "id": "ted-radio-hour-ep-2",
+    "show_name": "TED Radio Hour",
     "episode_title": "Rethinking addiction in the age of Ozempic",
     "pub_date": "Fri, 24 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/f25adc26-da65-4ee2-8a29-50f58f0b9fc3/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=f25adc26-da65-4ee2-8a29-50f58f0b9fc3&feed=gGUt_fS1&t=podcast&e=nx-s1-5903249&p=510298&d=3004&size=48075382",
@@ -972,7 +981,7 @@
     "description": "GLP-1s could be a breakthrough in addiction treatment. But is medicine alone enough to treat such a complicated disease? This hour, TED speakers explore modern science and old wisdom on addiction. Guests include journalist and physician Dr. Dhruv Khullar, author and behavioral coach Eric Zimmer, and journalist Nayeema Raza.See pcm.adswizz.com fo..."
   },
   {
-    "id": "ted-radio-hour-ep-2",
+    "id": "ted-radio-hour-ep-3",
     "show_name": "TED Radio Hour",
     "episode_title": "Searching for paradise",
     "pub_date": "Fri, 17 Jul 2026 07:00:00 +0000",
@@ -981,7 +990,7 @@
     "description": "We often view paradise as a place of safety, beauty, tranquility. It’s an ideal we long for but one we can rarely find. This hour, TED speakers search for utopia and come to terms with reality.Original broadcast date: November 10, 2023TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TED speakers and deeper convers..."
   },
   {
-    "id": "ted-radio-hour-ep-3",
+    "id": "ted-radio-hour-ep-4",
     "show_name": "TED Radio Hour",
     "episode_title": "Tracking what your body needs",
     "pub_date": "Fri, 10 Jul 2026 07:00:00 +0000",
@@ -990,7 +999,7 @@
     "description": "Our bodies are always sending signals ... but are we listening? This hour, TED speakers explore new ways to track and understand our health — from cutting-edge technology to simple, everyday habits.Guests include exercise physiologist Keith Diaz, genomicist Michael Snyder and writer Lizzie Braicks-Rinker.TED Radio Hour+ listeners now get access ..."
   },
   {
-    "id": "ted-radio-hour-ep-4",
+    "id": "ted-radio-hour-ep-5",
     "show_name": "TED Radio Hour",
     "episode_title": "The state of fashion",
     "pub_date": "Fri, 03 Jul 2026 07:00:00 +0000",
@@ -999,7 +1008,7 @@
     "description": "Whether you love fashion or hate it, we all have to get dressed in the morning, and the industry affects us in complex ways. This hour, the outrageous, environmental and seedy sides of fashion.Guests include designer Machine Dazzle, supply chain expert Aparna Mehta, journalist Amanda Mull and supermodel Cameron Russell.Original broadcast date: S..."
   },
   {
-    "id": "ted-radio-hour-ep-5",
+    "id": "ted-radio-hour-ep-6",
     "show_name": "TED Radio Hour",
     "episode_title": "Are we using screens as a scapegoat for teen mental health?",
     "pub_date": "Fri, 26 Jun 2026 07:00:00 +0000",
@@ -1008,7 +1017,7 @@
     "description": "For years, we’ve heard that social media is fueling a teen mental health crisis. But the evidence is more complicated. Developmental psychologist Candice Odgers unpacks what the research actually says—and where parents, policymakers, and the media often get it wrong.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from..."
   },
   {
-    "id": "ted-radio-hour-ep-6",
+    "id": "ted-radio-hour-ep-7",
     "show_name": "TED Radio Hour",
     "episode_title": "Sports psychology for everyday life",
     "pub_date": "Fri, 19 Jun 2026 07:00:00 +0000",
@@ -1017,7 +1026,7 @@
     "description": "The thrill of victory, the agony of defeat — sports cliches are everywhere. But what does it actually take to think like a winner? This hour, TED speakers explore the psychology of winning and losing.Original broadcast date: July 19, 2024TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TED speakers and deeper conv..."
   },
   {
-    "id": "ted-radio-hour-ep-7",
+    "id": "ted-radio-hour-ep-8",
     "show_name": "TED Radio Hour",
     "episode_title": "How predictions took over our lives",
     "pub_date": "Fri, 12 Jun 2026 07:00:00 +0000",
@@ -1026,7 +1035,7 @@
     "description": "From betting apps to AI models, prediction has become big business. This hour, why we're so drawn to certainty, and what happens when we mistake forecasts for facts. Guests include professor Brendan Dwyer, philosopher Carissa Véliz, and journalist Simone Stolzoff.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TE..."
   },
   {
-    "id": "ted-radio-hour-ep-8",
+    "id": "ted-radio-hour-ep-9",
     "show_name": "TED Radio Hour",
     "episode_title": "The case for merging human bodies with machines",
     "pub_date": "Fri, 05 Jun 2026 07:00:00 +0000",
@@ -1035,22 +1044,13 @@
     "description": "From robot helpers to smart body parts, the line between human and machine is blurring. This hour, TED speakers design tech that enhances us without diminishing our humanity. Guests include robot choreographer and computer scientist Catie Cuan, engineer and biophysicist Hugh Herr, material scientist Anna Maria Coclite and biochemist Jennifer Dou..."
   },
   {
-    "id": "ted-radio-hour-ep-9",
+    "id": "ted-radio-hour-ep-10",
     "show_name": "TED Radio Hour",
     "episode_title": "Beyond the manosphere: Supporting boys and men in the real world",
     "pub_date": "Fri, 29 May 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4c767510-5eb9-469c-b57a-453af72271ac/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4c767510-5eb9-469c-b57a-453af72271ac&feed=gGUt_fS1&t=podcast&e=nx-s1-5837553&p=510298&d=3056&size=48908374",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
     "description": "The debate about masculinity has reached a fever pitch. But Richard Reeves says we must move past the culture wars and look at the facts. This hour, a thoughtful approach to supporting boys and men.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TED speakers and deeper conversations with Manoush. By signing up fo..."
-  },
-  {
-    "id": "ted-radio-hour-ep-10",
-    "show_name": "TED Radio Hour",
-    "episode_title": "What we'll eat on a warmer planet",
-    "pub_date": "Fri, 22 May 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/c5937797-c689-4513-9804-6edcbf14ff60/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=c5937797-c689-4513-9804-6edcbf14ff60&feed=gGUt_fS1&t=podcast&e=nx-s1-5829898&p=510298&d=2992&size=47873925",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
-    "description": "From the farm, to the lab, to our tables, what we eat and how it's grown is changing. Agriculture contributes to global warming and is being transformed by it. This hour, a glimpse into the future of food.Guests include chef and policy advisor Sam Kass, farmers Jim Whitaker and Jessica Whitaker Allen, biotechnologist Isha Datar and artist Sam Va..."
   },
   {
     "id": "lex-fridman-podcast-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The Fight Tearing Apart Silicon Valley",
+    "pub_date": "Fri, 31 Jul 2026 09:46:26 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4ab1be6e-84be-4af2-8cad-ff07bb0e157f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4ab1be6e-84be-4af2-8cad-ff07bb0e157f&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "For years, a debate has been simmering in Silicon Valley over the right way to build artificial intelligence. Should it be open and free for anyone to use, or should we tightly control how it’s made and who can access it?\nMike Isaac, who covers technology for The New York Times, explains why the release of two Chinese models pushed that debate t..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Europe Is Burning",
     "pub_date": "Thu, 30 Jul 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4cb054ba-9be9-4467-878c-eea8fcb18fc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4cb054ba-9be9-4467-878c-eea8fcb18fc9&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "This summer, wildfires have been raging across Europe. France and Spain have been hit particularly badly, with hundreds of thousands of acres incinerated and entire communities devastated.\nChico Harlan, the global climate correspondent for The New York Times, and Mark Landler, the Paris bureau chief, explain how much the continent may need to ad..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Israel, AIPAC and Difficult Questions for Democrats",
     "pub_date": "Wed, 29 Jul 2026 09:47:03 +0000",
@@ -1251,7 +1260,7 @@
     "description": "The American Israel Public Affairs Committee, a pro-Israel lobbying group known as AIPAC, has spent a record amount of money in this year’s midterm elections to either oust or support candidates based on their support of Israel.\nJonathan Mahler, a writer for The New York Times Magazine, discusses the new litmus test for the left at a time when t..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The Iranians Who Want More War",
     "pub_date": "Tue, 28 Jul 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "Fractures in Tehran are pitting a faction favoring negotiation with Washington against hard-liners who oppose making a deal with the United States. \nGuest:\n\n Abdi Latif Dahir, a Middle East correspondent for The New York Times, covering Lebanon and Syria.\n Farnaz Fassihi, the United Nations bureau chief for The New York Times. She also covers Ir..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "What A.I. Is Actually Doing to the Economy",
     "pub_date": "Mon, 27 Jul 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "As artificial intelligence becomes more advanced, people are getting more nervous about how it could change the economy and their jobs.\nBen Casselman, the chief economics correspondent for The New York Times, explains why A.I.’s impact is so hard to pin down and what we can learn from the tech disruptions of the past.\nGuest: Ben Casselman, the c..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Why Do Some Memories Survive Dementia?",
     "pub_date": "Sun, 26 Jul 2026 10:00:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "When the Times reporter Ellen Barry’s father developed dementia after a fall, her family spent years trying to manage his erratic behavior and confusion. They struggled to convince him that he was home, he was safe, and he shouldn’t try to leave. The experience was exasperating and impossible to understand.\nToday, Ellen tells the story of those ..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Karl-Anthony Towns Knows the Knicks' Win Was Bigger Than Basketball",
     "pub_date": "Sat, 25 Jul 2026 10:00:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "New York’s star center on playing for his mom, Patrick Ewing. generations of emotional fans — and himself.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spoti..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Could ‘Trump Accounts’ Actually Close the Wealth Gap?",
     "pub_date": "Fri, 24 Jul 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "This month, President Trump announced the start of “Trump accounts,” an investment device that could eventually help address the nation’s wealth gap.\nClaire Cain Miller, who covers families and education for The New York Times, explains how these accounts work and why so many Americans have yet to sign up.\nGuest: Claire Cain Miller writes for Th..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Why Is the U.S. Building the Saudi Nuclear Program While Destroying Iran’s?",
     "pub_date": "Thu, 23 Jul 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "The United States signed a landmark deal on Wednesday that allows Saudi Arabia to develop a nuclear program. At the same time, President Trump is escalating the war in Iran, a conflict that the White House says aims to destroy the country’s nuclear capabilities.\nDavid E. Sanger, a national security correspondent for The New York Times, explains ..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Trump’s Clashing Goals: More Housing, Fewer Immigrants",
     "pub_date": "Wed, 22 Jul 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/22323ed4-10c5-496d-a6c1-816fe496e044/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=22323ed4-10c5-496d-a6c1-816fe496e044&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "To address the United States’ acute housing shortage, Congress recently passed a landmark piece of legislation designed to encourage the construction of new homes.\nThe problem is that President Trump’s crackdown on immigration has taken aim at the work force required to build those homes.\nRonda Kaysen, who covers housing for The New York Times, ..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "As the Iran War Escalates, Is the U.S. Hiding Its Toll?",
-    "pub_date": "Tue, 21 Jul 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a0cc5f62-a863-4786-a7d2-4818934d4f45/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a0cc5f62-a863-4786-a7d2-4818934d4f45&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "The war in Iran has recently escalated in dangerous new ways, drawing in Bahrain, Kuwait and Saudi Arabia, as the Trump administration reeled from the Iranian killing of U.S. service members in Jordan.\nEric Schmitt, a national security correspondent for The New York Times, discusses the latest attacks, and how they’ve coincided with a decision b..."
   }
 ]
