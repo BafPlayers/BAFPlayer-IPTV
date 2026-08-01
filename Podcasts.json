@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "What makes a toy go viral",
+    "pub_date": "Fri, 31 Jul 2026 21:00:00 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "Squishy, slimy, fidgety toys are having a moment. But it’s more than just an anxiety-soothing, social-media fueled trend – these toys are reshaping how toys get made.Today on the show, we have the story of the once-humble squishy dumpling and what it teaches us about how to make a viral hit and how to manufacture it, without getting left holding..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "How to beat the resource curse in Norway (Summer School)",
     "pub_date": "Wed, 29 Jul 2026 07:30:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727",
@@ -792,7 +801,7 @@
     "description": "Let’s call it the luxury of restraint. This is what enabled Norway to avoid the fate of so many other countries when they discovered oil and it changed the mix of their economy overnight.Norway! It’s expensive, wealthy, and abundant in resources. We’re going to compare two of them in particular today: deep reservoirs of oil and icy waters full o..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
     "pub_date": "Fri, 24 Jul 2026 20:00:00 +0000",
@@ -801,7 +810,7 @@
     "description": "Let’s head to a small town in Kenya that’s become globally famous for helping economists answer some of the biggest questions facing humanity.In Kenya and Nigeria, economics isn’t just theory, it’s real life. We’ll look at some radical experiments that turned out to be enormously successful.What are the building blocks of health, education and p..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Big Lettuce meets Small Intestine",
     "pub_date": "Wed, 22 Jul 2026 23:16:26 +0000",
@@ -810,7 +819,7 @@
     "description": "The cyclospora outbreak that’s sickening thousands of Americans got us interested in the rise of Big Lettuce, and the challenges of keeping it clean. So on today’s show, we tell you just how much lettuce Americans eat every year (SO MUCH!), how bagged lettuce came to dominate grocery store shelves, what that means for food safety, and why these ..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
     "pub_date": "Tue, 21 Jul 2026 21:00:01 +0000",
@@ -819,7 +828,7 @@
     "description": "In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation in the wake of George Floyd's killing. Antonio arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP. Less than a week later, he was shot and killed there. The case remains unsolved.In this..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "Can World Cup mania grow MLS in the U.S.?",
     "pub_date": "Fri, 17 Jul 2026 22:43:18 +0000",
@@ -828,7 +837,7 @@
     "description": "As the World Cup comes to a close, so does a massive real-time experiment happening just around the edges. Major League Soccer – the top men’s professional soccer league in the U.S. and Canada – has been scrambling to take advantage of this once-in-a-generation opportunity when average American sports fans suddenly cared a lot about soccer.In be..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "Building things and breaking things in China (Summer School World Tour)",
     "pub_date": "Wed, 15 Jul 2026 07:30:00 +0000",
@@ -837,7 +846,7 @@
     "description": "China’s turbocharged growth may have made it rich, but now it has to deal with rich country problems. High-speed trains that connect every town. Gleaming new bridges and skyscrapers. An apartment (or two) for every family. No country on Earth has seen the kind of economic growth that China has over the last 50 years. China has become the factory..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Seven allegedly fake Chanel bags vs The RealReal",
     "pub_date": "Fri, 10 Jul 2026 21:00:00 +0000",
@@ -846,7 +855,7 @@
     "description": "Once upon a time, if you wanted to buy a luxury brand item secondhand (say, a Chanel handbag) you had to have an in. There was no easy way to find one. But over the past decade, the market for secondhand luxury goods has exploded. There are now many online resellers where you can shop for used and discounted luxury items. One big problem — how c..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "Our mission: Find the world’s best economic ideas (Summer School World Tour)",
     "pub_date": "Wed, 08 Jul 2026 07:30:00 +0000",
@@ -855,22 +864,13 @@
     "description": "Come along as we travel the world in search of the best economic ideas to bring home!From the beaches of Barbuda to the fjords of Norway, there's money (and money problems) everywhere. For this summer travel season, Planet Money Summer School will take you on a world tour for your ears. Pack that sense of wonder and nose for adventure, this is o..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "How to win a penalty shootout (with game theory)",
     "pub_date": "Fri, 03 Jul 2026 21:00:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory.According to game theory, there’s an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics — that is, until ..."
-  },
-  {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Can the Trump administration make college cheaper?",
-    "pub_date": "Wed, 01 Jul 2026 07:00:00 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "Will limiting how much students can borrow force schools to lower their prices? The Department of Education thinks so. It has a new plan to bring down tuition costs. Starting today, July 1st, it’s going to cap how much it’s willing to loan to graduate students. You read that right. To reduce the burden of school…the plan is to give students less..."
   },
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",

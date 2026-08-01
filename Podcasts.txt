@@ -567,6 +567,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: What makes a toy go viral
+Published Date: Fri, 31 Jul 2026 21:00:00 +0000
+Description: Squishy, slimy, fidgety toys are having a moment. But it’s more than just an anxiety-soothing, social-media fueled trend – these toys are reshaping how toys get made.Today on the show, we have the story of the once-humble squishy dumpling and what it teaches us about how to make a viral hit and how to manufacture it, without getting left holding...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How to beat the resource curse in Norway (Summer School)
 Published Date: Wed, 29 Jul 2026 07:30:00 +0000
 Description: Let’s call it the luxury of restraint. This is what enabled Norway to avoid the fate of so many other countries when they discovered oil and it changed the mix of their economy overnight.Norway! It’s expensive, wealthy, and abundant in resources. We’re going to compare two of them in particular today: deep reservoirs of oil and icy waters full o...
@@ -619,12 +625,6 @@ Episode Title: How to win a penalty shootout (with game theory)
 Published Date: Fri, 03 Jul 2026 21:00:00 +0000
 Description: Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory.According to game theory, there’s an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics — that is, until ...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Can the Trump administration make college cheaper?
-Published Date: Wed, 01 Jul 2026 07:00:00 +0000
-Description: Will limiting how much students can borrow force schools to lower their prices? The Department of Education thinks so. It has a new plan to bring down tuition costs. Starting today, July 1st, it’s going to cap how much it’s willing to loan to graduate students. You read that right. To reduce the burden of school…the plan is to give students less...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
