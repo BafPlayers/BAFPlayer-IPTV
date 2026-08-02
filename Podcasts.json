@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "After Losing Her Limbs, Our Cooking Columnist Returns to the Kitchen",
+    "pub_date": "Sun, 2 Aug 2026 10:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0891bcf3-2201-4478-9f57-ffee5b7a9bc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0891bcf3-2201-4478-9f57-ffee5b7a9bc4&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "For decades, the kitchen was the centerpiece of Yewande Komolafe’s life. She spent long hours there, first as a restaurant cook and later as a recipe developer. But though she loved the often-intense culinary world, she had to navigate it with certain limitations: She was born with sickle cell disease, an inherited blood disorder, which required..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "The Fight Tearing Apart Silicon Valley",
     "pub_date": "Fri, 31 Jul 2026 09:46:26 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4ab1be6e-84be-4af2-8cad-ff07bb0e157f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4ab1be6e-84be-4af2-8cad-ff07bb0e157f&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "For years, a debate has been simmering in Silicon Valley over the right way to build artificial intelligence. Should it be open and free for anyone to use, or should we tightly control how it’s made and who can access it?\nMike Isaac, who covers technology for The New York Times, explains why the release of two Chinese models pushed that debate t..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Europe Is Burning",
     "pub_date": "Thu, 30 Jul 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "This summer, wildfires have been raging across Europe. France and Spain have been hit particularly badly, with hundreds of thousands of acres incinerated and entire communities devastated.\nChico Harlan, the global climate correspondent for The New York Times, and Mark Landler, the Paris bureau chief, explain how much the continent may need to ad..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Israel, AIPAC and Difficult Questions for Democrats",
     "pub_date": "Wed, 29 Jul 2026 09:47:03 +0000",
@@ -1260,7 +1269,7 @@
     "description": "The American Israel Public Affairs Committee, a pro-Israel lobbying group known as AIPAC, has spent a record amount of money in this year’s midterm elections to either oust or support candidates based on their support of Israel.\nJonathan Mahler, a writer for The New York Times Magazine, discusses the new litmus test for the left at a time when t..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The Iranians Who Want More War",
     "pub_date": "Tue, 28 Jul 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Fractures in Tehran are pitting a faction favoring negotiation with Washington against hard-liners who oppose making a deal with the United States. \nGuest:\n\n Abdi Latif Dahir, a Middle East correspondent for The New York Times, covering Lebanon and Syria.\n Farnaz Fassihi, the United Nations bureau chief for The New York Times. She also covers Ir..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "What A.I. Is Actually Doing to the Economy",
     "pub_date": "Mon, 27 Jul 2026 09:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "As artificial intelligence becomes more advanced, people are getting more nervous about how it could change the economy and their jobs.\nBen Casselman, the chief economics correspondent for The New York Times, explains why A.I.’s impact is so hard to pin down and what we can learn from the tech disruptions of the past.\nGuest: Ben Casselman, the c..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Why Do Some Memories Survive Dementia?",
     "pub_date": "Sun, 26 Jul 2026 10:00:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "When the Times reporter Ellen Barry’s father developed dementia after a fall, her family spent years trying to manage his erratic behavior and confusion. They struggled to convince him that he was home, he was safe, and he shouldn’t try to leave. The experience was exasperating and impossible to understand.\nToday, Ellen tells the story of those ..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Karl-Anthony Towns Knows the Knicks' Win Was Bigger Than Basketball",
     "pub_date": "Sat, 25 Jul 2026 10:00:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "New York’s star center on playing for his mom, Patrick Ewing. generations of emotional fans — and himself.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spoti..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Could ‘Trump Accounts’ Actually Close the Wealth Gap?",
     "pub_date": "Fri, 24 Jul 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "This month, President Trump announced the start of “Trump accounts,” an investment device that could eventually help address the nation’s wealth gap.\nClaire Cain Miller, who covers families and education for The New York Times, explains how these accounts work and why so many Americans have yet to sign up.\nGuest: Claire Cain Miller writes for Th..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Why Is the U.S. Building the Saudi Nuclear Program While Destroying Iran’s?",
     "pub_date": "Thu, 23 Jul 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e6d6666a-578f-449d-ad02-eafe3258fb0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e6d6666a-578f-449d-ad02-eafe3258fb0d&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "The United States signed a landmark deal on Wednesday that allows Saudi Arabia to develop a nuclear program. At the same time, President Trump is escalating the war in Iran, a conflict that the White House says aims to destroy the country’s nuclear capabilities.\nDavid E. Sanger, a national security correspondent for The New York Times, explains ..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Trump’s Clashing Goals: More Housing, Fewer Immigrants",
-    "pub_date": "Wed, 22 Jul 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/22323ed4-10c5-496d-a6c1-816fe496e044/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=22323ed4-10c5-496d-a6c1-816fe496e044&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "To address the United States’ acute housing shortage, Congress recently passed a landmark piece of legislation designed to encourage the construction of new homes.\nThe problem is that President Trump’s crackdown on immigration has taken aim at the work force required to build those homes.\nRonda Kaysen, who covers housing for The New York Times, ..."
   }
 ]
