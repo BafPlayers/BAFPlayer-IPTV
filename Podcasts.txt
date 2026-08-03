@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: The new era of AI-powered cybercrime
+Published Date: Mon, 03 Aug 2026 07:00:00 +0000
+Description: Hacking has been on the rise around the world. In 2025, the FBI’s Internet Crime Complaint Center received over 1 million complaints of cybercrime, a record high in the US. Hackers are always getting more creative, and now they have a new tool at their disposal: AI. Interested in more tech in the news? Email us your question at shortwave@npr.org...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f22c3e89-cb69-4759-92b8-036e07bfb415/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f22c3e89-cb69-4759-92b8-036e07bfb415&feed=F0qJcgXZ&t=podcast&e=nx-s1-5814724&p=510351&d=748&size=11974575
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Want to spend a year living in NASA's Mars simulation?
 Published Date: Fri, 31 Jul 2026 07:00:00 +0000
 Description: Have you ever wanted to be an astronaut without risking your life in space? If so, we have the perfect opportunity for you. NASA is calling for people with a science background to apply for a simulated mission to the Moon and Mars. Four adults will spend a year isolated in two enclosures meant to simulate both traveling through deep space and li...
@@ -253,12 +259,6 @@ Episode Title: Why did designing the World Cup pitches take eight years?
 Published Date: Fri, 17 Jul 2026 07:00:00 +0000
 Description: Yamal and Messi aren’t the only stars of the World Cup finals. If you’ve been watching any of the games, you’ve probably stared directly at a huge, unsung hero: the turf. Turf grass science is a real thing, and it’s John Sorochan’s area of expertise. He’s a scientist at the University of Tennessee at Knoxville, and he’s spent the last eight year...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f6d85deb-d40e-4626-ad61-39473572581a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f6d85deb-d40e-4626-ad61-39473572581a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5893475&p=510351&d=801&size=12826794
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Our favorite brains, including Einstein's stolen one
-Published Date: Wed, 15 Jul 2026 07:00:00 +0000
-Description: At Short Wave, we love a good brain. Which is why we’ve had a lot of conversations over the years with NPR’s neuroscience reporter, Jon Hamilton. Jon’s been writing about brains for over 15 years, from tiny brain organoids that grow in a dish, to fruit fly brains, mouse brains and some really memorable human brains. But Jon is retiring, so today...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/41783631-c378-486b-a41e-58a4385ac83b/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=41783631-c378-486b-a41e-58a4385ac83b&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887478&p=510351&d=832&size=13323747
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -417,12 +417,6 @@ Description: Misha Glenny and guests discuss one of the towering figures of Braz
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nqz886.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 ----------------------------------------
-Episode Title: The Global Story - The soft power superpower, with Roman Mars
-Published Date: Fri, 03 Jul 2026 16:00:00 +0000
-Description: As 4th July approaches, we think you’ll like this episode of The Global Story. All week, The Global Story podcast is exploring the surprising and often hidden ways the US has shaped the modern world. Roman Mars – the host of 99% Invisible and the new BBC series A History of the United States in 100 Objects – joins as a guest to set out his theor...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nwp8wy.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
-----------------------------------------
 Episode Title: The Evolution of Trees
 Published Date: Thu, 02 Jul 2026 09:15:00 +0000
 Description: Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller an...
@@ -452,10 +446,22 @@ Published Date: Thu, 04 Jun 2026 09:15:00 +0000
 Description: Misha Glenny and guests discuss one of the great writers on Central Europe after the first world war and on the dying of the old orders with the collapse of the Austro-Hungarian empire.  As a German speaking Jew from Brody in the north-eastern edge of that Empire, which was then in Galicia, next in Poland and is now in Ukraine, Roth (1894 - 1939...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njft9k.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: Cybernetics
+Published Date: Thu, 28 May 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss cybernetics – the field of study which gave us the prefix ‘cyber’ and helped lay the foundations for the information age. After the Second World War, cybernetics emerged as the study of communication, feedback, and control in both animals and machines. Cybernetics was first defined in 1948 by the American mathemat...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nh72k9.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 
 ========================================================================
 SHOW: Lore
 ========================================================================
+----------------------------------------
+Episode Title: Legends 85: Down Under
+Published Date: Mon, 03 Aug 2026 05:01:00 +0000
+Description: The huge number of dangerous creatures in Australia is terrifying, for sure. But if the legends are true, there's a lot more to be afraid of than spiders and birds. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   ...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-85d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 ----------------------------------------
 Episode Title: Deeper Lore: 311 (72, 122, & 284)
 Published Date: Thu, 30 Jul 2026 05:01:00 +0000
@@ -509,12 +515,6 @@ Episode Title: Lore 309: Party Favors
 Published Date: Mon, 29 Jun 2026 05:01:00 +0000
 Description: Parties promise us a break from the mundane or troubling. But a few celebratory gatherings in history have turned the tables, delivering something far more frightening. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahn...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore309d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Legends 82: The Weight of Fear
-Published Date: Mon, 22 Jun 2026 05:01:00 +0000
-Description: Over the centuries, it has become common to refer to traumatizing or frightening experiences as "a nightmare." The true origins of that notion, though, are the most terrifying of all. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Sam Alberty. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ——————...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-82d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -631,6 +631,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
+Published Date: Mon, 03 Aug 2026 07:10:00 -0000
+Description: Many founders think the hardest thing about business is finding customers.It's not.It's surviving success.When Lily Kanter and Serena Dugan launched a luxury baby linen business, they had no manufacturing experience, no inventory, and barely any capital. But after their first catalog landed just as a major competitor left the market, orders floo...
+Audio Stream URL: https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Advice Line with Chris Riccobono of UNTUCKit
 Published Date: Thu, 30 Jul 2026 07:10:00 -0000
 Description: Today’s callers: Adrian from California wants to grow his apparel company to complete with big-name athletic brands. Then, Preet from the Rockies looks for strategies to reach seniors and their children with his daily check-in app. And Derek from Virginia considers social media and professional partnerships to advertise his hockey equipment bran...
@@ -683,12 +689,6 @@ Episode Title: Advice Line with Ronnen Harary of Spin Master/PAW Patrol
 Published Date: Thu, 02 Jul 2026 07:10:00 -0000
 Description: Today’s callers: Ann from Nashville asks how to adapt her jewelry business in the face of rising gold prices. Then Felix in Martha’s Vineyard considers strategies for growing his family’s legacy honey and skincare company. Finally, Matt in Massachusetts seeks strategies for maintaining a healthy work-life balance at his grief-inspired brewing pr...
 Audio Stream URL: https://rss.art19.com/episodes/3894a69a-a4de-4bd8-b5f5-d3bc195994d5.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant
-Published Date: Mon, 29 Jun 2026 07:10:00 -0000
-Description: In 2004, Joey Shamah and his partner launched a cosmetics company built on an idea that made almost no sense:Sell high-quality makeup for just $1.At the time, high quality beauty products were supposed to be expensive. The biggest brands spent fortunes on celebrity endorsements, glossy ads, and premium shelf space.And every major retailer told J...
-Audio Stream URL: https://rss.art19.com/episodes/bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -917,6 +917,14 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Tangled Tale of the Tate Brothers and the Trumps
+Published Date: Mon, 3 Aug 2026 09:47:11 +0000
+Description: Warning: This episode contains strong language.
+Over the past decade, the Tate brothers have built a global empire around pornography, hypermasculinity and overt misogyny. At the same time, they have been repeatedly accused of assaulting and trafficking women.
+A Times investigation found that as their legal troubles mounted, the Tates found powe...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fadbbeb5-8762-4b95-b46e-e104ca213aa7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fadbbeb5-8762-4b95-b46e-e104ca213aa7&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: After Losing Her Limbs, Our Cooking Columnist Returns to the Kitchen
 Published Date: Sun, 2 Aug 2026 10:00:00 +0000
 Description: For decades, the kitchen was the centerpiece of Yewande Komolafe’s life. She spent long hours there, first as a restaurant cook and later as a recipe developer. But though she loved the often-intense culinary world, she had to navigate it with certain limitations: She was born with sickle cell disease, an inherited blood disorder, which required...
@@ -987,11 +995,4 @@ Description: This month, President Trump announced the start of “Trump account
 Claire Cain Miller, who covers families and education for The New York Times, explains how these accounts work and why so many Americans have yet to sign up.
 Guest: Claire Cain Miller writes for Th...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/64b4162e-280c-420b-ae47-76ae7790a258/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=64b4162e-280c-420b-ae47-76ae7790a258&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Why Is the U.S. Building the Saudi Nuclear Program While Destroying Iran’s?
-Published Date: Thu, 23 Jul 2026 09:45:00 +0000
-Description: The United States signed a landmark deal on Wednesday that allows Saudi Arabia to develop a nuclear program. At the same time, President Trump is escalating the war in Iran, a conflict that the White House says aims to destroy the country’s nuclear capabilities.
-David E. Sanger, a national security correspondent for The New York Times, explains ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e6d6666a-578f-449d-ad02-eafe3258fb0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e6d6666a-578f-449d-ad02-eafe3258fb0d&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
