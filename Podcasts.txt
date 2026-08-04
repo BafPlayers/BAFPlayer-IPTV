@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: More food and money, less disease: Senegal's surprising eco-experiment
+Published Date: Tue, 04 Aug 2026 07:00:00 +0000
+Description: In Senegal, rice farmers are trying to kill three birds with one stone – er, fish. Rice and fish are already a natural combination; they’re even the main ingredients of thieboudienne, the delicious national dish. But could that combination also reduce a debilitating disease, boost food security AND help farmers make more money? A team of researc...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a98e30ac-55bb-4a38-b7f6-2931c9d6e6bc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a98e30ac-55bb-4a38-b7f6-2931c9d6e6bc&feed=F0qJcgXZ&t=podcast&e=nx-s1-5900965&p=510351&d=810&size=12962212
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The new era of AI-powered cybercrime
 Published Date: Mon, 03 Aug 2026 07:00:00 +0000
 Description: Hacking has been on the rise around the world. In 2025, the FBI’s Internet Crime Complaint Center received over 1 million complaints of cybercrime, a record high in the US. Hackers are always getting more creative, and now they have a new tool at their disposal: AI. Interested in more tech in the news? Email us your question at shortwave@npr.org...
@@ -253,12 +259,6 @@ Episode Title: Are Trump and AI driving a nuclear power boom?
 Published Date: Mon, 20 Jul 2026 07:00:00 +0000
 Description: A race started by President Trump is leading to the rapid construction of new, experimental nuclear reactors. If they work, they could power data centers for artificial intelligence. But critics worry that the breakneck pace is compromising safety and public trust. NPR correspondent Geoff Brumfiel talks about the potential risks and benefits, an...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/818fb6dd-c830-4096-ad1d-6f3d9d9cb29c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=818fb6dd-c830-4096-ad1d-6f3d9d9cb29c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5884889&p=510351&d=826&size=13232632
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Why did designing the World Cup pitches take eight years?
-Published Date: Fri, 17 Jul 2026 07:00:00 +0000
-Description: Yamal and Messi aren’t the only stars of the World Cup finals. If you’ve been watching any of the games, you’ve probably stared directly at a huge, unsung hero: the turf. Turf grass science is a real thing, and it’s John Sorochan’s area of expertise. He’s a scientist at the University of Tennessee at Knoxville, and he’s spent the last eight year...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f6d85deb-d40e-4626-ad61-39473572581a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f6d85deb-d40e-4626-ad61-39473572581a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5893475&p=510351&d=801&size=12826794
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -917,6 +917,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Will Michigan Rewrite the Rules of Democratic Politics?
+Published Date: Tue, 4 Aug 2026 09:51:40 +0000
+Description: In Michigan, a race for U.S. Senate is not only testing the growing appeal of left-wing populism. It could also be a turning point in a long-running debate among Democratic voters about the importance of electability.
+Michael Kruse, who writes about politics for The New York Times, traveled to Michigan with the producers Asthaa Chaturvedi and An...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/317b3208-41c0-4066-bf71-5cb9cd8f2029/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=317b3208-41c0-4066-bf71-5cb9cd8f2029&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The Tangled Tale of the Tate Brothers and the Trumps
 Published Date: Mon, 3 Aug 2026 09:47:11 +0000
 Description: Warning: This episode contains strong language.
@@ -987,12 +994,4 @@ Description: New York’s star center on playing for his mom, Patrick Ewing. gen
 
 Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spoti...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bfa825ab-6d6c-430f-b887-11c2708733c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bfa825ab-6d6c-430f-b887-11c2708733c4&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Could ‘Trump Accounts’ Actually Close the Wealth Gap?
-Published Date: Fri, 24 Jul 2026 09:45:00 +0000
-Description: This month, President Trump announced the start of “Trump accounts,” an investment device that could eventually help address the nation’s wealth gap.
-Claire Cain Miller, who covers families and education for The New York Times, explains how these accounts work and why so many Americans have yet to sign up.
-Guest: Claire Cain Miller writes for Th...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/64b4162e-280c-420b-ae47-76ae7790a258/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=64b4162e-280c-420b-ae47-76ae7790a258&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
