@@ -3,29 +3,37 @@
 SHOW: NASA's Curious Universe
 ========================================================================
 ----------------------------------------
+Episode Title: Launching Soon: NASA’s Roman Space Telescope
+Published Date: Tue, 04 Aug 2026 13:25:00 -0000
+Description: NASA is about to launch the Nancy Grace Roman Space Telescope, which will change the way we see the universe and settle essential questions about some of the biggest mysteries out there. In a new limited series, Curious Universe takes you behind the scenes with NASA scientists and engineers who made Roman a reality—no Ph.D. required. 
+
+Learn mor...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION2719736624.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: There’s More Space in Your Life Than You Think 
 Published Date: Tue, 21 Jul 2026 13:00:00 -0000
 Description: In its mission to explore the unknown in air and space, NASA ends up inventing a lot of new things. Then, the agency “spins off” those inventions to companies that produce products to make our lives easier and safer here on Earth. From memory foam mattresses and cordless power tools to wireless headphones and dating apps, NASA Technology is all ...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6777593734.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Meet the Artemis III Crew
 Published Date: Fri, 12 Jun 2026 14:00:00 -0000
 Description: Meet the astronauts who will fly on Artemis III: Commander Randy Bresnik, Pilot Luca Parmitano, and Mission Specialists Frank Rubio and Andre Douglas. In this special presentation of Houston We Have a Podcast, the Artemis III astronauts discuss their backgrounds and training ahead of them to prepare for one of the most complex human spaceflight ...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6756666120.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Catching Up With Perseverance on Mars
 Published Date: Tue, 02 Jun 2026 13:10:00 -0000
 Description: NASA’s robotic explorers are looking for signs of ancient life on Mars. In its five years and counting on the surface of the Red Planet, the Perseverance rover has collected dozens of rock samples, including tantalizing features that could be signs of past life. Scientists want to keep studying Mars. That’s why NASA plans to send a fleet of next...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7307102032.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Bonus: Behind the Scenes of Artemis II with NASA Experts
 Published Date: Sat, 02 May 2026 13:23:00 -0000
 Description: In this bonus episode, go behind the scenes of key moments from Artemis II with NASA experts who made them possible. Engineers who launched the rocket describe the hours-long process that led to a successful liftoff. The leader of the closeout crew recalls his sendoff message as the astronauts were sealed inside their spacecraft. And the Artemis...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5165690257.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Update: Artemis II Crew Comes Home
 Published Date: Wed, 15 Apr 2026 14:22:00 -0000
@@ -33,37 +41,31 @@ Description: NASA’s Artemis II astronauts are back home. Hear reactions from t
 
 For more information about Artemis II, visit nasa.gov/artemis-ii
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6343672143.mp3?updated=1776263609
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Update: Artemis II Crew Flies Around the Moon
 Published Date: Wed, 08 Apr 2026 13:17:00 -0000
 Description: NASA’s Artemis II mission has flown around the Moon, and its four astronauts traveled farther from Earth than anyone in history. Relive this historic mission through the astronauts’ own words, including their scientific descriptions of the Moon’s surface, as well as the role of “space plumber” troubleshooting the toilet and the astronauts’ unify...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8947460753.mp3?updated=1775874887
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Artemis II: How NASA’s Moon Mission Returns to Earth 
 Published Date: Thu, 02 Apr 2026 12:22:00 -0000
 Description: Liftoff! NASA’s Artemis II mission launched on April 1, 2026, carrying four Moonbound astronauts. After an approximately 10-day mission, Artemis II ends with a splash. Lili Villarreal, the recovery and landing director for Artemis II, leads the team that will bring home the astronauts and their spacecraft. She describes the recovery playbook, wh...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4339213471.mp3?updated=1775860130
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Artemis II: The Ground Teams Powering NASA's Moon Mission
 Published Date: Tue, 17 Feb 2026 14:48:00 -0000
 Description: Behind NASA’s Artemis II mission and the astronauts who will fly around the Moon, teams on the ground are essential. Explore some of the epic equipment that makes Artemis II possible—the mobile launcher, crawler-transporter, and NASA’s barge Pegasus—and meet a few of the many specialists who act as the shoulders lifting astronauts into space.   ...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8742921926.mp3?updated=1775858869
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Artemis II: How NASA Will Study the Moon—And the Astronauts Going There
 Published Date: Tue, 03 Feb 2026 14:12:00 -0000
 Description: During Artemis II, four astronauts will see the lunar surface as few humans have—and possibly, parts of the Moon’s far side that no one has seen before. Learn what lunar science questions NASA hopes to answer through the astronauts' eyes with lunar geologist Kelsey Young. And those astronauts will also be subjects of science. Jancy McPhee, assoc...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9200308531.mp3?updated=1775858966
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Artemis II: Inside NASA’s New Ride to the Moon
-Published Date: Tue, 27 Jan 2026 14:12:00 -0000
-Description: During Artemis II, humans will fly Orion—NASA’s next-generation spaceship designed to take us to the Moon and beyond—for the first time. Tour Orion with Branelle Rodriguez, the vehicle manager for Artemis II, to hear about the support systems that keep astronauts alive and how exactly you use the bathroom en route to the Moon. Then, pop the hood...
-Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4539378680.mp3?updated=1775859026
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/aa7a5b25380eed0aace9ed40435dbe04.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
 SHOW: Science Vs
@@ -201,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Shooting stars are just pea-sized rocks... and other space wonders
+Published Date: Wed, 05 Aug 2026 07:00:00 +0000
+Description: Ahead of the peak of the Perseid meteor shower, we're re-airing our first episode with host Regina G. Barber. In it, Regina and planetary scientist Melissa Rice explore all things shooting stars. They talk about the different types, where they come from and what they actually are (hint: not stars).Learn more about viewing the Perseids, which wil...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/31fc9190-26bb-44dc-bb3b-794a0acff68c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=31fc9190-26bb-44dc-bb3b-794a0acff68c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5913854&p=510351&d=700&size=11208874
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: More food and money, less disease: Senegal's surprising eco-experiment
 Published Date: Tue, 04 Aug 2026 07:00:00 +0000
 Description: In Senegal, rice farmers are trying to kill three birds with one stone – er, fish. Rice and fish are already a natural combination; they’re even the main ingredients of thieboudienne, the delicious national dish. But could that combination also reduce a debilitating disease, boost food security AND help farmers make more money? A team of researc...
@@ -253,12 +261,6 @@ Episode Title: Cyclosporiasis: the science, risks and red flags
 Published Date: Tue, 21 Jul 2026 07:00:00 +0000
 Description: What’s small, round and could give you explosive diarrhea? Cyclospora parasites. The diarrheal disease they cause is wreaking havoc on thousands this summer in what is the largest known flare up in the U.S. ever. What’s causing it and what can we do about it? NPR’s Joseph Kim joins host Nate Rott to talk about the outbreak – and how to protect y...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1b8298f1-afcb-4ee3-9002-f3e030967a28/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1b8298f1-afcb-4ee3-9002-f3e030967a28&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896330&p=510351&d=636&size=10186545
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Are Trump and AI driving a nuclear power boom?
-Published Date: Mon, 20 Jul 2026 07:00:00 +0000
-Description: A race started by President Trump is leading to the rapid construction of new, experimental nuclear reactors. If they work, they could power data centers for artificial intelligence. But critics worry that the breakneck pace is compromising safety and public trust. NPR correspondent Geoff Brumfiel talks about the potential risks and benefits, an...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/818fb6dd-c830-4096-ad1d-6f3d9d9cb29c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=818fb6dd-c830-4096-ad1d-6f3d9d9cb29c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5884889&p=510351&d=826&size=13232632
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -567,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Sand heists and property rights in the Caribbean (Summer School)
+Published Date: Wed, 05 Aug 2026 07:30:00 +0000
+Description: Imagine a nation where, for the residents, land is for the claiming. You walk down the street, pick out a nice looking plot of land, and just plop down a marker. No rent, no taxes, no deed – just free land. That’s the communal system of property rights that governed a small Caribbean island for over a century.This week on our Summer School World...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: What makes a toy go viral
 Published Date: Fri, 31 Jul 2026 21:00:00 +0000
 Description: Squishy, slimy, fidgety toys are having a moment. But it’s more than just an anxiety-soothing, social-media fueled trend – these toys are reshaping how toys get made.Today on the show, we have the story of the once-humble squishy dumpling and what it teaches us about how to make a viral hit and how to manufacture it, without getting left holding...
@@ -619,12 +627,6 @@ Episode Title: Our mission: Find the world’s best economic ideas (Summer Schoo
 Published Date: Wed, 08 Jul 2026 07:30:00 +0000
 Description: Come along as we travel the world in search of the best economic ideas to bring home!From the beaches of Barbuda to the fjords of Norway, there's money (and money problems) everywhere. For this summer travel season, Planet Money Summer School will take you on a world tour for your ears. Pack that sense of wonder and nose for adventure, this is o...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: How to win a penalty shootout (with game theory)
-Published Date: Fri, 03 Jul 2026 21:00:00 +0000
-Description: Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory.According to game theory, there’s an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics — that is, until ...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -917,6 +919,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Arizona’s Food Stamp Crisis Is Coming for the Rest of the U.S.
+Published Date: Wed, 5 Aug 2026 09:52:41 +0000
+Description: The United States is undergoing one of the biggest changes to its social safety net in recent history, with huge numbers of people getting dropped from the government’s food assistance program. Nowhere has this been more dramatic than in Arizona.
+Jason DeParle, who covers poverty for The New York Times, explains why so many people are suddenly l...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6501de51-cf0c-459c-814c-73833753a099/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6501de51-cf0c-459c-814c-73833753a099&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Will Michigan Rewrite the Rules of Democratic Politics?
 Published Date: Tue, 4 Aug 2026 09:51:40 +0000
 Description: In Michigan, a race for U.S. Senate is not only testing the growing appeal of left-wing populism. It could also be a turning point in a long-running debate among Democratic voters about the importance of electability.
@@ -982,16 +991,4 @@ Published Date: Sun, 26 Jul 2026 10:00:00 +0000
 Description: When the Times reporter Ellen Barry’s father developed dementia after a fall, her family spent years trying to manage his erratic behavior and confusion. They struggled to convince him that he was home, he was safe, and he shouldn’t try to leave. The experience was exasperating and impossible to understand.
 Today, Ellen tells the story of those ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d8b0813d-3550-412b-96c3-e03b4922e9ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d8b0813d-3550-412b-96c3-e03b4922e9ce&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Karl-Anthony Towns Knows the Knicks' Win Was Bigger Than Basketball
-Published Date: Sat, 25 Jul 2026 10:00:00 +0000
-Description: New York’s star center on playing for his mom, Patrick Ewing. generations of emotional fans — and himself.
-
- Thoughts? Email us at theinterview@nytimes.com
- Watch our show on YouTube: youtube.com/@TheInterviewPodcast
- For transcripts and more, visit: nytimes.com/theinterview
-
-Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spoti...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/bfa825ab-6d6c-430f-b887-11c2708733c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=bfa825ab-6d6c-430f-b887-11c2708733c4&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
