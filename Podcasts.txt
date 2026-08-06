@@ -71,6 +71,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7be
 SHOW: Science Vs
 ========================================================================
 ----------------------------------------
+Episode Title: Weight Cycling: Is 'Yo-Yo Dieting' Dangerous?
+Published Date: Thu, 06 Aug 2026 09:00:00 -0000
+Description: If you have ever tried to lose weight only to find the weight crept back on, you’re not alone. In fact, for tons of people, this happens over and over again. This is called “weight cycling,” and a bunch of influencers are saying that this is terrible for us. They say that it can ruin your metabolism forever and that it can lead to stuff like dia...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT1082820867.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Free Will: Does It Exist?
 Published Date: Thu, 30 Jul 2026 09:00:00 -0000
 Description: Will you hit play on this episode?? It feels like that decision is totally within your control — but what if it’s not? What if free will is just an illusion? Lots of people are using science to say that free will is a trick of the mind, that whether or not you listen to this episode, or eat a taco, or do a silly dance right now — it’s all predes...
@@ -127,12 +133,6 @@ Episode Title: Hantavirus: How Scary Is It??
 Published Date: Wed, 13 May 2026 18:40:00 -0000
 Description: A weird virus has popped up on a cruise ship, and it’s making a bunch of us nervous. It’s a type of hantavirus called Andes virus, and scientists think that it’s infected almost a dozen people so far — three of them have died. And now people are getting off the boat, some of them going into government quarantine, but some of them traveling home....
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9191659625.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Tattoos: Are They Toxic?
-Published Date: Thu, 07 May 2026 09:00:00 -0000
-Description: Tons of us are inked — one in three American adults has a tattoo — but lately, we’ve been hearing that tattoos are actually bad for us. We’re told that they mess with our immune system and could even lead to cancer. Can that be true?! Plus, are there any upsides to having a tattoo? We talk to immunologist Dr. Santiago González, epidemiologist Dr...
-Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9612454996.mp3?updated=1778096686
 Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -395,6 +395,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: Archive: Aphra Behn, pioneering playwright and spy.
+Published Date: Thu, 06 Aug 2026 08:45:00 +0000
+Description: Widely regarded as the first professional woman writer in English literature, Aphra Behn (1640-1689) is best known for her plays and her novel Oroonoko, she's been an inspiration to countless writers across the ages.This archive episode, first released in October 2017, was selected as part of a ten-episode series by Misha Glenny. In the episode,...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nxf51w.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
 Episode Title: Seashells
 Published Date: Thu, 30 Jul 2026 08:02:00 +0000
 Description: Misha Glenny and guests discuss a familiar feature of our beaches: seashells, from their astonishing shapes and patterns that teach us about Earth’s oceans, to the ways that humans have treasured shells throughout history. Seashells appear in the mythologies of countless cultures across the world - think of Botticelli’s Venus emerging from a gia...
@@ -447,12 +453,6 @@ Episode Title: Joseph Roth
 Published Date: Thu, 04 Jun 2026 09:15:00 +0000
 Description: Misha Glenny and guests discuss one of the great writers on Central Europe after the first world war and on the dying of the old orders with the collapse of the Austro-Hungarian empire.  As a German speaking Jew from Brody in the north-eastern edge of that Empire, which was then in Galicia, next in Poland and is now in Ukraine, Roth (1894 - 1939...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njft9k.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
-----------------------------------------
-Episode Title: Cybernetics
-Published Date: Thu, 28 May 2026 09:15:00 +0000
-Description: Misha Glenny and guests discuss cybernetics – the field of study which gave us the prefix ‘cyber’ and helped lay the foundations for the information age. After the Second World War, cybernetics emerged as the study of communication, feedback, and control in both animals and machines. Cybernetics was first defined in 1948 by the American mathemat...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nh72k9.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 
 ========================================================================
@@ -633,6 +633,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Advice Line: "Strategy Sessions"
+Published Date: Thu, 06 Aug 2026 07:10:00 -0000
+Description: Today’s callers: Tony in Michigan is considering bringing on partners to run different parts of his brew pub and theater business. Then Monica in London is exploring the best way to reach style-conscious parents with her line of children’s clothes. And Sandy in Colorado is seeking the ideal pricing strategy to bring his adaptive test prep platfo...
+Audio Stream URL: https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
 Published Date: Mon, 03 Aug 2026 07:10:00 -0000
 Description: Many founders think the hardest thing about business is finding customers.It's not.It's surviving success.When Lily Kanter and Serena Dugan launched a luxury baby linen business, they had no manufacturing experience, no inventory, and barely any capital. But after their first catalog landed just as a major competitor left the market, orders floo...
@@ -685,12 +691,6 @@ Episode Title: Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puff
 Published Date: Mon, 06 Jul 2026 07:10:00 -0000
 Description: Krishna Kaliannan wanted to start a tech company but failed at every attempt. On the side, he was teaching himself how to cook with high-protein, low-sugar ingredients. Not just out of interest, but out of necessity. As a teenager, Krishna had been diagnosed with diabetes and epilepsy, meaning he adopted a keto diet long before it was trendy. Kr...
 Audio Stream URL: https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Advice Line with Ronnen Harary of Spin Master/PAW Patrol
-Published Date: Thu, 02 Jul 2026 07:10:00 -0000
-Description: Today’s callers: Ann from Nashville asks how to adapt her jewelry business in the face of rising gold prices. Then Felix in Martha’s Vineyard considers strategies for growing his family’s legacy honey and skincare company. Finally, Matt in Massachusetts seeks strategies for maintaining a healthy work-life balance at his grief-inspired brewing pr...
-Audio Stream URL: https://rss.art19.com/episodes/3894a69a-a4de-4bd8-b5f5-d3bc195994d5.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -919,6 +919,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Cyclospora Mystery: How Human Poop Got on So Much Lettuce
+Published Date: Thu, 6 Aug 2026 09:45:00 +0000
+Description: U.S. health officials linked six more states to what’s now the largest outbreak of cyclospora in American history — an outbreak that has contributed to at least two deaths, sickened thousands of people and left the rest of us increasingly scared of salad.
+Today, Christina Jewett and Caroline Hopkins Legaspi, two public health reporters who have ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/95d55880-6547-4879-9752-846e525beb17/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=95d55880-6547-4879-9752-846e525beb17&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Arizona’s Food Stamp Crisis Is Coming for the Rest of the U.S.
 Published Date: Wed, 5 Aug 2026 09:52:41 +0000
 Description: The United States is undergoing one of the biggest changes to its social safety net in recent history, with huge numbers of people getting dropped from the government’s food assistance program. Nowhere has this been more dramatic than in Arizona.
@@ -984,11 +991,4 @@ Description: As artificial intelligence becomes more advanced, people are gettin
 Ben Casselman, the chief economics correspondent for The New York Times, explains why A.I.’s impact is so hard to pin down and what we can learn from the tech disruptions of the past.
 Guest: Ben Casselman, the c...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a88ecc7f-2789-456a-83a4-03f11abbb7ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a88ecc7f-2789-456a-83a4-03f11abbb7ff&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Why Do Some Memories Survive Dementia?
-Published Date: Sun, 26 Jul 2026 10:00:00 +0000
-Description: When the Times reporter Ellen Barry’s father developed dementia after a fall, her family spent years trying to manage his erratic behavior and confusion. They struggled to convince him that he was home, he was safe, and he shouldn’t try to leave. The experience was exasperating and impossible to understand.
-Today, Ellen tells the story of those ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d8b0813d-3550-412b-96c3-e03b4922e9ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d8b0813d-3550-412b-96c3-e03b4922e9ce&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

@@ -92,6 +92,15 @@
   {
     "id": "science-vs--gimlet--ep-1",
     "show_name": "Science Vs",
+    "episode_title": "Weight Cycling: Is 'Yo-Yo Dieting' Dangerous?",
+    "pub_date": "Thu, 06 Aug 2026 09:00:00 -0000",
+    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT1082820867.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "If you have ever tried to lose weight only to find the weight crept back on, you’re not alone. In fact, for tons of people, this happens over and over again. This is called “weight cycling,” and a bunch of influencers are saying that this is terrible for us. They say that it can ruin your metabolism forever and that it can lead to stuff like dia..."
+  },
+  {
+    "id": "science-vs--gimlet--ep-2",
+    "show_name": "Science Vs",
     "episode_title": "Free Will: Does It Exist?",
     "pub_date": "Thu, 30 Jul 2026 09:00:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT1316999137.mp3",
@@ -99,7 +108,7 @@
     "description": "Will you hit play on this episode?? It feels like that decision is totally within your control — but what if it’s not? What if free will is just an illusion? Lots of people are using science to say that free will is a trick of the mind, that whether or not you listen to this episode, or eat a taco, or do a silly dance right now — it’s all predes..."
   },
   {
-    "id": "science-vs--gimlet--ep-2",
+    "id": "science-vs--gimlet--ep-3",
     "show_name": "Science Vs",
     "episode_title": "Narcissists: Are We Surrounded?",
     "pub_date": "Thu, 02 Jul 2026 09:00:00 -0000",
@@ -108,7 +117,7 @@
     "description": "The internet tells us that narcissists are everywhere — and that the problem is only getting worse. It’s like narcissism is oozing out of our celebrities, politicians, partners, parents, maybe even ourselves?? So today, we’re taking a long look in the mirror to find out: are we all a bunch of narcissists? And what should we do if we think someon..."
   },
   {
-    "id": "science-vs--gimlet--ep-3",
+    "id": "science-vs--gimlet--ep-4",
     "show_name": "Science Vs",
     "episode_title": "Raw Milk: Secret Superfood??",
     "pub_date": "Thu, 25 Jun 2026 09:00:00 -0000",
@@ -117,7 +126,7 @@
     "description": "Raw milk is having a major moment, with fans claiming it’s a gut-healing superfood that can prevent everything from asthma to allergies. But others are like HOLD ON — we pasteurize milk to make it safe! Drinking raw milk can kill you. So, who’s right? Could there be some benefits to guzzling milk straight from the teat? Or is it a terrible idea?..."
   },
   {
-    "id": "science-vs--gimlet--ep-4",
+    "id": "science-vs--gimlet--ep-5",
     "show_name": "Science Vs",
     "episode_title": "Caffeine: How Much Is Too Much? ",
     "pub_date": "Thu, 18 Jun 2026 09:00:00 -0000",
@@ -126,7 +135,7 @@
     "description": "Today we’re revisiting caffeine. It’s a drug that tons of us take every day. So, is that a bad thing?? What is it really doing to our bodies and our brains? Plus — if we get it in the form of energy drinks, is that super dangerous? We talk to Dr. Astrid Nehlig, Prof. Gregory Marcus, and Prof. Sachin Shah. [REBROADCAST]\n\nFind our transcript here:..."
   },
   {
-    "id": "science-vs--gimlet--ep-5",
+    "id": "science-vs--gimlet--ep-6",
     "show_name": "Science Vs",
     "episode_title": "The Woman Who Felt No Fear",
     "pub_date": "Thu, 11 Jun 2026 09:00:00 -0000",
@@ -135,7 +144,7 @@
     "description": "A group of scientists meet a very unusual woman. A key part of her brain isn’t working: the amygdala. This is the part of the brain that we think is responsible for feeling fear. And in fact, this woman does seem pretty fearless. Researchers test her fear response using some very unconventional methods, but she takes everything in stride. Then, ..."
   },
   {
-    "id": "science-vs--gimlet--ep-6",
+    "id": "science-vs--gimlet--ep-7",
     "show_name": "Science Vs",
     "episode_title": "Peptides: The Ultimate Body Hack? ",
     "pub_date": "Thu, 04 Jun 2026 09:00:00 -0000",
@@ -144,7 +153,7 @@
     "description": "Peptides are huge right now. Influencers are telling us they can work wonders for all sorts of stuff. Struggling with an annoying injury that won't heal?? Belly fat that's pissing you off? Low energy? Gut issues?? There’s a peptide out there for you. People are buying peptides off the internet and injecting themselves with them, saying it's life..."
   },
   {
-    "id": "science-vs--gimlet--ep-7",
+    "id": "science-vs--gimlet--ep-8",
     "show_name": "Science Vs",
     "episode_title": "How Toxic Is the Air You Breathe?",
     "pub_date": "Thu, 28 May 2026 09:00:00 -0000",
@@ -153,7 +162,7 @@
     "description": "The Trump administration is rolling back restrictions on air pollution in the U.S., and some experts say this could affect the health of millions of people. And what makes air pollution especially dangerous is that we often can’t see it at all. \n\nSo today, we’re going back to the story of Ella Kissi-Debrah, a little girl who suddenly got sick an..."
   },
   {
-    "id": "science-vs--gimlet--ep-8",
+    "id": "science-vs--gimlet--ep-9",
     "show_name": "Science Vs",
     "episode_title": "Ibogaine: A Miracle Psychedelic?",
     "pub_date": "Thu, 21 May 2026 09:00:00 -0000",
@@ -162,22 +171,13 @@
     "description": "Ibogaine. Fans say this psychedelic is a game changer for treating a bunch of mental health conditions — that even a single trip to your friendly ibogaine clinic could cure you of lifelong struggles with addiction. And recently President Trump signed an executive order fast-tracking research into this psychedelic drug. But how well does it reall..."
   },
   {
-    "id": "science-vs--gimlet--ep-9",
+    "id": "science-vs--gimlet--ep-10",
     "show_name": "Science Vs",
     "episode_title": "Hantavirus: How Scary Is It??",
     "pub_date": "Wed, 13 May 2026 18:40:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9191659625.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "A weird virus has popped up on a cruise ship, and it’s making a bunch of us nervous. It’s a type of hantavirus called Andes virus, and scientists think that it’s infected almost a dozen people so far — three of them have died. And now people are getting off the boat, some of them going into government quarantine, but some of them traveling home...."
-  },
-  {
-    "id": "science-vs--gimlet--ep-10",
-    "show_name": "Science Vs",
-    "episode_title": "Tattoos: Are They Toxic?",
-    "pub_date": "Thu, 07 May 2026 09:00:00 -0000",
-    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9612454996.mp3?updated=1778096686",
-    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Tons of us are inked — one in three American adults has a tattoo — but lately, we’ve been hearing that tattoos are actually bad for us. We’re told that they mess with our immune system and could even lead to cancer. Can that be true?! Plus, are there any upsides to having a tattoo? We talk to immunologist Dr. Santiago González, epidemiologist Dr..."
   },
   {
     "id": "astronomy-cast--libsyn--ep-1",
@@ -542,6 +542,15 @@
   {
     "id": "bbc-in-our-time-ep-1",
     "show_name": "In Our Time",
+    "episode_title": "Archive: Aphra Behn, pioneering playwright and spy.",
+    "pub_date": "Thu, 06 Aug 2026 08:45:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nxf51w.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
+    "description": "Widely regarded as the first professional woman writer in English literature, Aphra Behn (1640-1689) is best known for her plays and her novel Oroonoko, she's been an inspiration to countless writers across the ages.This archive episode, first released in October 2017, was selected as part of a ten-episode series by Misha Glenny. In the episode,..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-2",
+    "show_name": "In Our Time",
     "episode_title": "Seashells",
     "pub_date": "Thu, 30 Jul 2026 08:02:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nw62hn.mp3",
@@ -549,7 +558,7 @@
     "description": "Misha Glenny and guests discuss a familiar feature of our beaches: seashells, from their astonishing shapes and patterns that teach us about Earth’s oceans, to the ways that humans have treasured shells throughout history. Seashells appear in the mythologies of countless cultures across the world - think of Botticelli’s Venus emerging from a gia..."
   },
   {
-    "id": "bbc-in-our-time-ep-2",
+    "id": "bbc-in-our-time-ep-3",
     "show_name": "In Our Time",
     "episode_title": "Vigée Le Brun",
     "pub_date": "Thu, 23 Jul 2026 09:15:00 +0000",
@@ -558,7 +567,7 @@
     "description": "Misha Glenny and guests discuss the French portrait painter Élisabeth Vigée Le Brun (1755 - 1842). From her teens she delighted her high society subjects in and around Paris, notably Marie Antoinette who she painted around 30 times, and she invariably found ways to show her sitters at their best.  Some critics were affronted that she, a young wo..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "The Delian League",
     "pub_date": "Thu, 16 Jul 2026 09:15:00 +0000",
@@ -567,7 +576,7 @@
     "description": "Misha Glenny and guests discuss the origins and evolution of an alliance which transformed the geopolitics of the classical world: the Delian League. Since the start of the 5th Century BCE, city states across Greece had been fighting a series of armed conflicts in the Greco-Persian Wars.  After the defeat of a second Persian invasion in 478 BCE,..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "Machado de Assis",
     "pub_date": "Thu, 09 Jul 2026 09:15:00 +0000",
@@ -576,7 +585,7 @@
     "description": "Misha Glenny and guests discuss one of the towering figures of Brazilian and world literature, Machado de Assis (1839 - 1908).  He was the descendant of slaves and built his career while slavery was still in place in Brazil  (abolished 1888) and many of his characters were from the slave-owning class who were also the readers of his books. At th..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "The Evolution of Trees",
     "pub_date": "Thu, 02 Jul 2026 09:15:00 +0000",
@@ -585,7 +594,7 @@
     "description": "Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller an..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "The Welsh Marches",
     "pub_date": "Thu, 25 Jun 2026 09:15:00 +0000",
@@ -594,7 +603,7 @@
     "description": "At the Hay Festival, Misha Glenny and guests discuss the impact of the Norman invasion on the people and land of Wales and across the modern border with England in what became known as The Welsh Marches, march being a term for a militarized borderland.  Hay was one of the first Marcher lordships. Even before 1066, William the Conqueror knew that..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "The Levellers",
     "pub_date": "Thu, 18 Jun 2026 09:15:00 +0000",
@@ -603,7 +612,7 @@
     "description": "Misha Glenny and guests discuss the group which came to be known as the Levellers and emerged during what would become arguably one of the bloodiest and most turbulent periods of English history. After the First English Civil War, the Levellers started calling for reforms to achieve legal and social equality. They pushed for a new constitution, ..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "The Garamantes",
     "pub_date": "Thu, 11 Jun 2026 09:15:00 +0000",
@@ -612,22 +621,13 @@
     "description": "Misha Glenny and guests discuss an ancient civilisation who lived over 2000 years ago in the southwest of modern-day Libya. During prehistoric times, the Sahara Desert was greener and even had large lakes, but for the last 5000 years it has been a hyperarid environment. Extreme swings of temperature and limited surface water might make the Sahar..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "Joseph Roth",
     "pub_date": "Thu, 04 Jun 2026 09:15:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njft9k.mp3",
     "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
     "description": "Misha Glenny and guests discuss one of the great writers on Central Europe after the first world war and on the dying of the old orders with the collapse of the Austro-Hungarian empire.  As a German speaking Jew from Brody in the north-eastern edge of that Empire, which was then in Galicia, next in Poland and is now in Ukraine, Roth (1894 - 1939..."
-  },
-  {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "Cybernetics",
-    "pub_date": "Thu, 28 May 2026 09:15:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nh72k9.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
-    "description": "Misha Glenny and guests discuss cybernetics – the field of study which gave us the prefix ‘cyber’ and helped lay the foundations for the information age. After the Second World War, cybernetics emerged as the study of communication, feedback, and control in both animals and machines. Cybernetics was first defined in 1948 by the American mathemat..."
   },
   {
     "id": "lore--folklore---history--ep-1",
@@ -875,6 +875,15 @@
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
     "show_name": "How I Built This with Guy Raz",
+    "episode_title": "Advice Line: \"Strategy Sessions\"",
+    "pub_date": "Thu, 06 Aug 2026 07:10:00 -0000",
+    "stream_url": "https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+    "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
+    "description": "Today’s callers: Tony in Michigan is considering bringing on partners to run different parts of his brew pub and theater business. Then Monica in London is exploring the best way to reach style-conscious parents with her line of children’s clothes. And Sandy in Colorado is seeking the ideal pricing strategy to bring his adaptive test prep platfo..."
+  },
+  {
+    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "show_name": "How I Built This with Guy Raz",
     "episode_title": "Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It",
     "pub_date": "Mon, 03 Aug 2026 07:10:00 -0000",
     "stream_url": "https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
@@ -882,7 +891,7 @@
     "description": "Many founders think the hardest thing about business is finding customers.It's not.It's surviving success.When Lily Kanter and Serena Dugan launched a luxury baby linen business, they had no manufacturing experience, no inventory, and barely any capital. But after their first catalog landed just as a major competitor left the market, orders floo..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Chris Riccobono of UNTUCKit",
     "pub_date": "Thu, 30 Jul 2026 07:10:00 -0000",
@@ -891,7 +900,7 @@
     "description": "Today’s callers: Adrian from California wants to grow his apparel company to complete with big-name athletic brands. Then, Preet from the Rockies looks for strategies to reach seniors and their children with his daily check-in app. And Derek from Virginia considers social media and professional partnerships to advertise his hockey equipment bran..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company. ",
     "pub_date": "Mon, 27 Jul 2026 07:10:00 -0000",
@@ -900,7 +909,7 @@
     "description": "Chuck Surack never planned to build one of America's largest online retailers. He just wanted to be a musician. So right after high school, he took his sax and drove off in his old VW van to play gigs around the country. It didn’t work out. But with the audio and mixing skills Chuck learned gigging, he decided to convert his van into a mobile re..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Curt Richardson of OtterBox",
     "pub_date": "Thu, 23 Jul 2026 07:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Today’s callers: Andy from Sarasota weighs whether the path to scalability for his live game show business is through personality or product. Then, Marissa from Tampa wants to recapture sales for her fairy tale-inspired teas after taking a hiatus to focus on her family. And Vince from New Jersey wonders how to allocate marketing dollars for  his..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.",
     "pub_date": "Mon, 20 Jul 2026 07:10:00 -0000",
@@ -918,7 +927,7 @@
     "description": "After waiting too long to pay his restaurant bill, Aman Narang thought there had to be a better way. His first idea—a mobile payment app—flopped.But that failure revealed a much bigger opportunity.Restaurants were struggling with outdated software that many owners hated. Payment systems were expensive, unreliable, and trapped on servers hidden i..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Kenneth Cole",
     "pub_date": "Thu, 16 Jul 2026 07:10:00 -0000",
@@ -927,7 +936,7 @@
     "description": "Today’s callers: Matt from New York City unpacks the stigma working against his line of foot wellness products. Then Emefa in Toronto seeks a direct relationship with customers of her fashion brand in the wake of a key retailer going out of business. Finally, Levi in Rhode Island explores new audiences and product lines for his commemorative gol..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
     "pub_date": "Mon, 13 Jul 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "Tom Rinks got his start in the commission-only \"shark tank\" of midwestern furniture sales. That’s where he learned what makes customers buy. Decades later, those instincts helped him grow a joke of a side hustle into a $400 million success.In 2009, he created the iconic branding for an obscure sun tan lotion, drawing on a mish-mash of surf cultu..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)",
     "pub_date": "Thu, 09 Jul 2026 07:10:00 -0000",
@@ -945,22 +954,13 @@
     "description": "Jeni’s Splendid Ice Creams founder Jeni Britton joins Guy on the Advice Line to answer questions from three early-stage entrepreneurs. Plus, how Jeni’s newest venture Floura is tackling one of America’s largest dietary needs—fiber. First, we meet Jesse in Washington, D.C., who’s wondering how to best focus marketing efforts for his frozen french..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
     "pub_date": "Mon, 06 Jul 2026 07:10:00 -0000",
     "stream_url": "https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
     "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
     "description": "Krishna Kaliannan wanted to start a tech company but failed at every attempt. On the side, he was teaching himself how to cook with high-protein, low-sugar ingredients. Not just out of interest, but out of necessity. As a teenager, Krishna had been diagnosed with diabetes and epilepsy, meaning he adopted a keto diet long before it was trendy. Kr..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
-    "pub_date": "Thu, 02 Jul 2026 07:10:00 -0000",
-    "stream_url": "https://rss.art19.com/episodes/3894a69a-a4de-4bd8-b5f5-d3bc195994d5.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-    "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
-    "description": "Today’s callers: Ann from Nashville asks how to adapt her jewelry business in the face of rising gold prices. Then Felix in Martha’s Vineyard considers strategies for growing his family’s legacy honey and skincare company. Finally, Matt in Massachusetts seeks strategies for maintaining a healthy work-life balance at his grief-inspired brewing pr..."
   },
   {
     "id": "ted-radio-hour-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The Cyclospora Mystery: How Human Poop Got on So Much Lettuce",
+    "pub_date": "Thu, 6 Aug 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/95d55880-6547-4879-9752-846e525beb17/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=95d55880-6547-4879-9752-846e525beb17&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "U.S. health officials linked six more states to what’s now the largest outbreak of cyclospora in American history — an outbreak that has contributed to at least two deaths, sickened thousands of people and left the rest of us increasingly scared of salad.\nToday, Christina Jewett and Caroline Hopkins Legaspi, two public health reporters who have ..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Arizona’s Food Stamp Crisis Is Coming for the Rest of the U.S.",
     "pub_date": "Wed, 5 Aug 2026 09:52:41 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6501de51-cf0c-459c-814c-73833753a099/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6501de51-cf0c-459c-814c-73833753a099&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "The United States is undergoing one of the biggest changes to its social safety net in recent history, with huge numbers of people getting dropped from the government’s food assistance program. Nowhere has this been more dramatic than in Arizona.\nJason DeParle, who covers poverty for The New York Times, explains why so many people are suddenly l..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Will Michigan Rewrite the Rules of Democratic Politics?",
     "pub_date": "Tue, 4 Aug 2026 09:51:40 +0000",
@@ -1251,7 +1260,7 @@
     "description": "In Michigan, a race for U.S. Senate is not only testing the growing appeal of left-wing populism. It could also be a turning point in a long-running debate among Democratic voters about the importance of electability.\nMichael Kruse, who writes about politics for The New York Times, traveled to Michigan with the producers Asthaa Chaturvedi and An..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The Tangled Tale of the Tate Brothers and the Trumps",
     "pub_date": "Mon, 3 Aug 2026 09:47:11 +0000",
@@ -1260,7 +1269,7 @@
     "description": "Warning: This episode contains strong language.\nOver the past decade, the Tate brothers have built a global empire around pornography, hypermasculinity and overt misogyny. At the same time, they have been repeatedly accused of assaulting and trafficking women.\nA Times investigation found that as their legal troubles mounted, the Tates found powe..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "After Losing Her Limbs, Our Cooking Columnist Returns to the Kitchen",
     "pub_date": "Sun, 2 Aug 2026 10:00:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "For decades, the kitchen was the centerpiece of Yewande Komolafe’s life. She spent long hours there, first as a restaurant cook and later as a recipe developer. But though she loved the often-intense culinary world, she had to navigate it with certain limitations: She was born with sickle cell disease, an inherited blood disorder, which required..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Fight Tearing Apart Silicon Valley",
     "pub_date": "Fri, 31 Jul 2026 09:46:26 +0000",
@@ -1278,7 +1287,7 @@
     "description": "For years, a debate has been simmering in Silicon Valley over the right way to build artificial intelligence. Should it be open and free for anyone to use, or should we tightly control how it’s made and who can access it?\nMike Isaac, who covers technology for The New York Times, explains why the release of two Chinese models pushed that debate t..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Europe Is Burning",
     "pub_date": "Thu, 30 Jul 2026 09:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "This summer, wildfires have been raging across Europe. France and Spain have been hit particularly badly, with hundreds of thousands of acres incinerated and entire communities devastated.\nChico Harlan, the global climate correspondent for The New York Times, and Mark Landler, the Paris bureau chief, explain how much the continent may need to ad..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Israel, AIPAC and Difficult Questions for Democrats",
     "pub_date": "Wed, 29 Jul 2026 09:47:03 +0000",
@@ -1296,7 +1305,7 @@
     "description": "The American Israel Public Affairs Committee, a pro-Israel lobbying group known as AIPAC, has spent a record amount of money in this year’s midterm elections to either oust or support candidates based on their support of Israel.\nJonathan Mahler, a writer for The New York Times Magazine, discusses the new litmus test for the left at a time when t..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The Iranians Who Want More War",
     "pub_date": "Tue, 28 Jul 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "Fractures in Tehran are pitting a faction favoring negotiation with Washington against hard-liners who oppose making a deal with the United States. \nGuest:\n\n Abdi Latif Dahir, a Middle East correspondent for The New York Times, covering Lebanon and Syria.\n Farnaz Fassihi, the United Nations bureau chief for The New York Times. She also covers Ir..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "What A.I. Is Actually Doing to the Economy",
     "pub_date": "Mon, 27 Jul 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a88ecc7f-2789-456a-83a4-03f11abbb7ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a88ecc7f-2789-456a-83a4-03f11abbb7ff&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "As artificial intelligence becomes more advanced, people are getting more nervous about how it could change the economy and their jobs.\nBen Casselman, the chief economics correspondent for The New York Times, explains why A.I.’s impact is so hard to pin down and what we can learn from the tech disruptions of the past.\nGuest: Ben Casselman, the c..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Why Do Some Memories Survive Dementia?",
-    "pub_date": "Sun, 26 Jul 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d8b0813d-3550-412b-96c3-e03b4922e9ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d8b0813d-3550-412b-96c3-e03b4922e9ce&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "When the Times reporter Ellen Barry’s father developed dementia after a fall, her family spent years trying to manage his erratic behavior and confusion. They struggled to convince him that he was home, he was safe, and he shouldn’t try to leave. The experience was exasperating and impossible to understand.\nToday, Ellen tells the story of those ..."
   }
 ]
