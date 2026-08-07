@@ -395,7 +395,13 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
-Episode Title: Archive: Aphra Behn, pioneering playwright and spy.
+Episode Title: Pockets (from Here For The History)
+Published Date: Fri, 07 Aug 2026 05:00:00 +0000
+Description: To the frustration of many, a lot of women’s clothes don’t have pockets. But why on Earth is that the case? Especially when men’s clothing seems to be full of pockets.On Here For The History, Alice Loxton and Ben Henderson track the tumultuous and muddy history of women’s pockets. From capacious beginnings, through many fashion changes, to suffr...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p19850.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
+Episode Title: Archive: Aphra Behn
 Published Date: Thu, 06 Aug 2026 08:45:00 +0000
 Description: Widely regarded as the first professional woman writer in English literature, Aphra Behn (1640-1689) is best known for her plays and her novel Oroonoko, she's been an inspiration to countless writers across the ages.This archive episode, first released in October 2017, was selected as part of a ten-episode series by Misha Glenny. In the episode,...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nxf51w.mp3
@@ -447,12 +453,6 @@ Episode Title: The Garamantes
 Published Date: Thu, 11 Jun 2026 09:15:00 +0000
 Description: Misha Glenny and guests discuss an ancient civilisation who lived over 2000 years ago in the southwest of modern-day Libya. During prehistoric times, the Sahara Desert was greener and even had large lakes, but for the last 5000 years it has been a hyperarid environment. Extreme swings of temperature and limited surface water might make the Sahar...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nksv4p.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
-----------------------------------------
-Episode Title: Joseph Roth
-Published Date: Thu, 04 Jun 2026 09:15:00 +0000
-Description: Misha Glenny and guests discuss one of the great writers on Central Europe after the first world war and on the dying of the old orders with the collapse of the Austro-Hungarian empire.  As a German speaking Jew from Brody in the north-eastern edge of that Empire, which was then in Galicia, next in Poland and is now in Ukraine, Roth (1894 - 1939...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njft9k.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 
 ========================================================================

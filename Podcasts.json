@@ -542,14 +542,23 @@
   {
     "id": "bbc-in-our-time-ep-1",
     "show_name": "In Our Time",
-    "episode_title": "Archive: Aphra Behn, pioneering playwright and spy.",
+    "episode_title": "Pockets (from Here For The History)",
+    "pub_date": "Fri, 07 Aug 2026 05:00:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p19850.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
+    "description": "To the frustration of many, a lot of women’s clothes don’t have pockets. But why on Earth is that the case? Especially when men’s clothing seems to be full of pockets.On Here For The History, Alice Loxton and Ben Henderson track the tumultuous and muddy history of women’s pockets. From capacious beginnings, through many fashion changes, to suffr..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-2",
+    "show_name": "In Our Time",
+    "episode_title": "Archive: Aphra Behn",
     "pub_date": "Thu, 06 Aug 2026 08:45:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nxf51w.mp3",
     "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
     "description": "Widely regarded as the first professional woman writer in English literature, Aphra Behn (1640-1689) is best known for her plays and her novel Oroonoko, she's been an inspiration to countless writers across the ages.This archive episode, first released in October 2017, was selected as part of a ten-episode series by Misha Glenny. In the episode,..."
   },
   {
-    "id": "bbc-in-our-time-ep-2",
+    "id": "bbc-in-our-time-ep-3",
     "show_name": "In Our Time",
     "episode_title": "Seashells",
     "pub_date": "Thu, 30 Jul 2026 08:02:00 +0000",
@@ -558,7 +567,7 @@
     "description": "Misha Glenny and guests discuss a familiar feature of our beaches: seashells, from their astonishing shapes and patterns that teach us about Earth’s oceans, to the ways that humans have treasured shells throughout history. Seashells appear in the mythologies of countless cultures across the world - think of Botticelli’s Venus emerging from a gia..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "Vigée Le Brun",
     "pub_date": "Thu, 23 Jul 2026 09:15:00 +0000",
@@ -567,7 +576,7 @@
     "description": "Misha Glenny and guests discuss the French portrait painter Élisabeth Vigée Le Brun (1755 - 1842). From her teens she delighted her high society subjects in and around Paris, notably Marie Antoinette who she painted around 30 times, and she invariably found ways to show her sitters at their best.  Some critics were affronted that she, a young wo..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "The Delian League",
     "pub_date": "Thu, 16 Jul 2026 09:15:00 +0000",
@@ -576,7 +585,7 @@
     "description": "Misha Glenny and guests discuss the origins and evolution of an alliance which transformed the geopolitics of the classical world: the Delian League. Since the start of the 5th Century BCE, city states across Greece had been fighting a series of armed conflicts in the Greco-Persian Wars.  After the defeat of a second Persian invasion in 478 BCE,..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "Machado de Assis",
     "pub_date": "Thu, 09 Jul 2026 09:15:00 +0000",
@@ -585,7 +594,7 @@
     "description": "Misha Glenny and guests discuss one of the towering figures of Brazilian and world literature, Machado de Assis (1839 - 1908).  He was the descendant of slaves and built his career while slavery was still in place in Brazil  (abolished 1888) and many of his characters were from the slave-owning class who were also the readers of his books. At th..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "The Evolution of Trees",
     "pub_date": "Thu, 02 Jul 2026 09:15:00 +0000",
@@ -594,7 +603,7 @@
     "description": "Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller an..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "The Welsh Marches",
     "pub_date": "Thu, 25 Jun 2026 09:15:00 +0000",
@@ -603,7 +612,7 @@
     "description": "At the Hay Festival, Misha Glenny and guests discuss the impact of the Norman invasion on the people and land of Wales and across the modern border with England in what became known as The Welsh Marches, march being a term for a militarized borderland.  Hay was one of the first Marcher lordships. Even before 1066, William the Conqueror knew that..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "The Levellers",
     "pub_date": "Thu, 18 Jun 2026 09:15:00 +0000",
@@ -612,22 +621,13 @@
     "description": "Misha Glenny and guests discuss the group which came to be known as the Levellers and emerged during what would become arguably one of the bloodiest and most turbulent periods of English history. After the First English Civil War, the Levellers started calling for reforms to achieve legal and social equality. They pushed for a new constitution, ..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "The Garamantes",
     "pub_date": "Thu, 11 Jun 2026 09:15:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nksv4p.mp3",
     "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
     "description": "Misha Glenny and guests discuss an ancient civilisation who lived over 2000 years ago in the southwest of modern-day Libya. During prehistoric times, the Sahara Desert was greener and even had large lakes, but for the last 5000 years it has been a hyperarid environment. Extreme swings of temperature and limited surface water might make the Sahar..."
-  },
-  {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "Joseph Roth",
-    "pub_date": "Thu, 04 Jun 2026 09:15:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njft9k.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg",
-    "description": "Misha Glenny and guests discuss one of the great writers on Central Europe after the first world war and on the dying of the old orders with the collapse of the Austro-Hungarian empire.  As a German speaking Jew from Brody in the north-eastern edge of that Empire, which was then in Galicia, next in Poland and is now in Ukraine, Roth (1894 - 1939..."
   },
   {
     "id": "lore--folklore---history--ep-1",
