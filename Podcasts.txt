@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Mirror cells could threaten life on Earth. Why are we building them?
+Published Date: Mon, 10 Aug 2026 07:00:00 +0000
+Description: For people with two hands, one is usually dominant. On a molecular level, earthly life takes this to the extreme. All of the DNA in living things twists to the right, whereas the protein building blocks favor a kind of left-handed chemistry.The rules of life are based on this chemistry.In recent years, scientists have worked toward a kind of mir...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a3fd708e-55cc-476a-ad3c-808b416e57f9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a3fd708e-55cc-476a-ad3c-808b416e57f9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5923990&p=510351&d=852&size=13641396
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The Midnight Rebellion: Almost Midnight
 Published Date: Sat, 08 Aug 2026 07:00:02 +0000
 Description: WBUR’s The Midnight Rebellion is a one-of-a-kind podcast: a “choose your own”-style show set 100 years in the future when the climate has gone haywire, and it’s up to you to save the planet. Rooted in science, this fictional adventure was created for kids and grown-ups alike. Each chapter ends with a choice. You decide what’s next. Choose wisely...
@@ -255,12 +261,6 @@ Episode Title: Could this nasal spray replace all your vaccines one day?
 Published Date: Mon, 27 Jul 2026 07:00:00 +0000
 Description: There’s the flu vaccine. The covid shot. The RSV shot… What if all of these—and more—could be combined into one universal vaccine? That’s what immunologist Bali Pulendran is working on in his lab. For this episode in our Tech Camp series, Regina G. Barber talks to him about how far he’s gotten, how far he has to go and why our ancient immune sys...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d712c008-ad3f-417a-aa11-92b2a0deb664/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d712c008-ad3f-417a-aa11-92b2a0deb664&feed=F0qJcgXZ&t=podcast&e=nx-s1-5810969&p=510351&d=625&size=10001390
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The problem with modern avocados — and the ancient solution
-Published Date: Fri, 24 Jul 2026 07:00:00 +0000
-Description: Did you know that when you pick up avocados at the supermarket, make avocado toast at home or order guacamole in your burrito, you’re probably consuming only one genetic type of avocado? Yep, it’s the Hass avocado. Since it originated in California in the 20th century, it’s been grafted onto trees worldwide. And today, it makes up more than 80 p...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/49bc7ab4-9586-41b6-850c-c0ecc6616e8f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=49bc7ab4-9586-41b6-850c-c0ecc6616e8f&feed=F0qJcgXZ&t=podcast&e=nx-s1-5901114&p=510351&d=573&size=9178845
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -459,6 +459,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Lore 312: To Serve Man
+Published Date: Mon, 10 Aug 2026 05:01:00 +0000
+Description: A lot of folklore is frightening, but some of it is definitely hard to swallow. Let's sink our teeth into some terrifying tales from history today. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— ...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore312d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Legends 85: Down Under
 Published Date: Mon, 03 Aug 2026 05:01:00 +0000
 Description: The huge number of dangerous creatures in Australia is terrifying, for sure. But if the legends are true, there's a lot more to be afraid of than spiders and birds. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   ...
@@ -511,12 +517,6 @@ Episode Title: Deeper Lore: 309 (81, 102, & 128)
 Published Date: Thu, 02 Jul 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (309: Party Favors) with these three recommendations from further back in the Lore catalog:  Episode 81: LorePodcast.com/episodes/81 Episode 102: LorePodcast.com/episodes/102 Episode 128: LorePodcast.com/episodes/128  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Epi...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-309.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore 309: Party Favors
-Published Date: Mon, 29 Jun 2026 05:01:00 +0000
-Description: Parties promise us a break from the mundane or troubling. But a few celebratory gatherings in history have turned the tables, delivering something far more frightening. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahn...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore309d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -633,6 +633,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: MadeGood: Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant.
+Published Date: Mon, 10 Aug 2026 07:10:00 -0000
+Description: What do you do when the family business you've spent decades building... gets bought out from under you? That’s what happened to Nima and Salma Fotovat.Devastated, the family rebuilt a new company from the ground up. This time they set out with a new idea: build an allergen-free, organic snack brand not just for kids, but their parents.  Their n...
+Audio Stream URL: https://rss.art19.com/episodes/cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Advice Line: "Strategy Sessions"
 Published Date: Thu, 06 Aug 2026 07:10:00 -0000
 Description: Today’s callers: Tony in Michigan is considering bringing on partners to run different parts of his brew pub and theater business. Then Monica in London is exploring the best way to reach style-conscious parents with her line of children’s clothes. And Sandy in Colorado is seeking the ideal pricing strategy to bring his adaptive test prep platfo...
@@ -685,12 +691,6 @@ Episode Title: Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025
 Published Date: Thu, 09 Jul 2026 07:10:00 -0000
 Description: Jeni’s Splendid Ice Creams founder Jeni Britton joins Guy on the Advice Line to answer questions from three early-stage entrepreneurs. Plus, how Jeni’s newest venture Floura is tackling one of America’s largest dietary needs—fiber. First, we meet Jesse in Washington, D.C., who’s wondering how to best focus marketing efforts for his frozen french...
 Audio Stream URL: https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
-Published Date: Mon, 06 Jul 2026 07:10:00 -0000
-Description: Krishna Kaliannan wanted to start a tech company but failed at every attempt. On the side, he was teaching himself how to cook with high-protein, low-sugar ingredients. Not just out of interest, but out of necessity. As a teenager, Krishna had been diagnosed with diabetes and epilepsy, meaning he adopted a keto diet long before it was trendy. Kr...
-Audio Stream URL: https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -919,6 +919,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Is 'Gentle Parenting' Ruining French Children?
+Published Date: Sun, 9 Aug 2026 10:00:00 +0000
+Description: “Traditional” French parenting is built on a foundation of firm boundaries, strictness and punishment for misbehavior. Within these rules, children are also allowed freedom and autonomy, which some say results in both well-behaved children and stress-free parents.
+In recent years, though, American-style “gentle” or “positive” parenting has gaine...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3d6d98b1-6490-468a-83b3-bd4c693fa8b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3d6d98b1-6490-468a-83b3-bd4c693fa8b4&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Billy Strings Escaped the Darkness. He’s Playing to Not Go Back.
 Published Date: Sat, 8 Aug 2026 10:00:00 +0000
 Description: The genre-straddling musician could have been lost to addiction and trauma. Instead he’s filling arenas.
@@ -986,11 +993,4 @@ Published Date: Thu, 30 Jul 2026 09:45:00 +0000
 Description: This summer, wildfires have been raging across Europe. France and Spain have been hit particularly badly, with hundreds of thousands of acres incinerated and entire communities devastated.
 Chico Harlan, the global climate correspondent for The New York Times, and Mark Landler, the Paris bureau chief, explain how much the continent may need to ad...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4cb054ba-9be9-4467-878c-eea8fcb18fc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4cb054ba-9be9-4467-878c-eea8fcb18fc9&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Israel, AIPAC and Difficult Questions for Democrats
-Published Date: Wed, 29 Jul 2026 09:47:03 +0000
-Description: The American Israel Public Affairs Committee, a pro-Israel lobbying group known as AIPAC, has spent a record amount of money in this year’s midterm elections to either oust or support candidates based on their support of Israel.
-Jonathan Mahler, a writer for The New York Times Magazine, discusses the new litmus test for the left at a time when t...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d711b719-1b63-4c22-ab8b-974f247e9b82/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d711b719-1b63-4c22-ab8b-974f247e9b82&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

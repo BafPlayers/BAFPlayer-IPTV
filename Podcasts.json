@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "Mirror cells could threaten life on Earth. Why are we building them?",
+    "pub_date": "Mon, 10 Aug 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a3fd708e-55cc-476a-ad3c-808b416e57f9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a3fd708e-55cc-476a-ad3c-808b416e57f9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5923990&p=510351&d=852&size=13641396",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "For people with two hands, one is usually dominant. On a molecular level, earthly life takes this to the extreme. All of the DNA in living things twists to the right, whereas the protein building blocks favor a kind of left-handed chemistry.The rules of life are based on this chemistry.In recent years, scientists have worked toward a kind of mir..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "The Midnight Rebellion: Almost Midnight",
     "pub_date": "Sat, 08 Aug 2026 07:00:02 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f2872a20-137f-4c94-a3d9-e9b2eddd5f6a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f2872a20-137f-4c94-a3d9-e9b2eddd5f6a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5909430&p=510351&d=1029&size=16475160",
@@ -279,7 +288,7 @@
     "description": "WBUR’s The Midnight Rebellion is a one-of-a-kind podcast: a “choose your own”-style show set 100 years in the future when the climate has gone haywire, and it’s up to you to save the planet. Rooted in science, this fictional adventure was created for kids and grown-ups alike. Each chapter ends with a choice. You decide what’s next. Choose wisely..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "The red flags that may be hiding in your poop",
     "pub_date": "Fri, 07 Aug 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "When’s the last time you looked at your poop? Dr. Trisha Pasricha says you should look every time because it could save your life. A change in bowel habits is the number one indicator someone might have colon cancer, a disease on the rise in people under 50 in the United States. Host Regina Barber gets into what’s driving this trend with Trisha;..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "Shooting stars are just pea-sized rocks... and other space wonders",
     "pub_date": "Wed, 05 Aug 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Ahead of the peak of the Perseid meteor shower, we're re-airing our first episode with host Regina G. Barber. In it, Regina and planetary scientist Melissa Rice explore all things shooting stars. They talk about the different types, where they come from and what they actually are (hint: not stars).Learn more about viewing the Perseids, which wil..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "More food and money, less disease: Senegal's surprising eco-experiment",
     "pub_date": "Tue, 04 Aug 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "In Senegal, rice farmers are trying to kill three birds with one stone – er, fish. Rice and fish are already a natural combination; they’re even the main ingredients of thieboudienne, the delicious national dish. But could that combination also reduce a debilitating disease, boost food security AND help farmers make more money? A team of researc..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "The new era of AI-powered cybercrime",
     "pub_date": "Mon, 03 Aug 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Hacking has been on the rise around the world. In 2025, the FBI’s Internet Crime Complaint Center received over 1 million complaints of cybercrime, a record high in the US. Hackers are always getting more creative, and now they have a new tool at their disposal: AI. Interested in more tech in the news? Email us your question at shortwave@npr.org..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Want to spend a year living in NASA's Mars simulation?",
     "pub_date": "Fri, 31 Jul 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "Have you ever wanted to be an astronaut without risking your life in space? If so, we have the perfect opportunity for you. NASA is calling for people with a science background to apply for a simulated mission to the Moon and Mars. Four adults will spend a year isolated in two enclosures meant to simulate both traveling through deep space and li..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Are extreme wildfires the new normal?",
     "pub_date": "Wed, 29 Jul 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire Short Wave staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surp..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "A cooler of eggs and a bold plan to save leopard sharks",
     "pub_date": "Tue, 28 Jul 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Leopard sharks have nearly vanished from the waters in Raja Ampat, Indonesia. The country is one of the largest shark fishing nations in the world. Now, a first-of-its-kind conservation project is working to bring Indo-Pacific leopard sharks back from the brink of extinction. This international project hatches their eggs and raises shark pups to..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "Could this nasal spray replace all your vaccines one day?",
     "pub_date": "Mon, 27 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d712c008-ad3f-417a-aa11-92b2a0deb664/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d712c008-ad3f-417a-aa11-92b2a0deb664&feed=F0qJcgXZ&t=podcast&e=nx-s1-5810969&p=510351&d=625&size=10001390",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "There’s the flu vaccine. The covid shot. The RSV shot… What if all of these—and more—could be combined into one universal vaccine? That’s what immunologist Bali Pulendran is working on in his lab. For this episode in our Tech Camp series, Regina G. Barber talks to him about how far he’s gotten, how far he has to go and why our ancient immune sys..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "The problem with modern avocados — and the ancient solution",
-    "pub_date": "Fri, 24 Jul 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/49bc7ab4-9586-41b6-850c-c0ecc6616e8f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=49bc7ab4-9586-41b6-850c-c0ecc6616e8f&feed=F0qJcgXZ&t=podcast&e=nx-s1-5901114&p=510351&d=573&size=9178845",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Did you know that when you pick up avocados at the supermarket, make avocado toast at home or order guacamole in your burrito, you’re probably consuming only one genetic type of avocado? Yep, it’s the Hass avocado. Since it originated in California in the 20th century, it’s been grafted onto trees worldwide. And today, it makes up more than 80 p..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -632,6 +632,15 @@
   {
     "id": "lore--folklore---history--ep-1",
     "show_name": "Lore",
+    "episode_title": "Lore 312: To Serve Man",
+    "pub_date": "Mon, 10 Aug 2026 05:01:00 +0000",
+    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore312d.mp3?dest-id=259905",
+    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
+    "description": "A lot of folklore is frightening, but some of it is definitely hard to swallow. Let's sink our teeth into some terrifying tales from history today. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— ..."
+  },
+  {
+    "id": "lore--folklore---history--ep-2",
+    "show_name": "Lore",
     "episode_title": "Legends 85: Down Under",
     "pub_date": "Mon, 03 Aug 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-85d.mp3?dest-id=259905",
@@ -639,7 +648,7 @@
     "description": "The huge number of dangerous creatures in Australia is terrifying, for sure. But if the legends are true, there's a lot more to be afraid of than spiders and birds. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   ..."
   },
   {
-    "id": "lore--folklore---history--ep-2",
+    "id": "lore--folklore---history--ep-3",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 311 (72, 122, & 284)",
     "pub_date": "Thu, 30 Jul 2026 05:01:00 +0000",
@@ -648,7 +657,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (311: Twice Upon a Time) with these three recommendations from further back in the Lore catalog:  Episode 72: LorePodcast.com/episodes/72 Episode 122: LorePodcast.com/episodes/122 Episode 284: LorePodcast.com/episodes/284  ———————— Lore Resources:   Episode Music: lorepodcast.com/music..."
   },
   {
-    "id": "lore--folklore---history--ep-3",
+    "id": "lore--folklore---history--ep-4",
     "show_name": "Lore",
     "episode_title": "Lore 311: Twice Upon a Time",
     "pub_date": "Mon, 27 Jul 2026 05:01:00 +0000",
@@ -657,7 +666,7 @@
     "description": "Folklore is full of stories about people who seem to have lived more than one life. Which is why these true tales from history are so incredibly bizarre. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ..."
   },
   {
-    "id": "lore--folklore---history--ep-4",
+    "id": "lore--folklore---history--ep-5",
     "show_name": "Lore",
     "episode_title": "Legends 84: Dead in the Water",
     "pub_date": "Mon, 20 Jul 2026 05:01:00 +0000",
@@ -666,7 +675,7 @@
     "description": "The vast oceans of our planet are more mysterious to us than the surface of Mars. And because of that, they have become the place where dark legends dwell beneath the surface. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick, and research by Samuel Alberty. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ——..."
   },
   {
-    "id": "lore--folklore---history--ep-5",
+    "id": "lore--folklore---history--ep-6",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 310 (74, 196, & 44)",
     "pub_date": "Thu, 16 Jul 2026 05:01:00 +0000",
@@ -675,7 +684,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (310: Thunderstruck) with these three recommendations from further back in the Lore catalog:  Episode 74: LorePodcast.com/episodes/74 Episode 196: LorePodcast.com/episodes/196 Episode 44: LorePodcast.com/episodes/44  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Epis..."
   },
   {
-    "id": "lore--folklore---history--ep-6",
+    "id": "lore--folklore---history--ep-7",
     "show_name": "Lore",
     "episode_title": "Lore 310: Thunderstruck",
     "pub_date": "Mon, 13 Jul 2026 05:01:00 +0000",
@@ -684,7 +693,7 @@
     "description": "While most folklore has a thrilling quality to it, there are some tales that are a bit more shocking. Just be careful where you stand while we explore them. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhum..."
   },
   {
-    "id": "lore--folklore---history--ep-7",
+    "id": "lore--folklore---history--ep-8",
     "show_name": "Lore",
     "episode_title": "EXHUMED Ch. 7: Leftovers",
     "pub_date": "Wed, 08 Jul 2026 05:01:00 +0000",
@@ -693,7 +702,7 @@
     "description": "Although my new history book, EXHUMED, arrives on August 6th, you get to hear a whole chapter early! Enjoy this delicious sample from EXHUMED, and be sure to lock in your copy today—whether that's the hardcover, ebook, or audiobook version. Learn more and preorder your copy here: www.aaronmahnke.com/exhumed ——————————————————————————— ©2026 Aaro..."
   },
   {
-    "id": "lore--folklore---history--ep-8",
+    "id": "lore--folklore---history--ep-9",
     "show_name": "Lore",
     "episode_title": "Legends 83: Sweet Home",
     "pub_date": "Mon, 06 Jul 2026 05:01:00 +0000",
@@ -702,22 +711,13 @@
     "description": "The American South might have its charm, but it also has a tragic history that lingers in the shadows to this day. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Sam Alberty. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   Get Ad-Free Lore: lorepodcast.com/support Episo..."
   },
   {
-    "id": "lore--folklore---history--ep-9",
+    "id": "lore--folklore---history--ep-10",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 309 (81, 102, & 128)",
     "pub_date": "Thu, 02 Jul 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-309.mp3?dest-id=259905",
     "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
     "description": "Go deeper into the subject matter of our most recent episode (309: Party Favors) with these three recommendations from further back in the Lore catalog:  Episode 81: LorePodcast.com/episodes/81 Episode 102: LorePodcast.com/episodes/102 Episode 128: LorePodcast.com/episodes/128  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Epi..."
-  },
-  {
-    "id": "lore--folklore---history--ep-10",
-    "show_name": "Lore",
-    "episode_title": "Lore 309: Party Favors",
-    "pub_date": "Mon, 29 Jun 2026 05:01:00 +0000",
-    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore309d.mp3?dest-id=259905",
-    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
-    "description": "Parties promise us a break from the mundane or troubling. But a few celebratory gatherings in history have turned the tables, delivering something far more frightening. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahn..."
   },
   {
     "id": "dan-carlin-s-hardcore-history-ep-1",
@@ -875,6 +875,15 @@
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
     "show_name": "How I Built This with Guy Raz",
+    "episode_title": "MadeGood: Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant.",
+    "pub_date": "Mon, 10 Aug 2026 07:10:00 -0000",
+    "stream_url": "https://rss.art19.com/episodes/cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+    "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
+    "description": "What do you do when the family business you've spent decades building... gets bought out from under you? That’s what happened to Nima and Salma Fotovat.Devastated, the family rebuilt a new company from the ground up. This time they set out with a new idea: build an allergen-free, organic snack brand not just for kids, but their parents.  Their n..."
+  },
+  {
+    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line: \"Strategy Sessions\"",
     "pub_date": "Thu, 06 Aug 2026 07:10:00 -0000",
     "stream_url": "https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
@@ -882,7 +891,7 @@
     "description": "Today’s callers: Tony in Michigan is considering bringing on partners to run different parts of his brew pub and theater business. Then Monica in London is exploring the best way to reach style-conscious parents with her line of children’s clothes. And Sandy in Colorado is seeking the ideal pricing strategy to bring his adaptive test prep platfo..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It",
     "pub_date": "Mon, 03 Aug 2026 07:10:00 -0000",
@@ -891,7 +900,7 @@
     "description": "Many founders think the hardest thing about business is finding customers.It's not.It's surviving success.When Lily Kanter and Serena Dugan launched a luxury baby linen business, they had no manufacturing experience, no inventory, and barely any capital. But after their first catalog landed just as a major competitor left the market, orders floo..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Chris Riccobono of UNTUCKit",
     "pub_date": "Thu, 30 Jul 2026 07:10:00 -0000",
@@ -900,7 +909,7 @@
     "description": "Today’s callers: Adrian from California wants to grow his apparel company to complete with big-name athletic brands. Then, Preet from the Rockies looks for strategies to reach seniors and their children with his daily check-in app. And Derek from Virginia considers social media and professional partnerships to advertise his hockey equipment bran..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company. ",
     "pub_date": "Mon, 27 Jul 2026 07:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Chuck Surack never planned to build one of America's largest online retailers. He just wanted to be a musician. So right after high school, he took his sax and drove off in his old VW van to play gigs around the country. It didn’t work out. But with the audio and mixing skills Chuck learned gigging, he decided to convert his van into a mobile re..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Curt Richardson of OtterBox",
     "pub_date": "Thu, 23 Jul 2026 07:10:00 -0000",
@@ -918,7 +927,7 @@
     "description": "Today’s callers: Andy from Sarasota weighs whether the path to scalability for his live game show business is through personality or product. Then, Marissa from Tampa wants to recapture sales for her fairy tale-inspired teas after taking a hiatus to focus on her family. And Vince from New Jersey wonders how to allocate marketing dollars for  his..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.",
     "pub_date": "Mon, 20 Jul 2026 07:10:00 -0000",
@@ -927,7 +936,7 @@
     "description": "After waiting too long to pay his restaurant bill, Aman Narang thought there had to be a better way. His first idea—a mobile payment app—flopped.But that failure revealed a much bigger opportunity.Restaurants were struggling with outdated software that many owners hated. Payment systems were expensive, unreliable, and trapped on servers hidden i..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Kenneth Cole",
     "pub_date": "Thu, 16 Jul 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "Today’s callers: Matt from New York City unpacks the stigma working against his line of foot wellness products. Then Emefa in Toronto seeks a direct relationship with customers of her fashion brand in the wake of a key retailer going out of business. Finally, Levi in Rhode Island explores new audiences and product lines for his commemorative gol..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
     "pub_date": "Mon, 13 Jul 2026 07:10:00 -0000",
@@ -945,22 +954,13 @@
     "description": "Tom Rinks got his start in the commission-only \"shark tank\" of midwestern furniture sales. That’s where he learned what makes customers buy. Decades later, those instincts helped him grow a joke of a side hustle into a $400 million success.In 2009, he created the iconic branding for an obscure sun tan lotion, drawing on a mish-mash of surf cultu..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)",
     "pub_date": "Thu, 09 Jul 2026 07:10:00 -0000",
     "stream_url": "https://rss.art19.com/episodes/6dadc048-8cec-44ec-a3cf-ec314a00e41e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
     "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
     "description": "Jeni’s Splendid Ice Creams founder Jeni Britton joins Guy on the Advice Line to answer questions from three early-stage entrepreneurs. Plus, how Jeni’s newest venture Floura is tackling one of America’s largest dietary needs—fiber. First, we meet Jesse in Washington, D.C., who’s wondering how to best focus marketing efforts for his frozen french..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
-    "pub_date": "Mon, 06 Jul 2026 07:10:00 -0000",
-    "stream_url": "https://rss.art19.com/episodes/5aa86015-e7c2-448e-a84e-d1b34d2fcac2.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-    "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
-    "description": "Krishna Kaliannan wanted to start a tech company but failed at every attempt. On the side, he was teaching himself how to cook with high-protein, low-sugar ingredients. Not just out of interest, but out of necessity. As a teenager, Krishna had been diagnosed with diabetes and epilepsy, meaning he adopted a keto diet long before it was trendy. Kr..."
   },
   {
     "id": "ted-radio-hour-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Is 'Gentle Parenting' Ruining French Children?",
+    "pub_date": "Sun, 9 Aug 2026 10:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3d6d98b1-6490-468a-83b3-bd4c693fa8b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3d6d98b1-6490-468a-83b3-bd4c693fa8b4&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "“Traditional” French parenting is built on a foundation of firm boundaries, strictness and punishment for misbehavior. Within these rules, children are also allowed freedom and autonomy, which some say results in both well-behaved children and stress-free parents.\nIn recent years, though, American-style “gentle” or “positive” parenting has gaine..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back.",
     "pub_date": "Sat, 8 Aug 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0236d554-a714-4497-b6f7-43412d315357/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0236d554-a714-4497-b6f7-43412d315357&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "The genre-straddling musician could have been lost to addiction and trauma. Instead he’s filling arenas.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\n \nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spoti..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Is America’s Drinking Water the Next Front in the Iran War?",
     "pub_date": "Fri, 7 Aug 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "Over the past week, a growing number of municipalities across the United States have reported that their water systems were hacked. The Times has found that the attacks were most likely perpetrated by Iran.\nToday, Dustin Volz, a cybersecurity and intelligence correspondent for The New York Times, explains how the hacking exposes yearslong failed..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The Cyclospora Mystery: How Human Poop Got on So Much Lettuce",
     "pub_date": "Thu, 6 Aug 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "U.S. health officials linked six more states to what’s now the largest outbreak of cyclospora in American history — an outbreak that has contributed to at least two deaths, sickened thousands of people and left the rest of us increasingly scared of salad.\nToday, Christina Jewett and Caroline Hopkins Legaspi, two public health reporters who have ..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Arizona’s Food Stamp Crisis Is Coming for the Rest of the U.S.",
     "pub_date": "Wed, 5 Aug 2026 09:52:41 +0000",
@@ -1269,7 +1278,7 @@
     "description": "The United States is undergoing one of the biggest changes to its social safety net in recent history, with huge numbers of people getting dropped from the government’s food assistance program. Nowhere has this been more dramatic than in Arizona.\nJason DeParle, who covers poverty for The New York Times, explains why so many people are suddenly l..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Will Michigan Rewrite the Rules of Democratic Politics?",
     "pub_date": "Tue, 4 Aug 2026 09:51:40 +0000",
@@ -1278,7 +1287,7 @@
     "description": "In Michigan, a race for U.S. Senate is not only testing the growing appeal of left-wing populism. It could also be a turning point in a long-running debate among Democratic voters about the importance of electability.\nMichael Kruse, who writes about politics for The New York Times, traveled to Michigan with the producers Asthaa Chaturvedi and An..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The Tangled Tale of the Tate Brothers and the Trumps",
     "pub_date": "Mon, 3 Aug 2026 09:47:11 +0000",
@@ -1287,7 +1296,7 @@
     "description": "Warning: This episode contains strong language.\nOver the past decade, the Tate brothers have built a global empire around pornography, hypermasculinity and overt misogyny. At the same time, they have been repeatedly accused of assaulting and trafficking women.\nA Times investigation found that as their legal troubles mounted, the Tates found powe..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "After Losing Her Limbs, Our Cooking Columnist Returns to the Kitchen",
     "pub_date": "Sun, 2 Aug 2026 10:00:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "For decades, the kitchen was the centerpiece of Yewande Komolafe’s life. She spent long hours there, first as a restaurant cook and later as a recipe developer. But though she loved the often-intense culinary world, she had to navigate it with certain limitations: She was born with sickle cell disease, an inherited blood disorder, which required..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The Fight Tearing Apart Silicon Valley",
     "pub_date": "Fri, 31 Jul 2026 09:46:26 +0000",
@@ -1305,21 +1314,12 @@
     "description": "For years, a debate has been simmering in Silicon Valley over the right way to build artificial intelligence. Should it be open and free for anyone to use, or should we tightly control how it’s made and who can access it?\nMike Isaac, who covers technology for The New York Times, explains why the release of two Chinese models pushed that debate t..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Europe Is Burning",
     "pub_date": "Thu, 30 Jul 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4cb054ba-9be9-4467-878c-eea8fcb18fc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4cb054ba-9be9-4467-878c-eea8fcb18fc9&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "This summer, wildfires have been raging across Europe. France and Spain have been hit particularly badly, with hundreds of thousands of acres incinerated and entire communities devastated.\nChico Harlan, the global climate correspondent for The New York Times, and Mark Landler, the Paris bureau chief, explain how much the continent may need to ad..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Israel, AIPAC and Difficult Questions for Democrats",
-    "pub_date": "Wed, 29 Jul 2026 09:47:03 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d711b719-1b63-4c22-ab8b-974f247e9b82/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d711b719-1b63-4c22-ab8b-974f247e9b82&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "The American Israel Public Affairs Committee, a pro-Israel lobbying group known as AIPAC, has spent a record amount of money in this year’s midterm elections to either oust or support candidates based on their support of Israel.\nJonathan Mahler, a writer for The New York Times Magazine, discusses the new litmus test for the left at a time when t..."
   }
 ]
