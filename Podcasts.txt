@@ -206,7 +206,7 @@ SHOW: Short Wave
 Episode Title: Mirror cells could threaten life on Earth. Why are we building them?
 Published Date: Mon, 10 Aug 2026 07:00:00 +0000
 Description: For people with two hands, one is usually dominant. On a molecular level, earthly life takes this to the extreme. All of the DNA in living things twists to the right, whereas the protein building blocks favor a kind of left-handed chemistry.The rules of life are based on this chemistry.In recent years, scientists have worked toward a kind of mir...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a3fd708e-55cc-476a-ad3c-808b416e57f9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a3fd708e-55cc-476a-ad3c-808b416e57f9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5923990&p=510351&d=852&size=13641396
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a3fd708e-55cc-476a-ad3c-808b416e57f9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a3fd708e-55cc-476a-ad3c-808b416e57f9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5923990&p=510351&d=842&size=13477974
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: The Midnight Rebellion: Almost Midnight
@@ -919,6 +919,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Why Adults Are Getting Cancer at a Younger Age
+Published Date: Mon, 10 Aug 2026 09:45:50 +0000
+Description: For years, cancer has been seen as a disease people mostly get when they’re older. That seems to be changing as more young people are getting cancer than ever before.
+Today, Nina Agrawal, a health reporter for The New York Times, explains what scientists are learning about the factors driving the rise and what it means for a generation of young ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/04e93762-40de-4e0c-9231-41eecfced241/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=04e93762-40de-4e0c-9231-41eecfced241&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Is 'Gentle Parenting' Ruining French Children?
 Published Date: Sun, 9 Aug 2026 10:00:00 +0000
 Description: “Traditional” French parenting is built on a foundation of firm boundaries, strictness and punishment for misbehavior. Within these rules, children are also allowed freedom and autonomy, which some say results in both well-behaved children and stress-free parents.
@@ -986,11 +993,4 @@ Published Date: Fri, 31 Jul 2026 09:46:26 +0000
 Description: For years, a debate has been simmering in Silicon Valley over the right way to build artificial intelligence. Should it be open and free for anyone to use, or should we tightly control how it’s made and who can access it?
 Mike Isaac, who covers technology for The New York Times, explains why the release of two Chinese models pushed that debate t...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4ab1be6e-84be-4af2-8cad-ff07bb0e157f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4ab1be6e-84be-4af2-8cad-ff07bb0e157f&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Europe Is Burning
-Published Date: Thu, 30 Jul 2026 09:45:00 +0000
-Description: This summer, wildfires have been raging across Europe. France and Spain have been hit particularly badly, with hundreds of thousands of acres incinerated and entire communities devastated.
-Chico Harlan, the global climate correspondent for The New York Times, and Mark Landler, the Paris bureau chief, explain how much the continent may need to ad...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4cb054ba-9be9-4467-878c-eea8fcb18fc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4cb054ba-9be9-4467-878c-eea8fcb18fc9&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
