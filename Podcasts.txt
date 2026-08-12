@@ -3,6 +3,12 @@
 SHOW: NASA's Curious Universe
 ========================================================================
 ----------------------------------------
+Episode Title: Roman Series: NASA’s New View of the Dark Universe
+Published Date: Tue, 11 Aug 2026 13:08:00 -0000
+Description: Meet NASA’s newest space telescope: Roman. With similar resolution to Hubble but a field of view 100 times larger, the Nancy Grace Roman Space Telescope will settle essential questions in astronomy. NASA scientists Josh Schlieder and Alina Kiessling explain how that wide view will help us understand dark energy, one of the most puzzling mysterie...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4133606527.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Launching Soon: NASA’s Roman Space Telescope
 Published Date: Tue, 04 Aug 2026 13:25:00 -0000
 Description: NASA is about to launch the Nancy Grace Roman Space Telescope, which will change the way we see the universe and settle essential questions about some of the biggest mysteries out there. In a new limited series, Curious Universe takes you behind the scenes with NASA scientists and engineers who made Roman a reality—no Ph.D. required. 
@@ -59,12 +65,6 @@ Episode Title: Artemis II: The Ground Teams Powering NASA's Moon Mission
 Published Date: Tue, 17 Feb 2026 14:48:00 -0000
 Description: Behind NASA’s Artemis II mission and the astronauts who will fly around the Moon, teams on the ground are essential. Explore some of the epic equipment that makes Artemis II possible—the mobile launcher, crawler-transporter, and NASA’s barge Pegasus—and meet a few of the many specialists who act as the shoulders lifting astronauts into space.   ...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8742921926.mp3?updated=1775858869
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Artemis II: How NASA Will Study the Moon—And the Astronauts Going There
-Published Date: Tue, 03 Feb 2026 14:12:00 -0000
-Description: During Artemis II, four astronauts will see the lunar surface as few humans have—and possibly, parts of the Moon’s far side that no one has seen before. Learn what lunar science questions NASA hopes to answer through the astronauts' eyes with lunar geologist Kelsey Young. And those astronauts will also be subjects of science. Jancy McPhee, assoc...
-Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9200308531.mp3?updated=1775858966
 Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: How to see this week's eclipse (and the next big one)
+Published Date: Tue, 11 Aug 2026 07:00:00 +0000
+Description: During a total solar eclipse the world around you is very different. The sun gets totally blotted out and suddenly, it feels like night time. The temperature drops. Birds stop singing. These surreal celestial events happen every year or so around the globe – including tomorrow. To get you prepped, we’re talking to eclipse chasers about what make...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/752003a8-614b-42c3-88d5-89afac88d8e0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=752003a8-614b-42c3-88d5-89afac88d8e0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5918514&p=510351&d=724&size=11586708
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Mirror cells could threaten life on Earth. Why are we building them?
 Published Date: Mon, 10 Aug 2026 07:00:00 +0000
 Description: For people with two hands, one is usually dominant. On a molecular level, earthly life takes this to the extreme. All of the DNA in living things twists to the right, whereas the protein building blocks favor a kind of left-handed chemistry.The rules of life are based on this chemistry.In recent years, scientists have worked toward a kind of mir...
@@ -255,12 +261,6 @@ Episode Title: A cooler of eggs and a bold plan to save leopard sharks
 Published Date: Tue, 28 Jul 2026 07:00:00 +0000
 Description: Leopard sharks have nearly vanished from the waters in Raja Ampat, Indonesia. The country is one of the largest shark fishing nations in the world. Now, a first-of-its-kind conservation project is working to bring Indo-Pacific leopard sharks back from the brink of extinction. This international project hatches their eggs and raises shark pups to...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/21550541-05c7-464b-8742-61ba0f401237/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=21550541-05c7-464b-8742-61ba0f401237&feed=F0qJcgXZ&t=podcast&e=nx-s1-5903001&p=510351&d=820&size=13131067
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Could this nasal spray replace all your vaccines one day?
-Published Date: Mon, 27 Jul 2026 07:00:00 +0000
-Description: There’s the flu vaccine. The covid shot. The RSV shot… What if all of these—and more—could be combined into one universal vaccine? That’s what immunologist Bali Pulendran is working on in his lab. For this episode in our Tech Camp series, Regina G. Barber talks to him about how far he’s gotten, how far he has to go and why our ancient immune sys...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d712c008-ad3f-417a-aa11-92b2a0deb664/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d712c008-ad3f-417a-aa11-92b2a0deb664&feed=F0qJcgXZ&t=podcast&e=nx-s1-5810969&p=510351&d=625&size=10001390
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -596,7 +596,7 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 Episode Title: Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
 Published Date: Fri, 24 Jul 2026 20:00:00 +0000
 Description: Let’s head to a small town in Kenya that’s become globally famous for helping economists answer some of the biggest questions facing humanity.In Kenya and Nigeria, economics isn’t just theory, it’s real life. We’ll look at some radical experiments that turned out to be enormously successful.What are the building blocks of health, education and p...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894831&p=510362&d=2318&size=37096473
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: Big Lettuce meets Small Intestine
@@ -919,6 +919,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The U.S. Missile Stockpile Is Dangerously Low
+Published Date: Tue, 11 Aug 2026 09:45:00 +0000
+Description: As the fighting with Iran has dragged on, American forces have been burning through their weapons, creating a shortage of munitions that is leaving the United States and its allies in the region much more vulnerable.
+Today, Eric Schmitt, a national security correspondent for The New York Times, explains why Washington is running out of key missi...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d402aab2-d540-47be-9ce3-52dcdae5374c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d402aab2-d540-47be-9ce3-52dcdae5374c&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Why Adults Are Getting Cancer at a Younger Age
 Published Date: Mon, 10 Aug 2026 09:45:50 +0000
 Description: For years, cancer has been seen as a disease people mostly get when they’re older. That seems to be changing as more young people are getting cancer than ever before.
@@ -986,11 +993,4 @@ Episode Title: After Losing Her Limbs, Our Cooking Columnist Returns to the Kitc
 Published Date: Sun, 2 Aug 2026 10:00:00 +0000
 Description: For decades, the kitchen was the centerpiece of Yewande Komolafe’s life. She spent long hours there, first as a restaurant cook and later as a recipe developer. But though she loved the often-intense culinary world, she had to navigate it with certain limitations: She was born with sickle cell disease, an inherited blood disorder, which required...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0891bcf3-2201-4478-9f57-ffee5b7a9bc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0891bcf3-2201-4478-9f57-ffee5b7a9bc4&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Fight Tearing Apart Silicon Valley
-Published Date: Fri, 31 Jul 2026 09:46:26 +0000
-Description: For years, a debate has been simmering in Silicon Valley over the right way to build artificial intelligence. Should it be open and free for anyone to use, or should we tightly control how it’s made and who can access it?
-Mike Isaac, who covers technology for The New York Times, explains why the release of two Chinese models pushed that debate t...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4ab1be6e-84be-4af2-8cad-ff07bb0e157f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4ab1be6e-84be-4af2-8cad-ff07bb0e157f&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

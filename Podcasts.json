@@ -2,6 +2,15 @@
   {
     "id": "nasa-s-curious-universe-ep-1",
     "show_name": "NASA's Curious Universe",
+    "episode_title": "Roman Series: NASA’s New View of the Dark Universe",
+    "pub_date": "Tue, 11 Aug 2026 13:08:00 -0000",
+    "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4133606527.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Meet NASA’s newest space telescope: Roman. With similar resolution to Hubble but a field of view 100 times larger, the Nancy Grace Roman Space Telescope will settle essential questions in astronomy. NASA scientists Josh Schlieder and Alina Kiessling explain how that wide view will help us understand dark energy, one of the most puzzling mysterie..."
+  },
+  {
+    "id": "nasa-s-curious-universe-ep-2",
+    "show_name": "NASA's Curious Universe",
     "episode_title": "Launching Soon: NASA’s Roman Space Telescope",
     "pub_date": "Tue, 04 Aug 2026 13:25:00 -0000",
     "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION2719736624.mp3",
@@ -9,7 +18,7 @@
     "description": "NASA is about to launch the Nancy Grace Roman Space Telescope, which will change the way we see the universe and settle essential questions about some of the biggest mysteries out there. In a new limited series, Curious Universe takes you behind the scenes with NASA scientists and engineers who made Roman a reality—no Ph.D. required. \n\nLearn mor..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-2",
+    "id": "nasa-s-curious-universe-ep-3",
     "show_name": "NASA's Curious Universe",
     "episode_title": "There’s More Space in Your Life Than You Think ",
     "pub_date": "Tue, 21 Jul 2026 13:00:00 -0000",
@@ -18,7 +27,7 @@
     "description": "In its mission to explore the unknown in air and space, NASA ends up inventing a lot of new things. Then, the agency “spins off” those inventions to companies that produce products to make our lives easier and safer here on Earth. From memory foam mattresses and cordless power tools to wireless headphones and dating apps, NASA Technology is all ..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-3",
+    "id": "nasa-s-curious-universe-ep-4",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Meet the Artemis III Crew",
     "pub_date": "Fri, 12 Jun 2026 14:00:00 -0000",
@@ -27,7 +36,7 @@
     "description": "Meet the astronauts who will fly on Artemis III: Commander Randy Bresnik, Pilot Luca Parmitano, and Mission Specialists Frank Rubio and Andre Douglas. In this special presentation of Houston We Have a Podcast, the Artemis III astronauts discuss their backgrounds and training ahead of them to prepare for one of the most complex human spaceflight ..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-4",
+    "id": "nasa-s-curious-universe-ep-5",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Catching Up With Perseverance on Mars",
     "pub_date": "Tue, 02 Jun 2026 13:10:00 -0000",
@@ -36,7 +45,7 @@
     "description": "NASA’s robotic explorers are looking for signs of ancient life on Mars. In its five years and counting on the surface of the Red Planet, the Perseverance rover has collected dozens of rock samples, including tantalizing features that could be signs of past life. Scientists want to keep studying Mars. That’s why NASA plans to send a fleet of next..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-5",
+    "id": "nasa-s-curious-universe-ep-6",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Bonus: Behind the Scenes of Artemis II with NASA Experts",
     "pub_date": "Sat, 02 May 2026 13:23:00 -0000",
@@ -45,7 +54,7 @@
     "description": "In this bonus episode, go behind the scenes of key moments from Artemis II with NASA experts who made them possible. Engineers who launched the rocket describe the hours-long process that led to a successful liftoff. The leader of the closeout crew recalls his sendoff message as the astronauts were sealed inside their spacecraft. And the Artemis..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-6",
+    "id": "nasa-s-curious-universe-ep-7",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Update: Artemis II Crew Comes Home",
     "pub_date": "Wed, 15 Apr 2026 14:22:00 -0000",
@@ -54,7 +63,7 @@
     "description": "NASA’s Artemis II astronauts are back home. Hear reactions from the Artemis II crew—Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen—as they returned to Earth. \n\nFor more information about Artemis II, visit nasa.gov/artemis-ii"
   },
   {
-    "id": "nasa-s-curious-universe-ep-7",
+    "id": "nasa-s-curious-universe-ep-8",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Update: Artemis II Crew Flies Around the Moon",
     "pub_date": "Wed, 08 Apr 2026 13:17:00 -0000",
@@ -63,7 +72,7 @@
     "description": "NASA’s Artemis II mission has flown around the Moon, and its four astronauts traveled farther from Earth than anyone in history. Relive this historic mission through the astronauts’ own words, including their scientific descriptions of the Moon’s surface, as well as the role of “space plumber” troubleshooting the toilet and the astronauts’ unify..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-8",
+    "id": "nasa-s-curious-universe-ep-9",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Artemis II: How NASA’s Moon Mission Returns to Earth ",
     "pub_date": "Thu, 02 Apr 2026 12:22:00 -0000",
@@ -72,22 +81,13 @@
     "description": "Liftoff! NASA’s Artemis II mission launched on April 1, 2026, carrying four Moonbound astronauts. After an approximately 10-day mission, Artemis II ends with a splash. Lili Villarreal, the recovery and landing director for Artemis II, leads the team that will bring home the astronauts and their spacecraft. She describes the recovery playbook, wh..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-9",
+    "id": "nasa-s-curious-universe-ep-10",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Artemis II: The Ground Teams Powering NASA's Moon Mission",
     "pub_date": "Tue, 17 Feb 2026 14:48:00 -0000",
     "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8742921926.mp3?updated=1775858869",
     "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "Behind NASA’s Artemis II mission and the astronauts who will fly around the Moon, teams on the ground are essential. Explore some of the epic equipment that makes Artemis II possible—the mobile launcher, crawler-transporter, and NASA’s barge Pegasus—and meet a few of the many specialists who act as the shoulders lifting astronauts into space.   ..."
-  },
-  {
-    "id": "nasa-s-curious-universe-ep-10",
-    "show_name": "NASA's Curious Universe",
-    "episode_title": "Artemis II: How NASA Will Study the Moon—And the Astronauts Going There",
-    "pub_date": "Tue, 03 Feb 2026 14:12:00 -0000",
-    "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9200308531.mp3?updated=1775858966",
-    "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "During Artemis II, four astronauts will see the lunar surface as few humans have—and possibly, parts of the Moon’s far side that no one has seen before. Learn what lunar science questions NASA hopes to answer through the astronauts' eyes with lunar geologist Kelsey Young. And those astronauts will also be subjects of science. Jancy McPhee, assoc..."
   },
   {
     "id": "science-vs--gimlet--ep-1",
@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "How to see this week's eclipse (and the next big one)",
+    "pub_date": "Tue, 11 Aug 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/752003a8-614b-42c3-88d5-89afac88d8e0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=752003a8-614b-42c3-88d5-89afac88d8e0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5918514&p=510351&d=724&size=11586708",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "During a total solar eclipse the world around you is very different. The sun gets totally blotted out and suddenly, it feels like night time. The temperature drops. Birds stop singing. These surreal celestial events happen every year or so around the globe – including tomorrow. To get you prepped, we’re talking to eclipse chasers about what make..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "Mirror cells could threaten life on Earth. Why are we building them?",
     "pub_date": "Mon, 10 Aug 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a3fd708e-55cc-476a-ad3c-808b416e57f9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a3fd708e-55cc-476a-ad3c-808b416e57f9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5923990&p=510351&d=842&size=13477974",
@@ -279,7 +288,7 @@
     "description": "For people with two hands, one is usually dominant. On a molecular level, earthly life takes this to the extreme. All of the DNA in living things twists to the right, whereas the protein building blocks favor a kind of left-handed chemistry.The rules of life are based on this chemistry.In recent years, scientists have worked toward a kind of mir..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "The Midnight Rebellion: Almost Midnight",
     "pub_date": "Sat, 08 Aug 2026 07:00:02 +0000",
@@ -288,7 +297,7 @@
     "description": "WBUR’s The Midnight Rebellion is a one-of-a-kind podcast: a “choose your own”-style show set 100 years in the future when the climate has gone haywire, and it’s up to you to save the planet. Rooted in science, this fictional adventure was created for kids and grown-ups alike. Each chapter ends with a choice. You decide what’s next. Choose wisely..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "The red flags that may be hiding in your poop",
     "pub_date": "Fri, 07 Aug 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "When’s the last time you looked at your poop? Dr. Trisha Pasricha says you should look every time because it could save your life. A change in bowel habits is the number one indicator someone might have colon cancer, a disease on the rise in people under 50 in the United States. Host Regina Barber gets into what’s driving this trend with Trisha;..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "Shooting stars are just pea-sized rocks... and other space wonders",
     "pub_date": "Wed, 05 Aug 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Ahead of the peak of the Perseid meteor shower, we're re-airing our first episode with host Regina G. Barber. In it, Regina and planetary scientist Melissa Rice explore all things shooting stars. They talk about the different types, where they come from and what they actually are (hint: not stars).Learn more about viewing the Perseids, which wil..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "More food and money, less disease: Senegal's surprising eco-experiment",
     "pub_date": "Tue, 04 Aug 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "In Senegal, rice farmers are trying to kill three birds with one stone – er, fish. Rice and fish are already a natural combination; they’re even the main ingredients of thieboudienne, the delicious national dish. But could that combination also reduce a debilitating disease, boost food security AND help farmers make more money? A team of researc..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "The new era of AI-powered cybercrime",
     "pub_date": "Mon, 03 Aug 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "Hacking has been on the rise around the world. In 2025, the FBI’s Internet Crime Complaint Center received over 1 million complaints of cybercrime, a record high in the US. Hackers are always getting more creative, and now they have a new tool at their disposal: AI. Interested in more tech in the news? Email us your question at shortwave@npr.org..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Want to spend a year living in NASA's Mars simulation?",
     "pub_date": "Fri, 31 Jul 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "Have you ever wanted to be an astronaut without risking your life in space? If so, we have the perfect opportunity for you. NASA is calling for people with a science background to apply for a simulated mission to the Moon and Mars. Four adults will spend a year isolated in two enclosures meant to simulate both traveling through deep space and li..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "Are extreme wildfires the new normal?",
     "pub_date": "Wed, 29 Jul 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire Short Wave staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surp..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "A cooler of eggs and a bold plan to save leopard sharks",
     "pub_date": "Tue, 28 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/21550541-05c7-464b-8742-61ba0f401237/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=21550541-05c7-464b-8742-61ba0f401237&feed=F0qJcgXZ&t=podcast&e=nx-s1-5903001&p=510351&d=820&size=13131067",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "Leopard sharks have nearly vanished from the waters in Raja Ampat, Indonesia. The country is one of the largest shark fishing nations in the world. Now, a first-of-its-kind conservation project is working to bring Indo-Pacific leopard sharks back from the brink of extinction. This international project hatches their eggs and raises shark pups to..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "Could this nasal spray replace all your vaccines one day?",
-    "pub_date": "Mon, 27 Jul 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d712c008-ad3f-417a-aa11-92b2a0deb664/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d712c008-ad3f-417a-aa11-92b2a0deb664&feed=F0qJcgXZ&t=podcast&e=nx-s1-5810969&p=510351&d=625&size=10001390",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "There’s the flu vaccine. The covid shot. The RSV shot… What if all of these—and more—could be combined into one universal vaccine? That’s what immunologist Bali Pulendran is working on in his lab. For this episode in our Tech Camp series, Regina G. Barber talks to him about how far he’s gotten, how far he has to go and why our ancient immune sys..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -823,7 +823,7 @@
     "show_name": "Planet Money",
     "episode_title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
     "pub_date": "Fri, 24 Jul 2026 20:00:00 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894831&p=510362&d=2318&size=37096473",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "Let’s head to a small town in Kenya that’s become globally famous for helping economists answer some of the biggest questions facing humanity.In Kenya and Nigeria, economics isn’t just theory, it’s real life. We’ll look at some radical experiments that turned out to be enormously successful.What are the building blocks of health, education and p..."
   },
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The U.S. Missile Stockpile Is Dangerously Low",
+    "pub_date": "Tue, 11 Aug 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d402aab2-d540-47be-9ce3-52dcdae5374c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d402aab2-d540-47be-9ce3-52dcdae5374c&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "As the fighting with Iran has dragged on, American forces have been burning through their weapons, creating a shortage of munitions that is leaving the United States and its allies in the region much more vulnerable.\nToday, Eric Schmitt, a national security correspondent for The New York Times, explains why Washington is running out of key missi..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Why Adults Are Getting Cancer at a Younger Age",
     "pub_date": "Mon, 10 Aug 2026 09:45:50 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/04e93762-40de-4e0c-9231-41eecfced241/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=04e93762-40de-4e0c-9231-41eecfced241&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "For years, cancer has been seen as a disease people mostly get when they’re older. That seems to be changing as more young people are getting cancer than ever before.\nToday, Nina Agrawal, a health reporter for The New York Times, explains what scientists are learning about the factors driving the rise and what it means for a generation of young ..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Is 'Gentle Parenting' Ruining French Children?",
     "pub_date": "Sun, 9 Aug 2026 10:00:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "“Traditional” French parenting is built on a foundation of firm boundaries, strictness and punishment for misbehavior. Within these rules, children are also allowed freedom and autonomy, which some say results in both well-behaved children and stress-free parents.\nIn recent years, though, American-style “gentle” or “positive” parenting has gaine..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back.",
     "pub_date": "Sat, 8 Aug 2026 10:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "The genre-straddling musician could have been lost to addiction and trauma. Instead he’s filling arenas.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\n \nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spoti..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Is America’s Drinking Water the Next Front in the Iran War?",
     "pub_date": "Fri, 7 Aug 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Over the past week, a growing number of municipalities across the United States have reported that their water systems were hacked. The Times has found that the attacks were most likely perpetrated by Iran.\nToday, Dustin Volz, a cybersecurity and intelligence correspondent for The New York Times, explains how the hacking exposes yearslong failed..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Cyclospora Mystery: How Human Poop Got on So Much Lettuce",
     "pub_date": "Thu, 6 Aug 2026 09:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "U.S. health officials linked six more states to what’s now the largest outbreak of cyclospora in American history — an outbreak that has contributed to at least two deaths, sickened thousands of people and left the rest of us increasingly scared of salad.\nToday, Christina Jewett and Caroline Hopkins Legaspi, two public health reporters who have ..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Arizona’s Food Stamp Crisis Is Coming for the Rest of the U.S.",
     "pub_date": "Wed, 5 Aug 2026 09:52:41 +0000",
@@ -1287,7 +1296,7 @@
     "description": "The United States is undergoing one of the biggest changes to its social safety net in recent history, with huge numbers of people getting dropped from the government’s food assistance program. Nowhere has this been more dramatic than in Arizona.\nJason DeParle, who covers poverty for The New York Times, explains why so many people are suddenly l..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Will Michigan Rewrite the Rules of Democratic Politics?",
     "pub_date": "Tue, 4 Aug 2026 09:51:40 +0000",
@@ -1296,7 +1305,7 @@
     "description": "In Michigan, a race for U.S. Senate is not only testing the growing appeal of left-wing populism. It could also be a turning point in a long-running debate among Democratic voters about the importance of electability.\nMichael Kruse, who writes about politics for The New York Times, traveled to Michigan with the producers Asthaa Chaturvedi and An..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The Tangled Tale of the Tate Brothers and the Trumps",
     "pub_date": "Mon, 3 Aug 2026 09:47:11 +0000",
@@ -1305,21 +1314,12 @@
     "description": "Warning: This episode contains strong language.\nOver the past decade, the Tate brothers have built a global empire around pornography, hypermasculinity and overt misogyny. At the same time, they have been repeatedly accused of assaulting and trafficking women.\nA Times investigation found that as their legal troubles mounted, the Tates found powe..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "After Losing Her Limbs, Our Cooking Columnist Returns to the Kitchen",
     "pub_date": "Sun, 2 Aug 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0891bcf3-2201-4478-9f57-ffee5b7a9bc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0891bcf3-2201-4478-9f57-ffee5b7a9bc4&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "For decades, the kitchen was the centerpiece of Yewande Komolafe’s life. She spent long hours there, first as a restaurant cook and later as a recipe developer. But though she loved the often-intense culinary world, she had to navigate it with certain limitations: She was born with sickle cell disease, an inherited blood disorder, which required..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "The Fight Tearing Apart Silicon Valley",
-    "pub_date": "Fri, 31 Jul 2026 09:46:26 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4ab1be6e-84be-4af2-8cad-ff07bb0e157f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4ab1be6e-84be-4af2-8cad-ff07bb0e157f&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "For years, a debate has been simmering in Silicon Valley over the right way to build artificial intelligence. Should it be open and free for anyone to use, or should we tightly control how it’s made and who can access it?\nMike Isaac, who covers technology for The New York Times, explains why the release of two Chinese models pushed that debate t..."
   }
 ]
