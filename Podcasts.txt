@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Can you spot AI-written stories? Listen and find out
+Published Date: Wed, 12 Aug 2026 07:00:00 +0000
+Description: Can you tell the difference between a human-written short story and an AI-generated one? Most people can’t. In a series of experiments led by a team at Villanova University, researchers found two things: First, most people said they preferred human written stories, but couldn’t tell the difference between AI and human writing; and second, when p...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/97cd7641-b15b-4fc0-a3eb-1b5623634985/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=97cd7641-b15b-4fc0-a3eb-1b5623634985&feed=F0qJcgXZ&t=podcast&e=nx-s1-5913976&p=510351&d=736&size=11792763
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How to see this week's eclipse (and the next big one)
 Published Date: Tue, 11 Aug 2026 07:00:00 +0000
 Description: During a total solar eclipse the world around you is very different. The sun gets totally blotted out and suddenly, it feels like night time. The temperature drops. Birds stop singing. These surreal celestial events happen every year or so around the globe – including tomorrow. To get you prepped, we’re talking to eclipse chasers about what make...
@@ -255,12 +261,6 @@ Episode Title: Are extreme wildfires the new normal?
 Published Date: Wed, 29 Jul 2026 07:00:00 +0000
 Description: With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire Short Wave staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surp...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/dd54f085-5b01-4dd6-8601-3737d4e2dfe8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=dd54f085-5b01-4dd6-8601-3737d4e2dfe8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5909367&p=510351&d=801&size=12818016
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: A cooler of eggs and a bold plan to save leopard sharks
-Published Date: Tue, 28 Jul 2026 07:00:00 +0000
-Description: Leopard sharks have nearly vanished from the waters in Raja Ampat, Indonesia. The country is one of the largest shark fishing nations in the world. Now, a first-of-its-kind conservation project is working to bring Indo-Pacific leopard sharks back from the brink of extinction. This international project hatches their eggs and raises shark pups to...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/21550541-05c7-464b-8742-61ba0f401237/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=21550541-05c7-464b-8742-61ba0f401237&feed=F0qJcgXZ&t=podcast&e=nx-s1-5903001&p=510351&d=820&size=13131067
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -569,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Currency Chaos in Argentina (Summer School)
+Published Date: Wed, 12 Aug 2026 07:30:00 +0000
+Description: Just about everyone in Argentina is an expert in inflation and whether they like it or not, economic flexibility. Can we learn from them? Over the years, we at Planet Money have checked in on Argentina as it tried to recover from economic collapse in 2001 and 2002, and as inflation shot up and the country defaulted on its debts. This week on our...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914842&p=510362&d=2364&size=37828318
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Older workers aren’t retiring. Should they be forced to?
 Published Date: Fri, 07 Aug 2026 20:55:00 +0000
 Description: When workers past retirement age can’t afford to retire — that’s one thing. When they can, and just don’t want to — that’s trickier.It used to be legal to force people to retire when they hit a certain age. The trend used to be earlier and earlier retirement. Now it’s later and later retirement. And younger workers say it’s impacting their caree...
@@ -622,18 +628,12 @@ Published Date: Wed, 15 Jul 2026 07:30:00 +0000
 Description: China’s turbocharged growth may have made it rich, but now it has to deal with rich country problems. High-speed trains that connect every town. Gleaming new bridges and skyscrapers. An apartment (or two) for every family. No country on Earth has seen the kind of economic growth that China has over the last 50 years. China has become the factory...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Seven allegedly fake Chanel bags vs The RealReal
-Published Date: Fri, 10 Jul 2026 21:00:00 +0000
-Description: Once upon a time, if you wanted to buy a luxury brand item secondhand (say, a Chanel handbag) you had to have an in. There was no easy way to find one. But over the past decade, the market for secondhand luxury goods has exploded. There are now many online resellers where you can shop for used and discounted luxury items. One big problem — how c...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
-Episode Title: MadeGood: Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant.
+Episode Title: MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.
 Published Date: Mon, 10 Aug 2026 07:10:00 -0000
 Description: What do you do when the family business you've spent decades building... gets bought out from under you? That’s what happened to Nima and Salma Fotovat.Devastated, the family rebuilt a new company from the ground up. This time they set out with a new idea: build an allergen-free, organic snack brand not just for kids, but their parents.  Their n...
 Audio Stream URL: https://rss.art19.com/episodes/cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
@@ -761,6 +761,12 @@ Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-ne
 SHOW: Lex Fridman Podcast
 ========================================================================
 ----------------------------------------
+Episode Title: #500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football
+Published Date: Wed, 12 Aug 2026 13:11:45 +0000
+Description: Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It’s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to m...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
+----------------------------------------
 Episode Title: #499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee
 Published Date: Tue, 28 Jul 2026 20:06:06 +0000
 Description: Gary Gallagher is a historian of the American Civil War.
@@ -843,13 +849,6 @@ Transcript:
 https://lexfri...
 Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_peter_steinberger.mp3
 Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
-----------------------------------------
-Episode Title: #490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI
-Published Date: Sun, 01 Feb 2026 02:46:43 +0000
-Description: Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. Sebastian Raschka is the author of Build a Large Language Model (From Scratch) and Build a Reasoning Model (From Scratch).
-Thank you for listening ❤...
-Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ai_sota_2026.mp3
-Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
 
 ========================================================================
 SHOW: The Tim Ferriss Show
@@ -919,6 +918,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: All the President’s Planes
+Published Date: Wed, 12 Aug 2026 09:45:00 +0000
+Description: When President Trump left Turkey, the White House said publicly that he was boarding the old Air Force One — but that plane was a decoy. In a highly elaborate escape plan prompted by a credible Iranian threat, Trump was secretly moved through a catering cart to a military aircraft, leaving passengers unknowingly flying on the decoy plane.
+Today,...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2d8d7939-5740-4f62-8305-41fa126f5fde/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2d8d7939-5740-4f62-8305-41fa126f5fde&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The U.S. Missile Stockpile Is Dangerously Low
 Published Date: Tue, 11 Aug 2026 09:45:00 +0000
 Description: As the fighting with Iran has dragged on, American forces have been burning through their weapons, creating a shortage of munitions that is leaving the United States and its allies in the region much more vulnerable.
@@ -987,10 +993,4 @@ Description: Warning: This episode contains strong language.
 Over the past decade, the Tate brothers have built a global empire around pornography, hypermasculinity and overt misogyny. At the same time, they have been repeatedly accused of assaulting and trafficking women.
 A Times investigation found that as their legal troubles mounted, the Tates found powe...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fadbbeb5-8762-4b95-b46e-e104ca213aa7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fadbbeb5-8762-4b95-b46e-e104ca213aa7&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: After Losing Her Limbs, Our Cooking Columnist Returns to the Kitchen
-Published Date: Sun, 2 Aug 2026 10:00:00 +0000
-Description: For decades, the kitchen was the centerpiece of Yewande Komolafe’s life. She spent long hours there, first as a restaurant cook and later as a recipe developer. But though she loved the often-intense culinary world, she had to navigate it with certain limitations: She was born with sickle cell disease, an inherited blood disorder, which required...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0891bcf3-2201-4478-9f57-ffee5b7a9bc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0891bcf3-2201-4478-9f57-ffee5b7a9bc4&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
