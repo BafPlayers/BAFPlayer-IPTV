@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Inside Colombia's big quake – and why more could be coming
+Published Date: Fri, 14 Aug 2026 07:00:00 +0000
+Description: The 7.4 magnitude earthquake that struck Columbia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter. Interested in more science in the news? Email us your question at shortwave@npr.org.   Support public me...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/35884acb-b390-4844-ad78-16c05d6065d8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=35884acb-b390-4844-ad78-16c05d6065d8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5928981&p=510351&d=732&size=11714186
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How to see the year's best meteor shower tonight
 Published Date: Thu, 13 Aug 2026 07:00:00 +0000
 Description: Right now the best shooting star show of the year is happening: the peak of the Perseid meteor shower. People have been viewing this annual event pretty much as long as we’ve been recording history. But what are we really looking at when we gaze up to see these faint streaks of light shoot across the sky? And what can you do to get the best view...
@@ -255,12 +261,6 @@ Episode Title: The new era of AI-powered cybercrime
 Published Date: Mon, 03 Aug 2026 07:00:00 +0000
 Description: Hacking has been on the rise around the world. In 2025, the FBI’s Internet Crime Complaint Center received over 1 million complaints of cybercrime, a record high in the US. Hackers are always getting more creative, and now they have a new tool at their disposal: AI. Interested in more tech in the news? Email us your question at shortwave@npr.org...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f22c3e89-cb69-4759-92b8-036e07bfb415/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f22c3e89-cb69-4759-92b8-036e07bfb415&feed=F0qJcgXZ&t=podcast&e=nx-s1-5814724&p=510351&d=748&size=11974575
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Want to spend a year living in NASA's Mars simulation?
-Published Date: Fri, 31 Jul 2026 07:00:00 +0000
-Description: Have you ever wanted to be an astronaut without risking your life in space? If so, we have the perfect opportunity for you. NASA is calling for people with a science background to apply for a simulated mission to the Moon and Mars. Four adults will spend a year isolated in two enclosures meant to simulate both traveling through deep space and li...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/631438f0-267f-4f5b-bfc4-74dfb98ae435/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=631438f0-267f-4f5b-bfc4-74dfb98ae435&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887659&p=510351&d=727&size=11633520
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -569,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: You bet your life insurance
+Published Date: Fri, 14 Aug 2026 20:56:00 +0000
+Description: Some of the biggest firms on Wall Street are, at this very moment, waiting for thousands of strangers to die to reap their returns. Because there’s a market for life insurance policies. And it’s legal.You don’t have to actually die to get some of your life insurance money. Thanks to a secondary market for life insurance policies, you might be ab...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e643843c-4f2c-43dc-89fc-64f70e7ff656/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e643843c-4f2c-43dc-89fc-64f70e7ff656&feed=hvWWWzRv&t=podcast&e=nx-s1-5885879&p=510289&d=2323&size=37172958
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Currency Chaos in Argentina (Summer School)
 Published Date: Wed, 12 Aug 2026 07:30:00 +0000
 Description: Just about everyone in Argentina is an expert in inflation and whether they like it or not, economic flexibility. Can we learn from them? Over the years, we at Planet Money have checked in on Argentina as it tried to recover from economic collapse in 2001 and 2002, and as inflation shot up and the country defaulted on its debts. This week on our...
@@ -621,12 +627,6 @@ Episode Title: Can World Cup mania grow MLS in the U.S.?
 Published Date: Fri, 17 Jul 2026 22:43:18 +0000
 Description: As the World Cup comes to a close, so does a massive real-time experiment happening just around the edges. Major League Soccer – the top men’s professional soccer league in the U.S. and Canada – has been scrambling to take advantage of this once-in-a-generation opportunity when average American sports fans suddenly cared a lot about soccer.In be...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Building things and breaking things in China (Summer School World Tour)
-Published Date: Wed, 15 Jul 2026 07:30:00 +0000
-Description: China’s turbocharged growth may have made it rich, but now it has to deal with rich country problems. High-speed trains that connect every town. Gleaming new bridges and skyscrapers. An apartment (or two) for every family. No country on Earth has seen the kind of economic growth that China has over the last 50 years. China has become the factory...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -697,6 +697,12 @@ Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: The price of creativity
+Published Date: Fri, 14 Aug 2026 07:00:00 +0000
+Description: The words "content creator" may make you roll your eyes. But in part 1 of our series, Kickstarter co-founder Yancey Strickler explains how the creator economy is changing work, art and what we value.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listeni...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/b26c00b0-7566-4a4e-87ac-ef573f727178/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=b26c00b0-7566-4a4e-87ac-ef573f727178&feed=gGUt_fS1&t=podcast&e=nx-s1-5930324&p=510298&d=3003&size=48049050
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Trusting medicine in an age of doubt
 Published Date: Fri, 07 Aug 2026 07:00:00 +0000
 Description: Medicine keeps advancing. Trust is falling behind. This hour, TED speakers explore why the future of healthcare depends not only on innovation, but also on listening, humility and honesty.Guests include viral immunologist Kizzmekia Corbett-Helaire and writer James Robinson.Support public media with NPR+ and enjoy perks for over 25 podcasts like ...
@@ -749,12 +755,6 @@ Episode Title: How predictions took over our lives
 Published Date: Fri, 12 Jun 2026 07:00:00 +0000
 Description: From betting apps to AI models, prediction has become big business. This hour, why we're so drawn to certainty, and what happens when we mistake forecasts for facts. Guests include professor Brendan Dwyer, philosopher Carissa Véliz, and journalist Simone Stolzoff.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TE...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/03cb3c89-1cbf-429d-83d1-495de4a49ee4/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=03cb3c89-1cbf-429d-83d1-495de4a49ee4&feed=gGUt_fS1&t=podcast&e=nx-s1-5855336&p=510298&d=2992&size=47888135
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The case for merging human bodies with machines
-Published Date: Fri, 05 Jun 2026 07:00:00 +0000
-Description: From robot helpers to smart body parts, the line between human and machine is blurring. This hour, TED speakers design tech that enhances us without diminishing our humanity. Guests include robot choreographer and computer scientist Catie Cuan, engineer and biophysicist Hugh Herr, material scientist Anna Maria Coclite and biochemist Jennifer Dou...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/f14af1ee-250e-4595-8695-5908ec2da609/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=f14af1ee-250e-4595-8695-5908ec2da609&feed=gGUt_fS1&t=podcast&e=nx-s1-5846941&p=510298&d=2992&size=47879777
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -918,6 +918,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Secret Spy Network Feeding Russia’s War Machine
+Published Date: Fri, 14 Aug 2026 09:51:23 +0000
+Description: Ukraine is running desperately low on interceptor missiles, leaving its cities and people nearly defenseless against Russian missile and drone attacks. How Russia has been able to sustain those attacks has been a mystery — until now.
+Today, Jane Bradley, a Britain-based investigative reporter for The New York Times, explains her investigation in...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d9ce3fff-e646-4ae4-83a3-1b1aea5e0950/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d9ce3fff-e646-4ae4-83a3-1b1aea5e0950&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Are The Democratic Socialists Winning or Losing?
 Published Date: Thu, 13 Aug 2026 09:45:00 +0000
 Description: This week, Francesca Hong, a democratic socialist running for governor in Wisconsin, suffered an upset after a double-digit lead in the polls. Last week, Dr. Abdul El-Sayed, a progressive, pulled off a stunning victory in Michigan against his well-funded opponent.
@@ -985,11 +992,4 @@ Published Date: Wed, 5 Aug 2026 09:52:41 +0000
 Description: The United States is undergoing one of the biggest changes to its social safety net in recent history, with huge numbers of people getting dropped from the government’s food assistance program. Nowhere has this been more dramatic than in Arizona.
 Jason DeParle, who covers poverty for The New York Times, explains why so many people are suddenly l...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6501de51-cf0c-459c-814c-73833753a099/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6501de51-cf0c-459c-814c-73833753a099&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Will Michigan Rewrite the Rules of Democratic Politics?
-Published Date: Tue, 4 Aug 2026 09:51:40 +0000
-Description: In Michigan, a race for U.S. Senate is not only testing the growing appeal of left-wing populism. It could also be a turning point in a long-running debate among Democratic voters about the importance of electability.
-Michael Kruse, who writes about politics for The New York Times, traveled to Michigan with the producers Asthaa Chaturvedi and An...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/317b3208-41c0-4066-bf71-5cb9cd8f2029/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=317b3208-41c0-4066-bf71-5cb9cd8f2029&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
