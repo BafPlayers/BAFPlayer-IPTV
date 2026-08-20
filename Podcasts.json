@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "More men are taking testosterone. What gives?",
+    "pub_date": "Wed, 19 Aug 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d8daa3b-75f9-4145-9812-2ec7170161ac/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d8daa3b-75f9-4145-9812-2ec7170161ac&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935460&p=510351&d=891&size=14263738",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "If you’re a guy – or even just friends with a guy – and on the Internet, you may have noticed that testosterone discourse is everywhere. There’s Defense Secretary Pete Hegseth announcing testosterone screenings for soldiers, Joe Rogan discussing hormone therapy, and influencers discussing high- and low-T levels. Those levels affect more than jus..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "A survivor's view from inside a tornado",
     "pub_date": "Tue, 18 Aug 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/9769546e-f6c6-40bb-b072-6f68458719a5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=9769546e-f6c6-40bb-b072-6f68458719a5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887624&p=510351&d=746&size=11941974",
@@ -279,7 +288,7 @@
     "description": "What’s the dumbest thing Perry Samson says he’s ever done? Getting caught inside a tornado.  But when you’re an atmospheric scientist who studies supercell thunderstorms—with a special interest in the ones that cause tornadoes—that sort of thing is a bit of an occupational hazard. Lucky for Perry, he also made a split-second decision while in th..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "Could future wars be fought by AI?",
     "pub_date": "Mon, 17 Aug 2026 07:00:00 +0000",
@@ -288,16 +297,16 @@
     "description": "This year, the Department of Defense announced that they’d entered agreements with eight artificial intelligence companies. It follows decades of popular media exploring the idea of artificial intelligence in war – from the computer threatening global thermonuclear conflict in the movie WarGames to the Skynet neural net in Terminator. In 2026, w..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "Inside Colombia's big quake – and why more could be coming",
     "pub_date": "Fri, 14 Aug 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/35884acb-b390-4844-ad78-16c05d6065d8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=35884acb-b390-4844-ad78-16c05d6065d8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5928981&p=510351&d=732&size=11715440",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "The 7.4 magnitude earthquake that struck Columbia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter. Interested in more science in the news? Email us your question at shortwave@npr.org.   Support public me..."
+    "description": "The 7.4 magnitude earthquake that struck Colombia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter. Interested in more science in the news? Email us your question at shortwave@npr.org.   Support public me..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "How to see the year's best meteor shower tonight",
     "pub_date": "Thu, 13 Aug 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Right now the best shooting star show of the year is happening: the peak of the Perseid meteor shower. People have been viewing this annual event pretty much as long as we’ve been recording history. But what are we really looking at when we gaze up to see these faint streaks of light shoot across the sky? And what can you do to get the best view..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Can you spot AI-written stories? Listen and find out",
     "pub_date": "Wed, 12 Aug 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Can you tell the difference between a human-written short story and an AI-generated one? Most people can’t. In a series of experiments led by a team at Villanova University, researchers found two things: First, most people said they preferred human written stories, but couldn’t tell the difference between AI and human writing; and second, when p..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "How to see this week's eclipse (and the next big one)",
     "pub_date": "Tue, 11 Aug 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "During a total solar eclipse the world around you is very different. The sun gets totally blotted out and suddenly, it feels like night time. The temperature drops. Birds stop singing. These surreal celestial events happen every year or so around the globe – including tomorrow. To get you prepped, we’re talking to eclipse chasers about what make..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Mirror cells could threaten life on Earth. Why are we building them?",
     "pub_date": "Mon, 10 Aug 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "For people with two hands, one is usually dominant. On a molecular level, earthly life takes this to the extreme. All of the DNA in living things twists to the right, whereas the protein building blocks favor a kind of left-handed chemistry.The rules of life are based on this chemistry.In recent years, scientists have worked toward a kind of mir..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "The Midnight Rebellion: Almost Midnight",
     "pub_date": "Sat, 08 Aug 2026 07:00:02 +0000",
@@ -342,22 +351,13 @@
     "description": "WBUR’s The Midnight Rebellion is a one-of-a-kind podcast: a “choose your own”-style show set 100 years in the future when the climate has gone haywire, and it’s up to you to save the planet. Rooted in science, this fictional adventure was created for kids and grown-ups alike. Each chapter ends with a choice. You decide what’s next. Choose wisely..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "The red flags that may be hiding in your poop",
     "pub_date": "Fri, 07 Aug 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d2620b0-b2f6-4929-91a1-2a46da55c872/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d2620b0-b2f6-4929-91a1-2a46da55c872&feed=F0qJcgXZ&t=podcast&e=nx-s1-5875414&p=510351&d=756&size=12104978",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "When’s the last time you looked at your poop? Dr. Trisha Pasricha says you should look every time because it could save your life. A change in bowel habits is the number one indicator someone might have colon cancer, a disease on the rise in people under 50 in the United States. Host Regina Barber gets into what’s driving this trend with Trisha;..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "Shooting stars are just pea-sized rocks... and other space wonders",
-    "pub_date": "Wed, 05 Aug 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/31fc9190-26bb-44dc-bb3b-794a0acff68c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=31fc9190-26bb-44dc-bb3b-794a0acff68c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5913854&p=510351&d=700&size=11208874",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Ahead of the peak of the Perseid meteor shower, we're re-airing our first episode with host Regina G. Barber. In it, Regina and planetary scientist Melissa Rice explore all things shooting stars. They talk about the different types, where they come from and what they actually are (hint: not stars).Learn more about viewing the Perseids, which wil..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "Getting entrepreneurial in Korea (Summer School)",
+    "pub_date": "Wed, 19 Aug 2026 07:30:00 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "This week’s stop on our world tour - Korea. A country divided into two very different power structures since the end of WWII. Today South Korea is the maker of some of the world’s favorite exports – from Samsung TV’s to BTS. But 75 years ago it was a much different story. How the textile industry and a partnership with Bangladesh lifted the coun..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "You bet your life insurance",
     "pub_date": "Fri, 14 Aug 2026 20:56:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e643843c-4f2c-43dc-89fc-64f70e7ff656/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e643843c-4f2c-43dc-89fc-64f70e7ff656&feed=hvWWWzRv&t=podcast&e=nx-s1-5885879&p=510289&d=2323&size=37172958",
@@ -792,7 +801,7 @@
     "description": "Some of the biggest firms on Wall Street are, at this very moment, waiting for thousands of strangers to die to reap their returns. Because there’s a market for life insurance policies. And it’s legal.You don’t have to actually die to get some of your life insurance money. Thanks to a secondary market for life insurance policies, you might be ab..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "Currency Chaos in Argentina (Summer School)",
     "pub_date": "Wed, 12 Aug 2026 07:30:00 +0000",
@@ -801,7 +810,7 @@
     "description": "Just about everyone in Argentina is an expert in inflation and whether they like it or not, economic flexibility. Can we learn from them? Over the years, we at Planet Money have checked in on Argentina as it tried to recover from economic collapse in 2001 and 2002, and as inflation shot up and the country defaulted on its debts. This week on our..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Older workers aren’t retiring. Should they be forced to?",
     "pub_date": "Fri, 07 Aug 2026 20:55:00 +0000",
@@ -810,7 +819,7 @@
     "description": "When workers past retirement age can’t afford to retire — that’s one thing. When they can, and just don’t want to — that’s trickier.It used to be legal to force people to retire when they hit a certain age. The trend used to be earlier and earlier retirement. Now it’s later and later retirement. And younger workers say it’s impacting their caree..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "Sand heists and property rights in the Caribbean (Summer School)",
     "pub_date": "Wed, 05 Aug 2026 07:30:00 +0000",
@@ -819,7 +828,7 @@
     "description": "Imagine a nation where, for the residents, land is for the claiming. You walk down the street, pick out a nice looking plot of land, and just plop down a marker. No rent, no taxes, no deed – just free land. That’s the communal system of property rights that governed a small Caribbean island for over a century.This week on our Summer School World..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "What makes a toy go viral",
     "pub_date": "Fri, 31 Jul 2026 21:00:00 +0000",
@@ -828,7 +837,7 @@
     "description": "Squishy, slimy, fidgety toys are having a moment. But it’s more than just an anxiety-soothing, social-media fueled trend – these toys are reshaping how toys get made.Today on the show, we have the story of the once-humble squishy dumpling and what it teaches us about how to make a viral hit and how to manufacture it, without getting left holding..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "How to beat the resource curse in Norway (Summer School)",
     "pub_date": "Wed, 29 Jul 2026 07:30:00 +0000",
@@ -837,7 +846,7 @@
     "description": "Let’s call it the luxury of restraint. This is what enabled Norway to avoid the fate of so many other countries when they discovered oil and it changed the mix of their economy overnight.Norway! It’s expensive, wealthy, and abundant in resources. We’re going to compare two of them in particular today: deep reservoirs of oil and icy waters full o..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
     "pub_date": "Fri, 24 Jul 2026 20:00:00 +0000",
@@ -846,7 +855,7 @@
     "description": "Let’s head to a small town in Kenya that’s become globally famous for helping economists answer some of the biggest questions facing humanity.In Kenya and Nigeria, economics isn’t just theory, it’s real life. We’ll look at some radical experiments that turned out to be enormously successful.What are the building blocks of health, education and p..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "Big Lettuce meets Small Intestine",
     "pub_date": "Wed, 22 Jul 2026 23:16:26 +0000",
@@ -855,22 +864,13 @@
     "description": "The cyclospora outbreak that’s sickening thousands of Americans got us interested in the rise of Big Lettuce, and the challenges of keeping it clean. So on today’s show, we tell you just how much lettuce Americans eat every year (SO MUCH!), how bagged lettuce came to dominate grocery store shelves, what that means for food safety, and why these ..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
     "pub_date": "Tue, 21 Jul 2026 21:00:01 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation in the wake of George Floyd's killing. Antonio arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP. Less than a week later, he was shot and killed there. The case remains unsolved.In this..."
-  },
-  {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Can World Cup mania grow MLS in the U.S.?",
-    "pub_date": "Fri, 17 Jul 2026 22:43:18 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "As the World Cup comes to a close, so does a massive real-time experiment happening just around the edges. Major League Soccer – the top men’s professional soccer league in the U.S. and Canada – has been scrambling to take advantage of this once-in-a-generation opportunity when average American sports fans suddenly cared a lot about soccer.In be..."
   },
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "El Niño Is Back. And Worse Than Ever.",
+    "pub_date": "Wed, 19 Aug 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9da6c05d-e10a-48b0-8a01-8efbb409a2f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9da6c05d-e10a-48b0-8a01-8efbb409a2f9&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "The global chaos agent known as El Niño is back, and this year it’s already on track to be, by far, the strongest and most severe on record, wreaking havoc on weather across the world.\nToday, Chico Harlan, the global climate reporter for The New York Times, goes over El Niño’s history, its inner workings and its increasingly destructive fallout...."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "What Went Wrong on the U.S.S. Lincoln?",
     "pub_date": "Tue, 18 Aug 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9c817095-0ee3-4c67-a9b2-6b3290988d29/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9c817095-0ee3-4c67-a9b2-6b3290988d29&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "For the past two weeks, family members of sailors have been raising alarms about the conditions aboard the U.S.S. Abraham Lincoln, which has a crew of about 5,000 and has been at sea for almost nine months straight.\nToday, John Ismay, a New York Times reporter who covers the Pentagon with a focus on armed conflict and the defense industry, discu..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Luigi Mangione’s High-Risk Legal Strategy",
     "pub_date": "Mon, 17 Aug 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "In the two years since a masked man shot and killed a health care executive, the national spotlight has turned to the primary suspect, Luigi Mangione. The overwhelming evidence has pointed to his guilt, and the question on most minds has been: What might the defense of one of the most famous murder suspects in America look like?\nAt a hearing on ..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "What Makes a Killer Thriller?",
     "pub_date": "Sun, 16 Aug 2026 10:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "The New York Times Book Review recently released its list of the 50 best thrillers of the 21st century.\nTo put it together, the team asked almost 300 authors and other experts to vote for the best heart-thumping, page-turning, white knuckle reads published since 2000.\nIn this episode of “The Sunday Daily,” Natalie Kitroeff talks with the Times t..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The Charming, Amusing, Surprisingly Low-Confidence Matthew Rhys",
     "pub_date": "Sat, 15 Aug 2026 10:00:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "The “Widow’s Bay” star on his two Emmy nominations, his penchant for going dark and his wobbly self-esteem.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spot..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Secret Spy Network Feeding Russia’s War Machine",
     "pub_date": "Fri, 14 Aug 2026 09:51:23 +0000",
@@ -1278,7 +1287,7 @@
     "description": "Ukraine is running desperately low on interceptor missiles, leaving its cities and people nearly defenseless against Russian missile and drone attacks. How Russia has been able to sustain those attacks has been a mystery — until now.\nToday, Jane Bradley, a Britain-based investigative reporter for The New York Times, explains her investigation in..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Are The Democratic Socialists Winning or Losing?",
     "pub_date": "Thu, 13 Aug 2026 09:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "This week, Francesca Hong, a democratic socialist running for governor in Wisconsin, suffered an upset after a double-digit lead in the polls. Last week, Dr. Abdul El-Sayed, a progressive, pulled off a stunning victory in Michigan against his well-funded opponent.\nNate Cohn, the chief political analyst for The New York Times, makes sense of what..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "All the President’s Planes",
     "pub_date": "Wed, 12 Aug 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "When President Trump left Turkey, the White House said publicly that he was boarding the old Air Force One — but that plane was a decoy. In a highly elaborate escape plan prompted by a credible Iranian threat, Trump was secretly moved through a catering cart to a military aircraft, leaving passengers unknowingly flying on the decoy plane.\nToday,..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The U.S. Missile Stockpile Is Dangerously Low",
     "pub_date": "Tue, 11 Aug 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "As the fighting with Iran has dragged on, American forces have been burning through their weapons, creating a shortage of munitions that is leaving the United States and its allies in the region much more vulnerable.\nToday, Eric Schmitt, a national security correspondent for The New York Times, explains why Washington is running out of key missi..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Why Adults Are Getting Cancer at a Younger Age",
     "pub_date": "Mon, 10 Aug 2026 09:45:50 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/04e93762-40de-4e0c-9231-41eecfced241/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=04e93762-40de-4e0c-9231-41eecfced241&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "For years, cancer has been seen as a disease people mostly get when they’re older. That seems to be changing as more young people are getting cancer than ever before.\nToday, Nina Agrawal, a health reporter for The New York Times, explains what scientists are learning about the factors driving the rise and what it means for a generation of young ..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Is 'Gentle Parenting' Ruining French Children?",
-    "pub_date": "Sun, 9 Aug 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3d6d98b1-6490-468a-83b3-bd4c693fa8b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3d6d98b1-6490-468a-83b3-bd4c693fa8b4&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "“Traditional” French parenting is built on a foundation of firm boundaries, strictness and punishment for misbehavior. Within these rules, children are also allowed freedom and autonomy, which some say results in both well-behaved children and stress-free parents.\nIn recent years, though, American-style “gentle” or “positive” parenting has gaine..."
   }
 ]
