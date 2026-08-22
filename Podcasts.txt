@@ -203,6 +203,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Why scientists are stoked about mysterious black hole stars
+Published Date: Fri, 21 Aug 2026 07:00:00 +0000
+Description: You've heard of black holes. You've heard of stars. But have you heard of the newly discovered black hole stars that may explain multiple mysteries of the universe? We just did and we're honestly freaking out about it. Learn everything you need to know about it in this episode. Plus, hear some other cool stories fresh off the presses: Which exer...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/be5b4316-9719-4728-8ac0-b2b420000376/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=be5b4316-9719-4728-8ac0-b2b420000376&feed=F0qJcgXZ&t=podcast&e=nx-s1-5931541&p=510351&d=734&size=11755146
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: More men are taking testosterone. What gives?
 Published Date: Wed, 19 Aug 2026 07:00:00 +0000
 Description: If you’re a guy – or even just friends with a guy – and on the Internet, you may have noticed that testosterone discourse is everywhere. There’s Defense Secretary Pete Hegseth announcing testosterone screenings for soldiers, Joe Rogan discussing hormone therapy, and influencers discussing high- and low-T levels. Those levels affect more than jus...
@@ -255,12 +261,6 @@ Episode Title: The Midnight Rebellion: Almost Midnight
 Published Date: Sat, 08 Aug 2026 07:00:02 +0000
 Description: WBUR’s The Midnight Rebellion is a one-of-a-kind podcast: a “choose your own”-style show set 100 years in the future when the climate has gone haywire, and it’s up to you to save the planet. Rooted in science, this fictional adventure was created for kids and grown-ups alike. Each chapter ends with a choice. You decide what’s next. Choose wisely...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f2872a20-137f-4c94-a3d9-e9b2eddd5f6a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f2872a20-137f-4c94-a3d9-e9b2eddd5f6a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5909430&p=510351&d=1029&size=16475160
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The red flags that may be hiding in your poop
-Published Date: Fri, 07 Aug 2026 07:00:00 +0000
-Description: When’s the last time you looked at your poop? Dr. Trisha Pasricha says you should look every time because it could save your life. A change in bowel habits is the number one indicator someone might have colon cancer, a disease on the rise in people under 50 in the United States. Host Regina Barber gets into what’s driving this trend with Trisha;...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d2620b0-b2f6-4929-91a1-2a46da55c872/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d2620b0-b2f6-4929-91a1-2a46da55c872&feed=F0qJcgXZ&t=podcast&e=nx-s1-5875414&p=510351&d=756&size=12104978
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -569,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Who decides what big box sells? Our GAME got us answers
+Published Date: Fri, 21 Aug 2026 21:17:27 +0000
+Description: There’s a room where the fates of retail products are decided. Will they make it onto the shelves of the big box stores? Usually the rest of us can’t get inside the room where decisions are made – until now! Today on the show, we pitch the Planet Money game, Sell Me a Sasquatch, to big box retailers. We go behind the scenes to learn about how pr...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Getting entrepreneurial in Korea (Summer School)
 Published Date: Wed, 19 Aug 2026 07:30:00 +0000
 Description: This week’s stop on our world tour - Korea. A country divided into two very different power structures since the end of WWII. Today South Korea is the maker of some of the world’s favorite exports – from Samsung TV’s to BTS. But 75 years ago it was a much different story. How the textile industry and a partnership with Bangladesh lifted the coun...
@@ -621,12 +627,6 @@ Episode Title: Big Lettuce meets Small Intestine
 Published Date: Wed, 22 Jul 2026 23:16:26 +0000
 Description: The cyclospora outbreak that’s sickening thousands of Americans got us interested in the rise of Big Lettuce, and the challenges of keeping it clean. So on today’s show, we tell you just how much lettuce Americans eat every year (SO MUCH!), how bagged lettuce came to dominate grocery store shelves, what that means for food safety, and why these ...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: New NPR Series: "We Keep Us Safe" from the Embedded podcast
-Published Date: Tue, 21 Jul 2026 21:00:01 +0000
-Description: In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation in the wake of George Floyd's killing. Antonio arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP. Less than a week later, he was shot and killed there. The case remains unsolved.In this...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2026/07/20260721_pmoney_new_npr_series_we_keep_us_safe_from_the_embedded_podcast_trailer.mp3?t=podcast&e=nx-s1-5902274&p=510289&d=202&size=3244286
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -697,6 +697,12 @@ Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: How the creator economy is making you talk like the internet
+Published Date: Fri, 21 Aug 2026 07:00:00 +0000
+Description: Online linguist Adam Aleksic explains how he goes viral decoding internet slang, plus why making a living online means working for 'the algorithm.' It's part 2 of our creator economy series.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/00c5d33a-84b1-49cc-91a1-fdfc38089ad4/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=00c5d33a-84b1-49cc-91a1-fdfc38089ad4&feed=gGUt_fS1&t=podcast&e=nx-s1-5938840&p=510298&d=3000&size=48002657
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The price of creativity
 Published Date: Fri, 14 Aug 2026 07:00:00 +0000
 Description: The words "content creator" may make you roll your eyes. But in part 1 of our series, Kickstarter co-founder Yancey Strickler explains how the creator economy is changing work, art and what we value.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listeni...
@@ -749,12 +755,6 @@ Episode Title: Sports psychology for everyday life
 Published Date: Fri, 19 Jun 2026 07:00:00 +0000
 Description: The thrill of victory, the agony of defeat — sports cliches are everywhere. But what does it actually take to think like a winner? This hour, TED speakers explore the psychology of winning and losing.Original broadcast date: July 19, 2024TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TED speakers and deeper conv...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/480ef5db-df6e-432e-8931-6b5fe1e6446c/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=480ef5db-df6e-432e-8931-6b5fe1e6446c&feed=gGUt_fS1&t=podcast&e=nx-s1-5861604&p=510298&d=2990&size=47840906
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: How predictions took over our lives
-Published Date: Fri, 12 Jun 2026 07:00:00 +0000
-Description: From betting apps to AI models, prediction has become big business. This hour, why we're so drawn to certainty, and what happens when we mistake forecasts for facts. Guests include professor Brendan Dwyer, philosopher Carissa Véliz, and journalist Simone Stolzoff.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TE...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/03cb3c89-1cbf-429d-83d1-495de4a49ee4/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=03cb3c89-1cbf-429d-83d1-495de4a49ee4&feed=gGUt_fS1&t=podcast&e=nx-s1-5855336&p=510298&d=2992&size=47888135
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -918,6 +918,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: When Private Equity Comes for Your Favorite Team
+Published Date: Fri, 21 Aug 2026 09:52:25 +0000
+Description: Last week, the owner of the Los Angeles Lakers announced he was selling the basketball team for $12.5 billion — the highest price ever paid for a professional sports team. The deal has shocked the sports world and drawn new attention to a growing trend: Big groups of investors have been buying up professional sports teams as the franchises chase...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48bd2d4c-a733-430f-91af-268f422d42e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48bd2d4c-a733-430f-91af-268f422d42e0&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Who Moves Up, and Who's Pushed Out, in Pete Hegseth's Military
 Published Date: Thu, 20 Aug 2026 09:45:00 +0000
 Description: For the past 18 months, Defense Secretary Pete Hegseth has remade the top ranks of the U.S. military — dismissing or sidelining many whose rise he believes was aided by D.E.I. and replacing them with officers who fit his definition of merit. In the process, many argue he’s prioritizing loyalty to him and his ideas over loyalty to the military it...
@@ -984,11 +990,4 @@ Published Date: Wed, 12 Aug 2026 09:45:00 +0000
 Description: When President Trump left Turkey, the White House said publicly that he was boarding the old Air Force One — but that plane was a decoy. In a highly elaborate escape plan prompted by a credible Iranian threat, Trump was secretly moved through a catering cart to a military aircraft, leaving passengers unknowingly flying on the decoy plane.
 Today,...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2d8d7939-5740-4f62-8305-41fa126f5fde/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2d8d7939-5740-4f62-8305-41fa126f5fde&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The U.S. Missile Stockpile Is Dangerously Low
-Published Date: Tue, 11 Aug 2026 09:45:00 +0000
-Description: As the fighting with Iran has dragged on, American forces have been burning through their weapons, creating a shortage of munitions that is leaving the United States and its allies in the region much more vulnerable.
-Today, Eric Schmitt, a national security correspondent for The New York Times, explains why Washington is running out of key missi...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d402aab2-d540-47be-9ce3-52dcdae5374c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d402aab2-d540-47be-9ce3-52dcdae5374c&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
