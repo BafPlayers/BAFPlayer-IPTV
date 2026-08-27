@@ -3,6 +3,12 @@
 SHOW: NASA's Curious Universe
 ========================================================================
 ----------------------------------------
+Episode Title: Roman Series: Why NASA’s Roman Space Telescope Will Make Unexpected Discoveries
+Published Date: Thu, 27 Aug 2026 12:59:00 -0000
+Description: Take a deep dive into the science of NASA’s Nancy Grace Roman Space Telescope with Julie McEnery, Roman's senior project scientist. Learn why Roman’s survey data will be so detailed that they could cover a 4K screen the size of dozens of city blocks and why Julie says she doesn’t hope Roman changes our understanding of the universe—she knows it ...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8660783502.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Roman Series: The Technology Inside NASA’s Newest Space Telescope
 Published Date: Tue, 25 Aug 2026 12:59:00 -0000
 Description: What makes NASA’s Nancy Grace Roman Space Telescope a powerful tool with an unprecedented wide view of the cosmos? NASA engineers who designed, built, and tested Roman pop the hood to explain the unique technology inside. Go inside the huge NASA clean room where Roman was built, and get an up-close look at the testing campaign that ensures Roman...
@@ -60,16 +66,16 @@ Description: NASA’s Artemis II astronauts are back home. Hear reactions from t
 For more information about Artemis II, visit nasa.gov/artemis-ii
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6343672143.mp3?updated=1776263609
 Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Update: Artemis II Crew Flies Around the Moon
-Published Date: Wed, 08 Apr 2026 13:17:00 -0000
-Description: NASA’s Artemis II mission has flown around the Moon, and its four astronauts traveled farther from Earth than anyone in history. Relive this historic mission through the astronauts’ own words, including their scientific descriptions of the Moon’s surface, as well as the role of “space plumber” troubleshooting the toilet and the astronauts’ unify...
-Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8947460753.mp3?updated=1775874887
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
 SHOW: Science Vs
 ========================================================================
+----------------------------------------
+Episode Title: Sunscreen: Could It Be Toxic??
+Published Date: Thu, 27 Aug 2026 09:00:00 -0000
+Description: Sunscreen is supposed to protect us from dangerous stuff like cancer, but all over social media, people are saying that we’ve been getting it all wrong. We’re being told that our sunscreen is full of toxic chemicals, that wearing it could mess with our vitamin D levels — even that sunscreen itself actually increases our risk of skin cancer. So, ...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9864857559.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Hank Green: What No One Tells You About the Algorithm 
 Published Date: Thu, 20 Aug 2026 09:00:00 -0000
@@ -125,14 +131,6 @@ Episode Title: Peptides: The Ultimate Body Hack?
 Published Date: Thu, 04 Jun 2026 09:00:00 -0000
 Description: Peptides are huge right now. Influencers are telling us they can work wonders for all sorts of stuff. Struggling with an annoying injury that won't heal?? Belly fat that's pissing you off? Low energy? Gut issues?? There’s a peptide out there for you. People are buying peptides off the internet and injecting themselves with them, saying it's life...
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT2480103834.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: How Toxic Is the Air You Breathe?
-Published Date: Thu, 28 May 2026 09:00:00 -0000
-Description: The Trump administration is rolling back restrictions on air pollution in the U.S., and some experts say this could affect the health of millions of people. And what makes air pollution especially dangerous is that we often can’t see it at all. 
-
-So today, we’re going back to the story of Ella Kissi-Debrah, a little girl who suddenly got sick an...
-Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT2464584834.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -203,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: How your metabolism could alter your mental health
+Published Date: Wed, 26 Aug 2026 07:00:00 +0000
+Description: In 2009, medical student Shebani Sethi watched a patient in a weight loss program make a remarkable recovery. The dietary intervention she underwent alleviated her schizophrenia symptoms, something the woman had tried – and failed – to treat with medication for years. That experience sent Shebani down a medical path that would lead her to treati...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/02027688-bab9-4193-b6a0-8cae4b207ca3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=02027688-bab9-4193-b6a0-8cae4b207ca3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5807708&p=510351&d=748&size=11969977
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: AI-made viruses could be the future of medicine
 Published Date: Tue, 25 Aug 2026 07:00:00 +0000
 Description: The era of AI-generated viruses is here. Some scientists are using AI to design viruses that can attack bacteria. The hope is that these tailor-made viruses can fight drug-resistant bacterial infections in people. And longer-term, Brian Hie, the Stanford researcher spearheading this project, hopes that AI can help create more complicated biologi...
@@ -255,12 +259,6 @@ Episode Title: Can you spot AI-written stories? Listen and find out
 Published Date: Wed, 12 Aug 2026 07:00:00 +0000
 Description: Can you tell the difference between a human-written short story and an AI-generated one? Most people can’t. In a series of experiments led by a team at Villanova University, researchers found two things: First, most people said they preferred human written stories, but couldn’t tell the difference between AI and human writing; and second, when p...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/97cd7641-b15b-4fc0-a3eb-1b5623634985/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=97cd7641-b15b-4fc0-a3eb-1b5623634985&feed=F0qJcgXZ&t=podcast&e=nx-s1-5913976&p=510351&d=736&size=11792763
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: How to see this week's eclipse (and the next big one)
-Published Date: Tue, 11 Aug 2026 07:00:00 +0000
-Description: During a total solar eclipse the world around you is very different. The sun gets totally blotted out and suddenly, it feels like night time. The temperature drops. Birds stop singing. These surreal celestial events happen every year or so around the globe – including tomorrow. To get you prepped, we’re talking to eclipse chasers about what make...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/752003a8-614b-42c3-88d5-89afac88d8e0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=752003a8-614b-42c3-88d5-89afac88d8e0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5918514&p=510351&d=724&size=11586708
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -395,6 +393,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: Archive: Plate Tectonics
+Published Date: Thu, 27 Aug 2026 08:45:00 +0000
+Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fourth choice, first released in January 2008, explores how the science of plate tectonics revolutionised our understanding of the planet on which we live. America is getting further away from Europe. This is not a political statement but a geo...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p09f1b.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
 Episode Title: Archive: Hatshepsut
 Published Date: Thu, 20 Aug 2026 08:45:00 +0000
 Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His third choice, first released in November 2014, is the Egyptian pharaoh Hatshepsut, whose name means 'foremost of noble ladies'. She ruled Egypt from about 1479 - 1458 BC and some scholars argue that she was one of the most successful and influe...
@@ -448,16 +452,16 @@ Published Date: Thu, 02 Jul 2026 09:15:00 +0000
 Description: Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller an...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0npng58.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
-----------------------------------------
-Episode Title: The Welsh Marches
-Published Date: Thu, 25 Jun 2026 09:15:00 +0000
-Description: At the Hay Festival, Misha Glenny and guests discuss the impact of the Norman invasion on the people and land of Wales and across the modern border with England in what became known as The Welsh Marches, march being a term for a militarized borderland.  Hay was one of the first Marcher lordships. Even before 1066, William the Conqueror knew that...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsfns9.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 
 ========================================================================
 SHOW: Lore
 ========================================================================
+----------------------------------------
+Episode Title: Deeper Lore: 313 (7, 67, & 101)
+Published Date: Thu, 27 Aug 2026 05:01:00 +0000
+Description: Go deeper into the subject matter of our most recent episode (Lore 313: Tall, Tall Tales) with these three recommendations from further back in the Lore catalog:  Episode 7: LorePodcast.com/episodes/7 Episode 67: LorePodcast.com/episodes/67 Episode 101: LorePodcast.com/episodes/101  ———————— Lore Resources:   Episode Music: lorepodcast.com/music...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-313.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 ----------------------------------------
 Episode Title: Lore 313: Tall, Tall Tales
 Published Date: Mon, 24 Aug 2026 05:01:00 +0000
@@ -512,12 +516,6 @@ Published Date: Thu, 16 Jul 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (310: Thunderstruck) with these three recommendations from further back in the Lore catalog:  Episode 74: LorePodcast.com/episodes/74 Episode 196: LorePodcast.com/episodes/196 Episode 44: LorePodcast.com/episodes/44  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Epis...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-310.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore 310: Thunderstruck
-Published Date: Mon, 13 Jul 2026 05:01:00 +0000
-Description: While most folklore has a thrilling quality to it, there are some tales that are a bit more shocking. Just be careful where you stand while we explore them. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhum...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore310d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
 SHOW: Common Sense with Dan Carlin
@@ -568,6 +566,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 ========================================================================
 SHOW: Planet Money
 ========================================================================
+----------------------------------------
+Episode Title: The continent nobody owns & everyone benefits from (Summer School)
+Published Date: Wed, 26 Aug 2026 07:30:00 +0000
+Description: This episode is packed with your best economic ideas from around the world and a penguin interview. It all comes together in this final session of Summer School 2026.Pack your parka, we’re headed to Antarctica.First, we’ll travel back in time to the late 1970s when NPR was a scrappy young network, with a synth soundtrack, and tons of heart. Scie...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: Who decides what big box sells? Our GAME got us answers
 Published Date: Fri, 21 Aug 2026 21:17:27 +0000
@@ -622,16 +626,16 @@ Published Date: Fri, 24 Jul 2026 20:00:00 +0000
 Description: Let’s head to a small town in Kenya that’s become globally famous for helping economists answer some of the biggest questions facing humanity.In Kenya and Nigeria, economics isn’t just theory, it’s real life. We’ll look at some radical experiments that turned out to be enormously successful.What are the building blocks of health, education and p...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d3e922aa-3bb6-457c-8d6a-5c170700fdeb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d3e922aa-3bb6-457c-8d6a-5c170700fdeb&feed=hvWWWzRv&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Big Lettuce meets Small Intestine
-Published Date: Wed, 22 Jul 2026 23:16:26 +0000
-Description: The cyclospora outbreak that’s sickening thousands of Americans got us interested in the rise of Big Lettuce, and the challenges of keeping it clean. So on today’s show, we tell you just how much lettuce Americans eat every year (SO MUCH!), how bagged lettuce came to dominate grocery store shelves, what that means for food safety, and why these ...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
 SHOW: How I Built This with Guy Raz
 ========================================================================
+----------------------------------------
+Episode Title: Advice Line with Daymond John of FUBU
+Published Date: Thu, 27 Aug 2026 07:10:00 -0000
+Description: Today’s callers: Cristopher from Chicago wants to expand his family’s salsa brand from farmers markets into retail. Next, Darcy in Australia considers adapting his protein bar brand’s messaging to reach beyond his core enthusiasts. Finally, Seema in Canada seeks strategies to increase B2B sales for her ethical kitchen linen company. Plus, Daymon...
+Audio Stream URL: https://rss.art19.com/episodes/0961848f-0f5a-4fb7-932c-3a04f08bc8d4.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 ----------------------------------------
 Episode Title: YETI: Roy and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand
 Published Date: Mon, 24 Aug 2026 07:10:00 -0000
@@ -685,12 +689,6 @@ Episode Title: Sweetwater: Chuck Surack. How a Customer Service Strategy Built a
 Published Date: Mon, 27 Jul 2026 07:10:00 -0000
 Description: Chuck Surack never planned to build one of America's largest online retailers. He just wanted to be a musician. So right after high school, he took his sax and drove off in his old VW van to play gigs around the country. It didn’t work out. But with the audio and mixing skills Chuck learned gigging, he decided to convert his van into a mobile re...
 Audio Stream URL: https://rss.art19.com/episodes/50c2b5e3-3bc3-4039-a92d-26228b8ac908.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Advice Line with Curt Richardson of OtterBox
-Published Date: Thu, 23 Jul 2026 07:10:00 -0000
-Description: Today’s callers: Andy from Sarasota weighs whether the path to scalability for his live game show business is through personality or product. Then, Marissa from Tampa wants to recapture sales for her fairy tale-inspired teas after taking a hiatus to focus on her family. And Vince from New Jersey wonders how to allocate marketing dollars for  his...
-Audio Stream URL: https://rss.art19.com/episodes/e94bf774-de11-4434-843b-a551309a6773.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -760,6 +758,18 @@ Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-ne
 ========================================================================
 SHOW: Lex Fridman Podcast
 ========================================================================
+----------------------------------------
+Episode Title: #501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux
+Published Date: Wed, 26 Aug 2026 21:47:04 +0000
+Description: DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.
+Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.
+Transcript:
+https://lexfridman.com/dhh-2-transcript
+CONTACT LEX:
+Fee...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
 ----------------------------------------
 Episode Title: #500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football
 Published Date: Wed, 12 Aug 2026 13:11:45 +0000
@@ -839,16 +849,6 @@ Description: Rick Beato is a music educator, interviewer, producer, songwriter, 
 Thank you for listening ❤ Check out our sponsors: https...
 Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_rick_beato.mp3
 Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
-----------------------------------------
-Episode Title: #491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger
-Published Date: Thu, 12 Feb 2026 03:10:39 +0000
-Description: Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that’s the fastest-growing project in GitHub history.
-Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep491-sc
-See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.
-Transcript:
-https://lexfri...
-Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_peter_steinberger.mp3
-Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
 
 ========================================================================
 SHOW: The Tim Ferriss Show
@@ -918,6 +918,21 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: A Historic Settlement Over Social Media Addiction
+Published Date: Thu, 27 Aug 2026 09:45:00 +0000
+Description: Meta, the world’s biggest social media company, reached a multibillion-dollar legal settlement on Wednesday over claims that its technology was addictive to children.
+The company agreed to impose major changes to how minors use its products.
+Cecilia Kang, a technology reporter for The New York Times, explains why a company that almost never back...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e86e618a-7957-4942-8be2-92527e285d53/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e86e618a-7957-4942-8be2-92527e285d53&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: The Stunning Rise of the Democratic Socialists of America
+Published Date: Wed, 26 Aug 2026 09:45:00 +0000
+Description: This summer, the Democratic Socialists of America have mounted their biggest and most successful attempt yet to redefine the Democratic Party. They have defeated its candidates in primary after primary from coast to coast.
+As its electoral success grows, the organization is confronting big, unresolved questions about what it stands for and what ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0c086bb9-eea2-4c28-84d1-82d0843d0a8f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0c086bb9-eea2-4c28-84d1-82d0843d0a8f&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Canada Is Done With Trump
 Published Date: Tue, 25 Aug 2026 09:45:00 +0000
 Description: In a dramatic decision, the prime minister of Canada abruptly cut off negotiations with the United States, delivering the message to President Trump that he would rather engage in an ugly trade war than submit to an unfair deal.
@@ -946,7 +961,7 @@ Description: The author Priya Parker says the key to human connection is to lean
  Watch our show on YouTube: youtube.com/@TheInterviewPodcast
  For transcripts and more, visit: nytimes.com/theinterview
 
-For more information on today’s episode, visit nytimes.com/thedaily. Transcripts of each epis...
+For more information on today’s episode, visit nytimes.com/thedaily. Transcripts of each epis...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e61d6493-9c70-4934-8526-c2af1dee3c56/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e61d6493-9c70-4934-8526-c2af1dee3c56&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
 ----------------------------------------
@@ -974,19 +989,4 @@ Published Date: Tue, 18 Aug 2026 09:45:00 +0000
 Description: For the past two weeks, family members of sailors have been raising alarms about the conditions aboard the U.S.S. Abraham Lincoln, which has a crew of about 5,000 and has been at sea for almost nine months straight.
 Today, John Ismay, a New York Times reporter who covers the Pentagon with a focus on armed conflict and the defense industry, discu...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9c817095-0ee3-4c67-a9b2-6b3290988d29/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9c817095-0ee3-4c67-a9b2-6b3290988d29&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Luigi Mangione’s High-Risk Legal Strategy
-Published Date: Mon, 17 Aug 2026 09:45:00 +0000
-Description: In the two years since a masked man shot and killed a health care executive, the national spotlight has turned to the primary suspect, Luigi Mangione. The overwhelming evidence has pointed to his guilt, and the question on most minds has been: What might the defense of one of the most famous murder suspects in America look like?
-At a hearing on ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3923640d-f68b-454b-8817-eb5ac4bbb117/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3923640d-f68b-454b-8817-eb5ac4bbb117&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: What Makes a Killer Thriller?
-Published Date: Sun, 16 Aug 2026 10:00:00 +0000
-Description: The New York Times Book Review recently released its list of the 50 best thrillers of the 21st century.
-To put it together, the team asked almost 300 authors and other experts to vote for the best heart-thumping, page-turning, white knuckle reads published since 2000.
-In this episode of “The Sunday Daily,” Natalie Kitroeff talks with the Times t...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/86e93b87-31f1-452f-9a1c-be859adc16db/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=86e93b87-31f1-452f-9a1c-be859adc16db&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
