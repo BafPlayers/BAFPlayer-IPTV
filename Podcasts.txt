@@ -7,25 +7,25 @@ Episode Title: Roman Series: Why NASA’s Roman Space Telescope Will Make Unexpe
 Published Date: Thu, 27 Aug 2026 12:59:00 -0000
 Description: Take a deep dive into the science of NASA’s Nancy Grace Roman Space Telescope with Julie McEnery, Roman's senior project scientist. Learn why Roman’s survey data will be so detailed that they could cover a 4K screen the size of dozens of city blocks and why Julie says she doesn’t hope Roman changes our understanding of the universe—she knows it ...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8660783502.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Roman Series: The Technology Inside NASA’s Newest Space Telescope
 Published Date: Tue, 25 Aug 2026 12:59:00 -0000
 Description: What makes NASA’s Nancy Grace Roman Space Telescope a powerful tool with an unprecedented wide view of the cosmos? NASA engineers who designed, built, and tested Roman pop the hood to explain the unique technology inside. Go inside the huge NASA clean room where Roman was built, and get an up-close look at the testing campaign that ensures Roman...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5630499129.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Roman Series: Jupiters Around Other Suns
 Published Date: Tue, 18 Aug 2026 13:33:00 -0000
 Description: NASA’s Nancy Grace Roman Space Telescope is on a quest to discover planets outside our solar system. NASA scientists Bertrand Mennesson and Vanessa Bailey explain how Roman’s wide view will spot as many as 100,000 new exoplanets in a galactic census that will change how we understand planetary system formation. And we’ll learn about an experimen...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1195969850.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Roman Series: NASA’s New View of the Dark Universe
 Published Date: Tue, 11 Aug 2026 13:08:00 -0000
 Description: Meet NASA’s newest space telescope: Roman. With similar resolution to Hubble but a field of view 100 times larger, the Nancy Grace Roman Space Telescope will settle essential questions in astronomy. NASA scientists Josh Schlieder and Alina Kiessling explain how that wide view will help us understand dark energy, one of the most puzzling mysterie...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4133606527.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Launching Soon: NASA’s Roman Space Telescope
 Published Date: Tue, 04 Aug 2026 13:25:00 -0000
@@ -33,31 +33,31 @@ Description: NASA is about to launch the Nancy Grace Roman Space Telescope, whic
 
 Learn mor...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION2719736624.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: There’s More Space in Your Life Than You Think 
 Published Date: Tue, 21 Jul 2026 13:00:00 -0000
 Description: In its mission to explore the unknown in air and space, NASA ends up inventing a lot of new things. Then, the agency “spins off” those inventions to companies that produce products to make our lives easier and safer here on Earth. From memory foam mattresses and cordless power tools to wireless headphones and dating apps, NASA Technology is all ...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6777593734.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Meet the Artemis III Crew
 Published Date: Fri, 12 Jun 2026 14:00:00 -0000
 Description: Meet the astronauts who will fly on Artemis III: Commander Randy Bresnik, Pilot Luca Parmitano, and Mission Specialists Frank Rubio and Andre Douglas. In this special presentation of Houston We Have a Podcast, the Artemis III astronauts discuss their backgrounds and training ahead of them to prepare for one of the most complex human spaceflight ...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6756666120.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Catching Up With Perseverance on Mars
 Published Date: Tue, 02 Jun 2026 13:10:00 -0000
 Description: NASA’s robotic explorers are looking for signs of ancient life on Mars. In its five years and counting on the surface of the Red Planet, the Perseverance rover has collected dozens of rock samples, including tantalizing features that could be signs of past life. Scientists want to keep studying Mars. That’s why NASA plans to send a fleet of next...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7307102032.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Bonus: Behind the Scenes of Artemis II with NASA Experts
 Published Date: Sat, 02 May 2026 13:23:00 -0000
 Description: In this bonus episode, go behind the scenes of key moments from Artemis II with NASA experts who made them possible. Engineers who launched the rocket describe the hours-long process that led to a successful liftoff. The leader of the closeout crew recalls his sendoff message as the astronauts were sealed inside their spacecraft. And the Artemis...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5165690257.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Update: Artemis II Crew Comes Home
 Published Date: Wed, 15 Apr 2026 14:22:00 -0000
@@ -65,7 +65,7 @@ Description: NASA’s Artemis II astronauts are back home. Hear reactions from t
 
 For more information about Artemis II, visit nasa.gov/artemis-ii
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6343672143.mp3?updated=1776263609
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/76e3eecacb8d45c4e4910e3163aabef4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
 SHOW: Science Vs
@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: NASA's newest telescope has a top secret past
+Published Date: Fri, 28 Aug 2026 07:00:00 +0000
+Description: The new Nancy Grace Roman space telescope is slated to launch this weekend. It was originally built for the National Reconnaissance Office as a spy satellite, but was never launched. Instead, NRO gave it to NASA about 15 years ago. After some major modifications, it’s set to begin its five-year mission peering at new supernovas, distant galaxies...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0dce5ef3-e265-401c-b7d5-78ea9086385c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0dce5ef3-e265-401c-b7d5-78ea9086385c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935626&p=510351&d=811&size=12988961
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How your metabolism could alter your mental health
 Published Date: Wed, 26 Aug 2026 07:00:00 +0000
 Description: In 2009, medical student Shebani Sethi watched a patient in a weight loss program make a remarkable recovery. The dietary intervention she underwent alleviated her schizophrenia symptoms, something the woman had tried – and failed – to treat with medication for years. That experience sent Shebani down a medical path that would lead her to treati...
@@ -253,12 +259,6 @@ Episode Title: How to see the year's best meteor shower tonight
 Published Date: Thu, 13 Aug 2026 07:00:00 +0000
 Description: Right now the best shooting star show of the year is happening: the peak of the Perseid meteor shower. People have been viewing this annual event pretty much as long as we’ve been recording history. But what are we really looking at when we gaze up to see these faint streaks of light shoot across the sky? And what can you do to get the best view...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1d54b7b0-6412-4a2d-926b-3788e5a7bf69/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1d54b7b0-6412-4a2d-926b-3788e5a7bf69&feed=F0qJcgXZ&t=podcast&e=nx-s1-5929288&p=510351&d=748&size=11976665
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Can you spot AI-written stories? Listen and find out
-Published Date: Wed, 12 Aug 2026 07:00:00 +0000
-Description: Can you tell the difference between a human-written short story and an AI-generated one? Most people can’t. In a series of experiments led by a team at Villanova University, researchers found two things: First, most people said they preferred human written stories, but couldn’t tell the difference between AI and human writing; and second, when p...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/97cd7641-b15b-4fc0-a3eb-1b5623634985/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=97cd7641-b15b-4fc0-a3eb-1b5623634985&feed=F0qJcgXZ&t=podcast&e=nx-s1-5913976&p=510351&d=736&size=11792763
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -695,6 +695,12 @@ Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: The day the dinosaurs died
+Published Date: Fri, 28 Aug 2026 07:00:00 +0000
+Description: What happened in the days, even hours, after an asteroid set off the fifth extinction? A New Jersey quarry, and site of a new museum founded by paleontologist Ken Lacovara, sheds light on the mystery.Original broadcast date: August 16, 2024Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks includ...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/c093f2b2-a19d-4381-9a36-c27506bccd36/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=c093f2b2-a19d-4381-9a36-c27506bccd36&feed=gGUt_fS1&t=podcast&e=nx-s1-5945734&p=510298&d=3021&size=48349145
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How the creator economy is making you talk like the internet
 Published Date: Fri, 21 Aug 2026 07:00:00 +0000
 Description: Online linguist Adam Aleksic explains how he goes viral decoding internet slang, plus why making a living online means working for 'the algorithm.' It's part 2 of our creator economy series.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn...
@@ -747,12 +753,6 @@ Episode Title: Are we using screens as a scapegoat for teen mental health?
 Published Date: Fri, 26 Jun 2026 07:00:00 +0000
 Description: For years, we’ve heard that social media is fueling a teen mental health crisis. But the evidence is more complicated. Developmental psychologist Candice Odgers unpacks what the research actually says—and where parents, policymakers, and the media often get it wrong.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/889661b4-9ae5-4b2c-a918-551a25f3d697/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=889661b4-9ae5-4b2c-a918-551a25f3d697&feed=gGUt_fS1&t=podcast&e=nx-s1-5871161&p=510298&d=3010&size=48164406
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Sports psychology for everyday life
-Published Date: Fri, 19 Jun 2026 07:00:00 +0000
-Description: The thrill of victory, the agony of defeat — sports cliches are everywhere. But what does it actually take to think like a winner? This hour, TED speakers explore the psychology of winning and losing.Original broadcast date: July 19, 2024TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TED speakers and deeper conv...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/480ef5db-df6e-432e-8931-6b5fe1e6446c/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=480ef5db-df6e-432e-8931-6b5fe1e6446c&feed=gGUt_fS1&t=podcast&e=nx-s1-5861604&p=510298&d=2990&size=47840906
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -918,6 +918,14 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Lindsay Clancy Is on Trial. So Is Postpartum Psychosis.
+Published Date: Fri, 28 Aug 2026 09:45:00 +0000
+Description: Warning: this episode mentions suicide.
+The trial of Lindsay Clancy, a mother who is being tried for the killings of her three young children, has captivated the country for weeks. It has also raised difficult questions about how we treat postpartum women who are in crisis.
+Ellen Barry, a New York Times reporter who has been covering the trial, ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/154119be-1cc6-47ac-a8fd-40bd1dc25849/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=154119be-1cc6-47ac-a8fd-40bd1dc25849&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: A Historic Settlement Over Social Media Addiction
 Published Date: Thu, 27 Aug 2026 09:45:00 +0000
 Description: Meta, the world’s biggest social media company, reached a multibillion-dollar legal settlement on Wednesday over claims that its technology was addictive to children.
@@ -982,11 +990,4 @@ Published Date: Wed, 19 Aug 2026 09:45:00 +0000
 Description: The global chaos agent known as El Niño is back, and this year it’s already on track to be, by far, the strongest and most severe on record, wreaking havoc on weather across the world.
 Today, Chico Harlan, the global climate reporter for The New York Times, goes over El Niño’s history, its inner workings and its increasingly destructive fallout....
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9da6c05d-e10a-48b0-8a01-8efbb409a2f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9da6c05d-e10a-48b0-8a01-8efbb409a2f9&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: What Went Wrong on the U.S.S. Lincoln?
-Published Date: Tue, 18 Aug 2026 09:45:00 +0000
-Description: For the past two weeks, family members of sailors have been raising alarms about the conditions aboard the U.S.S. Abraham Lincoln, which has a crew of about 5,000 and has been at sea for almost nine months straight.
-Today, John Ismay, a New York Times reporter who covers the Pentagon with a focus on armed conflict and the defense industry, discu...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9c817095-0ee3-4c67-a9b2-6b3290988d29/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9c817095-0ee3-4c67-a9b2-6b3290988d29&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
