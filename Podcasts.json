@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "Branded fruit: How produce got “Honeycrisp-ified\"",
+    "pub_date": "Fri, 28 Aug 2026 19:19:07 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32371025",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "The produce aisle is changing. You’ve noticed this, I’m sure. It is now full of superstar fruits and vegetables: The Honeycrisp apple, The Cotton Candy grape, The Cuties mandarin orange. They stand out. They cost more. They have branding and sometimes trademarks and patent-ish kinds of protections.And now – it’s happening in the tomato bin too! ..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "The continent nobody owns & everyone benefits from (Summer School)",
     "pub_date": "Wed, 26 Aug 2026 07:30:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438",
@@ -792,7 +801,7 @@
     "description": "This episode is packed with your best economic ideas from around the world and a penguin interview. It all comes together in this final session of Summer School 2026.Pack your parka, we’re headed to Antarctica.First, we’ll travel back in time to the late 1970s when NPR was a scrappy young network, with a synth soundtrack, and tons of heart. Scie..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "Who decides what big box sells? Our GAME got us answers",
     "pub_date": "Fri, 21 Aug 2026 21:17:27 +0000",
@@ -801,7 +810,7 @@
     "description": "There’s a room where the fates of retail products are decided. Will they make it onto the shelves of the big box stores? Usually the rest of us can’t get inside the room where decisions are made – until now! Today on the show, we pitch the Planet Money game, Sell Me a Sasquatch, to big box retailers. We go behind the scenes to learn about how pr..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Getting entrepreneurial in Korea (Summer School)",
     "pub_date": "Wed, 19 Aug 2026 07:30:00 +0000",
@@ -810,7 +819,7 @@
     "description": "This week’s stop on our world tour - Korea. A country divided into two very different power structures since the end of WWII. Today South Korea is the maker of some of the world’s favorite exports – from Samsung TV’s to BTS. But 75 years ago it was a much different story. How the textile industry and a partnership with Bangladesh lifted the coun..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "You bet your life insurance",
     "pub_date": "Fri, 14 Aug 2026 20:56:00 +0000",
@@ -819,7 +828,7 @@
     "description": "Some of the biggest firms on Wall Street are, at this very moment, waiting for thousands of strangers to die to reap their returns. Because there’s a market for life insurance policies. And it’s legal.You don’t have to actually die to get some of your life insurance money. Thanks to a secondary market for life insurance policies, you might be ab..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "Currency Chaos in Argentina (Summer School)",
     "pub_date": "Wed, 12 Aug 2026 07:30:00 +0000",
@@ -828,7 +837,7 @@
     "description": "Just about everyone in Argentina is an expert in inflation and whether they like it or not, economic flexibility. Can we learn from them? Over the years, we at Planet Money have checked in on Argentina as it tried to recover from economic collapse in 2001 and 2002, and as inflation shot up and the country defaulted on its debts. This week on our..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "Older workers aren’t retiring. Should they be forced to?",
     "pub_date": "Fri, 07 Aug 2026 20:55:00 +0000",
@@ -837,7 +846,7 @@
     "description": "When workers past retirement age can’t afford to retire — that’s one thing. When they can, and just don’t want to — that’s trickier.It used to be legal to force people to retire when they hit a certain age. The trend used to be earlier and earlier retirement. Now it’s later and later retirement. And younger workers say it’s impacting their caree..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Sand heists and property rights in the Caribbean (Summer School)",
     "pub_date": "Wed, 05 Aug 2026 07:30:00 +0000",
@@ -846,7 +855,7 @@
     "description": "Imagine a nation where, for the residents, land is for the claiming. You walk down the street, pick out a nice looking plot of land, and just plop down a marker. No rent, no taxes, no deed – just free land. That’s the communal system of property rights that governed a small Caribbean island for over a century.This week on our Summer School World..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "What makes a toy go viral",
     "pub_date": "Fri, 31 Jul 2026 21:00:00 +0000",
@@ -855,22 +864,13 @@
     "description": "Squishy, slimy, fidgety toys are having a moment. But it’s more than just an anxiety-soothing, social-media fueled trend – these toys are reshaping how toys get made.Today on the show, we have the story of the once-humble squishy dumpling and what it teaches us about how to make a viral hit and how to manufacture it, without getting left holding..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "How to beat the resource curse in Norway (Summer School)",
     "pub_date": "Wed, 29 Jul 2026 07:30:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a55624ce-82b9-4995-a658-36339435e8c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a55624ce-82b9-4995-a658-36339435e8c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367728",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "Let’s call it the luxury of restraint. This is what enabled Norway to avoid the fate of so many other countries when they discovered oil and it changed the mix of their economy overnight.Norway! It’s expensive, wealthy, and abundant in resources. We’re going to compare two of them in particular today: deep reservoirs of oil and icy waters full o..."
-  },
-  {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
-    "pub_date": "Fri, 24 Jul 2026 20:00:00 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d3e922aa-3bb6-457c-8d6a-5c170700fdeb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d3e922aa-3bb6-457c-8d6a-5c170700fdeb&feed=hvWWWzRv&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "Let’s head to a small town in Kenya that’s become globally famous for helping economists answer some of the biggest questions facing humanity.In Kenya and Nigeria, economics isn’t just theory, it’s real life. We’ll look at some radical experiments that turned out to be enormously successful.What are the building blocks of health, education and p..."
   },
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
