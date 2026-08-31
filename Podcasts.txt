@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Football is here – and so is a new study on CTE
+Published Date: Mon, 31 Aug 2026 07:00:00 +0000
+Description: The NFL season begins this week, but America’s favorite sport has been on our minds for other reasons recently. New research released in the journal BMJ reveals that 1 in 4 former NFL players in this sample had CTE, a neurodegenerative brain disease caused by repetitive head injuries. Past studies already showed that football players are at high...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f186c998-4b4c-47fc-b2cb-41b9ecbe75b5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f186c998-4b4c-47fc-b2cb-41b9ecbe75b5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5944383&p=510351&d=901&size=14425487
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: NASA's newest telescope has a top secret past
 Published Date: Fri, 28 Aug 2026 07:00:00 +0000
 Description: The new Nancy Grace Roman space telescope is slated to launch this weekend. It was originally built for the National Reconnaissance Office as a spy satellite, but was never launched. Instead, NRO gave it to NASA about 15 years ago. After some major modifications, it’s set to begin its five-year mission peering at new supernovas, distant galaxies...
@@ -253,12 +259,6 @@ Episode Title: Inside Colombia's big quake – and why more could be coming
 Published Date: Fri, 14 Aug 2026 07:00:00 +0000
 Description: The 7.4 magnitude earthquake that struck Colombia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter. Interested in more science in the news? Email us your question at shortwave@npr.org.   Support public me...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/35884acb-b390-4844-ad78-16c05d6065d8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=35884acb-b390-4844-ad78-16c05d6065d8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5928981&p=510351&d=732&size=11715440
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: How to see the year's best meteor shower tonight
-Published Date: Thu, 13 Aug 2026 07:00:00 +0000
-Description: Right now the best shooting star show of the year is happening: the peak of the Perseid meteor shower. People have been viewing this annual event pretty much as long as we’ve been recording history. But what are we really looking at when we gaze up to see these faint streaks of light shoot across the sky? And what can you do to get the best view...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1d54b7b0-6412-4a2d-926b-3788e5a7bf69/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1d54b7b0-6412-4a2d-926b-3788e5a7bf69&feed=F0qJcgXZ&t=podcast&e=nx-s1-5929288&p=510351&d=748&size=11976665
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -457,6 +457,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Legends 87: Cursive
+Published Date: Mon, 31 Aug 2026 05:01:00 +0000
+Description: Everyone loves a good ghost story, but literature and spirits have a relationship that is older than some might think. Narrated and produced by Aaron Mahnke, with writing and research by GennaRose Nethercott and Alex Robinson. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   Get Ad-Free Lore: lorepodcast.com/sup...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-87d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Deeper Lore: 313 (7, 67, & 101)
 Published Date: Thu, 27 Aug 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (Lore 313: Tall, Tall Tales) with these three recommendations from further back in the Lore catalog:  Episode 7: LorePodcast.com/episodes/7 Episode 67: LorePodcast.com/episodes/67 Episode 101: LorePodcast.com/episodes/101  ———————— Lore Resources:   Episode Music: lorepodcast.com/music...
@@ -509,12 +515,6 @@ Episode Title: Legends 84: Dead in the Water
 Published Date: Mon, 20 Jul 2026 05:01:00 +0000
 Description: The vast oceans of our planet are more mysterious to us than the surface of Mars. And because of that, they have become the place where dark legends dwell beneath the surface. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick, and research by Samuel Alberty. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ——...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-84d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Deeper Lore: 310 (74, 196, & 44)
-Published Date: Thu, 16 Jul 2026 05:01:00 +0000
-Description: Go deeper into the subject matter of our most recent episode (310: Thunderstruck) with these three recommendations from further back in the Lore catalog:  Episode 74: LorePodcast.com/episodes/74 Episode 196: LorePodcast.com/episodes/196 Episode 44: LorePodcast.com/episodes/44  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Epis...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-310.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -631,6 +631,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them
+Published Date: Mon, 31 Aug 2026 07:10:00 -0000
+Description: Nicole Bernard Dawes spent much of her childhood hanging out in her dad’s potato chip factory on Cape Cod. She liked his kettle-cooked chips a lot more than the flavorless snacks in her mom’s health food store. But when she started her own business, she wanted the best of both worlds: a snack made with natural, organic ingredients…that still tas...
+Audio Stream URL: https://rss.art19.com/episodes/97049a31-9144-42f5-856c-9590c5e6beb4.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Advice Line with Daymond John of FUBU
 Published Date: Thu, 27 Aug 2026 07:10:00 -0000
 Description: Today’s callers: Cristopher from Chicago wants to expand his family’s salsa brand from farmers markets into retail. Next, Darcy in Australia considers adapting his protein bar brand’s messaging to reach beyond his core enthusiasts. Finally, Seema in Canada seeks strategies to increase B2B sales for her ethical kitchen linen company. Plus, Daymon...
@@ -683,12 +689,6 @@ Episode Title: Advice Line with Chris Riccobono of UNTUCKit
 Published Date: Thu, 30 Jul 2026 07:10:00 -0000
 Description: Today’s callers: Adrian from California wants to grow his apparel company to complete with big-name athletic brands. Then, Preet from the Rockies looks for strategies to reach seniors and their children with his daily check-in app. And Derek from Virginia considers social media and professional partnerships to advertise his hockey equipment bran...
 Audio Stream URL: https://rss.art19.com/episodes/c087247f-1f85-4c15-b4aa-4ffea0368c4c.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company. 
-Published Date: Mon, 27 Jul 2026 07:10:00 -0000
-Description: Chuck Surack never planned to build one of America's largest online retailers. He just wanted to be a musician. So right after high school, he took his sax and drove off in his old VW van to play gigs around the country. It didn’t work out. But with the audio and mixing skills Chuck learned gigging, he decided to convert his van into a mobile re...
-Audio Stream URL: https://rss.art19.com/episodes/50c2b5e3-3bc3-4039-a92d-26228b8ac908.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -918,6 +918,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Who Will Rule the 2026 U.S. Open?
+Published Date: Sun, 30 Aug 2026 10:00:00 +0000
+Description: The U.S. Open, the final tournament of the tennis season, is getting underway. The world’s best players are heading to the U.S.T.A. Billie Jean King National Tennis Center in Queens, N.Y., to battle it out for the chance to play a championship match at Arthur Ashe Stadium, the largest tennis arena in the world.
+The players come freighted with gr...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Ina Garten Says You Can Either Get on Her Train or Get Out of the Way
 Published Date: Sat, 29 Aug 2026 10:00:00 +0000
 Description: At 78, the cookbook author and Food Network host knows what she likes, knows what she wants and isn’t stopping anytime soon.
@@ -989,10 +996,4 @@ Episode Title: When Private Equity Comes for Your Favorite Team
 Published Date: Fri, 21 Aug 2026 09:52:25 +0000
 Description: Last week, the owner of the Los Angeles Lakers announced he was selling the basketball team for $12.5 billion — the highest price ever paid for a professional sports team. The deal has shocked the sports world and drawn new attention to a growing trend: Big groups of investors have been buying up professional sports teams as the franchises chase...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48bd2d4c-a733-430f-91af-268f422d42e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48bd2d4c-a733-430f-91af-268f422d42e0&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Who Moves Up, and Who's Pushed Out, in Pete Hegseth's Military
-Published Date: Thu, 20 Aug 2026 09:45:00 +0000
-Description: For the past 18 months, Defense Secretary Pete Hegseth has remade the top ranks of the U.S. military — dismissing or sidelining many whose rise he believes was aided by D.E.I. and replacing them with officers who fit his definition of merit. In the process, many argue he’s prioritizing loyalty to him and his ideas over loyalty to the military it...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/1e4a2bb9-cbef-4ea0-bbb1-baed4ba8eaf3/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=1e4a2bb9-cbef-4ea0-bbb1-baed4ba8eaf3&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
