@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: What can seashells teach us about the health of our oceans?
+Published Date: Tue, 01 Sep 2026 07:00:00 +0000
+Description: Seashells: They're beautiful remnants to carry home from the beach—and so much more! According to environmental journalist Cynthia Barnett, seashells record history more accurately than the humans who first wrote it down. In this episode, we talk about the science of seashells, their impact on humankind and the scientist behind a very famous ton...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1494d472-70de-4b30-a3f1-b6a8a651bc82/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1494d472-70de-4b30-a3f1-b6a8a651bc82&feed=F0qJcgXZ&t=podcast&e=nx-s1-5910654&p=510351&d=790&size=12647949
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Football is here – and so is a new study on CTE
 Published Date: Mon, 31 Aug 2026 07:00:00 +0000
 Description: The NFL season begins this week, but America’s favorite sport has been on our minds for other reasons recently. New research released in the journal BMJ reveals that 1 in 4 former NFL players in this sample had CTE, a neurodegenerative brain disease caused by repetitive head injuries. Past studies already showed that football players are at high...
@@ -253,12 +259,6 @@ Episode Title: Could future wars be fought by AI?
 Published Date: Mon, 17 Aug 2026 07:00:00 +0000
 Description: This year, the Department of Defense announced that they’d entered agreements with eight artificial intelligence companies. It follows decades of popular media exploring the idea of artificial intelligence in war – from the computer threatening global thermonuclear conflict in the movie WarGames to the Skynet neural net in Terminator. In 2026, w...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/06d9fd30-af71-47e4-b663-06eb28904e9c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=06d9fd30-af71-47e4-b663-06eb28904e9c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5844635&p=510351&d=898&size=14374496
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Inside Colombia's big quake – and why more could be coming
-Published Date: Fri, 14 Aug 2026 07:00:00 +0000
-Description: The 7.4 magnitude earthquake that struck Colombia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter. Interested in more science in the news? Email us your question at shortwave@npr.org.   Support public me...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/35884acb-b390-4844-ad78-16c05d6065d8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=35884acb-b390-4844-ad78-16c05d6065d8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5928981&p=510351&d=732&size=11715440
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -576,7 +576,7 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 Episode Title: Branded fruit: How produce got “Honeycrisp-ified"
 Published Date: Fri, 28 Aug 2026 19:19:07 +0000
 Description: The produce aisle is changing. You’ve noticed this, I’m sure. It is now full of superstar fruits and vegetables: The Honeycrisp apple, The Cotton Candy grape, The Cuties mandarin orange. They stand out. They cost more. They have branding and sometimes trademarks and patent-ish kinds of protections.And now – it’s happening in the tomato bin too! ...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32371025
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: The continent nobody owns & everyone benefits from (Summer School)
@@ -918,6 +918,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: How Flock Cameras Took Over America
+Published Date: Mon, 31 Aug 2026 09:50:02 +0000
+Description: This summer, Fernando Alfonso, the Texas editor for The New York Times, got in a car with a man named Philip. They drove around the suburban streets of Dallas searching for traffic cameras — not for a red-light camera, or a speed-trap camera, but something new, an automatic license-plate reader made by a company called Flock.
+Law enforcement off...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/98d33752-1164-4fb7-8e43-42deed11186f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=98d33752-1164-4fb7-8e43-42deed11186f&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Who Will Rule the 2026 U.S. Open?
 Published Date: Sun, 30 Aug 2026 10:00:00 +0000
 Description: The U.S. Open, the final tournament of the tennis season, is getting underway. The world’s best players are heading to the U.S.T.A. Billie Jean King National Tennis Center in Queens, N.Y., to battle it out for the chance to play a championship match at Arthur Ashe Stadium, the largest tennis arena in the world.
@@ -990,10 +997,4 @@ Description: The author Priya Parker says the key to human connection is to lean
 
 For more information on today’s episode, visit nytimes.com/thedaily. Transcripts of each epis...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e61d6493-9c70-4934-8526-c2af1dee3c56/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e61d6493-9c70-4934-8526-c2af1dee3c56&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: When Private Equity Comes for Your Favorite Team
-Published Date: Fri, 21 Aug 2026 09:52:25 +0000
-Description: Last week, the owner of the Los Angeles Lakers announced he was selling the basketball team for $12.5 billion — the highest price ever paid for a professional sports team. The deal has shocked the sports world and drawn new attention to a growing trend: Big groups of investors have been buying up professional sports teams as the franchises chase...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48bd2d4c-a733-430f-91af-268f422d42e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48bd2d4c-a733-430f-91af-268f422d42e0&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

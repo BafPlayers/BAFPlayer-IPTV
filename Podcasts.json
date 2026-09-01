@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "What can seashells teach us about the health of our oceans?",
+    "pub_date": "Tue, 01 Sep 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1494d472-70de-4b30-a3f1-b6a8a651bc82/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1494d472-70de-4b30-a3f1-b6a8a651bc82&feed=F0qJcgXZ&t=podcast&e=nx-s1-5910654&p=510351&d=790&size=12647949",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Seashells: They're beautiful remnants to carry home from the beach—and so much more! According to environmental journalist Cynthia Barnett, seashells record history more accurately than the humans who first wrote it down. In this episode, we talk about the science of seashells, their impact on humankind and the scientist behind a very famous ton..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "Football is here – and so is a new study on CTE",
     "pub_date": "Mon, 31 Aug 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f186c998-4b4c-47fc-b2cb-41b9ecbe75b5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f186c998-4b4c-47fc-b2cb-41b9ecbe75b5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5944383&p=510351&d=901&size=14425487",
@@ -279,7 +288,7 @@
     "description": "The NFL season begins this week, but America’s favorite sport has been on our minds for other reasons recently. New research released in the journal BMJ reveals that 1 in 4 former NFL players in this sample had CTE, a neurodegenerative brain disease caused by repetitive head injuries. Past studies already showed that football players are at high..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "NASA's newest telescope has a top secret past",
     "pub_date": "Fri, 28 Aug 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "The new Nancy Grace Roman space telescope is slated to launch this weekend. It was originally built for the National Reconnaissance Office as a spy satellite, but was never launched. Instead, NRO gave it to NASA about 15 years ago. After some major modifications, it’s set to begin its five-year mission peering at new supernovas, distant galaxies..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "How your metabolism could alter your mental health",
     "pub_date": "Wed, 26 Aug 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "In 2009, medical student Shebani Sethi watched a patient in a weight loss program make a remarkable recovery. The dietary intervention she underwent alleviated her schizophrenia symptoms, something the woman had tried – and failed – to treat with medication for years. That experience sent Shebani down a medical path that would lead her to treati..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "AI-made viruses could be the future of medicine",
     "pub_date": "Tue, 25 Aug 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "The era of AI-generated viruses is here. Some scientists are using AI to design viruses that can attack bacteria. The hope is that these tailor-made viruses can fight drug-resistant bacterial infections in people. And longer-term, Brian Hie, the Stanford researcher spearheading this project, hopes that AI can help create more complicated biologi..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "How much has the U.S.’s wildlife changed since Lewis and Clark?",
     "pub_date": "Mon, 24 Aug 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Ever wish you could have been part of the Lewis and Clark expedition? Us too. The Corps of Discovery came across scores of plants and animals that were new to Western science: Grizzly bears, ponderosa pines, a “barking squirrel” that William Clark would later call the prairie dog. A modern effort is underway to see how much the country’s wildlif..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Why scientists are stoked about mysterious black hole stars",
     "pub_date": "Fri, 21 Aug 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "You've heard of black holes. You've heard of stars. But have you heard of the newly discovered black hole stars that may explain multiple mysteries of the universe? We just did and we're honestly freaking out about it. Learn everything you need to know about it in this episode. Plus, hear some other cool stories fresh off the presses: Which exer..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "More men are taking testosterone. What gives?",
     "pub_date": "Wed, 19 Aug 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "If you’re a guy – or even just friends with a guy – and on the Internet, you may have noticed that testosterone discourse is everywhere. There’s Defense Secretary Pete Hegseth announcing testosterone screenings for soldiers, Joe Rogan discussing hormone therapy, and influencers discussing high- and low-T levels. Those levels affect more than jus..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "A survivor's view from inside a tornado",
     "pub_date": "Tue, 18 Aug 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "What’s the dumbest thing Perry Samson says he’s ever done? Getting caught inside a tornado.  But when you’re an atmospheric scientist who studies supercell thunderstorms—with a special interest in the ones that cause tornadoes—that sort of thing is a bit of an occupational hazard. Lucky for Perry, he also made a split-second decision while in th..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "Could future wars be fought by AI?",
     "pub_date": "Mon, 17 Aug 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/06d9fd30-af71-47e4-b663-06eb28904e9c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=06d9fd30-af71-47e4-b663-06eb28904e9c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5844635&p=510351&d=898&size=14374496",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "This year, the Department of Defense announced that they’d entered agreements with eight artificial intelligence companies. It follows decades of popular media exploring the idea of artificial intelligence in war – from the computer threatening global thermonuclear conflict in the movie WarGames to the Skynet neural net in Terminator. In 2026, w..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "Inside Colombia's big quake – and why more could be coming",
-    "pub_date": "Fri, 14 Aug 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/35884acb-b390-4844-ad78-16c05d6065d8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=35884acb-b390-4844-ad78-16c05d6065d8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5928981&p=510351&d=732&size=11715440",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "The 7.4 magnitude earthquake that struck Colombia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter. Interested in more science in the news? Email us your question at shortwave@npr.org.   Support public me..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -796,7 +796,7 @@
     "show_name": "Planet Money",
     "episode_title": "Branded fruit: How produce got “Honeycrisp-ified\"",
     "pub_date": "Fri, 28 Aug 2026 19:19:07 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32371025",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "The produce aisle is changing. You’ve noticed this, I’m sure. It is now full of superstar fruits and vegetables: The Honeycrisp apple, The Cotton Candy grape, The Cuties mandarin orange. They stand out. They cost more. They have branding and sometimes trademarks and patent-ish kinds of protections.And now – it’s happening in the tomato bin too! ..."
   },
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "How Flock Cameras Took Over America",
+    "pub_date": "Mon, 31 Aug 2026 09:50:02 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/98d33752-1164-4fb7-8e43-42deed11186f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=98d33752-1164-4fb7-8e43-42deed11186f&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "This summer, Fernando Alfonso, the Texas editor for The New York Times, got in a car with a man named Philip. They drove around the suburban streets of Dallas searching for traffic cameras — not for a red-light camera, or a speed-trap camera, but something new, an automatic license-plate reader made by a company called Flock.\nLaw enforcement off..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Who Will Rule the 2026 U.S. Open?",
     "pub_date": "Sun, 30 Aug 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "The U.S. Open, the final tournament of the tennis season, is getting underway. The world’s best players are heading to the U.S.T.A. Billie Jean King National Tennis Center in Queens, N.Y., to battle it out for the chance to play a championship match at Arthur Ashe Stadium, the largest tennis arena in the world.\nThe players come freighted with gr..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Ina Garten Says You Can Either Get on Her Train or Get Out of the Way",
     "pub_date": "Sat, 29 Aug 2026 10:00:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "At 78, the cookbook author and Food Network host knows what she likes, knows what she wants and isn’t stopping anytime soon.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nFor more information on today’s episode, visit nytim..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Lindsay Clancy Is on Trial. So Is Postpartum Psychosis.",
     "pub_date": "Fri, 28 Aug 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "Warning: this episode mentions suicide.\nThe trial of Lindsay Clancy, a mother who is being tried for the killings of her three young children, has captivated the country for weeks. It has also raised difficult questions about how we treat postpartum women who are in crisis.\nEllen Barry, a New York Times reporter who has been covering the trial, ..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "A Historic Settlement Over Social Media Addiction",
     "pub_date": "Thu, 27 Aug 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Meta, the world’s biggest social media company, reached a multibillion-dollar legal settlement on Wednesday over claims that its technology was addictive to children.\nThe company agreed to impose major changes to how minors use its products.\nCecilia Kang, a technology reporter for The New York Times, explains why a company that almost never back..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Stunning Rise of the Democratic Socialists of America",
     "pub_date": "Wed, 26 Aug 2026 09:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "This summer, the Democratic Socialists of America have mounted their biggest and most successful attempt yet to redefine the Democratic Party. They have defeated its candidates in primary after primary from coast to coast.\nAs its electoral success grows, the organization is confronting big, unresolved questions about what it stands for and what ..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Canada Is Done With Trump",
     "pub_date": "Tue, 25 Aug 2026 09:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "In a dramatic decision, the prime minister of Canada abruptly cut off negotiations with the United States, delivering the message to President Trump that he would rather engage in an ugly trade war than submit to an unfair deal.\nMatina Stevis-Gridneff, the Canada bureau chief for The New York Times, explains how the two countries reached a break..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Natalie Harp’s Devotion to Trump",
     "pub_date": "Mon, 24 Aug 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "Natalie Harp is a constant presence at President Trump’s side. She’s a 35-year-old gatekeeper, deciding much of what he sees. She stays up late with him to draft his social media posts and even texts with world leaders on his behalf.\nToday, Maggie Haberman, a White House correspondent for The New York Times, covers what we know about Trump’s clo..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Think Baseball Is Boring? The Savannah Bananas Are Here to Fix That.",
     "pub_date": "Sun, 23 Aug 2026 10:00:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "Jesse and Emily Cole created the Savannah Bananas with a simple mission in mind: to make baseball as entertaining as possible. They introduced some innovations to America’s pastime, including twerking umpires, stilt-walking pitchers and TikTok-ready choreographed dance numbers. They tinkered with the rules of baseball, making a game that was sho..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "An Expert on Conflict Says Your Relationships Are Doomed Without It",
     "pub_date": "Sat, 22 Aug 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e61d6493-9c70-4934-8526-c2af1dee3c56/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e61d6493-9c70-4934-8526-c2af1dee3c56&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "The author Priya Parker says the key to human connection is to lean into the fight.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nFor more information on today’s episode, visit nytimes.com/thedaily. Transcripts of each epis..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "When Private Equity Comes for Your Favorite Team",
-    "pub_date": "Fri, 21 Aug 2026 09:52:25 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48bd2d4c-a733-430f-91af-268f422d42e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48bd2d4c-a733-430f-91af-268f422d42e0&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "Last week, the owner of the Los Angeles Lakers announced he was selling the basketball team for $12.5 billion — the highest price ever paid for a professional sports team. The deal has shocked the sports world and drawn new attention to a growing trend: Big groups of investors have been buying up professional sports teams as the franchises chase..."
   }
 ]
