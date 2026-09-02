@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: The science of emotional regulation — and how to do it better
+Published Date: Wed, 02 Sep 2026 07:00:00 +0000
+Description: Do you ever feel like your emotions control you instead of you controlling them? Maybe you lash out at someone after a long day at work or indulge to avoid a stressful situation. It’s called emotional dysregulation and don’t worry – we all experience it at some point. Luckily, there’s a better way of dealing with our feelings: building emotional...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e00f51f0-c2f9-4860-9772-8fc83ba7873e/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e00f51f0-c2f9-4860-9772-8fc83ba7873e&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896292&p=510351&d=749&size=11998398
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: What can seashells teach us about the health of our oceans?
 Published Date: Tue, 01 Sep 2026 07:00:00 +0000
 Description: Seashells: They're beautiful remnants to carry home from the beach—and so much more! According to environmental journalist Cynthia Barnett, seashells record history more accurately than the humans who first wrote it down. In this episode, we talk about the science of seashells, their impact on humankind and the scientist behind a very famous ton...
@@ -253,12 +259,6 @@ Episode Title: A survivor's view from inside a tornado
 Published Date: Tue, 18 Aug 2026 07:00:00 +0000
 Description: What’s the dumbest thing Perry Samson says he’s ever done? Getting caught inside a tornado.  But when you’re an atmospheric scientist who studies supercell thunderstorms—with a special interest in the ones that cause tornadoes—that sort of thing is a bit of an occupational hazard. Lucky for Perry, he also made a split-second decision while in th...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/9769546e-f6c6-40bb-b072-6f68458719a5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=9769546e-f6c6-40bb-b072-6f68458719a5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887624&p=510351&d=746&size=11941974
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Could future wars be fought by AI?
-Published Date: Mon, 17 Aug 2026 07:00:00 +0000
-Description: This year, the Department of Defense announced that they’d entered agreements with eight artificial intelligence companies. It follows decades of popular media exploring the idea of artificial intelligence in war – from the computer threatening global thermonuclear conflict in the movie WarGames to the Skynet neural net in Terminator. In 2026, w...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/06d9fd30-af71-47e4-b663-06eb28904e9c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=06d9fd30-af71-47e4-b663-06eb28904e9c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5844635&p=510351&d=898&size=14374496
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -567,6 +567,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Love in the time of Palantir
+Published Date: Wed, 02 Sep 2026 07:00:00 +0000
+Description: To a lot of people, Palantir is a mystery — what does the company know, what data do they have, and (if they have it) what do they do with it all? We dig into that mystery and take you to a singles event to see if Big Data is good for Big Dating.That event, deep in the heart of Manhattan, is called: “Singles Dating Matching Using Palantir Data.”...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
 Published Date: Sun, 30 Aug 2026 07:00:02 +0000
 Description: The brilliance of "9 to 5" is that it is catchy even though it’s also kinda depressing. You will be dancing along. You're enjoying it. And, then when you really listen to the lyrics, you're like, Wait, this is messed up. This is real. This is a problem we need to fix. Like, why does it have to be this way?That is the spirit of the song, why it b...
@@ -619,12 +625,6 @@ Episode Title: Sand heists and property rights in the Caribbean (Summer School)
 Published Date: Wed, 05 Aug 2026 07:30:00 +0000
 Description: Imagine a nation where, for the residents, land is for the claiming. You walk down the street, pick out a nice looking plot of land, and just plop down a marker. No rent, no taxes, no deed – just free land. That’s the communal system of property rights that governed a small Caribbean island for over a century.This week on our Summer School World...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e07208b6-1dab-4a7a-a78f-fc89f6308ccc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e07208b6-1dab-4a7a-a78f-fc89f6308ccc&feed=hvWWWzRv&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671343
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: What makes a toy go viral
-Published Date: Fri, 31 Jul 2026 21:00:00 +0000
-Description: Squishy, slimy, fidgety toys are having a moment. But it’s more than just an anxiety-soothing, social-media fueled trend – these toys are reshaping how toys get made.Today on the show, we have the story of the once-humble squishy dumpling and what it teaches us about how to make a viral hit and how to manufacture it, without getting left holding...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -918,6 +918,14 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: How a Teenager Found Undiagnosed Brain Injuries in the Military
+Published Date: Tue, 1 Sep 2026 09:53:23 +0000
+Description: Warning: this episode contains mentions of suicide.
+New reporting has found that the impact of rough sea waves on rescue-boat crews in the Coast Guard can lead to long-term effects, including traumatic brain injury.
+Dave Philipps, who reports about veterans for The New York Times, explains the significant blind spot in the Coast Guard and talks ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a56b3926-aa51-44bb-bf80-7b36b2620f89/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a56b3926-aa51-44bb-bf80-7b36b2620f89&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: How Flock Cameras Took Over America
 Published Date: Mon, 31 Aug 2026 09:50:02 +0000
 Description: This summer, Fernando Alfonso, the Texas editor for The New York Times, got in a car with a man named Philip. They drove around the suburban streets of Dallas searching for traffic cameras — not for a red-light camera, or a speed-trap camera, but something new, an automatic license-plate reader made by a company called Flock.
@@ -985,16 +993,4 @@ Episode Title: Think Baseball Is Boring? The Savannah Bananas Are Here to Fix Th
 Published Date: Sun, 23 Aug 2026 10:00:00 +0000
 Description: Jesse and Emily Cole created the Savannah Bananas with a simple mission in mind: to make baseball as entertaining as possible. They introduced some innovations to America’s pastime, including twerking umpires, stilt-walking pitchers and TikTok-ready choreographed dance numbers. They tinkered with the rules of baseball, making a game that was sho...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7c1cf1e1-4c49-4b25-8669-fcc896082e21/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7c1cf1e1-4c49-4b25-8669-fcc896082e21&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: An Expert on Conflict Says Your Relationships Are Doomed Without It
-Published Date: Sat, 22 Aug 2026 10:00:00 +0000
-Description: The author Priya Parker says the key to human connection is to lean into the fight.
-
- Thoughts? Email us at theinterview@nytimes.com
- Watch our show on YouTube: youtube.com/@TheInterviewPodcast
- For transcripts and more, visit: nytimes.com/theinterview
-
-For more information on today’s episode, visit nytimes.com/thedaily. Transcripts of each epis...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e61d6493-9c70-4934-8526-c2af1dee3c56/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e61d6493-9c70-4934-8526-c2af1dee3c56&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
