@@ -71,6 +71,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7be
 SHOW: Science Vs
 ========================================================================
 ----------------------------------------
+Episode Title: Protein-Maxxing: Is It Actually Bad For Us?
+Published Date: Thu, 03 Sep 2026 09:00:00 -0000
+Description: Protein is everywhere — tons of us are trying to cram more of it into our diets, and it's showing up in our lattes, our snack bars, even our popcorn. But just as we’re getting on board with protein-maxxing, a bunch of headlines have started saying the opposite: that eating LESS protein could actually help you live longer. So what's going on here...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7998903304.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Sunscreen: Could It Be Toxic??
 Published Date: Thu, 27 Aug 2026 09:00:00 -0000
 Description: Sunscreen is supposed to protect us from dangerous stuff like cancer, but all over social media, people are saying that we’ve been getting it all wrong. We’re being told that our sunscreen is full of toxic chemicals, that wearing it could mess with our vitamin D levels — even that sunscreen itself actually increases our risk of skin cancer. So, ...
@@ -125,12 +131,6 @@ Episode Title: The Woman Who Felt No Fear
 Published Date: Thu, 11 Jun 2026 09:00:00 -0000
 Description: A group of scientists meet a very unusual woman. A key part of her brain isn’t working: the amygdala. This is the part of the brain that we think is responsible for feeling fear. And in fact, this woman does seem pretty fearless. Researchers test her fear response using some very unconventional methods, but she takes everything in stride. Then, ...
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9309855920.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Peptides: The Ultimate Body Hack? 
-Published Date: Thu, 04 Jun 2026 09:00:00 -0000
-Description: Peptides are huge right now. Influencers are telling us they can work wonders for all sorts of stuff. Struggling with an annoying injury that won't heal?? Belly fat that's pissing you off? Low energy? Gut issues?? There’s a peptide out there for you. People are buying peptides off the internet and injecting themselves with them, saying it's life...
-Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT2480103834.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: A new investigation shows heat is even deadlier than we thought
+Published Date: Fri, 04 Sep 2026 07:00:00 +0000
+Description: Hot weather isn’t just an inconvenience. It’s killing thousands more Americans than show up in official records. That’s the finding from a new NPR investigation, in partnership with Boston University. And the way they came up with that new, better estimate of the true toll of heat is, of course, with science. This episode, we’ll bring you all th...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a8866710-9516-4062-bd0e-f02b001aa88a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a8866710-9516-4062-bd0e-f02b001aa88a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5945241&p=510351&d=885&size=14169278
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The science of emotional regulation — and how to do it better
 Published Date: Wed, 02 Sep 2026 07:00:00 +0000
 Description: Do you ever feel like your emotions control you instead of you controlling them? Maybe you lash out at someone after a long day at work or indulge to avoid a stressful situation. It’s called emotional dysregulation and don’t worry – we all experience it at some point. Luckily, there’s a better way of dealing with our feelings: building emotional...
@@ -253,12 +259,6 @@ Episode Title: More men are taking testosterone. What gives?
 Published Date: Wed, 19 Aug 2026 07:00:00 +0000
 Description: If you’re a guy – or even just friends with a guy – and on the Internet, you may have noticed that testosterone discourse is everywhere. There’s Defense Secretary Pete Hegseth announcing testosterone screenings for soldiers, Joe Rogan discussing hormone therapy, and influencers discussing high- and low-T levels. Those levels affect more than jus...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d8daa3b-75f9-4145-9812-2ec7170161ac/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d8daa3b-75f9-4145-9812-2ec7170161ac&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935460&p=510351&d=891&size=14263738
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: A survivor's view from inside a tornado
-Published Date: Tue, 18 Aug 2026 07:00:00 +0000
-Description: What’s the dumbest thing Perry Samson says he’s ever done? Getting caught inside a tornado.  But when you’re an atmospheric scientist who studies supercell thunderstorms—with a special interest in the ones that cause tornadoes—that sort of thing is a bit of an occupational hazard. Lucky for Perry, he also made a split-second decision while in th...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/9769546e-f6c6-40bb-b072-6f68458719a5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=9769546e-f6c6-40bb-b072-6f68458719a5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887624&p=510351&d=746&size=11941974
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -393,6 +393,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: Archive: Empress Dowager Cixi
+Published Date: Thu, 03 Sep 2026 08:45:00 +0000
+Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fifth choice, first released in May 2024, is the Empress Dowager Cixi, the woman who, for almost fifty years, was the most powerful figure in the Chinese court. Cixi (1835-1908) started out at court as one of the Emperor's many concubines, yet ...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p1bp6f.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
+----------------------------------------
 Episode Title: Archive: Plate Tectonics
 Published Date: Thu, 27 Aug 2026 08:45:00 +0000
 Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fourth choice, first released in January 2008, explores how the science of plate tectonics revolutionised our understanding of the planet on which we live. America is getting further away from Europe. This is not a political statement but a geo...
@@ -445,12 +451,6 @@ Episode Title: Machado de Assis
 Published Date: Thu, 09 Jul 2026 09:15:00 +0000
 Description: Misha Glenny and guests discuss one of the towering figures of Brazilian and world literature, Machado de Assis (1839 - 1908).  He was the descendant of slaves and built his career while slavery was still in place in Brazil  (abolished 1888) and many of his characters were from the slave-owning class who were also the readers of his books. At th...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nqz886.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
-----------------------------------------
-Episode Title: The Evolution of Trees
-Published Date: Thu, 02 Jul 2026 09:15:00 +0000
-Description: Misha Glenny and guests discuss the earliest evidence we have of the existence of trees and how even plants we might have on windowsills or as vegetables in gardens can and do, in the right conditions, evolve into trees. Since their emergence around 400 million years ago after low lying plants started to develop stronger stems and grow taller an...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0npng58.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 
 ========================================================================
@@ -695,6 +695,12 @@ Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: Less guilt, more joy: A new chapter for climate action
+Published Date: Fri, 04 Sep 2026 07:00:00 +0000
+Description: Climate action usually means sacrifice: eat less meat, buy less, drive less. What if there's another approach? Researcher Elizabeth Dunn shares climate hacks that help the planet AND make us happier.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/e22ea64a-affa-4de2-a8f7-27f830145f42/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=e22ea64a-affa-4de2-a8f7-27f830145f42&feed=gGUt_fS1&t=podcast&e=nx-s1-5954862&p=510298&d=3010&size=48168587
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The day the dinosaurs died
 Published Date: Fri, 28 Aug 2026 07:00:00 +0000
 Description: What happened in the days, even hours, after an asteroid set off the fifth extinction? A New Jersey quarry, and site of a new museum founded by paleontologist Ken Lacovara, sheds light on the mystery.Original broadcast date: August 16, 2024Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks includ...
@@ -747,12 +753,6 @@ Episode Title: The state of fashion
 Published Date: Fri, 03 Jul 2026 07:00:00 +0000
 Description: Whether you love fashion or hate it, we all have to get dressed in the morning, and the industry affects us in complex ways. This hour, the outrageous, environmental and seedy sides of fashion.Guests include designer Machine Dazzle, supply chain expert Aparna Mehta, journalist Amanda Mull and supermodel Cameron Russell.Original broadcast date: S...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/d98aa16f-0c33-4f87-8dee-a06df8491e25/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=d98aa16f-0c33-4f87-8dee-a06df8491e25&feed=gGUt_fS1&t=podcast&e=nx-s1-5876411&p=510298&d=3005&size=48087084
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Are we using screens as a scapegoat for teen mental health?
-Published Date: Fri, 26 Jun 2026 07:00:00 +0000
-Description: For years, we’ve heard that social media is fueling a teen mental health crisis. But the evidence is more complicated. Developmental psychologist Candice Odgers unpacks what the research actually says—and where parents, policymakers, and the media often get it wrong.TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/889661b4-9ae5-4b2c-a918-551a25f3d697/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=889661b4-9ae5-4b2c-a918-551a25f3d697&feed=gGUt_fS1&t=podcast&e=nx-s1-5871161&p=510298&d=3010&size=48164406
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -918,6 +918,14 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: A.I. Is Outsmarting Its Creators
+Published Date: Thu, 3 Sep 2026 09:47:13 +0000
+Description: From the start, the greatest fear for those developing artificial intelligence was that their creations would go rogue to act in unauthorized and dangerous ways. Some researchers now say it has happened.
+Kevin Roose, a technology columnist for The New York Times, explains what this means for his own dwindling sense of techno-optimism.
+Guest: Kev...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d682b38d-05fd-42e4-9d00-4fb3393ff0a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d682b38d-05fd-42e4-9d00-4fb3393ff0a4&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The Fight for the West Bank
 Published Date: Wed, 2 Sep 2026 09:45:00 +0000
 Description: Over the past year, there has been an increase in violence in the West Bank. Israeli settlers have terrorized Palestinians, set fire to their property, uprooted their olive groves and stolen their animals in an effort to drive them off their land.
@@ -987,11 +995,4 @@ Published Date: Tue, 25 Aug 2026 09:45:00 +0000
 Description: In a dramatic decision, the prime minister of Canada abruptly cut off negotiations with the United States, delivering the message to President Trump that he would rather engage in an ugly trade war than submit to an unfair deal.
 Matina Stevis-Gridneff, the Canada bureau chief for The New York Times, explains how the two countries reached a break...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a3933b77-f937-4823-93ca-f079b75e87b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a3933b77-f937-4823-93ca-f079b75e87b6&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Natalie Harp’s Devotion to Trump
-Published Date: Mon, 24 Aug 2026 09:45:00 +0000
-Description: Natalie Harp is a constant presence at President Trump’s side. She’s a 35-year-old gatekeeper, deciding much of what he sees. She stays up late with him to draft his social media posts and even texts with world leaders on his behalf.
-Today, Maggie Haberman, a White House correspondent for The New York Times, covers what we know about Trump’s clo...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/95bdf240-42bd-44df-98bc-95a2a294b183/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=95bdf240-42bd-44df-98bc-95a2a294b183&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
