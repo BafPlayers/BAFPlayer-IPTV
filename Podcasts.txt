@@ -567,6 +567,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Trump drinks Venezuela’s milkshake
+Published Date: Sat, 05 Sep 2026 00:00:00 +0000
+Description: One week ago, President Trump announced a deal that would give the “U.S. control of more than 65 BILLION BARRELS of proven Oil Reserves in Venezuela, at no cost to the American Taxpayer.”The exact nature of this deal has been … obscure, to say the least. But today, we wanted to know, from someone who’s been through this before, what does this me...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Love in the time of Palantir
 Published Date: Wed, 02 Sep 2026 07:00:00 +0000
 Description: To a lot of people, Palantir is a mystery — what does the company know, what data do they have, and (if they have it) what do they do with it all? We dig into that mystery and take you to a singles event to see if Big Data is good for Big Dating.That event, deep in the heart of Manhattan, is called: “Singles Dating Matching Using Palantir Data.”...
@@ -619,12 +625,6 @@ Episode Title: Older workers aren’t retiring. Should they be forced to?
 Published Date: Fri, 07 Aug 2026 20:55:00 +0000
 Description: When workers past retirement age can’t afford to retire — that’s one thing. When they can, and just don’t want to — that’s trickier.It used to be legal to force people to retire when they hit a certain age. The trend used to be earlier and earlier retirement. Now it’s later and later retirement. And younger workers say it’s impacting their caree...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Sand heists and property rights in the Caribbean (Summer School)
-Published Date: Wed, 05 Aug 2026 07:30:00 +0000
-Description: Imagine a nation where, for the residents, land is for the claiming. You walk down the street, pick out a nice looking plot of land, and just plop down a marker. No rent, no taxes, no deed – just free land. That’s the communal system of property rights that governed a small Caribbean island for over a century.This week on our Summer School World...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e07208b6-1dab-4a7a-a78f-fc89f6308ccc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e07208b6-1dab-4a7a-a78f-fc89f6308ccc&feed=hvWWWzRv&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671343
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -918,6 +918,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Intertwined Legacies of Gloria Steinem and Dolly Parton
+Published Date: Fri, 4 Sep 2026 09:47:52 +0000
+Description: Gloria Steinem, the feminist icon and co-founder of Ms. magazine, died on Wednesday at her home in Manhattan. Her death came as many were still grieving the loss of another iconic woman: Dolly Parton.On paper, the connections between the two women seem superficial, but for the Times Magazine writer Susan Dominus, the relationship between their l...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b8210c31-2bec-4011-833a-0c49089cad77/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b8210c31-2bec-4011-833a-0c49089cad77&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: A.I. Is Outsmarting Its Creators
 Published Date: Thu, 3 Sep 2026 09:47:13 +0000
 Description: From the start, the greatest fear for those developing artificial intelligence was that their creations would go rogue to act in unauthorized and dangerous ways. Some researchers now say it has happened.
@@ -988,11 +994,4 @@ Published Date: Wed, 26 Aug 2026 09:45:00 +0000
 Description: This summer, the Democratic Socialists of America have mounted their biggest and most successful attempt yet to redefine the Democratic Party. They have defeated its candidates in primary after primary from coast to coast.
 As its electoral success grows, the organization is confronting big, unresolved questions about what it stands for and what ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0c086bb9-eea2-4c28-84d1-82d0843d0a8f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0c086bb9-eea2-4c28-84d1-82d0843d0a8f&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Canada Is Done With Trump
-Published Date: Tue, 25 Aug 2026 09:45:00 +0000
-Description: In a dramatic decision, the prime minister of Canada abruptly cut off negotiations with the United States, delivering the message to President Trump that he would rather engage in an ugly trade war than submit to an unfair deal.
-Matina Stevis-Gridneff, the Canada bureau chief for The New York Times, explains how the two countries reached a break...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a3933b77-f937-4823-93ca-f079b75e87b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a3933b77-f937-4823-93ca-f079b75e87b6&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
