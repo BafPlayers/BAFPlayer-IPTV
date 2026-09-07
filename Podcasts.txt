@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: When is your brain actually 'adult'?
+Published Date: Mon, 07 Sep 2026 07:00:00 +0000
+Description: Summer is winding down and school is back. And all of that has us thinking about this idea that something happens in the human brain when we turn 25. Suddenly, we can rent a car without fees. Make rational decisions. We may even regret some of our past… indiscretions. All because we’re developed…right? Well, a paper in the journal Nature suggest...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b2d9238c-b8c8-4d15-accd-23b8759d0aee/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b2d9238c-b8c8-4d15-accd-23b8759d0aee&feed=F0qJcgXZ&t=podcast&e=nx-s1-5959775&p=510351&d=834&size=13351332
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: A new investigation shows heat is even deadlier than we thought
 Published Date: Fri, 04 Sep 2026 07:00:00 +0000
 Description: Hot weather isn’t just an inconvenience. It’s killing thousands more Americans than show up in official records. That’s the finding from a new NPR investigation, in partnership with Boston University. And the way they came up with that new, better estimate of the true toll of heat is, of course, with science. This episode, we’ll bring you all th...
@@ -253,12 +259,6 @@ Episode Title: Why scientists are stoked about mysterious black hole stars
 Published Date: Fri, 21 Aug 2026 07:00:00 +0000
 Description: You've heard of black holes. You've heard of stars. But have you heard of the newly discovered black hole stars that may explain multiple mysteries of the universe? We just did and we're honestly freaking out about it. Learn everything you need to know about it in this episode. Plus, hear some other cool stories fresh off the presses: Which exer...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/be5b4316-9719-4728-8ac0-b2b420000376/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=be5b4316-9719-4728-8ac0-b2b420000376&feed=F0qJcgXZ&t=podcast&e=nx-s1-5931541&p=510351&d=734&size=11755146
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: More men are taking testosterone. What gives?
-Published Date: Wed, 19 Aug 2026 07:00:00 +0000
-Description: If you’re a guy – or even just friends with a guy – and on the Internet, you may have noticed that testosterone discourse is everywhere. There’s Defense Secretary Pete Hegseth announcing testosterone screenings for soldiers, Joe Rogan discussing hormone therapy, and influencers discussing high- and low-T levels. Those levels affect more than jus...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d8daa3b-75f9-4145-9812-2ec7170161ac/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d8daa3b-75f9-4145-9812-2ec7170161ac&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935460&p=510351&d=891&size=14263738
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -457,6 +457,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Lore 314: Hive Mind
+Published Date: Mon, 07 Sep 2026 05:01:00 +0000
+Description: Not all big stories are about equally large characters. In the world of folklore, sometimes even the littlest players have a massive stage to perform upon. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore314d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Legends 87: Cursive
 Published Date: Mon, 31 Aug 2026 05:01:00 +0000
 Description: Everyone loves a good ghost story, but literature and spirits have a relationship that is older than some might think. Narrated and produced by Aaron Mahnke, with writing and research by GennaRose Nethercott and Alex Robinson. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   Get Ad-Free Lore: lorepodcast.com/sup...
@@ -509,12 +515,6 @@ Episode Title: Lore 311: Twice Upon a Time
 Published Date: Mon, 27 Jul 2026 05:01:00 +0000
 Description: Folklore is full of stories about people who seem to have lived more than one life. Which is why these true tales from history are so incredibly bizarre. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore311d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Legends 84: Dead in the Water
-Published Date: Mon, 20 Jul 2026 05:01:00 +0000
-Description: The vast oceans of our planet are more mysterious to us than the surface of Mars. And because of that, they have become the place where dark legends dwell beneath the surface. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick, and research by Samuel Alberty. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ——...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-84d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -631,6 +631,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned
+Published Date: Mon, 07 Sep 2026 07:10:00 -0000
+Description: Kim’s inspiration to launch a business came from an unlikely source: Her son’s Crocs. She thought the durable, washable material would make a great beach bag. So she designed one. But after investing her savings—inlcuding some of her kids’ college fund—Kim was crushed when her first major shipment of Bogg bags was defective. It knocked her so of...
+Audio Stream URL: https://rss.art19.com/episodes/e1aadd32-1dc4-43fb-b654-32148b3f6cee.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Advice Line with Ben Goodwin of Olipop
 Published Date: Thu, 03 Sep 2026 07:10:00 -0000
 Description: Today’s callers: Darin from North Carolina seeks guidance on consumer education as his ghee-based snack brand grows into major retailers. Then Sarah from Massachusetts explores scaling pathways for her ‘never-frozen’ gluten-free baked goods. And John from Ohio considers whether online sales can turn around his local food co-op. Plus, Ben comment...
@@ -683,12 +689,6 @@ Episode Title: Advice Line: "Strategy Sessions"
 Published Date: Thu, 06 Aug 2026 07:10:00 -0000
 Description: Today’s callers: Tony in Michigan is considering bringing on partners to run different parts of his brew pub and theater business. Then Monica in London is exploring the best way to reach style-conscious parents with her line of children’s clothes. And Sandy in Colorado is seeking the ideal pricing strategy to bring his adaptive test prep platfo...
 Audio Stream URL: https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It
-Published Date: Mon, 03 Aug 2026 07:10:00 -0000
-Description: Many founders think the hardest thing about business is finding customers.It's not.It's surviving success.When Lily Kanter and Serena Dugan launched a luxury baby linen business, they had no manufacturing experience, no inventory, and barely any capital. But after their first catalog landed just as a major competitor left the market, orders floo...
-Audio Stream URL: https://rss.art19.com/episodes/31a4ddcd-1cc1-48d0-9369-fd85e8714e66.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -918,6 +918,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Classical Music Is in Crisis. Gustavo Dudamel Is Here to Save It.
+Published Date: Sun, 6 Sep 2026 10:00:00 +0000
+Description: This week marks the start of the Gustavo Dudamel era in New York.The superstar conductor was just 28 when he became the musical director of the Los Angeles Philharmonic in 2009. A native of Venezuela and a product of its El Sistema musical training program, Dudamel quickly established himself not just as a great conductor, but also as a cultural...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7042f449-d346-4313-8e2b-8d58f82ea937/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7042f449-d346-4313-8e2b-8d58f82ea937&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The Intertwined Legacies of Gloria Steinem and Dolly Parton
 Published Date: Fri, 4 Sep 2026 09:47:52 +0000
 Description: Gloria Steinem, the feminist icon and co-founder of Ms. magazine, died on Wednesday at her home in Manhattan. Her death came as many were still grieving the loss of another iconic woman: Dolly Parton.On paper, the connections between the two women seem superficial, but for the Times Magazine writer Susan Dominus, the relationship between their l...
@@ -987,11 +993,4 @@ Description: Meta, the world’s biggest social media company, reached a multibi
 The company agreed to impose major changes to how minors use its products.
 Cecilia Kang, a technology reporter for The New York Times, explains why a company that almost never back...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e86e618a-7957-4942-8be2-92527e285d53/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e86e618a-7957-4942-8be2-92527e285d53&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Stunning Rise of the Democratic Socialists of America
-Published Date: Wed, 26 Aug 2026 09:45:00 +0000
-Description: This summer, the Democratic Socialists of America have mounted their biggest and most successful attempt yet to redefine the Democratic Party. They have defeated its candidates in primary after primary from coast to coast.
-As its electoral success grows, the organization is confronting big, unresolved questions about what it stands for and what ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0c086bb9-eea2-4c28-84d1-82d0843d0a8f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0c086bb9-eea2-4c28-84d1-82d0843d0a8f&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
