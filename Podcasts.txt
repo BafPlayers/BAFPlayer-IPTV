@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Lindsay Clancy and postpartum psychosis
+Published Date: Wed, 09 Sep 2026 07:00:00 +0000
+Description: The trial around Lindsay Clancy may be over for now, but it still leaves us with questions. On today’s episode, we talk to psychiatrists and patients to answer them: What is postpartum psychosis, exactly? Why don’t we know more about it? And what can you do if you are worried about a postpartum loved one?Interested in more stories on mental heal...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/4d397d7c-2ed6-49b8-b4ec-04248d55dc34/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=4d397d7c-2ed6-49b8-b4ec-04248d55dc34&feed=F0qJcgXZ&t=podcast&e=nx-s1-5958289&p=510351&d=850&size=13612556
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How hurricanes triggered lizard evolution
 Published Date: Tue, 08 Sep 2026 07:00:00 +0000
 Description: Hurricane season is upon us and it turns out that these powerful storms can quickly affect the biology of animals. After hurricanes Irma and Maria hit the islands that make up Turks and Caicos about a decade ago, the silver key anole adapted. They now have a shorter fourth toe on their hind legs! That could help them cling to objects better. But...
@@ -253,12 +259,6 @@ Episode Title: AI-made viruses could be the future of medicine
 Published Date: Tue, 25 Aug 2026 07:00:00 +0000
 Description: The era of AI-generated viruses is here. Some scientists are using AI to design viruses that can attack bacteria. The hope is that these tailor-made viruses can fight drug-resistant bacterial infections in people. And longer-term, Brian Hie, the Stanford researcher spearheading this project, hopes that AI can help create more complicated biologi...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/54bc8a44-5502-40b7-9e2a-a66009a3ad16/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=54bc8a44-5502-40b7-9e2a-a66009a3ad16&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935565&p=510351&d=695&size=11130758
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: How much has the U.S.’s wildlife changed since Lewis and Clark?
-Published Date: Mon, 24 Aug 2026 07:00:00 +0000
-Description: Ever wish you could have been part of the Lewis and Clark expedition? Us too. The Corps of Discovery came across scores of plants and animals that were new to Western science: Grizzly bears, ponderosa pines, a “barking squirrel” that William Clark would later call the prairie dog. A modern effort is underway to see how much the country’s wildlif...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/49b43b29-85de-4479-9d1e-6353065e2abc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=49b43b29-85de-4479-9d1e-6353065e2abc&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896440&p=510351&d=840&size=13451225
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -569,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Cost-cutting, quiet guilt and the inflation generation
+Published Date: Wed, 09 Sep 2026 07:00:00 +0000
+Description: In this economy it is boom times and doom times all at once. The statistics aren’t really capturing it. K-shaped only goes so far as a metaphor. So … we asked you to help. And you delivered! One one hand, the stock market is on a prolonged, upward trajectory. Unemployment is low and inflation has come down from its peak. But on the other hand, i...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Trump drinks Venezuela’s milkshake
 Published Date: Sat, 05 Sep 2026 00:00:00 +0000
 Description: One week ago, President Trump announced a deal that would give the “U.S. control of more than 65 BILLION BARRELS of proven Oil Reserves in Venezuela, at no cost to the American Taxpayer.”The exact nature of this deal has been … obscure, to say the least. But today, we wanted to know, from someone who’s been through this before, what does this me...
@@ -621,12 +627,6 @@ Episode Title: Currency Chaos in Argentina (Summer School)
 Published Date: Wed, 12 Aug 2026 07:30:00 +0000
 Description: Just about everyone in Argentina is an expert in inflation and whether they like it or not, economic flexibility. Can we learn from them? Over the years, we at Planet Money have checked in on Argentina as it tried to recover from economic collapse in 2001 and 2002, and as inflation shot up and the country defaulted on its debts. This week on our...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/56fdff88-e280-4b8b-b5f6-1425b10e6027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=56fdff88-e280-4b8b-b5f6-1425b10e6027&feed=hvWWWzRv&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828319
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Older workers aren’t retiring. Should they be forced to?
-Published Date: Fri, 07 Aug 2026 20:55:00 +0000
-Description: When workers past retirement age can’t afford to retire — that’s one thing. When they can, and just don’t want to — that’s trickier.It used to be legal to force people to retire when they hit a certain age. The trend used to be earlier and earlier retirement. Now it’s later and later retirement. And younger workers say it’s impacting their caree...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -920,6 +920,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: ‘Buy Now, Pay Later’: A New Wave of Consumer Debt
+Published Date: Tue, 8 Sep 2026 09:45:00 +0000
+Description: As people in the United States struggle with rising costs, they are increasingly turning to “buy now, pay later” loans for essentials such as rent and groceries.Stacey Cowley, a business reporter for The New York Times, explains the draw and the hidden risks of the loan model.Guest: Stacy Cowley, a business reporter at The New York Times, with a...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b072437a-52ff-4c08-a777-b02498ea6771/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b072437a-52ff-4c08-a777-b02498ea6771&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Classical Music Is in Crisis. Gustavo Dudamel Is Here to Save It.
 Published Date: Sun, 6 Sep 2026 10:00:00 +0000
 Description: This week marks the start of the Gustavo Dudamel era in New York.The superstar conductor was just 28 when he became the musical director of the Los Angeles Philharmonic in 2009. A native of Venezuela and a product of its El Sistema musical training program, Dudamel quickly established himself not just as a great conductor, but also as a cultural...
@@ -987,12 +993,4 @@ Description: Warning: this episode mentions suicide.
 The trial of Lindsay Clancy, a mother who is being tried for the killings of her three young children, has captivated the country for weeks. It has also raised difficult questions about how we treat postpartum women who are in crisis.
 Ellen Barry, a New York Times reporter who has been covering the trial, ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/154119be-1cc6-47ac-a8fd-40bd1dc25849/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=154119be-1cc6-47ac-a8fd-40bd1dc25849&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: A Historic Settlement Over Social Media Addiction
-Published Date: Thu, 27 Aug 2026 09:45:00 +0000
-Description: Meta, the world’s biggest social media company, reached a multibillion-dollar legal settlement on Wednesday over claims that its technology was addictive to children.
-The company agreed to impose major changes to how minors use its products.
-Cecilia Kang, a technology reporter for The New York Times, explains why a company that almost never back...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e86e618a-7957-4942-8be2-92527e285d53/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e86e618a-7957-4942-8be2-92527e285d53&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
