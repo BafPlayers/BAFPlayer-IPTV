@@ -210,7 +210,7 @@ Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-networ
 Episode Title: How hurricanes triggered lizard evolution
 Published Date: Tue, 08 Sep 2026 07:00:00 +0000
 Description: Hurricane season is upon us and it turns out that these powerful storms can quickly affect the biology of animals. After hurricanes Irma and Maria hit the islands that make up Turks and Caicos about a decade ago, the silver key anole adapted. They now have a shorter fourth toe on their hind legs! That could help them cling to objects better. But...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ed2ecd1b-9960-4d89-9021-24be6b383400/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ed2ecd1b-9960-4d89-9021-24be6b383400&feed=F0qJcgXZ&t=podcast&e=nx-s1-5948030&p=510351&d=703&size=11253595
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ed2ecd1b-9960-4d89-9021-24be6b383400/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ed2ecd1b-9960-4d89-9021-24be6b383400&feed=F0qJcgXZ&t=podcast&e=nx-s1-5948030&p=510351&d=688&size=11017449
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: When is your brain actually 'adult'?
@@ -459,6 +459,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Deeper Lore: 314 (166, 186, & 212)
+Published Date: Thu, 10 Sep 2026 05:01:00 +0000
+Description: Go deeper into the subject matter of our most recent episode (Lore 314: Hive Mind) with these three recommendations from further back in the Lore catalog:  Episode 166: LorePodcast.com/episodes/166 Episode 186: LorePodcast.com/episodes/186 Episode 212: LorePodcast.com/episodes/212  ———————— Lore Resources:   Episode Music: lorepodcast.com/music ...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-314.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Lore 314: Hive Mind
 Published Date: Mon, 07 Sep 2026 05:01:00 +0000
 Description: Not all big stories are about equally large characters. In the world of folklore, sometimes even the littlest players have a massive stage to perform upon. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————...
@@ -511,12 +517,6 @@ Episode Title: Deeper Lore: 311 (72, 122, & 284)
 Published Date: Thu, 30 Jul 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (311: Twice Upon a Time) with these three recommendations from further back in the Lore catalog:  Episode 72: LorePodcast.com/episodes/72 Episode 122: LorePodcast.com/episodes/122 Episode 284: LorePodcast.com/episodes/284  ———————— Lore Resources:   Episode Music: lorepodcast.com/music...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-311.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore 311: Twice Upon a Time
-Published Date: Mon, 27 Jul 2026 05:01:00 +0000
-Description: Folklore is full of stories about people who seem to have lived more than one life. Which is why these true tales from history are so incredibly bizarre. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— PRE-ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore311d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -633,6 +633,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Advice Line with Kip Tindell of The Container Store
+Published Date: Thu, 10 Sep 2026 07:10:00 -0000
+Description: Today’s callers: Juliette in France wonders how to raise awareness of her “magical” cooling device—without a costly ad campaign. Then David in North Carolina looks to grow the wholesale channel of his engraved gifts business in light of thinning retail margins. And Kaitlin in California wants to leverage the virality of her supportive, bordered ...
+Audio Stream URL: https://rss.art19.com/episodes/93508940-11b5-4b29-ba7b-eb077edee062.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned
 Published Date: Mon, 07 Sep 2026 07:10:00 -0000
 Description: Kim’s inspiration to launch a business came from an unlikely source: Her son’s Crocs. She thought the durable, washable material would make a great beach bag. So she designed one. But after investing her savings—inlcuding some of her kids’ college fund—Kim was crushed when her first major shipment of Bogg bags was defective. It knocked her so of...
@@ -685,12 +691,6 @@ Episode Title: MadeGood: Salma and Nima Fotovat Lost Their First Business. They 
 Published Date: Mon, 10 Aug 2026 07:10:00 -0000
 Description: What do you do when the family business you've spent decades building... gets bought out from under you? That’s what happened to Nima and Salma Fotovat.Devastated, the family rebuilt a new company from the ground up. This time they set out with a new idea: build an allergen-free, organic snack brand not just for kids, but their parents.  Their n...
 Audio Stream URL: https://rss.art19.com/episodes/cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Advice Line: "Strategy Sessions"
-Published Date: Thu, 06 Aug 2026 07:10:00 -0000
-Description: Today’s callers: Tony in Michigan is considering bringing on partners to run different parts of his brew pub and theater business. Then Monica in London is exploring the best way to reach style-conscious parents with her line of children’s clothes. And Sandy in Colorado is seeking the ideal pricing strategy to bring his adaptive test prep platfo...
-Audio Stream URL: https://rss.art19.com/episodes/4962a0d6-36bc-4797-8002-3bd8b748a89a.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -920,6 +920,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Trump’s War on Mail-In Voting
+Published Date: Wed, 9 Sep 2026 09:45:00 +0000
+Description: With only weeks to go before the midterms, President Trump has asked the Supreme Court to allow his administration’s plans to restrict voting by mail.Nick Corasaniti, who covers national politics for The New York Times, walks us through Mr. Trump’s effort, the legal battle it touched off and the uncertainty it has created for local election offi...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5660b118-2266-4c84-97ce-180d41d2e172/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5660b118-2266-4c84-97ce-180d41d2e172&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: ‘Buy Now, Pay Later’: A New Wave of Consumer Debt
 Published Date: Tue, 8 Sep 2026 09:45:00 +0000
 Description: As people in the United States struggle with rising costs, they are increasingly turning to “buy now, pay later” loans for essentials such as rent and groceries.Stacey Cowley, a business reporter for The New York Times, explains the draw and the hidden risks of the loan model.Guest: Stacy Cowley, a business reporter at The New York Times, with a...
@@ -985,12 +991,4 @@ Description: At 78, the cookbook author and Food Network host knows what she lik
 
 For more information on today’s episode, visit nytim...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/12ac1779-4099-46f4-adc9-3f12f51161b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=12ac1779-4099-46f4-adc9-3f12f51161b0&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Lindsay Clancy Is on Trial. So Is Postpartum Psychosis.
-Published Date: Fri, 28 Aug 2026 09:45:00 +0000
-Description: Warning: this episode mentions suicide.
-The trial of Lindsay Clancy, a mother who is being tried for the killings of her three young children, has captivated the country for weeks. It has also raised difficult questions about how we treat postpartum women who are in crisis.
-Ellen Barry, a New York Times reporter who has been covering the trial, ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/154119be-1cc6-47ac-a8fd-40bd1dc25849/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=154119be-1cc6-47ac-a8fd-40bd1dc25849&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
