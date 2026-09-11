@@ -92,6 +92,15 @@
   {
     "id": "science-vs--gimlet--ep-1",
     "show_name": "Science Vs",
+    "episode_title": "Where Have The Insects Gone?? With Dr. Jessica Ware",
+    "pub_date": "Thu, 10 Sep 2026 09:00:00 -0000",
+    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT5572731551.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Bugs are disappearing at alarming rates, scientists are telling us. Bees, butterflies, beetles: all of them have been dropping like flies. And scientists say there are a bunch of reasons to care about this — for example, fewer bugs means less pollination, which means less pasta in your pantry. But recently, some have suggested that all these sci..."
+  },
+  {
+    "id": "science-vs--gimlet--ep-2",
+    "show_name": "Science Vs",
     "episode_title": "Protein-Maxxing: Is It Actually Bad For Us?",
     "pub_date": "Thu, 03 Sep 2026 09:00:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7998903304.mp3",
@@ -99,7 +108,7 @@
     "description": "Protein is everywhere — tons of us are trying to cram more of it into our diets, and it's showing up in our lattes, our snack bars, even our popcorn. But just as we’re getting on board with protein-maxxing, a bunch of headlines have started saying the opposite: that eating LESS protein could actually help you live longer. So what's going on here..."
   },
   {
-    "id": "science-vs--gimlet--ep-2",
+    "id": "science-vs--gimlet--ep-3",
     "show_name": "Science Vs",
     "episode_title": "Sunscreen: Could It Be Toxic??",
     "pub_date": "Thu, 27 Aug 2026 09:00:00 -0000",
@@ -108,7 +117,7 @@
     "description": "Sunscreen is supposed to protect us from dangerous stuff like cancer, but all over social media, people are saying that we’ve been getting it all wrong. We’re being told that our sunscreen is full of toxic chemicals, that wearing it could mess with our vitamin D levels — even that sunscreen itself actually increases our risk of skin cancer. So, ..."
   },
   {
-    "id": "science-vs--gimlet--ep-3",
+    "id": "science-vs--gimlet--ep-4",
     "show_name": "Science Vs",
     "episode_title": "Hank Green: What No One Tells You About the Algorithm ",
     "pub_date": "Thu, 20 Aug 2026 09:00:00 -0000",
@@ -117,7 +126,7 @@
     "description": "Hank Green is one of the most beloved science creators on the interwebs. He’s been making videos for almost 20 years, spanning LOTS of eras of the Internet, from YouTube prank videos to TikTok dance challenges to AI slop. In this episode, Wendy sits down with Hank to talk about this wild ride. They reminisce about his path to YouTube stardom, an..."
   },
   {
-    "id": "science-vs--gimlet--ep-4",
+    "id": "science-vs--gimlet--ep-5",
     "show_name": "Science Vs",
     "episode_title": "We Solve the 49ers Viral Conspiracy Theory",
     "pub_date": "Thu, 13 Aug 2026 13:37:00 -0000",
@@ -126,7 +135,7 @@
     "description": "Is an electrical substation contributing to injuries on the San Francisco 49ers?? A bunch of people on the internet seem to think so, claiming that electromagnetic field waves could be to blame for players getting hurt. We partner with the Pulitzer Prize-winning journalists at Pablo Torre Finds Out to get to the bottom of it. We talk to Peter Co..."
   },
   {
-    "id": "science-vs--gimlet--ep-5",
+    "id": "science-vs--gimlet--ep-6",
     "show_name": "Science Vs",
     "episode_title": "Weight Loss: Why Won't It Stick?",
     "pub_date": "Thu, 06 Aug 2026 09:00:00 -0000",
@@ -135,7 +144,7 @@
     "description": "If you have ever tried to lose weight only to find the weight crept back on, you’re not alone. In fact, for tons of people, this happens over and over again. This is called “weight cycling,” and a bunch of influencers are saying that this is terrible for us. They say that it can ruin your metabolism forever and that it can lead to stuff like dia..."
   },
   {
-    "id": "science-vs--gimlet--ep-6",
+    "id": "science-vs--gimlet--ep-7",
     "show_name": "Science Vs",
     "episode_title": "Free Will: Does It Exist?",
     "pub_date": "Thu, 30 Jul 2026 09:00:00 -0000",
@@ -144,7 +153,7 @@
     "description": "Will you hit play on this episode?? It feels like that decision is totally within your control — but what if it’s not? What if free will is just an illusion? Lots of people are using science to say that free will is a trick of the mind, that whether or not you listen to this episode, or eat a taco, or do a silly dance right now — it’s all predes..."
   },
   {
-    "id": "science-vs--gimlet--ep-7",
+    "id": "science-vs--gimlet--ep-8",
     "show_name": "Science Vs",
     "episode_title": "Narcissists: Are We Surrounded?",
     "pub_date": "Thu, 02 Jul 2026 09:00:00 -0000",
@@ -153,7 +162,7 @@
     "description": "The internet tells us that narcissists are everywhere — and that the problem is only getting worse. It’s like narcissism is oozing out of our celebrities, politicians, partners, parents, maybe even ourselves?? So today, we’re taking a long look in the mirror to find out: are we all a bunch of narcissists? And what should we do if we think someon..."
   },
   {
-    "id": "science-vs--gimlet--ep-8",
+    "id": "science-vs--gimlet--ep-9",
     "show_name": "Science Vs",
     "episode_title": "Raw Milk: Secret Superfood??",
     "pub_date": "Thu, 25 Jun 2026 09:00:00 -0000",
@@ -162,22 +171,13 @@
     "description": "Raw milk is having a major moment, with fans claiming it’s a gut-healing superfood that can prevent everything from asthma to allergies. But others are like HOLD ON — we pasteurize milk to make it safe! Drinking raw milk can kill you. So, who’s right? Could there be some benefits to guzzling milk straight from the teat? Or is it a terrible idea?..."
   },
   {
-    "id": "science-vs--gimlet--ep-9",
+    "id": "science-vs--gimlet--ep-10",
     "show_name": "Science Vs",
     "episode_title": "Caffeine: How Much Is Too Much? ",
     "pub_date": "Thu, 18 Jun 2026 09:00:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3470686165.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "Today we’re revisiting caffeine. It’s a drug that tons of us take every day. So, is that a bad thing?? What is it really doing to our bodies and our brains? Plus — if we get it in the form of energy drinks, is that super dangerous? We talk to Dr. Astrid Nehlig, Prof. Gregory Marcus, and Prof. Sachin Shah. [REBROADCAST]\n\nFind our transcript here:..."
-  },
-  {
-    "id": "science-vs--gimlet--ep-10",
-    "show_name": "Science Vs",
-    "episode_title": "The Woman Who Felt No Fear",
-    "pub_date": "Thu, 11 Jun 2026 09:00:00 -0000",
-    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9309855920.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "A group of scientists meet a very unusual woman. A key part of her brain isn’t working: the amygdala. This is the part of the brain that we think is responsible for feeling fear. And in fact, this woman does seem pretty fearless. Researchers test her fear response using some very unconventional methods, but she takes everything in stride. Then, ..."
   },
   {
     "id": "astronomy-cast--libsyn--ep-1",
@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "How scientists discovered that animals are doctors, too",
+    "pub_date": "Fri, 11 Sep 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f34f7f77-05f1-40a6-b682-7fbecfc5a522/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f34f7f77-05f1-40a6-b682-7fbecfc5a522&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935588&p=510351&d=804&size=12877784",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "When people are sick, we seek out medications and treatments to help heal. For a long time, scientists thought that was a uniquely human ability. But it turns out, many other animals do a version of it too! And since the late 1980s, western researchers have been trying to get a peek behind the curtain. And aside from just cataloguing all the coo..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "Lindsay Clancy and postpartum psychosis",
     "pub_date": "Wed, 09 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/4d397d7c-2ed6-49b8-b4ec-04248d55dc34/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=4d397d7c-2ed6-49b8-b4ec-04248d55dc34&feed=F0qJcgXZ&t=podcast&e=nx-s1-5958289&p=510351&d=850&size=13612556",
@@ -279,7 +288,7 @@
     "description": "The trial around Lindsay Clancy may be over for now, but it still leaves us with questions. On today’s episode, we talk to psychiatrists and patients to answer them: What is postpartum psychosis, exactly? Why don’t we know more about it? And what can you do if you are worried about a postpartum loved one?Interested in more stories on mental heal..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "How hurricanes triggered lizard evolution",
     "pub_date": "Tue, 08 Sep 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Hurricane season is upon us and it turns out that these powerful storms can quickly affect the biology of animals. After hurricanes Irma and Maria hit the islands that make up Turks and Caicos about a decade ago, the silver key anole adapted. They now have a shorter fourth toe on their hind legs! That could help them cling to objects better. But..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "When is your brain actually 'adult'?",
     "pub_date": "Mon, 07 Sep 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Summer is winding down and school is back. And all of that has us thinking about this idea that something happens in the human brain when we turn 25. Suddenly, we can rent a car without fees. Make rational decisions. We may even regret some of our past… indiscretions. All because we’re developed…right? Well, a paper in the journal Nature suggest..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "A new investigation shows heat is even deadlier than we thought",
     "pub_date": "Fri, 04 Sep 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Hot weather isn’t just an inconvenience. It’s killing thousands more Americans than show up in official records. That’s the finding from a new NPR investigation, in partnership with Boston University. And the way they came up with that new, better estimate of the true toll of heat is, of course, with science. This episode, we’ll bring you all th..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "The science of emotional regulation — and how to do it better",
     "pub_date": "Wed, 02 Sep 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Do you ever feel like your emotions control you instead of you controlling them? Maybe you lash out at someone after a long day at work or indulge to avoid a stressful situation. It’s called emotional dysregulation and don’t worry – we all experience it at some point. Luckily, there’s a better way of dealing with our feelings: building emotional..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "What can seashells teach us about the health of our oceans?",
     "pub_date": "Tue, 01 Sep 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "Seashells: They're beautiful remnants to carry home from the beach—and so much more! According to environmental journalist Cynthia Barnett, seashells record history more accurately than the humans who first wrote it down. In this episode, we talk about the science of seashells, their impact on humankind and the scientist behind a very famous ton..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Football is here – and so is a new study on CTE",
     "pub_date": "Mon, 31 Aug 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "The NFL season begins this week, but America’s favorite sport has been on our minds for other reasons recently. New research released in the journal BMJ reveals that 1 in 4 former NFL players in this sample had CTE, a neurodegenerative brain disease caused by repetitive head injuries. Past studies already showed that football players are at high..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "NASA's newest telescope has a top secret past",
     "pub_date": "Fri, 28 Aug 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "The new Nancy Grace Roman space telescope is slated to launch this weekend. It was originally built for the National Reconnaissance Office as a spy satellite, but was never launched. Instead, NRO gave it to NASA about 15 years ago. After some major modifications, it’s set to begin its five-year mission peering at new supernovas, distant galaxies..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "How your metabolism could alter your mental health",
     "pub_date": "Wed, 26 Aug 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/02027688-bab9-4193-b6a0-8cae4b207ca3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=02027688-bab9-4193-b6a0-8cae4b207ca3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5807708&p=510351&d=748&size=11969977",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "In 2009, medical student Shebani Sethi watched a patient in a weight loss program make a remarkable recovery. The dietary intervention she underwent alleviated her schizophrenia symptoms, something the woman had tried – and failed – to treat with medication for years. That experience sent Shebani down a medical path that would lead her to treati..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "AI-made viruses could be the future of medicine",
-    "pub_date": "Tue, 25 Aug 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/54bc8a44-5502-40b7-9e2a-a66009a3ad16/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=54bc8a44-5502-40b7-9e2a-a66009a3ad16&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935565&p=510351&d=695&size=11130758",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "The era of AI-generated viruses is here. Some scientists are using AI to design viruses that can attack bacteria. The hope is that these tailor-made viruses can fight drug-resistant bacterial infections in people. And longer-term, Brian Hie, the Stanford researcher spearheading this project, hopes that AI can help create more complicated biologi..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -965,6 +965,15 @@
   {
     "id": "ted-radio-hour-ep-1",
     "show_name": "TED Radio Hour",
+    "episode_title": "What this musician’s identity crisis teaches us about navigating change",
+    "pub_date": "Fri, 11 Sep 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4cd40b2b-7723-4073-b05c-0713448a15a1/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4cd40b2b-7723-4073-b05c-0713448a15a1&feed=gGUt_fS1&t=podcast&e=nx-s1-5964816&p=510298&d=3002&size=48043617",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
+    "description": "Since childhood, Joshua Roman's life revolved around the cello. But when long COVID forced him to set his cello aside, he had to rethink his approach to life, faith and music.Original broadcast date: September 26, 2025.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listen..."
+  },
+  {
+    "id": "ted-radio-hour-ep-2",
+    "show_name": "TED Radio Hour",
     "episode_title": "Less guilt, more joy: A new chapter for climate action",
     "pub_date": "Fri, 04 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/e22ea64a-affa-4de2-a8f7-27f830145f42/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=e22ea64a-affa-4de2-a8f7-27f830145f42&feed=gGUt_fS1&t=podcast&e=nx-s1-5954862&p=510298&d=3010&size=48168587",
@@ -972,7 +981,7 @@
     "description": "Climate action usually means sacrifice: eat less meat, buy less, drive less. What if there's another approach? Researcher Elizabeth Dunn shares climate hacks that help the planet AND make us happier.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences..."
   },
   {
-    "id": "ted-radio-hour-ep-2",
+    "id": "ted-radio-hour-ep-3",
     "show_name": "TED Radio Hour",
     "episode_title": "The day the dinosaurs died",
     "pub_date": "Fri, 28 Aug 2026 07:00:00 +0000",
@@ -981,7 +990,7 @@
     "description": "What happened in the days, even hours, after an asteroid set off the fifth extinction? A New Jersey quarry, and site of a new museum founded by paleontologist Ken Lacovara, sheds light on the mystery.Original broadcast date: August 16, 2024Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks includ..."
   },
   {
-    "id": "ted-radio-hour-ep-3",
+    "id": "ted-radio-hour-ep-4",
     "show_name": "TED Radio Hour",
     "episode_title": "How the creator economy is making you talk like the internet",
     "pub_date": "Fri, 21 Aug 2026 07:00:00 +0000",
@@ -990,7 +999,7 @@
     "description": "Online linguist Adam Aleksic explains how he goes viral decoding internet slang, plus why making a living online means working for 'the algorithm.' It's part 2 of our creator economy series.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn..."
   },
   {
-    "id": "ted-radio-hour-ep-4",
+    "id": "ted-radio-hour-ep-5",
     "show_name": "TED Radio Hour",
     "episode_title": "The price of creativity",
     "pub_date": "Fri, 14 Aug 2026 07:00:00 +0000",
@@ -999,7 +1008,7 @@
     "description": "The words \"content creator\" may make you roll your eyes. But in part 1 of our series, Kickstarter co-founder Yancey Strickler explains how the creator economy is changing work, art and what we value.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listeni..."
   },
   {
-    "id": "ted-radio-hour-ep-5",
+    "id": "ted-radio-hour-ep-6",
     "show_name": "TED Radio Hour",
     "episode_title": "Trusting medicine in an age of doubt",
     "pub_date": "Fri, 07 Aug 2026 07:00:00 +0000",
@@ -1008,7 +1017,7 @@
     "description": "Medicine keeps advancing. Trust is falling behind. This hour, TED speakers explore why the future of healthcare depends not only on innovation, but also on listening, humility and honesty.Guests include viral immunologist Kizzmekia Corbett-Helaire and writer James Robinson.Support public media with NPR+ and enjoy perks for over 25 podcasts like ..."
   },
   {
-    "id": "ted-radio-hour-ep-6",
+    "id": "ted-radio-hour-ep-7",
     "show_name": "TED Radio Hour",
     "episode_title": "Addiction, motherhood and Jesus with writer Anne Lamott",
     "pub_date": "Fri, 31 Jul 2026 07:00:00 +0000",
@@ -1017,7 +1026,7 @@
     "description": "Writer Anne Lamott has gained a cult following through shockingly honest prose on love, death, faith, writing and more. This hour, her wisdom from a career spanning 21 books and some 40 years.This episode originally aired April 2024.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage yo..."
   },
   {
-    "id": "ted-radio-hour-ep-7",
+    "id": "ted-radio-hour-ep-8",
     "show_name": "TED Radio Hour",
     "episode_title": "Rethinking addiction in the age of Ozempic",
     "pub_date": "Fri, 24 Jul 2026 07:00:00 +0000",
@@ -1026,7 +1035,7 @@
     "description": "GLP-1s could be a breakthrough in addiction treatment. But is medicine alone enough to treat such a complicated disease? This hour, TED speakers explore modern science and old wisdom on addiction. Guests include journalist and physician Dr. Dhruv Khullar, author and behavioral coach Eric Zimmer, and journalist Nayeema Raza.See pcm.adswizz.com fo..."
   },
   {
-    "id": "ted-radio-hour-ep-8",
+    "id": "ted-radio-hour-ep-9",
     "show_name": "TED Radio Hour",
     "episode_title": "Searching for paradise",
     "pub_date": "Fri, 17 Jul 2026 07:00:00 +0000",
@@ -1035,22 +1044,13 @@
     "description": "We often view paradise as a place of safety, beauty, tranquility. It’s an ideal we long for but one we can rarely find. This hour, TED speakers search for utopia and come to terms with reality.Original broadcast date: November 10, 2023TED Radio Hour+ listeners now get access to bonus episodes, with more ideas from TED speakers and deeper convers..."
   },
   {
-    "id": "ted-radio-hour-ep-9",
+    "id": "ted-radio-hour-ep-10",
     "show_name": "TED Radio Hour",
     "episode_title": "Tracking what your body needs",
     "pub_date": "Fri, 10 Jul 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/7dce206e-31b1-40a9-bd9a-557cd8027f75/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=7dce206e-31b1-40a9-bd9a-557cd8027f75&feed=gGUt_fS1&t=podcast&e=nx-s1-5886183&p=510298&d=3000&size=48013106",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
     "description": "Our bodies are always sending signals ... but are we listening? This hour, TED speakers explore new ways to track and understand our health — from cutting-edge technology to simple, everyday habits.Guests include exercise physiologist Keith Diaz, genomicist Michael Snyder and writer Lizzie Braicks-Rinker.TED Radio Hour+ listeners now get access ..."
-  },
-  {
-    "id": "ted-radio-hour-ep-10",
-    "show_name": "TED Radio Hour",
-    "episode_title": "The state of fashion",
-    "pub_date": "Fri, 03 Jul 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/d98aa16f-0c33-4f87-8dee-a06df8491e25/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=d98aa16f-0c33-4f87-8dee-a06df8491e25&feed=gGUt_fS1&t=podcast&e=nx-s1-5876411&p=510298&d=3005&size=48087084",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
-    "description": "Whether you love fashion or hate it, we all have to get dressed in the morning, and the industry affects us in complex ways. This hour, the outrageous, environmental and seedy sides of fashion.Guests include designer Machine Dazzle, supply chain expert Aparna Mehta, journalist Amanda Mull and supermodel Cameron Russell.Original broadcast date: S..."
   },
   {
     "id": "lex-fridman-podcast-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "A Couple Breaks Up. Who Gets Custody of Their Embryos?",
+    "pub_date": "Thu, 10 Sep 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5db6786d-7dea-4cbb-8cf7-96318a8be688/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5db6786d-7dea-4cbb-8cf7-96318a8be688&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "As more people in the United States use I.V.F. to have children, embryos are being stored in fertility clinics across the country. It raises the question: What should happen to those embryos if a couple breaks up?Caroline Kitchener, who covers families for The New York Times, tells the story of Erin Millender, who took a custody battle over froz..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Trump’s War on Mail-In Voting",
     "pub_date": "Wed, 9 Sep 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5660b118-2266-4c84-97ce-180d41d2e172/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5660b118-2266-4c84-97ce-180d41d2e172&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "With only weeks to go before the midterms, President Trump has asked the Supreme Court to allow his administration’s plans to restrict voting by mail.Nick Corasaniti, who covers national politics for The New York Times, walks us through Mr. Trump’s effort, the legal battle it touched off and the uncertainty it has created for local election offi..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "‘Buy Now, Pay Later’: A New Wave of Consumer Debt",
     "pub_date": "Tue, 8 Sep 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "As people in the United States struggle with rising costs, they are increasingly turning to “buy now, pay later” loans for essentials such as rent and groceries.Stacey Cowley, a business reporter for The New York Times, explains the draw and the hidden risks of the loan model.Guest: Stacy Cowley, a business reporter at The New York Times, with a..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Classical Music Is in Crisis. Gustavo Dudamel Is Here to Save It.",
     "pub_date": "Sun, 6 Sep 2026 10:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "This week marks the start of the Gustavo Dudamel era in New York.The superstar conductor was just 28 when he became the musical director of the Los Angeles Philharmonic in 2009. A native of Venezuela and a product of its El Sistema musical training program, Dudamel quickly established himself not just as a great conductor, but also as a cultural..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The Intertwined Legacies of Gloria Steinem and Dolly Parton",
     "pub_date": "Fri, 4 Sep 2026 09:47:52 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Gloria Steinem, the feminist icon and co-founder of Ms. magazine, died on Wednesday at her home in Manhattan. Her death came as many were still grieving the loss of another iconic woman: Dolly Parton.On paper, the connections between the two women seem superficial, but for the Times Magazine writer Susan Dominus, the relationship between their l..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "A.I. Is Outsmarting Its Creators",
     "pub_date": "Thu, 3 Sep 2026 09:47:13 +0000",
@@ -1278,7 +1287,7 @@
     "description": "From the start, the greatest fear for those developing artificial intelligence was that their creations would go rogue to act in unauthorized and dangerous ways. Some researchers now say it has happened.\nKevin Roose, a technology columnist for The New York Times, explains what this means for his own dwindling sense of techno-optimism.\nGuest: Kev..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The Fight for the West Bank",
     "pub_date": "Wed, 2 Sep 2026 09:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "Over the past year, there has been an increase in violence in the West Bank. Israeli settlers have terrorized Palestinians, set fire to their property, uprooted their olive groves and stolen their animals in an effort to drive them off their land.\nRachel Abrams speaks to Loui Ridi, a Palestinian American in the West Bank, about the settlers who ..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "How a Teenager Found Undiagnosed Brain Injuries in the Military",
     "pub_date": "Tue, 1 Sep 2026 09:53:23 +0000",
@@ -1296,7 +1305,7 @@
     "description": "Warning: this episode contains mentions of suicide.\nNew reporting has found that the impact of rough sea waves on rescue-boat crews in the Coast Guard can lead to long-term effects, including traumatic brain injury.\nDave Philipps, who reports about veterans for The New York Times, explains the significant blind spot in the Coast Guard and talks ..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "How Flock Cameras Took Over America",
     "pub_date": "Mon, 31 Aug 2026 09:50:02 +0000",
@@ -1305,21 +1314,12 @@
     "description": "This summer, Fernando Alfonso, the Texas editor for The New York Times, got in a car with a man named Philip. They drove around the suburban streets of Dallas searching for traffic cameras — not for a red-light camera, or a speed-trap camera, but something new, an automatic license-plate reader made by a company called Flock.\nLaw enforcement off..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Who Will Rule the 2026 U.S. Open?",
     "pub_date": "Sun, 30 Aug 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "The U.S. Open, the final tournament of the tennis season, is getting underway. The world’s best players are heading to the U.S.T.A. Billie Jean King National Tennis Center in Queens, N.Y., to battle it out for the chance to play a championship match at Arthur Ashe Stadium, the largest tennis arena in the world.\nThe players come freighted with gr..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Ina Garten Says You Can Either Get on Her Train or Get Out of the Way",
-    "pub_date": "Sat, 29 Aug 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/12ac1779-4099-46f4-adc9-3f12f51161b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=12ac1779-4099-46f4-adc9-3f12f51161b0&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "At 78, the cookbook author and Food Network host knows what she likes, knows what she wants and isn’t stopping anytime soon.\n\n Thoughts? Email us at theinterview@nytimes.com\n Watch our show on YouTube: youtube.com/@TheInterviewPodcast\n For transcripts and more, visit: nytimes.com/theinterview\n\nFor more information on today’s episode, visit nytim..."
   }
 ]
