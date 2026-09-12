@@ -569,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: The loan at the heart of a new foreclosure crisis
+Published Date: Fri, 11 Sep 2026 21:00:00 +0000
+Description: There is a new type of loan that is sweeping through the country right now. It’s advertised as a super quick and super easy way to get a mortgage to buy a home. In recent years, Wall Street has been funneling billions of dollars into these loans. But these loans are also raising questions. Are they a financial innovation that’s helping the housi...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Cost-cutting, quiet guilt and the inflation generation
 Published Date: Wed, 09 Sep 2026 07:00:00 +0000
 Description: In this economy it is boom times and doom times all at once. The statistics aren’t really capturing it. K-shaped only goes so far as a metaphor. So … we asked you to help. And you delivered! One one hand, the stock market is on a prolonged, upward trajectory. Unemployment is low and inflation has come down from its peak. But on the other hand, i...
@@ -621,12 +627,6 @@ Episode Title: You bet your life insurance
 Published Date: Fri, 14 Aug 2026 20:56:00 +0000
 Description: Some of the biggest firms on Wall Street are, at this very moment, waiting for thousands of strangers to die to reap their returns. Because there’s a market for life insurance policies. And it’s legal.You don’t have to actually die to get some of your life insurance money. Thanks to a secondary market for life insurance policies, you might be ab...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e643843c-4f2c-43dc-89fc-64f70e7ff656/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e643843c-4f2c-43dc-89fc-64f70e7ff656&feed=hvWWWzRv&t=podcast&e=nx-s1-5885879&p=510289&d=2323&size=37172958
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Currency Chaos in Argentina (Summer School)
-Published Date: Wed, 12 Aug 2026 07:30:00 +0000
-Description: Just about everyone in Argentina is an expert in inflation and whether they like it or not, economic flexibility. Can we learn from them? Over the years, we at Planet Money have checked in on Argentina as it tried to recover from economic collapse in 2001 and 2002, and as inflation shot up and the country defaulted on its debts. This week on our...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/56fdff88-e280-4b8b-b5f6-1425b10e6027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=56fdff88-e280-4b8b-b5f6-1425b10e6027&feed=hvWWWzRv&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828319
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -920,6 +920,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Lives That 9/11 Keeps Taking
+Published Date: Fri, 11 Sep 2026 09:46:28 +0000
+Description: In New York City this morning, the families of those killed at the World Trade Center on Sept. 11, 2001, will gather for the 25th time to honor the dead one by one.Among those at ground zero will be an array of city officials who assured the public that it was safe to return to Lower Manhattan just weeks after the attacks.Today, Sally Goldenberg...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d141389d-26e3-4156-9766-89801074112a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d141389d-26e3-4156-9766-89801074112a&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: A Couple Breaks Up. Who Gets Custody of Their Embryos?
 Published Date: Thu, 10 Sep 2026 09:45:00 +0000
 Description: As more people in the United States use I.V.F. to have children, embryos are being stored in fertility clinics across the country. It raises the question: What should happen to those embryos if a couple breaks up?Caroline Kitchener, who covers families for The New York Times, tells the story of Erin Millender, who took a custody battle over froz...
@@ -978,11 +984,4 @@ Published Date: Mon, 31 Aug 2026 09:50:02 +0000
 Description: This summer, Fernando Alfonso, the Texas editor for The New York Times, got in a car with a man named Philip. They drove around the suburban streets of Dallas searching for traffic cameras — not for a red-light camera, or a speed-trap camera, but something new, an automatic license-plate reader made by a company called Flock.
 Law enforcement off...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/98d33752-1164-4fb7-8e43-42deed11186f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=98d33752-1164-4fb7-8e43-42deed11186f&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Who Will Rule the 2026 U.S. Open?
-Published Date: Sun, 30 Aug 2026 10:00:00 +0000
-Description: The U.S. Open, the final tournament of the tennis season, is getting underway. The world’s best players are heading to the U.S.T.A. Billie Jean King National Tennis Center in Queens, N.Y., to battle it out for the chance to play a championship match at Arthur Ashe Stadium, the largest tennis arena in the world.
-The players come freighted with gr...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
