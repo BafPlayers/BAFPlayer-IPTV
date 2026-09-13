@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Naomi Klein and Astra Taylor Say the End of the World is Now on the Table",
+    "pub_date": "Sat, 12 Sep 2026 10:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b6e07a69-6816-4433-9cc2-bca479fe6acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b6e07a69-6816-4433-9cc2-bca479fe6acd&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "In a new book, the writers argue that a powerful coalition of “end times fascists” is just fine with the earth’s demise.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/theda..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "The Lives That 9/11 Keeps Taking",
     "pub_date": "Fri, 11 Sep 2026 09:46:28 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d141389d-26e3-4156-9766-89801074112a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d141389d-26e3-4156-9766-89801074112a&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "In New York City this morning, the families of those killed at the World Trade Center on Sept. 11, 2001, will gather for the 25th time to honor the dead one by one.Among those at ground zero will be an array of city officials who assured the public that it was safe to return to Lower Manhattan just weeks after the attacks.Today, Sally Goldenberg..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "A Couple Breaks Up. Who Gets Custody of Their Embryos?",
     "pub_date": "Thu, 10 Sep 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "As more people in the United States use I.V.F. to have children, embryos are being stored in fertility clinics across the country. It raises the question: What should happen to those embryos if a couple breaks up?Caroline Kitchener, who covers families for The New York Times, tells the story of Erin Millender, who took a custody battle over froz..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Trump’s War on Mail-In Voting",
     "pub_date": "Wed, 9 Sep 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "With only weeks to go before the midterms, President Trump has asked the Supreme Court to allow his administration’s plans to restrict voting by mail.Nick Corasaniti, who covers national politics for The New York Times, walks us through Mr. Trump’s effort, the legal battle it touched off and the uncertainty it has created for local election offi..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "‘Buy Now, Pay Later’: A New Wave of Consumer Debt",
     "pub_date": "Tue, 8 Sep 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "As people in the United States struggle with rising costs, they are increasingly turning to “buy now, pay later” loans for essentials such as rent and groceries.Stacey Cowley, a business reporter for The New York Times, explains the draw and the hidden risks of the loan model.Guest: Stacy Cowley, a business reporter at The New York Times, with a..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Classical Music Is in Crisis. Gustavo Dudamel Is Here to Save It.",
     "pub_date": "Sun, 6 Sep 2026 10:00:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "This week marks the start of the Gustavo Dudamel era in New York.The superstar conductor was just 28 when he became the musical director of the Los Angeles Philharmonic in 2009. A native of Venezuela and a product of its El Sistema musical training program, Dudamel quickly established himself not just as a great conductor, but also as a cultural..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The Intertwined Legacies of Gloria Steinem and Dolly Parton",
     "pub_date": "Fri, 4 Sep 2026 09:47:52 +0000",
@@ -1287,7 +1296,7 @@
     "description": "Gloria Steinem, the feminist icon and co-founder of Ms. magazine, died on Wednesday at her home in Manhattan. Her death came as many were still grieving the loss of another iconic woman: Dolly Parton.On paper, the connections between the two women seem superficial, but for the Times Magazine writer Susan Dominus, the relationship between their l..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "A.I. Is Outsmarting Its Creators",
     "pub_date": "Thu, 3 Sep 2026 09:47:13 +0000",
@@ -1296,7 +1305,7 @@
     "description": "From the start, the greatest fear for those developing artificial intelligence was that their creations would go rogue to act in unauthorized and dangerous ways. Some researchers now say it has happened.\nKevin Roose, a technology columnist for The New York Times, explains what this means for his own dwindling sense of techno-optimism.\nGuest: Kev..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The Fight for the West Bank",
     "pub_date": "Wed, 2 Sep 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "Over the past year, there has been an increase in violence in the West Bank. Israeli settlers have terrorized Palestinians, set fire to their property, uprooted their olive groves and stolen their animals in an effort to drive them off their land.\nRachel Abrams speaks to Loui Ridi, a Palestinian American in the West Bank, about the settlers who ..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "How a Teenager Found Undiagnosed Brain Injuries in the Military",
     "pub_date": "Tue, 1 Sep 2026 09:53:23 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a56b3926-aa51-44bb-bf80-7b36b2620f89/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a56b3926-aa51-44bb-bf80-7b36b2620f89&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "Warning: this episode contains mentions of suicide.\nNew reporting has found that the impact of rough sea waves on rescue-boat crews in the Coast Guard can lead to long-term effects, including traumatic brain injury.\nDave Philipps, who reports about veterans for The New York Times, explains the significant blind spot in the Coast Guard and talks ..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "How Flock Cameras Took Over America",
-    "pub_date": "Mon, 31 Aug 2026 09:50:02 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/98d33752-1164-4fb7-8e43-42deed11186f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=98d33752-1164-4fb7-8e43-42deed11186f&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "This summer, Fernando Alfonso, the Texas editor for The New York Times, got in a car with a man named Philip. They drove around the suburban streets of Dallas searching for traffic cameras — not for a red-light camera, or a speed-trap camera, but something new, an automatic license-plate reader made by a company called Flock.\nLaw enforcement off..."
   }
 ]
