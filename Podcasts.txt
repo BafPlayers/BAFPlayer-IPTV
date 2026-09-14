@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Should race affect BMI guidelines? Doctors are split
+Published Date: Mon, 14 Sep 2026 07:00:00 +0000
+Description: BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it, groups of people have fallen through the cracks and conditions have been caught late. So, some doctors want to add nuance – to consider race when usi...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f6ce454d-d6e7-4773-9b72-e18a40291170/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f6ce454d-d6e7-4773-9b72-e18a40291170&feed=F0qJcgXZ&t=podcast&e=nx-s1-5818478&p=510351&d=827&size=13238901
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How scientists discovered that animals are doctors, too
 Published Date: Fri, 11 Sep 2026 07:00:00 +0000
 Description: When people are sick, we seek out medications and treatments to help heal. For a long time, scientists thought that was a uniquely human ability. But it turns out, many other animals do a version of it too! And since the late 1980s, western researchers have been trying to get a peek behind the curtain. And aside from just cataloguing all the coo...
@@ -253,12 +259,6 @@ Episode Title: NASA's newest telescope has a top secret past
 Published Date: Fri, 28 Aug 2026 07:00:00 +0000
 Description: The new Nancy Grace Roman space telescope is slated to launch this weekend. It was originally built for the National Reconnaissance Office as a spy satellite, but was never launched. Instead, NRO gave it to NASA about 15 years ago. After some major modifications, it’s set to begin its five-year mission peering at new supernovas, distant galaxies...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0dce5ef3-e265-401c-b7d5-78ea9086385c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0dce5ef3-e265-401c-b7d5-78ea9086385c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935626&p=510351&d=811&size=12988961
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: How your metabolism could alter your mental health
-Published Date: Wed, 26 Aug 2026 07:00:00 +0000
-Description: In 2009, medical student Shebani Sethi watched a patient in a weight loss program make a remarkable recovery. The dietary intervention she underwent alleviated her schizophrenia symptoms, something the woman had tried – and failed – to treat with medication for years. That experience sent Shebani down a medical path that would lead her to treati...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/02027688-bab9-4193-b6a0-8cae4b207ca3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=02027688-bab9-4193-b6a0-8cae4b207ca3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5807708&p=510351&d=748&size=11969977
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -459,6 +459,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Legends 88: Tell-Tale Heartland
+Published Date: Mon, 14 Sep 2026 05:01:00 +0000
+Description: The American heartland might not be as ancient as New England, but it can hold its own when it comes to dark history and terrifying tales. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick, and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   Get Ad-Free Lore: l...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-88d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Deeper Lore: 314 (166, 186, & 212)
 Published Date: Thu, 10 Sep 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (Lore 314: Hive Mind) with these three recommendations from further back in the Lore catalog:  Episode 166: LorePodcast.com/episodes/166 Episode 186: LorePodcast.com/episodes/186 Episode 212: LorePodcast.com/episodes/212  ———————— Lore Resources:   Episode Music: lorepodcast.com/music ...
@@ -511,12 +517,6 @@ Episode Title: Legends 85: Down Under
 Published Date: Mon, 03 Aug 2026 05:01:00 +0000
 Description: The huge number of dangerous creatures in Australia is terrifying, for sure. But if the legends are true, there's a lot more to be afraid of than spiders and birds. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   ...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-85d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Deeper Lore: 311 (72, 122, & 284)
-Published Date: Thu, 30 Jul 2026 05:01:00 +0000
-Description: Go deeper into the subject matter of our most recent episode (311: Twice Upon a Time) with these three recommendations from further back in the Lore catalog:  Episode 72: LorePodcast.com/episodes/72 Episode 122: LorePodcast.com/episodes/122 Episode 284: LorePodcast.com/episodes/284  ———————— Lore Resources:   Episode Music: lorepodcast.com/music...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-311.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -633,6 +633,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Thrive Causemetics: Karissa Bodnar. How $150 a Day in Sales Turned into a $150 Million Beauty Business with a Mission
+Published Date: Mon, 14 Sep 2026 07:10:00 -0000
+Description: Karissa Bodnar had a dream job at L'Oréal when a close friend died from cancer at age 24. It shook her up and made her reassess what she really wanted to do with her life. The answer? Build her own beauty business with a mission of “giving back.”The problem? Nobody seemed to want to carry her products. She pitched Sephora, Nordstrom, Ulta, and o...
+Audio Stream URL: https://rss.art19.com/episodes/be72ee5e-a5fd-4554-bd4d-fda64909e6f6.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Advice Line with Kip Tindell of The Container Store
 Published Date: Thu, 10 Sep 2026 07:10:00 -0000
 Description: Today’s callers: Juliette in France wonders how to raise awareness of her “magical” cooling device—without a costly ad campaign. Then David in North Carolina looks to grow the wholesale channel of his engraved gifts business in light of thinning retail margins. And Kaitlin in California wants to leverage the virality of her supportive, bordered ...
@@ -685,12 +691,6 @@ Episode Title: Advice Line with Bobbi Brown of Jones Road Beauty (September 2025
 Published Date: Thu, 13 Aug 2026 07:10:00 -0000
 Description: Today's callers: Bob in Chicago looks to promote his cabbage-based muscle and joint rub beyond the walls of his orthopedic practice. Then Abby in Dallas wonders whether her popular social media livestreams are a sustainable way to market her trendy phone cases. And Henry in Charlotte wants to turn his mouth rinse for coffee drinkers into a mains...
 Audio Stream URL: https://rss.art19.com/episodes/427590c2-11bc-43fa-9c92-d1eccf05842a.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.
-Published Date: Mon, 10 Aug 2026 07:10:00 -0000
-Description: What do you do when the family business you've spent decades building... gets bought out from under you? That’s what happened to Nima and Salma Fotovat.Devastated, the family rebuilt a new company from the ground up. This time they set out with a new idea: build an allergen-free, organic snack brand not just for kids, but their parents.  Their n...
-Audio Stream URL: https://rss.art19.com/episodes/cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -920,6 +920,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Good, the Bad and the Good-Bad (Movie)
+Published Date: Sun, 13 Sep 2026 10:00:00 +0000
+Description: When it comes to movies we love, there are the artistic masterpieces and there are the foot-stomping crowd pleasers. But there’s another particular kind of beloved movie, the one that makes our friends groan, but that we rewatch incessantly; the one that we can quote line for line, even as we giggle at the actors’ performances; the one that we’d...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2c469a9-8914-4b2f-9419-f0dd02fd1ede/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2c469a9-8914-4b2f-9419-f0dd02fd1ede&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Naomi Klein and Astra Taylor Say the End of the World is Now on the Table
 Published Date: Sat, 12 Sep 2026 10:00:00 +0000
 Description: In a new book, the writers argue that a powerful coalition of “end times fascists” is just fine with the earth’s demise.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
@@ -976,12 +982,4 @@ Published Date: Wed, 2 Sep 2026 09:45:00 +0000
 Description: Over the past year, there has been an increase in violence in the West Bank. Israeli settlers have terrorized Palestinians, set fire to their property, uprooted their olive groves and stolen their animals in an effort to drive them off their land.
 Rachel Abrams speaks to Loui Ridi, a Palestinian American in the West Bank, about the settlers who ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/729fb3e5-f6dc-47fb-a646-cc645be292a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=729fb3e5-f6dc-47fb-a646-cc645be292a0&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: How a Teenager Found Undiagnosed Brain Injuries in the Military
-Published Date: Tue, 1 Sep 2026 09:53:23 +0000
-Description: Warning: this episode contains mentions of suicide.
-New reporting has found that the impact of rough sea waves on rescue-boat crews in the Coast Guard can lead to long-term effects, including traumatic brain injury.
-Dave Philipps, who reports about veterans for The New York Times, explains the significant blind spot in the Coast Guard and talks ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a56b3926-aa51-44bb-bf80-7b36b2620f89/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a56b3926-aa51-44bb-bf80-7b36b2620f89&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
