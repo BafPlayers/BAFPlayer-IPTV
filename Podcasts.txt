@@ -137,6 +137,18 @@ Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee
 SHOW: Astronomy Cast
 ========================================================================
 ----------------------------------------
+Episode Title: Astronomy Cast Can't Go On Like This
+Published Date: Tue, 15 Sep 2026 00:38:00 +0000
+Description: After 20 years, it's time to make some changes. With your patronage we can ditch the ads & turn up the science. Please join our Patreon community at patreon.astronomycast.com
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/ACPatreon.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
+Episode Title: Ep. 800: The Beginning & End of Everything - Part 1
+Published Date: Mon, 14 Sep 2026 19:00:00 +0000
+Description: Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/AstronomyCast To celebrate our 20th season, we thought we'd go back right to the beginning… of everything. Let's wind the clock back to the earliest moments of the Universe, where we...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260914.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
 Episode Title: Ep. 799: Heavy Lift Rockets
 Published Date: Mon, 29 Jun 2026 20:00:00 +0000
 Description: Astronomy Cast Ep. 799: Heavy Lift Rockets By Fraser Cain & Dr. Pamela Gay Streamed live June 22, 2026. The Saturn 5 was a monster, capable of sending humans and a lander to the Moon and bringing them back again. But the number of heavy lift rockets since then has gotten pretty sparse. Now, with tens if not hundreds of thousands of satellites in...
@@ -184,22 +196,16 @@ Published Date: Mon, 22 Dec 2025 21:00:00 +0000
 Description: Astronomy Cast Ep. 775: The Hydrogen 21-cm Line By Fraser Cain & Dr. Pamela Gay Streamed live on Dec 15, 2025. Atomic hydrogen is the raw material for stars, but there's a problem. It's cold & dark, but it can do a very rare trick, releasing a photon in a very specific wavelength, known as the 21 centimeter line. And thanks to this wavelength as...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20251222.mp3?dest-id=11189
 Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
-----------------------------------------
-Episode Title: Ep. 761: It's Here! The Vera Rubin Observatory
-Published Date: Mon, 30 Jun 2025 20:00:00 +0000
-Description: Astronomy Cast Ep. 761: It's Here! The Vera Rubin Observatory By Fraser Cain & Dr. Pamela Gay Streamed live June 25, 2025. The time has come. The mighty Vera Rubin Observatory has finally come on line and delivered its "first light" images. And by Pamela's rules that means we get to talk about it! So let's do that! After decades of waiting, we h...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20250630.mp3?dest-id=11189
-Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
-----------------------------------------
-Episode Title: Ep. 759: The Commercial Space Program
-Published Date: Mon, 16 Jun 2025 20:00:00 +0000
-Description: Astronomy Cast Ep. 759: The Commercial Space Program By Fraser Cain & Dr. Pamela Gay Streamed live on Jun 9, 2025. Humanity has turned its focus back to the Moon, sending a fleet of spacecraft to the lunar surface. Some are run by the government, but there's a whole new group of commercial landers bearing instruments to the lunar surface. Is thi...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20250616.mp3?dest-id=11189
-Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
 
 ========================================================================
 SHOW: Short Wave
 ========================================================================
+----------------------------------------
+Episode Title: Why you'll probably be misdiagnosed in your lifetime
+Published Date: Tue, 15 Sep 2026 07:00:00 +0000
+Description: Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by the National Academies of Sciences, Engineering and Medicine from 2015 on diagnostic error. Today on the show we talk to a physician who was person...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/8dda708c-7a0c-486e-b517-689d17d7c644/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=8dda708c-7a0c-486e-b517-689d17d7c644&feed=F0qJcgXZ&t=podcast&e=nx-s1-5847020&p=510351&d=805&size=12894084
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: Should race affect BMI guidelines? Doctors are split
 Published Date: Mon, 14 Sep 2026 07:00:00 +0000
@@ -253,12 +259,6 @@ Episode Title: Football is here – and so is a new study on CTE
 Published Date: Mon, 31 Aug 2026 07:00:00 +0000
 Description: The NFL season begins this week, but America’s favorite sport has been on our minds for other reasons recently. New research released in the journal BMJ reveals that 1 in 4 former NFL players in this sample had CTE, a neurodegenerative brain disease caused by repetitive head injuries. Past studies already showed that football players are at high...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f186c998-4b4c-47fc-b2cb-41b9ecbe75b5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f186c998-4b4c-47fc-b2cb-41b9ecbe75b5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5944383&p=510351&d=901&size=14425487
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: NASA's newest telescope has a top secret past
-Published Date: Fri, 28 Aug 2026 07:00:00 +0000
-Description: The new Nancy Grace Roman space telescope is slated to launch this weekend. It was originally built for the National Reconnaissance Office as a spy satellite, but was never launched. Instead, NRO gave it to NASA about 15 years ago. After some major modifications, it’s set to begin its five-year mission peering at new supernovas, distant galaxies...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0dce5ef3-e265-401c-b7d5-78ea9086385c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0dce5ef3-e265-401c-b7d5-78ea9086385c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935626&p=510351&d=811&size=12988961
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -633,7 +633,7 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
-Episode Title: Thrive Causemetics: Karissa Bodnar. How $150 a Day in Sales Turned into a $150 Million Beauty Business with a Mission
+Episode Title: Thrive Causemetics: Karissa Bodnar. How a Beauty Business Made Millions for a Mission
 Published Date: Mon, 14 Sep 2026 07:10:00 -0000
 Description: Karissa Bodnar had a dream job at L'Oréal when a close friend died from cancer at age 24. It shook her up and made her reassess what she really wanted to do with her life. The answer? Build her own beauty business with a mission of “giving back.”The problem? Nobody seemed to want to carry her products. She pitched Sephora, Nordstrom, Ulta, and o...
 Audio Stream URL: https://rss.art19.com/episodes/be72ee5e-a5fd-4554-bd4d-fda64909e6f6.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
@@ -920,6 +920,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The A.I. Researcher Whose Rebellion Is Changing Everything
+Published Date: Mon, 14 Sep 2026 09:45:00 +0000
+Description: In recent days, Jacob Coxon, a researcher at the artificial intelligence company Anthropic, quit his job and posted warnings about the risks of the technology. That kicked off a crisis that culminated in a call by prominent leaders of the industry to slow down A.I. development.He spoke to “The Daily” about this moment.Guest: Jacob Coxon, a forme...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2782c30a-b111-438b-b586-0cc16459a419/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2782c30a-b111-438b-b586-0cc16459a419&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The Good, the Bad and the Good-Bad (Movie)
 Published Date: Sun, 13 Sep 2026 10:00:00 +0000
 Description: When it comes to movies we love, there are the artistic masterpieces and there are the foot-stomping crowd pleasers. But there’s another particular kind of beloved movie, the one that makes our friends groan, but that we rewatch incessantly; the one that we can quote line for line, even as we giggle at the actors’ performances; the one that we’d...
@@ -975,11 +981,4 @@ Description: From the start, the greatest fear for those developing artificial i
 Kevin Roose, a technology columnist for The New York Times, explains what this means for his own dwindling sense of techno-optimism.
 Guest: Kev...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d682b38d-05fd-42e4-9d00-4fb3393ff0a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d682b38d-05fd-42e4-9d00-4fb3393ff0a4&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Fight for the West Bank
-Published Date: Wed, 2 Sep 2026 09:45:00 +0000
-Description: Over the past year, there has been an increase in violence in the West Bank. Israeli settlers have terrorized Palestinians, set fire to their property, uprooted their olive groves and stolen their animals in an effort to drive them off their land.
-Rachel Abrams speaks to Loui Ridi, a Palestinian American in the West Bank, about the settlers who ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/729fb3e5-f6dc-47fb-a646-cc645be292a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=729fb3e5-f6dc-47fb-a646-cc645be292a0&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
