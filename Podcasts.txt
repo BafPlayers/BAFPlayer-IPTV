@@ -201,6 +201,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: When batteries get a facelift, so does renewable energy
+Published Date: Wed, 16 Sep 2026 07:00:00 +0000
+Description: For years, renewable energy companies have faced a problem: How to store the mass amounts of energy they produce for later use. Batteries may be just the solution. In California, there's now enough grid-scale battery storage to power millions of homes for a few hours. Battery power is often the second largest source of energy on a given day in t...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/fb33d0f3-6b17-424d-946c-ef7a888099a4/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=fb33d0f3-6b17-424d-946c-ef7a888099a4&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968717&p=510351&d=809&size=12958869
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Why you'll probably be misdiagnosed in your lifetime
 Published Date: Tue, 15 Sep 2026 07:00:00 +0000
 Description: Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by the National Academies of Sciences, Engineering and Medicine from 2015 on diagnostic error. Today on the show we talk to a physician who was person...
@@ -253,12 +259,6 @@ Episode Title: What can seashells teach us about the health of our oceans?
 Published Date: Tue, 01 Sep 2026 07:00:00 +0000
 Description: Seashells: They're beautiful remnants to carry home from the beach—and so much more! According to environmental journalist Cynthia Barnett, seashells record history more accurately than the humans who first wrote it down. In this episode, we talk about the science of seashells, their impact on humankind and the scientist behind a very famous ton...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1494d472-70de-4b30-a3f1-b6a8a651bc82/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1494d472-70de-4b30-a3f1-b6a8a651bc82&feed=F0qJcgXZ&t=podcast&e=nx-s1-5910654&p=510351&d=790&size=12647949
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Football is here – and so is a new study on CTE
-Published Date: Mon, 31 Aug 2026 07:00:00 +0000
-Description: The NFL season begins this week, but America’s favorite sport has been on our minds for other reasons recently. New research released in the journal BMJ reveals that 1 in 4 former NFL players in this sample had CTE, a neurodegenerative brain disease caused by repetitive head injuries. Past studies already showed that football players are at high...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f186c998-4b4c-47fc-b2cb-41b9ecbe75b5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f186c998-4b4c-47fc-b2cb-41b9ecbe75b5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5944383&p=510351&d=901&size=14425487
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -569,6 +569,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: How investing is getting riskier (Two Indicators)
+Published Date: Wed, 16 Sep 2026 07:00:00 +0000
+Description: Margin borrowing and sports gambling “investments” are both on the rise! Today on the show, two stories from Planet Money’s daily podcast The Indicator about the ways investing is changing, and getting riskier.According to one study, more than half of Gen Zers are using investment dollars for sports gambling. On average, this is not a smart stra...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The loan at the heart of a new foreclosure crisis
 Published Date: Fri, 11 Sep 2026 21:00:00 +0000
 Description: There is a new type of loan that is sweeping through the country right now. It’s advertised as a super quick and super easy way to get a mortgage to buy a home. In recent years, Wall Street has been funneling billions of dollars into these loans. But these loans are also raising questions. Are they a financial innovation that’s helping the housi...
@@ -621,12 +627,6 @@ Episode Title: Getting entrepreneurial in Korea (Summer School)
 Published Date: Wed, 19 Aug 2026 07:30:00 +0000
 Description: This week’s stop on our world tour - Korea. A country divided into two very different power structures since the end of WWII. Today South Korea is the maker of some of the world’s favorite exports – from Samsung TV’s to BTS. But 75 years ago it was a much different story. How the textile industry and a partnership with Bangladesh lifted the coun...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: You bet your life insurance
-Published Date: Fri, 14 Aug 2026 20:56:00 +0000
-Description: Some of the biggest firms on Wall Street are, at this very moment, waiting for thousands of strangers to die to reap their returns. Because there’s a market for life insurance policies. And it’s legal.You don’t have to actually die to get some of your life insurance money. Thanks to a secondary market for life insurance policies, you might be ab...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e643843c-4f2c-43dc-89fc-64f70e7ff656/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e643843c-4f2c-43dc-89fc-64f70e7ff656&feed=hvWWWzRv&t=podcast&e=nx-s1-5885879&p=510289&d=2323&size=37172958
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -920,6 +920,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Bond Market Is Flipping Out. Here’s Why You Should Care.
+Published Date: Tue, 15 Sep 2026 09:45:00 +0000
+Description: For the past few months, you’ve probably been hearing about the turbulence in the bond market.Today, Ben Casselman, the chief economics correspondent for The New York Times, explains what has been happening, and why it matters.Guest: Ben Casselman, the chief economics correspondent for The New York Times.Background reading: How to make sense of ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/87a723b9-3bc9-46a5-9eb2-e055c109a96e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=87a723b9-3bc9-46a5-9eb2-e055c109a96e&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The A.I. Researcher Whose Rebellion Is Changing Everything
 Published Date: Mon, 14 Sep 2026 09:45:00 +0000
 Description: In recent days, Jacob Coxon, a researcher at the artificial intelligence company Anthropic, quit his job and posted warnings about the risks of the technology. That kicked off a crisis that culminated in a call by prominent leaders of the industry to slow down A.I. development.He spoke to “The Daily” about this moment.Guest: Jacob Coxon, a forme...
@@ -973,12 +979,4 @@ Episode Title: The Intertwined Legacies of Gloria Steinem and Dolly Parton
 Published Date: Fri, 4 Sep 2026 09:47:52 +0000
 Description: Gloria Steinem, the feminist icon and co-founder of Ms. magazine, died on Wednesday at her home in Manhattan. Her death came as many were still grieving the loss of another iconic woman: Dolly Parton.On paper, the connections between the two women seem superficial, but for the Times Magazine writer Susan Dominus, the relationship between their l...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b8210c31-2bec-4011-833a-0c49089cad77/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b8210c31-2bec-4011-833a-0c49089cad77&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: A.I. Is Outsmarting Its Creators
-Published Date: Thu, 3 Sep 2026 09:47:13 +0000
-Description: From the start, the greatest fear for those developing artificial intelligence was that their creations would go rogue to act in unauthorized and dangerous ways. Some researchers now say it has happened.
-Kevin Roose, a technology columnist for The New York Times, explains what this means for his own dwindling sense of techno-optimism.
-Guest: Kev...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d682b38d-05fd-42e4-9d00-4fb3393ff0a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d682b38d-05fd-42e4-9d00-4fb3393ff0a4&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
