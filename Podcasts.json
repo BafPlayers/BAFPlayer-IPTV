@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "The Domino’s Pizza Tracker Theory of Everything",
+    "pub_date": "Fri, 18 Sep 2026 20:00:00 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "Did a pizza restaurant’s humble status page change how we wait forever? When you order a Lyft or Uber, you get texts every few minutes about your car approaching and arriving. When you have a package coming, you get a notification when it’s shipped, when it’s en route, and when it’s out for delivery. Why do so many companies send these constant ..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "How investing is getting riskier (Two Indicators)",
     "pub_date": "Wed, 16 Sep 2026 07:00:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127",
@@ -792,7 +801,7 @@
     "description": "Margin borrowing and sports gambling “investments” are both on the rise! Today on the show, two stories from Planet Money’s daily podcast The Indicator about the ways investing is changing, and getting riskier.According to one study, more than half of Gen Zers are using investment dollars for sports gambling. On average, this is not a smart stra..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "The loan at the heart of a new foreclosure crisis",
     "pub_date": "Fri, 11 Sep 2026 21:00:00 +0000",
@@ -801,7 +810,7 @@
     "description": "There is a new type of loan that is sweeping through the country right now. It’s advertised as a super quick and super easy way to get a mortgage to buy a home. In recent years, Wall Street has been funneling billions of dollars into these loans. But these loans are also raising questions. Are they a financial innovation that’s helping the housi..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Cost-cutting, quiet guilt and the inflation generation",
     "pub_date": "Wed, 09 Sep 2026 07:00:00 +0000",
@@ -810,7 +819,7 @@
     "description": "In this economy it is boom times and doom times all at once. The statistics aren’t really capturing it. K-shaped only goes so far as a metaphor. So … we asked you to help. And you delivered! One one hand, the stock market is on a prolonged, upward trajectory. Unemployment is low and inflation has come down from its peak. But on the other hand, i..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "Trump drinks Venezuela’s milkshake",
     "pub_date": "Sat, 05 Sep 2026 00:00:00 +0000",
@@ -819,7 +828,7 @@
     "description": "One week ago, President Trump announced a deal that would give the “U.S. control of more than 65 BILLION BARRELS of proven Oil Reserves in Venezuela, at no cost to the American Taxpayer.”The exact nature of this deal has been … obscure, to say the least. But today, we wanted to know, from someone who’s been through this before, what does this me..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "Love in the time of Palantir",
     "pub_date": "Wed, 02 Sep 2026 07:00:00 +0000",
@@ -828,7 +837,7 @@
     "description": "To a lot of people, Palantir is a mystery — what does the company know, what data do they have, and (if they have it) what do they do with it all? We dig into that mystery and take you to a singles event to see if Big Data is good for Big Dating.That event, deep in the heart of Manhattan, is called: “Singles Dating Matching Using Palantir Data.”..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
     "pub_date": "Sun, 30 Aug 2026 07:00:02 +0000",
@@ -837,7 +846,7 @@
     "description": "The brilliance of \"9 to 5\" is that it is catchy even though it’s also kinda depressing. You will be dancing along. You're enjoying it. And, then when you really listen to the lyrics, you're like, Wait, this is messed up. This is real. This is a problem we need to fix. Like, why does it have to be this way?That is the spirit of the song, why it b..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Branded fruit: How produce got “Honeycrisp-ified\"",
     "pub_date": "Fri, 28 Aug 2026 19:19:07 +0000",
@@ -846,7 +855,7 @@
     "description": "The produce aisle is changing. You’ve noticed this, I’m sure. It is now full of superstar fruits and vegetables: The Honeycrisp apple, The Cotton Candy grape, The Cuties mandarin orange. They stand out. They cost more. They have branding and sometimes trademarks and patent-ish kinds of protections.And now – it’s happening in the tomato bin too! ..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "The continent nobody owns & everyone benefits from (Summer School)",
     "pub_date": "Wed, 26 Aug 2026 07:30:00 +0000",
@@ -855,22 +864,13 @@
     "description": "This episode is packed with your best economic ideas from around the world and a penguin interview. It all comes together in this final session of Summer School 2026.Pack your parka, we’re headed to Antarctica.First, we’ll travel back in time to the late 1970s when NPR was a scrappy young network, with a synth soundtrack, and tons of heart. Scie..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "Who decides what big box sells? Our GAME got us answers",
     "pub_date": "Fri, 21 Aug 2026 21:17:27 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "There’s a room where the fates of retail products are decided. Will they make it onto the shelves of the big box stores? Usually the rest of us can’t get inside the room where decisions are made – until now! Today on the show, we pitch the Planet Money game, Sell Me a Sasquatch, to big box retailers. We go behind the scenes to learn about how pr..."
-  },
-  {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Getting entrepreneurial in Korea (Summer School)",
-    "pub_date": "Wed, 19 Aug 2026 07:30:00 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "This week’s stop on our world tour - Korea. A country divided into two very different power structures since the end of WWII. Today South Korea is the maker of some of the world’s favorite exports – from Samsung TV’s to BTS. But 75 years ago it was a much different story. How the textile industry and a partnership with Bangladesh lifted the coun..."
   },
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The Techno-Religion at the Center of the A.I. Debate",
+    "pub_date": "Fri, 18 Sep 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6ed880d4-eb3d-466f-b16a-a26994344df6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6ed880d4-eb3d-466f-b16a-a26994344df6&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "Last week, a group of tech leaders called for putting guardrails on artificial intelligence. This week, these calls have been met by backlash from tech executives, lawmakers and President Trump, who liken those ringing the alarm to a doomsday cult.Cade Metz, a technology reporter for The New York Times, explains where this criticism comes from a..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Why Gas Prices Just Keep Going Up",
     "pub_date": "Thu, 17 Sep 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3b6622e3-8def-4089-a6fc-453ff9df7b67/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3b6622e3-8def-4089-a6fc-453ff9df7b67&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "About a month into the war with Iran, we spoke with Cameron Joudi, who owns a gas station in Florida, about how the conflict was reaching him at home. He recently reached out after seeing a 20-cent spike in gas prices in the span of just 24 hours.Vivian Nereim, the Gulf bureau chief for The New York Times, tries to answer Mr. Joudi’s question: W..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "48 Days Until the Midterms: Is a Blue Wave Coming?",
     "pub_date": "Wed, 16 Sep 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "As the general midterm elections begin, we take a look at where things stand. A new Times/Siena poll suggests that Democrats have a real shot at winning control of both chambers of Congress. But serious obstacles stand in their way, including a financial disadvantage.The New York Times journalists Shane Goldmacher, Maggie Haberman and Nate Cohn ..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The Bond Market Is Flipping Out. Here’s Why You Should Care.",
     "pub_date": "Tue, 15 Sep 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "For the past few months, you’ve probably been hearing about the turbulence in the bond market.Today, Ben Casselman, the chief economics correspondent for The New York Times, explains what has been happening, and why it matters.Guest: Ben Casselman, the chief economics correspondent for The New York Times.Background reading: How to make sense of ..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The A.I. Researcher Whose Rebellion Is Changing Everything",
     "pub_date": "Mon, 14 Sep 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "In recent days, Jacob Coxon, a researcher at the artificial intelligence company Anthropic, quit his job and posted warnings about the risks of the technology. That kicked off a crisis that culminated in a call by prominent leaders of the industry to slow down A.I. development.He spoke to “The Daily” about this moment.Guest: Jacob Coxon, a forme..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Good, the Bad and the Good-Bad (Movie)",
     "pub_date": "Sun, 13 Sep 2026 10:00:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "When it comes to movies we love, there are the artistic masterpieces and there are the foot-stomping crowd pleasers. But there’s another particular kind of beloved movie, the one that makes our friends groan, but that we rewatch incessantly; the one that we can quote line for line, even as we giggle at the actors’ performances; the one that we’d..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Naomi Klein and Astra Taylor Say the End of the World is Now on the Table",
     "pub_date": "Sat, 12 Sep 2026 10:00:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "In a new book, the writers argue that a powerful coalition of “end times fascists” is just fine with the earth’s demise.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/theda..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "The Lives That 9/11 Keeps Taking",
     "pub_date": "Fri, 11 Sep 2026 09:46:28 +0000",
@@ -1296,7 +1305,7 @@
     "description": "In New York City this morning, the families of those killed at the World Trade Center on Sept. 11, 2001, will gather for the 25th time to honor the dead one by one.Among those at ground zero will be an array of city officials who assured the public that it was safe to return to Lower Manhattan just weeks after the attacks.Today, Sally Goldenberg..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "A Couple Breaks Up. Who Gets Custody of Their Embryos?",
     "pub_date": "Thu, 10 Sep 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "As more people in the United States use I.V.F. to have children, embryos are being stored in fertility clinics across the country. It raises the question: What should happen to those embryos if a couple breaks up?Caroline Kitchener, who covers families for The New York Times, tells the story of Erin Millender, who took a custody battle over froz..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Trump’s War on Mail-In Voting",
     "pub_date": "Wed, 9 Sep 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5660b118-2266-4c84-97ce-180d41d2e172/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5660b118-2266-4c84-97ce-180d41d2e172&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "With only weeks to go before the midterms, President Trump has asked the Supreme Court to allow his administration’s plans to restrict voting by mail.Nick Corasaniti, who covers national politics for The New York Times, walks us through Mr. Trump’s effort, the legal battle it touched off and the uncertainty it has created for local election offi..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "‘Buy Now, Pay Later’: A New Wave of Consumer Debt",
-    "pub_date": "Tue, 8 Sep 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b072437a-52ff-4c08-a777-b02498ea6771/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b072437a-52ff-4c08-a777-b02498ea6771&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "As people in the United States struggle with rising costs, they are increasingly turning to “buy now, pay later” loans for essentials such as rent and groceries.Stacey Cowley, a business reporter for The New York Times, explains the draw and the hidden risks of the loan model.Guest: Stacy Cowley, a business reporter at The New York Times, with a..."
   }
 ]

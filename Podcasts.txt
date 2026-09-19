@@ -567,6 +567,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: The Domino’s Pizza Tracker Theory of Everything
+Published Date: Fri, 18 Sep 2026 20:00:00 +0000
+Description: Did a pizza restaurant’s humble status page change how we wait forever? When you order a Lyft or Uber, you get texts every few minutes about your car approaching and arriving. When you have a package coming, you get a notification when it’s shipped, when it’s en route, and when it’s out for delivery. Why do so many companies send these constant ...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How investing is getting riskier (Two Indicators)
 Published Date: Wed, 16 Sep 2026 07:00:00 +0000
 Description: Margin borrowing and sports gambling “investments” are both on the rise! Today on the show, two stories from Planet Money’s daily podcast The Indicator about the ways investing is changing, and getting riskier.According to one study, more than half of Gen Zers are using investment dollars for sports gambling. On average, this is not a smart stra...
@@ -619,12 +625,6 @@ Episode Title: Who decides what big box sells? Our GAME got us answers
 Published Date: Fri, 21 Aug 2026 21:17:27 +0000
 Description: There’s a room where the fates of retail products are decided. Will they make it onto the shelves of the big box stores? Usually the rest of us can’t get inside the room where decisions are made – until now! Today on the show, we pitch the Planet Money game, Sell Me a Sasquatch, to big box retailers. We go behind the scenes to learn about how pr...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Getting entrepreneurial in Korea (Summer School)
-Published Date: Wed, 19 Aug 2026 07:30:00 +0000
-Description: This week’s stop on our world tour - Korea. A country divided into two very different power structures since the end of WWII. Today South Korea is the maker of some of the world’s favorite exports – from Samsung TV’s to BTS. But 75 years ago it was a much different story. How the textile industry and a partnership with Bangladesh lifted the coun...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -923,6 +923,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Techno-Religion at the Center of the A.I. Debate
+Published Date: Fri, 18 Sep 2026 09:45:00 +0000
+Description: Last week, a group of tech leaders called for putting guardrails on artificial intelligence. This week, these calls have been met by backlash from tech executives, lawmakers and President Trump, who liken those ringing the alarm to a doomsday cult.Cade Metz, a technology reporter for The New York Times, explains where this criticism comes from a...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6ed880d4-eb3d-466f-b16a-a26994344df6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6ed880d4-eb3d-466f-b16a-a26994344df6&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Why Gas Prices Just Keep Going Up
 Published Date: Thu, 17 Sep 2026 09:45:00 +0000
 Description: About a month into the war with Iran, we spoke with Cameron Joudi, who owns a gas station in Florida, about how the conflict was reaching him at home. He recently reached out after seeing a 20-cent spike in gas prices in the span of just 24 hours.Vivian Nereim, the Gulf bureau chief for The New York Times, tries to answer Mr. Joudi’s question: W...
@@ -976,10 +982,4 @@ Episode Title: Trump’s War on Mail-In Voting
 Published Date: Wed, 9 Sep 2026 09:45:00 +0000
 Description: With only weeks to go before the midterms, President Trump has asked the Supreme Court to allow his administration’s plans to restrict voting by mail.Nick Corasaniti, who covers national politics for The New York Times, walks us through Mr. Trump’s effort, the legal battle it touched off and the uncertainty it has created for local election offi...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5660b118-2266-4c84-97ce-180d41d2e172/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5660b118-2266-4c84-97ce-180d41d2e172&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: ‘Buy Now, Pay Later’: A New Wave of Consumer Debt
-Published Date: Tue, 8 Sep 2026 09:45:00 +0000
-Description: As people in the United States struggle with rising costs, they are increasingly turning to “buy now, pay later” loans for essentials such as rent and groceries.Stacey Cowley, a business reporter for The New York Times, explains the draw and the hidden risks of the loan model.Guest: Stacy Cowley, a business reporter at The New York Times, with a...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b072437a-52ff-4c08-a777-b02498ea6771/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b072437a-52ff-4c08-a777-b02498ea6771&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
