@@ -923,6 +923,13 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Aaron Sorkin Goes Off Script
+Published Date: Sat, 19 Sep 2026 10:00:00 +0000
+Description: The Oscar-winning writer returns to Facebook with “The Social Reckoning”— and surprises us with the revelation of why he is so drawn to uplift and romance. Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
+For more information on toda...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c7cf5b73-080f-4159-a6c9-e0bcfa4c5a38/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c7cf5b73-080f-4159-a6c9-e0bcfa4c5a38&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The Techno-Religion at the Center of the A.I. Debate
 Published Date: Fri, 18 Sep 2026 09:45:00 +0000
 Description: Last week, a group of tech leaders called for putting guardrails on artificial intelligence. This week, these calls have been met by backlash from tech executives, lawmakers and President Trump, who liken those ringing the alarm to a doomsday cult.Cade Metz, a technology reporter for The New York Times, explains where this criticism comes from a...
@@ -976,10 +983,4 @@ Episode Title: A Couple Breaks Up. Who Gets Custody of Their Embryos?
 Published Date: Thu, 10 Sep 2026 09:45:00 +0000
 Description: As more people in the United States use I.V.F. to have children, embryos are being stored in fertility clinics across the country. It raises the question: What should happen to those embryos if a couple breaks up?Caroline Kitchener, who covers families for The New York Times, tells the story of Erin Millender, who took a custody battle over froz...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5db6786d-7dea-4cbb-8cf7-96318a8be688/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5db6786d-7dea-4cbb-8cf7-96318a8be688&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Trump’s War on Mail-In Voting
-Published Date: Wed, 9 Sep 2026 09:45:00 +0000
-Description: With only weeks to go before the midterms, President Trump has asked the Supreme Court to allow his administration’s plans to restrict voting by mail.Nick Corasaniti, who covers national politics for The New York Times, walks us through Mr. Trump’s effort, the legal battle it touched off and the uncertainty it has created for local election offi...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5660b118-2266-4c84-97ce-180d41d2e172/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5660b118-2266-4c84-97ce-180d41d2e172&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
