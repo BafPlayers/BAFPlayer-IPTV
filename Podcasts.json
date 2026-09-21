@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "Why we should all be 'bookmaxxing'",
+    "pub_date": "Sat, 19 Sep 2026 00:01:05 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/280cc23f-b5ca-41af-9ec4-8f51101ca6fb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=280cc23f-b5ca-41af-9ec4-8f51101ca6fb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968677&p=510351&d=658&size=10541017",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most accessible activities for actually supporting cognitive performance, brain health, mental health, but also overall wellbeing throughout our lives,” said Chri..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "The latest on AI panic — and whether it's justified",
     "pub_date": "Fri, 18 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/75926fb0-6c54-49fb-a4f4-44901aa2fa69/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=75926fb0-6c54-49fb-a4f4-44901aa2fa69&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971154&p=510351&d=898&size=14379093",
@@ -279,7 +288,7 @@
     "description": "AI is in the news again – for its potential to end civilization. A researcher at Anthropic resigned very publicly last week, citing concerns about the accelerating capabilities of AI and what he called “irresponsible” behavior from major AI companies Anthropic and OpenAI. Following his resignation, the leaders of both companies called for an int..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "When batteries get a facelift, so does renewable energy",
     "pub_date": "Wed, 16 Sep 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "For years, renewable energy companies have faced a problem: How to store the mass amounts of energy they produce for later use. Batteries may be just the solution. In California, there's now enough grid-scale battery storage to power millions of homes for a few hours. Battery power is often the second largest source of energy on a given day in t..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "Why you'll probably be misdiagnosed in your lifetime",
     "pub_date": "Tue, 15 Sep 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by the National Academies of Sciences, Engineering and Medicine from 2015 on diagnostic error. Today on the show we talk to a physician who was person..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "Should race affect BMI guidelines? Doctors are split",
     "pub_date": "Mon, 14 Sep 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it, groups of people have fallen through the cracks and conditions have been caught late. So, some doctors want to add nuance – to consider race when usi..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "How scientists discovered that animals are doctors, too",
     "pub_date": "Fri, 11 Sep 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "When people are sick, we seek out medications and treatments to help heal. For a long time, scientists thought that was a uniquely human ability. But it turns out, many other animals do a version of it too! And since the late 1980s, western researchers have been trying to get a peek behind the curtain. And aside from just cataloguing all the coo..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Lindsay Clancy and postpartum psychosis",
     "pub_date": "Wed, 09 Sep 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "The trial around Lindsay Clancy may be over for now, but it still leaves us with questions. On today’s episode, we talk to psychiatrists and patients to answer them: What is postpartum psychosis, exactly? Why don’t we know more about it? And what can you do if you are worried about a postpartum loved one?Interested in more stories on mental heal..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "How hurricanes triggered lizard evolution",
     "pub_date": "Tue, 08 Sep 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "Hurricane season is upon us and it turns out that these powerful storms can quickly affect the biology of animals. After hurricanes Irma and Maria hit the islands that make up Turks and Caicos about a decade ago, the silver key anole adapted. They now have a shorter fourth toe on their hind legs! That could help them cling to objects better. But..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "When is your brain actually 'adult'?",
     "pub_date": "Mon, 07 Sep 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Summer is winding down and school is back. And all of that has us thinking about this idea that something happens in the human brain when we turn 25. Suddenly, we can rent a car without fees. Make rational decisions. We may even regret some of our past… indiscretions. All because we’re developed…right? Well, a paper in the journal Nature suggest..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "A new investigation shows heat is even deadlier than we thought",
     "pub_date": "Fri, 04 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a8866710-9516-4062-bd0e-f02b001aa88a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a8866710-9516-4062-bd0e-f02b001aa88a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5945241&p=510351&d=885&size=14169278",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "Hot weather isn’t just an inconvenience. It’s killing thousands more Americans than show up in official records. That’s the finding from a new NPR investigation, in partnership with Boston University. And the way they came up with that new, better estimate of the true toll of heat is, of course, with science. This episode, we’ll bring you all th..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "The science of emotional regulation — and how to do it better",
-    "pub_date": "Wed, 02 Sep 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e00f51f0-c2f9-4860-9772-8fc83ba7873e/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e00f51f0-c2f9-4860-9772-8fc83ba7873e&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896292&p=510351&d=749&size=11998398",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Do you ever feel like your emotions control you instead of you controlling them? Maybe you lash out at someone after a long day at work or indulge to avoid a stressful situation. It’s called emotional dysregulation and don’t worry – we all experience it at some point. Luckily, there’s a better way of dealing with our feelings: building emotional..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -632,6 +632,15 @@
   {
     "id": "lore--folklore---history--ep-1",
     "show_name": "Lore",
+    "episode_title": "Lore 315: All Shook Up",
+    "pub_date": "Mon, 21 Sep 2026 05:01:00 +0000",
+    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore315d.mp3?dest-id=259905",
+    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
+    "description": "Folklore usually depends on the little things. The daily struggle to survive, the terror of a new location, or even violence and crime. But even when the events are bigger than we can imagine, folklore has a way of showing up. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by..."
+  },
+  {
+    "id": "lore--folklore---history--ep-2",
+    "show_name": "Lore",
     "episode_title": "Legends 88: Tell-Tale Heartland",
     "pub_date": "Mon, 14 Sep 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-88d.mp3?dest-id=259905",
@@ -639,7 +648,7 @@
     "description": "The American heartland might not be as ancient as New England, but it can hold its own when it comes to dark history and terrifying tales. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick, and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   Get Ad-Free Lore: l..."
   },
   {
-    "id": "lore--folklore---history--ep-2",
+    "id": "lore--folklore---history--ep-3",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 314 (166, 186, & 212)",
     "pub_date": "Thu, 10 Sep 2026 05:01:00 +0000",
@@ -648,7 +657,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (Lore 314: Hive Mind) with these three recommendations from further back in the Lore catalog:  Episode 166: LorePodcast.com/episodes/166 Episode 186: LorePodcast.com/episodes/186 Episode 212: LorePodcast.com/episodes/212  ———————— Lore Resources:   Episode Music: lorepodcast.com/music ..."
   },
   {
-    "id": "lore--folklore---history--ep-3",
+    "id": "lore--folklore---history--ep-4",
     "show_name": "Lore",
     "episode_title": "Lore 314: Hive Mind",
     "pub_date": "Mon, 07 Sep 2026 05:01:00 +0000",
@@ -657,7 +666,7 @@
     "description": "Not all big stories are about equally large characters. In the world of folklore, sometimes even the littlest players have a massive stage to perform upon. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————..."
   },
   {
-    "id": "lore--folklore---history--ep-4",
+    "id": "lore--folklore---history--ep-5",
     "show_name": "Lore",
     "episode_title": "Legends 87: Cursive",
     "pub_date": "Mon, 31 Aug 2026 05:01:00 +0000",
@@ -666,7 +675,7 @@
     "description": "Everyone loves a good ghost story, but literature and spirits have a relationship that is older than some might think. Narrated and produced by Aaron Mahnke, with writing and research by GennaRose Nethercott and Alex Robinson. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   Get Ad-Free Lore: lorepodcast.com/sup..."
   },
   {
-    "id": "lore--folklore---history--ep-5",
+    "id": "lore--folklore---history--ep-6",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 313 (7, 67, & 101)",
     "pub_date": "Thu, 27 Aug 2026 05:01:00 +0000",
@@ -675,7 +684,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (Lore 313: Tall, Tall Tales) with these three recommendations from further back in the Lore catalog:  Episode 7: LorePodcast.com/episodes/7 Episode 67: LorePodcast.com/episodes/67 Episode 101: LorePodcast.com/episodes/101  ———————— Lore Resources:   Episode Music: lorepodcast.com/music..."
   },
   {
-    "id": "lore--folklore---history--ep-6",
+    "id": "lore--folklore---history--ep-7",
     "show_name": "Lore",
     "episode_title": "Lore 313: Tall, Tall Tales",
     "pub_date": "Mon, 24 Aug 2026 05:01:00 +0000",
@@ -684,7 +693,7 @@
     "description": "Some folklore thrives in the depths of our world—whether that's across the ocean waves or along the docks of an ancient harbor town. But a few have risen to great heights, giving us a view of history that is downright terrifying. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music..."
   },
   {
-    "id": "lore--folklore---history--ep-7",
+    "id": "lore--folklore---history--ep-8",
     "show_name": "Lore",
     "episode_title": "Legends 86: Litmus Test",
     "pub_date": "Mon, 17 Aug 2026 05:01:00 +0000",
@@ -693,7 +702,7 @@
     "description": "Folklore has had many uses over the centuries. But while some has been used to educate or entertain, one pocket of legends has become a dangerous tool for sorting the good from the bad. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed —————————..."
   },
   {
-    "id": "lore--folklore---history--ep-8",
+    "id": "lore--folklore---history--ep-9",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 312 (18, 113, & 122)",
     "pub_date": "Thu, 13 Aug 2026 05:01:00 +0000",
@@ -702,22 +711,13 @@
     "description": "Go deeper into the subject matter of our most recent episode (312: Episode To Serve Man) with these three recommendations from further back in the Lore catalog:  Episode 18: LorePodcast.com/episodes/18 Episode 113: LorePodcast.com/episodes/113 Episode 122: LorePodcast.com/episodes/122  ———————— Lore Resources:   Episode Music: lorepodcast.com/mu..."
   },
   {
-    "id": "lore--folklore---history--ep-9",
+    "id": "lore--folklore---history--ep-10",
     "show_name": "Lore",
     "episode_title": "Lore 312: To Serve Man",
     "pub_date": "Mon, 10 Aug 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore312d.mp3?dest-id=259905",
     "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
     "description": "A lot of folklore is frightening, but some of it is definitely hard to swallow. Let's sink our teeth into some terrifying tales from history today. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— ..."
-  },
-  {
-    "id": "lore--folklore---history--ep-10",
-    "show_name": "Lore",
-    "episode_title": "Legends 85: Down Under",
-    "pub_date": "Mon, 03 Aug 2026 05:01:00 +0000",
-    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-85d.mp3?dest-id=259905",
-    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
-    "description": "The huge number of dangerous creatures in Australia is terrifying, for sure. But if the legends are true, there's a lot more to be afraid of than spiders and birds. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   ..."
   },
   {
     "id": "dan-carlin-s-hardcore-history-ep-1",
@@ -875,6 +875,15 @@
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
     "show_name": "How I Built This with Guy Raz",
+    "episode_title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
+    "pub_date": "Mon, 21 Sep 2026 07:10:00 -0000",
+    "stream_url": "https://rss.art19.com/episodes/a3b69561-45f1-429c-81e1-ff56d1a5f3b8.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+    "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
+    "description": "Brian Rudolph started making chickpea pasta in his Detroit apartment because wheat made him feel sick. A decade later, Banza was in more than 25,000 stores, and today, it’s one of the most popular pasta brands in the country. Success was not automatic: The business barely got off the ground because the cooked pasta was turning to mush—and as Ban..."
+  },
+  {
+    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Michelle Wahler of Beyond Yoga",
     "pub_date": "Thu, 17 Sep 2026 07:10:00 -0000",
     "stream_url": "https://rss.art19.com/episodes/c2626aae-0d71-4025-842f-3b854ccc3ca6.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
@@ -882,7 +891,7 @@
     "description": "Today's callers: Carrie from Paris wants to turn interest into bookings for her boutique study-abroad programs for adults. Then, Grace from Nashville considers how to re-build relationships with interior designers she may have let down early on in her furniture upholstery business. And Angel from Indiana explores how to translate the emotional a..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Thrive Causemetics: Karissa Bodnar. How a Beauty Business Made Millions for a Mission",
     "pub_date": "Mon, 14 Sep 2026 07:10:00 -0000",
@@ -891,7 +900,7 @@
     "description": "Karissa Bodnar had a dream job at L'Oréal when a close friend died from cancer at age 24. It shook her up and made her reassess what she really wanted to do with her life. The answer? Build her own beauty business with a mission of “giving back.”The problem? Nobody seemed to want to carry her products. She pitched Sephora, Nordstrom, Ulta, and o..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Kip Tindell of The Container Store",
     "pub_date": "Thu, 10 Sep 2026 07:10:00 -0000",
@@ -900,7 +909,7 @@
     "description": "Today’s callers: Juliette in France wonders how to raise awareness of her “magical” cooling device—without a costly ad campaign. Then David in North Carolina looks to grow the wholesale channel of his engraved gifts business in light of thinning retail margins. And Kaitlin in California wants to leverage the virality of her supportive, bordered ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned",
     "pub_date": "Mon, 07 Sep 2026 07:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Kim’s inspiration to launch a business came from an unlikely source: Her son’s Crocs. She thought the durable, washable material would make a great beach bag. So she designed one. But after investing her savings—inlcuding some of her kids’ college fund—Kim was crushed when her first major shipment of Bogg bags was defective. It knocked her so of..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Ben Goodwin of Olipop",
     "pub_date": "Thu, 03 Sep 2026 07:10:00 -0000",
@@ -918,7 +927,7 @@
     "description": "Today’s callers: Darin from North Carolina seeks guidance on consumer education as his ghee-based snack brand grows into major retailers. Then Sarah from Massachusetts explores scaling pathways for her ‘never-frozen’ gluten-free baked goods. And John from Ohio considers whether online sales can turn around his local food co-op. Plus, Ben comment..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them",
     "pub_date": "Mon, 31 Aug 2026 07:10:00 -0000",
@@ -927,7 +936,7 @@
     "description": "Nicole Bernard Dawes spent much of her childhood hanging out in her dad’s potato chip factory on Cape Cod. She liked his kettle-cooked chips a lot more than the flavorless snacks in her mom’s health food store. But when she started her own business, she wanted the best of both worlds: a snack made with natural, organic ingredients…that still tas..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Daymond John of FUBU",
     "pub_date": "Thu, 27 Aug 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "Today’s callers: Cristopher from Chicago wants to expand his family’s salsa brand from farmers markets into retail. Next, Darcy in Australia considers adapting his protein bar brand’s messaging to reach beyond his core enthusiasts. Finally, Seema in Canada seeks strategies to increase B2B sales for her ethical kitchen linen company. Plus, Daymon..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "YETI: Roy and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand",
     "pub_date": "Mon, 24 Aug 2026 07:10:00 -0000",
@@ -945,22 +954,13 @@
     "description": "Roy and Ryan were avid outdoorsmen who wanted a cooler that wouldn’t break. So they built one themselves.The result was YETI: a high-end cooler that early retailers thought nobody would buy. But serious outdoorsmen did—and eventually YETI escaped its niche, becoming a status symbol at tailgates, beaches, and soccer fields.In this episode, Roy an..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Carlton Calvin of Razor",
     "pub_date": "Thu, 20 Aug 2026 07:10:00 -0000",
     "stream_url": "https://rss.art19.com/episodes/c0de1a84-3d35-45f3-921c-6144693ad86e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
     "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
     "description": "Today’s callers: Shawn from Saskatchewan weighs whether brand-building or licensing is best for his card-based party game. Then Shirin in Texas wants to differentiate her graphic stationery in a crowded Etsy marketplace. And Mark from New Jersey works through refocusing his line of craft spirits. Plus, Carlton’s recent efforts to pass on his tre..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants",
-    "pub_date": "Mon, 17 Aug 2026 07:10:00 -0000",
-    "stream_url": "https://rss.art19.com/episodes/4488842b-74d3-40ed-8776-5831c5934e69.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-    "logo_url": "https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg",
-    "description": "Laura Modi set out to build a better infant formula. What followed was years of setbacks: a crippling dispute with the FDA, a frustrating search for a manufacturer, and the constant fear that the company would run out of money before it reached customers.But today, Bobbie generates over $100 million a year and has captured nearly 4% of the U.S. ..."
   },
   {
     "id": "ted-radio-hour-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "How a 1,000-Year-Old Tapestry Took London by Storm",
+    "pub_date": "Sun, 20 Sep 2026 10:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3630799e-d379-48d1-b0d4-26203d5e4b2b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3630799e-d379-48d1-b0d4-26203d5e4b2b&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "For the first time in centuries, the Bayeux Tapestry — a nearly 1,000-year-old piece of embroidery that depicts the invasion of England by William the Conqueror in 1066 — is on display in Britain.It was long said by art experts to be too fragile to move. But in a development that required geopolitical persuasion, this summer the tapestry made it..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Aaron Sorkin Goes Off Script",
     "pub_date": "Sat, 19 Sep 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c7cf5b73-080f-4159-a6c9-e0bcfa4c5a38/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c7cf5b73-080f-4159-a6c9-e0bcfa4c5a38&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "The Oscar-winning writer returns to Facebook with “The Social Reckoning”— and surprises us with the revelation of why he is so drawn to uplift and romance. Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on toda..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "The Techno-Religion at the Center of the A.I. Debate",
     "pub_date": "Fri, 18 Sep 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "Last week, a group of tech leaders called for putting guardrails on artificial intelligence. This week, these calls have been met by backlash from tech executives, lawmakers and President Trump, who liken those ringing the alarm to a doomsday cult.Cade Metz, a technology reporter for The New York Times, explains where this criticism comes from a..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Why Gas Prices Just Keep Going Up",
     "pub_date": "Thu, 17 Sep 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "About a month into the war with Iran, we spoke with Cameron Joudi, who owns a gas station in Florida, about how the conflict was reaching him at home. He recently reached out after seeing a 20-cent spike in gas prices in the span of just 24 hours.Vivian Nereim, the Gulf bureau chief for The New York Times, tries to answer Mr. Joudi’s question: W..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "48 Days Until the Midterms: Is a Blue Wave Coming?",
     "pub_date": "Wed, 16 Sep 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "As the general midterm elections begin, we take a look at where things stand. A new Times/Siena poll suggests that Democrats have a real shot at winning control of both chambers of Congress. But serious obstacles stand in their way, including a financial disadvantage.The New York Times journalists Shane Goldmacher, Maggie Haberman and Nate Cohn ..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Bond Market Is Flipping Out. Here’s Why You Should Care.",
     "pub_date": "Tue, 15 Sep 2026 09:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "For the past few months, you’ve probably been hearing about the turbulence in the bond market.Today, Ben Casselman, the chief economics correspondent for The New York Times, explains what has been happening, and why it matters.Guest: Ben Casselman, the chief economics correspondent for The New York Times.Background reading: How to make sense of ..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The A.I. Researcher Whose Rebellion Is Changing Everything",
     "pub_date": "Mon, 14 Sep 2026 09:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "In recent days, Jacob Coxon, a researcher at the artificial intelligence company Anthropic, quit his job and posted warnings about the risks of the technology. That kicked off a crisis that culminated in a call by prominent leaders of the industry to slow down A.I. development.He spoke to “The Daily” about this moment.Guest: Jacob Coxon, a forme..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "The Good, the Bad and the Good-Bad (Movie)",
     "pub_date": "Sun, 13 Sep 2026 10:00:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "When it comes to movies we love, there are the artistic masterpieces and there are the foot-stomping crowd pleasers. But there’s another particular kind of beloved movie, the one that makes our friends groan, but that we rewatch incessantly; the one that we can quote line for line, even as we giggle at the actors’ performances; the one that we’d..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Naomi Klein and Astra Taylor Say the End of the World is Now on the Table",
     "pub_date": "Sat, 12 Sep 2026 10:00:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "In a new book, the writers argue that a powerful coalition of “end times fascists” is just fine with the earth’s demise.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/theda..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "The Lives That 9/11 Keeps Taking",
     "pub_date": "Fri, 11 Sep 2026 09:46:28 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d141389d-26e3-4156-9766-89801074112a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d141389d-26e3-4156-9766-89801074112a&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "In New York City this morning, the families of those killed at the World Trade Center on Sept. 11, 2001, will gather for the 25th time to honor the dead one by one.Among those at ground zero will be an array of city officials who assured the public that it was safe to return to Lower Manhattan just weeks after the attacks.Today, Sally Goldenberg..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "A Couple Breaks Up. Who Gets Custody of Their Embryos?",
-    "pub_date": "Thu, 10 Sep 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5db6786d-7dea-4cbb-8cf7-96318a8be688/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5db6786d-7dea-4cbb-8cf7-96318a8be688&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "As more people in the United States use I.V.F. to have children, embryos are being stored in fertility clinics across the country. It raises the question: What should happen to those embryos if a couple breaks up?Caroline Kitchener, who covers families for The New York Times, tells the story of Erin Millender, who took a custody battle over froz..."
   }
 ]
