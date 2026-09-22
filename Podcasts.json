@@ -182,6 +182,15 @@
   {
     "id": "astronomy-cast--libsyn--ep-1",
     "show_name": "Astronomy Cast",
+    "episode_title": "Ep. 801: The Beginning & End of Everything - Part 2",
+    "pub_date": "Mon, 21 Sep 2026 20:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260921.mp3?dest-id=11189",
+    "logo_url": "https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg",
+    "description": "Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/AstronomyCast Today we do the sequel to our 2-part series. We jump to the end of the Universe, and all the major moments that will occur from now until the heat death of the Universe..."
+  },
+  {
+    "id": "astronomy-cast--libsyn--ep-2",
+    "show_name": "Astronomy Cast",
     "episode_title": "Astronomy Cast Can't Go On Like This",
     "pub_date": "Tue, 15 Sep 2026 00:38:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/ACPatreon.mp3?dest-id=11189",
@@ -189,7 +198,7 @@
     "description": "After 20 years, it's time to make some changes. With your patronage we can ditch the ads & turn up the science. Please join our Patreon community at patreon.astronomycast.com"
   },
   {
-    "id": "astronomy-cast--libsyn--ep-2",
+    "id": "astronomy-cast--libsyn--ep-3",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 800: The Beginning & End of Everything - Part 1",
     "pub_date": "Mon, 14 Sep 2026 19:00:00 +0000",
@@ -198,7 +207,7 @@
     "description": "Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/AstronomyCast To celebrate our 20th season, we thought we'd go back right to the beginning… of everything. Let's wind the clock back to the earliest moments of the Universe, where we..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-3",
+    "id": "astronomy-cast--libsyn--ep-4",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 799: Heavy Lift Rockets",
     "pub_date": "Mon, 29 Jun 2026 20:00:00 +0000",
@@ -207,7 +216,7 @@
     "description": "Astronomy Cast Ep. 799: Heavy Lift Rockets By Fraser Cain & Dr. Pamela Gay Streamed live June 22, 2026. The Saturn 5 was a monster, capable of sending humans and a lander to the Moon and bringing them back again. But the number of heavy lift rockets since then has gotten pretty sparse. Now, with tens if not hundreds of thousands of satellites in..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-4",
+    "id": "astronomy-cast--libsyn--ep-5",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 797: Summer in Space",
     "pub_date": "Mon, 15 Jun 2026 20:00:00 +0000",
@@ -216,7 +225,7 @@
     "description": "Astronomy Cast Ep. 797: Summer in Space By Fraser Cain & Dr. Pamela Gay Streamed live June 10, 2026. We're about to take a much needed 2 month hiatus. But just because we're not here doesn't mean space stops existing and doing things. Today, let's give a preview of the big events due to happen in space this summer so you can prepare yourself and..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-5",
+    "id": "astronomy-cast--libsyn--ep-6",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 796: Oceans & Organics on Mars",
     "pub_date": "Mon, 08 Jun 2026 20:00:00 +0000",
@@ -225,7 +234,7 @@
     "description": "Astronomy Cast Ep. 796: Oceans & Organics on Mars By Fraser Cain & Dr. Pamela Gay Streamed live on Jun 1, 2026. Mars is cold & dry today, but the evidence is growing that it used to be warmer & wetter. with seas & oceans that covered large parts of its surface. With the additional findings of the chemicals for life, the search for life on Mars i..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-6",
+    "id": "astronomy-cast--libsyn--ep-7",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 795: Expanse Science",
     "pub_date": "Mon, 01 Jun 2026 20:00:00 +0000",
@@ -234,7 +243,7 @@
     "description": "Astronomy Cast Ep. 795: Expanse Science By Fraser Cain & Dr. Pamela Gay Streamed live on May 10, 2026. This is the final episode of our series on sci-fi universes. And this week we will tackle \"The Expanse\". Now we've got fusion drives, Proto-matter, g-forces! Listen up, belta lawda! Let's look at the science of our own possible (with a side of ..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-7",
+    "id": "astronomy-cast--libsyn--ep-8",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 794: Stargate Science",
     "pub_date": "Mon, 18 May 2026 20:00:00 +0000",
@@ -243,7 +252,7 @@
     "description": "Astronomy Cast Ep. 794: Stargate Science By Fraser Cain & Dr. Pamela Gay Streamed live on May 10, 2026. We continue our ad-hoc miniseries through sci-fi franchises. This week we'll talk about Stargate, worm holes, mind parasites and self-replicating bots. There's a lot to talk about! This show is supported through people like you on Patreon.com/..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-8",
+    "id": "astronomy-cast--libsyn--ep-9",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 793: Star Trek Science",
     "pub_date": "Mon, 11 May 2026 20:00:00 +0000",
@@ -252,7 +261,7 @@
     "description": "Astronomy Cast Ep. 793: Star Trek Science By Fraser Cain & Dr. Pamela Gay Streamed live May 4, 2026. Today we continue our mini-series; evaluating the science of various sci-fi franchises. We did Star Wars last week, this week tackle Star Trek. From transporters to warp drives, from phasers to photon torpedos. Let's tackle what Star Trek gets ri..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-9",
+    "id": "astronomy-cast--libsyn--ep-10",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 792: Star Wars Science",
     "pub_date": "Mon, 04 May 2026 20:00:00 +0000",
@@ -261,16 +270,16 @@
     "description": "Astronomy Cast Ep. 792: Star Wars Science By Fraser Cain & Dr. Pamela Gay Streamed live April 29, 2026. May the fourth be with you! Isn't that what people say on the international holiday known as Star Wars Day? Today we're gonna talk about the science in everyone's favorite sci-fi fantasy stories. Which of it is real, and which is essentially m..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-10",
-    "show_name": "Astronomy Cast",
-    "episode_title": "Ep. 775: The Hydrogen 21-cm Line",
-    "pub_date": "Mon, 22 Dec 2025 21:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20251222.mp3?dest-id=11189",
-    "logo_url": "https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg",
-    "description": "Astronomy Cast Ep. 775: The Hydrogen 21-cm Line By Fraser Cain & Dr. Pamela Gay Streamed live on Dec 15, 2025. Atomic hydrogen is the raw material for stars, but there's a problem. It's cold & dark, but it can do a very rare trick, releasing a photon in a very specific wavelength, known as the 21 centimeter line. And thanks to this wavelength as..."
+    "id": "npr-short-wave--science--ep-1",
+    "show_name": "Short Wave",
+    "episode_title": "The science of self-worth (and how to boost yours)",
+    "pub_date": "Tue, 22 Sep 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b86ef78d-e61d-4d89-822d-f0b1147d9341/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b86ef78d-e61d-4d89-822d-f0b1147d9341&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968850&p=510351&d=765&size=12244576",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Your self-worth today can be affected by your memories. But you have power over those memories – when you re-experience them. By doing that, you can reshape your self-esteem for the better and change your perspective. That idea and the broader science of self-worth are at the heart of Marisa Franco’s new book Worth. It’s so intriguing to us, we ..."
   },
   {
-    "id": "npr-short-wave--science--ep-1",
+    "id": "npr-short-wave--science--ep-2",
     "show_name": "Short Wave",
     "episode_title": "Why we should all be 'bookmaxxing'",
     "pub_date": "Sat, 19 Sep 2026 00:01:05 +0000",
@@ -279,7 +288,7 @@
     "description": "Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most accessible activities for actually supporting cognitive performance, brain health, mental health, but also overall wellbeing throughout our lives,” said Chri..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "The latest on AI panic — and whether it's justified",
     "pub_date": "Fri, 18 Sep 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "AI is in the news again – for its potential to end civilization. A researcher at Anthropic resigned very publicly last week, citing concerns about the accelerating capabilities of AI and what he called “irresponsible” behavior from major AI companies Anthropic and OpenAI. Following his resignation, the leaders of both companies called for an int..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "When batteries get a facelift, so does renewable energy",
     "pub_date": "Wed, 16 Sep 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "For years, renewable energy companies have faced a problem: How to store the mass amounts of energy they produce for later use. Batteries may be just the solution. In California, there's now enough grid-scale battery storage to power millions of homes for a few hours. Battery power is often the second largest source of energy on a given day in t..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "Why you'll probably be misdiagnosed in your lifetime",
     "pub_date": "Tue, 15 Sep 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by the National Academies of Sciences, Engineering and Medicine from 2015 on diagnostic error. Today on the show we talk to a physician who was person..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Should race affect BMI guidelines? Doctors are split",
     "pub_date": "Mon, 14 Sep 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it, groups of people have fallen through the cracks and conditions have been caught late. So, some doctors want to add nuance – to consider race when usi..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "How scientists discovered that animals are doctors, too",
     "pub_date": "Fri, 11 Sep 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "When people are sick, we seek out medications and treatments to help heal. For a long time, scientists thought that was a uniquely human ability. But it turns out, many other animals do a version of it too! And since the late 1980s, western researchers have been trying to get a peek behind the curtain. And aside from just cataloguing all the coo..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Lindsay Clancy and postpartum psychosis",
     "pub_date": "Wed, 09 Sep 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "The trial around Lindsay Clancy may be over for now, but it still leaves us with questions. On today’s episode, we talk to psychiatrists and patients to answer them: What is postpartum psychosis, exactly? Why don’t we know more about it? And what can you do if you are worried about a postpartum loved one?Interested in more stories on mental heal..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "How hurricanes triggered lizard evolution",
     "pub_date": "Tue, 08 Sep 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Hurricane season is upon us and it turns out that these powerful storms can quickly affect the biology of animals. After hurricanes Irma and Maria hit the islands that make up Turks and Caicos about a decade ago, the silver key anole adapted. They now have a shorter fourth toe on their hind legs! That could help them cling to objects better. But..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "When is your brain actually 'adult'?",
     "pub_date": "Mon, 07 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b2d9238c-b8c8-4d15-accd-23b8759d0aee/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b2d9238c-b8c8-4d15-accd-23b8759d0aee&feed=F0qJcgXZ&t=podcast&e=nx-s1-5959775&p=510351&d=834&size=13351332",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "Summer is winding down and school is back. And all of that has us thinking about this idea that something happens in the human brain when we turn 25. Suddenly, we can rent a car without fees. Make rational decisions. We may even regret some of our past… indiscretions. All because we’re developed…right? Well, a paper in the journal Nature suggest..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "A new investigation shows heat is even deadlier than we thought",
-    "pub_date": "Fri, 04 Sep 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a8866710-9516-4062-bd0e-f02b001aa88a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a8866710-9516-4062-bd0e-f02b001aa88a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5945241&p=510351&d=885&size=14169278",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Hot weather isn’t just an inconvenience. It’s killing thousands more Americans than show up in official records. That’s the finding from a new NPR investigation, in partnership with Boston University. And the way they came up with that new, better estimate of the true toll of heat is, of course, with science. This episode, we’ll bring you all th..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -551,6 +551,15 @@
   {
     "id": "bbc-in-our-time-ep-2",
     "show_name": "In Our Time",
+    "episode_title": "Archive: Plato's Republic",
+    "pub_date": "Thu, 10 Sep 2026 08:45:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbrk74.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
+    "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His sixth choice is Plato's Republic, an episode first released in June 2017. Is it always better to be just than unjust? That is the central question of Plato's Republic, written in c380BC. Plato applied this question both to the individual and th..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-3",
+    "show_name": "In Our Time",
     "episode_title": "In Our Time Returns for a New Series",
     "pub_date": "Mon, 07 Sep 2026 09:15:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p8cggx.mp3",
@@ -558,7 +567,7 @@
     "description": "In Our Time returns for a new series with host Misha Glenny.A world class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. \n \nOn Thursdays, hear brand-new episodes with Misha Glenny and leading academics. On Monday..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "Archive: Empress Dowager Cixi",
     "pub_date": "Thu, 03 Sep 2026 08:45:00 +0000",
@@ -567,7 +576,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fifth choice, first released in May 2024, is the Empress Dowager Cixi, the woman who, for almost fifty years, was the most powerful figure in the Chinese court. Cixi (1835-1908) started out at court as one of the Emperor's many concubines, yet ..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "Archive: Plate Tectonics",
     "pub_date": "Thu, 27 Aug 2026 08:45:00 +0000",
@@ -576,7 +585,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fourth choice, first released in January 2008, explores how the science of plate tectonics revolutionised our understanding of the planet on which we live. America is getting further away from Europe. This is not a political statement but a geo..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "Archive: Hatshepsut",
     "pub_date": "Thu, 20 Aug 2026 08:45:00 +0000",
@@ -585,7 +594,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His third choice, first released in November 2014, is the Egyptian pharaoh Hatshepsut, whose name means 'foremost of noble ladies'. She ruled Egypt from about 1479 - 1458 BC and some scholars argue that she was one of the most successful and influe..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "Archive: Coffee",
     "pub_date": "Thu, 13 Aug 2026 08:45:00 +0000",
@@ -594,7 +603,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His second choice, first released in December 2019, is the history and social impact of coffee. From its origins in Ethiopia, coffea arabica spread through the Ottoman Empire before reaching Western Europe where, in the 17th century, coffee houses ..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "Pockets (from Here For The History)",
     "pub_date": "Fri, 07 Aug 2026 05:00:00 +0000",
@@ -603,7 +612,7 @@
     "description": "To the frustration of many, a lot of women’s clothes don’t have pockets. But why on Earth is that the case? Especially when men’s clothing seems to be full of pockets.On Here For The History, Alice Loxton and Ben Henderson track the tumultuous and muddy history of women’s pockets. From capacious beginnings, through many fashion changes, to suffr..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "Archive: Aphra Behn",
     "pub_date": "Thu, 06 Aug 2026 08:45:00 +0000",
@@ -612,22 +621,13 @@
     "description": "Widely regarded as the first professional woman writer in English literature, Aphra Behn (1640-1689) is best known for her plays and her novel Oroonoko, she's been an inspiration to countless writers across the ages.This archive episode, first released in October 2017, was selected as part of a ten-episode series by Misha Glenny. In the episode,..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "Seashells",
     "pub_date": "Thu, 30 Jul 2026 08:02:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nw62hn.mp3",
     "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
     "description": "Misha Glenny and guests discuss a familiar feature of our beaches: seashells, from their astonishing shapes and patterns that teach us about Earth’s oceans, to the ways that humans have treasured shells throughout history. Seashells appear in the mythologies of countless cultures across the world - think of Botticelli’s Venus emerging from a gia..."
-  },
-  {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "Vigée Le Brun",
-    "pub_date": "Thu, 23 Jul 2026 09:15:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntls0h.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
-    "description": "Misha Glenny and guests discuss the French portrait painter Élisabeth Vigée Le Brun (1755 - 1842). From her teens she delighted her high society subjects in and around Paris, notably Marie Antoinette who she painted around 30 times, and she invariably found ways to show her sitters at their best.  Some critics were affronted that she, a young wo..."
   },
   {
     "id": "lore--folklore---history--ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The Trump Administration Defangs the Endangered Species Act",
+    "pub_date": "Mon, 21 Sep 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/265f73f4-9a55-4715-abe2-b563ef58f7c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=265f73f4-9a55-4715-abe2-b563ef58f7c6&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "In its second term, the Trump administration has increased its efforts to undo environmental regulations. Last week, it became clear that the Endangered Species Act, one of America’s bedrock environmental laws, would be losing some of its most important protections.Catrin Einhorn, who covers biodiversity, explains what is changing and what impac..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "How a 1,000-Year-Old Tapestry Took London by Storm",
     "pub_date": "Sun, 20 Sep 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3630799e-d379-48d1-b0d4-26203d5e4b2b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3630799e-d379-48d1-b0d4-26203d5e4b2b&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "For the first time in centuries, the Bayeux Tapestry — a nearly 1,000-year-old piece of embroidery that depicts the invasion of England by William the Conqueror in 1066 — is on display in Britain.It was long said by art experts to be too fragile to move. But in a development that required geopolitical persuasion, this summer the tapestry made it..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Aaron Sorkin Goes Off Script",
     "pub_date": "Sat, 19 Sep 2026 10:00:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "The Oscar-winning writer returns to Facebook with “The Social Reckoning”— and surprises us with the revelation of why he is so drawn to uplift and romance. Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on toda..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The Techno-Religion at the Center of the A.I. Debate",
     "pub_date": "Fri, 18 Sep 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "Last week, a group of tech leaders called for putting guardrails on artificial intelligence. This week, these calls have been met by backlash from tech executives, lawmakers and President Trump, who liken those ringing the alarm to a doomsday cult.Cade Metz, a technology reporter for The New York Times, explains where this criticism comes from a..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Why Gas Prices Just Keep Going Up",
     "pub_date": "Thu, 17 Sep 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "About a month into the war with Iran, we spoke with Cameron Joudi, who owns a gas station in Florida, about how the conflict was reaching him at home. He recently reached out after seeing a 20-cent spike in gas prices in the span of just 24 hours.Vivian Nereim, the Gulf bureau chief for The New York Times, tries to answer Mr. Joudi’s question: W..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "48 Days Until the Midterms: Is a Blue Wave Coming?",
     "pub_date": "Wed, 16 Sep 2026 09:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "As the general midterm elections begin, we take a look at where things stand. A new Times/Siena poll suggests that Democrats have a real shot at winning control of both chambers of Congress. But serious obstacles stand in their way, including a financial disadvantage.The New York Times journalists Shane Goldmacher, Maggie Haberman and Nate Cohn ..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The Bond Market Is Flipping Out. Here’s Why You Should Care.",
     "pub_date": "Tue, 15 Sep 2026 09:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "For the past few months, you’ve probably been hearing about the turbulence in the bond market.Today, Ben Casselman, the chief economics correspondent for The New York Times, explains what has been happening, and why it matters.Guest: Ben Casselman, the chief economics correspondent for The New York Times.Background reading: How to make sense of ..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "The A.I. Researcher Whose Rebellion Is Changing Everything",
     "pub_date": "Mon, 14 Sep 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "In recent days, Jacob Coxon, a researcher at the artificial intelligence company Anthropic, quit his job and posted warnings about the risks of the technology. That kicked off a crisis that culminated in a call by prominent leaders of the industry to slow down A.I. development.He spoke to “The Daily” about this moment.Guest: Jacob Coxon, a forme..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The Good, the Bad and the Good-Bad (Movie)",
     "pub_date": "Sun, 13 Sep 2026 10:00:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "When it comes to movies we love, there are the artistic masterpieces and there are the foot-stomping crowd pleasers. But there’s another particular kind of beloved movie, the one that makes our friends groan, but that we rewatch incessantly; the one that we can quote line for line, even as we giggle at the actors’ performances; the one that we’d..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Naomi Klein and Astra Taylor Say the End of the World is Now on the Table",
     "pub_date": "Sat, 12 Sep 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b6e07a69-6816-4433-9cc2-bca479fe6acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b6e07a69-6816-4433-9cc2-bca479fe6acd&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "In a new book, the writers argue that a powerful coalition of “end times fascists” is just fine with the earth’s demise.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/theda..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "The Lives That 9/11 Keeps Taking",
-    "pub_date": "Fri, 11 Sep 2026 09:46:28 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d141389d-26e3-4156-9766-89801074112a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d141389d-26e3-4156-9766-89801074112a&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "In New York City this morning, the families of those killed at the World Trade Center on Sept. 11, 2001, will gather for the 25th time to honor the dead one by one.Among those at ground zero will be an array of city officials who assured the public that it was safe to return to Lower Manhattan just weeks after the attacks.Today, Sally Goldenberg..."
   }
 ]
