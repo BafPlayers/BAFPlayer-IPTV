@@ -2,6 +2,15 @@
   {
     "id": "nasa-s-curious-universe-ep-1",
     "show_name": "NASA's Curious Universe",
+    "episode_title": "Encore: Welcome to the Dark Side",
+    "pub_date": "Tue, 22 Sep 2026 13:03:00 -0000",
+    "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8321387416.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Normal matter—the kind that makes up our home planet and everything we can see—adds up to just five percent of the known universe. The other 95 percent is dark matter and dark energy. NASA’s Nancy Grace Roman Space Telescope will settle essential questions about this dark side, especially dark energy, one of the biggest mysteries in all of scien..."
+  },
+  {
+    "id": "nasa-s-curious-universe-ep-2",
+    "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: Liftoff!",
     "pub_date": "Sat, 05 Sep 2026 12:36:00 -0000",
     "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8243891295.mp3",
@@ -9,7 +18,7 @@
     "description": "NASA’s Nancy Grace Roman Space Telescope is in space, taking its first steps to explore the cosmos. Relive Roman’s launch—and the emotion that goes along with the roar of a rocket—with NASA experts who worked on the telescope for years. Plus, learn what happens next and when to expect Roman’s first images.   \n\nLearn more about the Nancy Grace Ro..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-2",
+    "id": "nasa-s-curious-universe-ep-3",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: Why NASA’s Roman Space Telescope Will Make Unexpected Discoveries",
     "pub_date": "Thu, 27 Aug 2026 12:59:00 -0000",
@@ -18,7 +27,7 @@
     "description": "Take a deep dive into the science of NASA’s Nancy Grace Roman Space Telescope with Julie McEnery, Roman's senior project scientist. Learn why Roman’s survey data will be so detailed that they could cover a 4K screen the size of dozens of city blocks and why Julie says she doesn’t hope Roman changes our understanding of the universe—she knows it ..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-3",
+    "id": "nasa-s-curious-universe-ep-4",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: The Technology Inside NASA’s Newest Space Telescope",
     "pub_date": "Tue, 25 Aug 2026 12:59:00 -0000",
@@ -27,7 +36,7 @@
     "description": "What makes NASA’s Nancy Grace Roman Space Telescope a powerful tool with an unprecedented wide view of the cosmos? NASA engineers who designed, built, and tested Roman pop the hood to explain the unique technology inside. Go inside the huge NASA clean room where Roman was built, and get an up-close look at the testing campaign that ensures Roman..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-4",
+    "id": "nasa-s-curious-universe-ep-5",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: Jupiters Around Other Suns",
     "pub_date": "Tue, 18 Aug 2026 13:33:00 -0000",
@@ -36,7 +45,7 @@
     "description": "NASA’s Nancy Grace Roman Space Telescope is on a quest to discover planets outside our solar system. NASA scientists Bertrand Mennesson and Vanessa Bailey explain how Roman’s wide view will spot as many as 100,000 new exoplanets in a galactic census that will change how we understand planetary system formation. And we’ll learn about an experimen..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-5",
+    "id": "nasa-s-curious-universe-ep-6",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: NASA’s New View of the Dark Universe",
     "pub_date": "Tue, 11 Aug 2026 13:08:00 -0000",
@@ -45,7 +54,7 @@
     "description": "Meet NASA’s newest space telescope: Roman. With similar resolution to Hubble but a field of view 100 times larger, the Nancy Grace Roman Space Telescope will settle essential questions in astronomy. NASA scientists Josh Schlieder and Alina Kiessling explain how that wide view will help us understand dark energy, one of the most puzzling mysterie..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-6",
+    "id": "nasa-s-curious-universe-ep-7",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Launching Soon: NASA’s Roman Space Telescope",
     "pub_date": "Tue, 04 Aug 2026 13:25:00 -0000",
@@ -54,7 +63,7 @@
     "description": "NASA is about to launch the Nancy Grace Roman Space Telescope, which will change the way we see the universe and settle essential questions about some of the biggest mysteries out there. In a new limited series, Curious Universe takes you behind the scenes with NASA scientists and engineers who made Roman a reality—no Ph.D. required. \n\nLearn mor..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-7",
+    "id": "nasa-s-curious-universe-ep-8",
     "show_name": "NASA's Curious Universe",
     "episode_title": "There’s More Space in Your Life Than You Think ",
     "pub_date": "Tue, 21 Jul 2026 13:00:00 -0000",
@@ -63,7 +72,7 @@
     "description": "In its mission to explore the unknown in air and space, NASA ends up inventing a lot of new things. Then, the agency “spins off” those inventions to companies that produce products to make our lives easier and safer here on Earth. From memory foam mattresses and cordless power tools to wireless headphones and dating apps, NASA Technology is all ..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-8",
+    "id": "nasa-s-curious-universe-ep-9",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Meet the Artemis III Crew",
     "pub_date": "Fri, 12 Jun 2026 14:00:00 -0000",
@@ -72,22 +81,13 @@
     "description": "Meet the astronauts who will fly on Artemis III: Commander Randy Bresnik, Pilot Luca Parmitano, and Mission Specialists Frank Rubio and Andre Douglas. In this special presentation of Houston We Have a Podcast, the Artemis III astronauts discuss their backgrounds and training ahead of them to prepare for one of the most complex human spaceflight ..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-9",
+    "id": "nasa-s-curious-universe-ep-10",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Catching Up With Perseverance on Mars",
     "pub_date": "Tue, 02 Jun 2026 13:10:00 -0000",
     "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7307102032.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "NASA’s robotic explorers are looking for signs of ancient life on Mars. In its five years and counting on the surface of the Red Planet, the Perseverance rover has collected dozens of rock samples, including tantalizing features that could be signs of past life. Scientists want to keep studying Mars. That’s why NASA plans to send a fleet of next..."
-  },
-  {
-    "id": "nasa-s-curious-universe-ep-10",
-    "show_name": "NASA's Curious Universe",
-    "episode_title": "Bonus: Behind the Scenes of Artemis II with NASA Experts",
-    "pub_date": "Sat, 02 May 2026 13:23:00 -0000",
-    "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5165690257.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "In this bonus episode, go behind the scenes of key moments from Artemis II with NASA experts who made them possible. Engineers who launched the rocket describe the hours-long process that led to a successful liftoff. The leader of the closeout crew recalls his sendoff message as the astronauts were sealed inside their spacecraft. And the Artemis..."
   },
   {
     "id": "science-vs--gimlet--ep-1",
@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "Vaccinated or not, we’re on the brink of a measles epidemic",
+    "pub_date": "Wed, 23 Sep 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/042f306b-3241-4610-838c-bfa3ce7a1b55/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=042f306b-3241-4610-838c-bfa3ce7a1b55&feed=F0qJcgXZ&t=podcast&e=nx-s1-5974052&p=510351&d=858&size=13743377",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Measles is making a comeback. Ongoing outbreaks in Pennsylvania, South Carolina, Texas, and Utah have documented hundreds of cases, mostly among unvaccinated people. And while local and federal politicians debate the definitions and impact of those measles-associated deaths, health experts worry that we’re overlooking the real problem: the threa..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "The science of self-worth (and how to boost yours)",
     "pub_date": "Tue, 22 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b86ef78d-e61d-4d89-822d-f0b1147d9341/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b86ef78d-e61d-4d89-822d-f0b1147d9341&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968850&p=510351&d=765&size=12244576",
@@ -279,7 +288,7 @@
     "description": "Your self-worth today can be affected by your memories. But you have power over those memories – when you re-experience them. By doing that, you can reshape your self-esteem for the better and change your perspective. That idea and the broader science of self-worth are at the heart of Marisa Franco’s new book Worth. It’s so intriguing to us, we ..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "Why we should all be 'bookmaxxing'",
     "pub_date": "Sat, 19 Sep 2026 00:01:05 +0000",
@@ -288,7 +297,7 @@
     "description": "Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most accessible activities for actually supporting cognitive performance, brain health, mental health, but also overall wellbeing throughout our lives,” said Chri..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "The latest on AI panic — and whether it's justified",
     "pub_date": "Fri, 18 Sep 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "AI is in the news again – for its potential to end civilization. A researcher at Anthropic resigned very publicly last week, citing concerns about the accelerating capabilities of AI and what he called “irresponsible” behavior from major AI companies Anthropic and OpenAI. Following his resignation, the leaders of both companies called for an int..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "When batteries get a facelift, so does renewable energy",
     "pub_date": "Wed, 16 Sep 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "For years, renewable energy companies have faced a problem: How to store the mass amounts of energy they produce for later use. Batteries may be just the solution. In California, there's now enough grid-scale battery storage to power millions of homes for a few hours. Battery power is often the second largest source of energy on a given day in t..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Why you'll probably be misdiagnosed in your lifetime",
     "pub_date": "Tue, 15 Sep 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by the National Academies of Sciences, Engineering and Medicine from 2015 on diagnostic error. Today on the show we talk to a physician who was person..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Should race affect BMI guidelines? Doctors are split",
     "pub_date": "Mon, 14 Sep 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it, groups of people have fallen through the cracks and conditions have been caught late. So, some doctors want to add nuance – to consider race when usi..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "How scientists discovered that animals are doctors, too",
     "pub_date": "Fri, 11 Sep 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "When people are sick, we seek out medications and treatments to help heal. For a long time, scientists thought that was a uniquely human ability. But it turns out, many other animals do a version of it too! And since the late 1980s, western researchers have been trying to get a peek behind the curtain. And aside from just cataloguing all the coo..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "Lindsay Clancy and postpartum psychosis",
     "pub_date": "Wed, 09 Sep 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "The trial around Lindsay Clancy may be over for now, but it still leaves us with questions. On today’s episode, we talk to psychiatrists and patients to answer them: What is postpartum psychosis, exactly? Why don’t we know more about it? And what can you do if you are worried about a postpartum loved one?Interested in more stories on mental heal..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "How hurricanes triggered lizard evolution",
     "pub_date": "Tue, 08 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ed2ecd1b-9960-4d89-9021-24be6b383400/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ed2ecd1b-9960-4d89-9021-24be6b383400&feed=F0qJcgXZ&t=podcast&e=nx-s1-5948030&p=510351&d=688&size=11017449",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "Hurricane season is upon us and it turns out that these powerful storms can quickly affect the biology of animals. After hurricanes Irma and Maria hit the islands that make up Turks and Caicos about a decade ago, the silver key anole adapted. They now have a shorter fourth toe on their hind legs! That could help them cling to objects better. But..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "When is your brain actually 'adult'?",
-    "pub_date": "Mon, 07 Sep 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b2d9238c-b8c8-4d15-accd-23b8759d0aee/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b2d9238c-b8c8-4d15-accd-23b8759d0aee&feed=F0qJcgXZ&t=podcast&e=nx-s1-5959775&p=510351&d=834&size=13351332",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Summer is winding down and school is back. And all of that has us thinking about this idea that something happens in the human brain when we turn 25. Suddenly, we can rent a car without fees. Make rational decisions. We may even regret some of our past… indiscretions. All because we’re developed…right? Well, a paper in the journal Nature suggest..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "Is our national debt finally too much? (update)",
+    "pub_date": "Wed, 23 Sep 2026 07:00:00 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "(Note: A version of this episode originally ran in 2024.)$40,000,000,000,000. Four commas. Thirteen zeroes. It’s an eye-popping, almost infinite-sounding pile of money. And every time the debt passes a big round number, almost everyone asks the same question: How much debt is too much?It’s maybe the most important question in macroeconomics. It’..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "The Domino’s Pizza Tracker Theory of Everything",
     "pub_date": "Fri, 18 Sep 2026 20:00:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025",
@@ -792,7 +801,7 @@
     "description": "Did a pizza restaurant’s humble status page change how we wait forever? When you order a Lyft or Uber, you get texts every few minutes about your car approaching and arriving. When you have a package coming, you get a notification when it’s shipped, when it’s en route, and when it’s out for delivery. Why do so many companies send these constant ..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "How investing is getting riskier (Two Indicators)",
     "pub_date": "Wed, 16 Sep 2026 07:00:00 +0000",
@@ -801,7 +810,7 @@
     "description": "Margin borrowing and sports gambling “investments” are both on the rise! Today on the show, two stories from Planet Money’s daily podcast The Indicator about the ways investing is changing, and getting riskier.According to one study, more than half of Gen Zers are using investment dollars for sports gambling. On average, this is not a smart stra..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "The loan at the heart of a new foreclosure crisis",
     "pub_date": "Fri, 11 Sep 2026 21:00:00 +0000",
@@ -810,7 +819,7 @@
     "description": "There is a new type of loan that is sweeping through the country right now. It’s advertised as a super quick and super easy way to get a mortgage to buy a home. In recent years, Wall Street has been funneling billions of dollars into these loans. But these loans are also raising questions. Are they a financial innovation that’s helping the housi..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "Cost-cutting, quiet guilt and the inflation generation",
     "pub_date": "Wed, 09 Sep 2026 07:00:00 +0000",
@@ -819,7 +828,7 @@
     "description": "In this economy it is boom times and doom times all at once. The statistics aren’t really capturing it. K-shaped only goes so far as a metaphor. So … we asked you to help. And you delivered! One one hand, the stock market is on a prolonged, upward trajectory. Unemployment is low and inflation has come down from its peak. But on the other hand, i..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "Trump drinks Venezuela’s milkshake",
     "pub_date": "Sat, 05 Sep 2026 00:00:00 +0000",
@@ -828,7 +837,7 @@
     "description": "One week ago, President Trump announced a deal that would give the “U.S. control of more than 65 BILLION BARRELS of proven Oil Reserves in Venezuela, at no cost to the American Taxpayer.”The exact nature of this deal has been … obscure, to say the least. But today, we wanted to know, from someone who’s been through this before, what does this me..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "Love in the time of Palantir",
     "pub_date": "Wed, 02 Sep 2026 07:00:00 +0000",
@@ -837,7 +846,7 @@
     "description": "To a lot of people, Palantir is a mystery — what does the company know, what data do they have, and (if they have it) what do they do with it all? We dig into that mystery and take you to a singles event to see if Big Data is good for Big Dating.That event, deep in the heart of Manhattan, is called: “Singles Dating Matching Using Palantir Data.”..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
     "pub_date": "Sun, 30 Aug 2026 07:00:02 +0000",
@@ -846,7 +855,7 @@
     "description": "The brilliance of \"9 to 5\" is that it is catchy even though it’s also kinda depressing. You will be dancing along. You're enjoying it. And, then when you really listen to the lyrics, you're like, Wait, this is messed up. This is real. This is a problem we need to fix. Like, why does it have to be this way?That is the spirit of the song, why it b..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "Branded fruit: How produce got “Honeycrisp-ified\"",
     "pub_date": "Fri, 28 Aug 2026 19:19:07 +0000",
@@ -855,22 +864,13 @@
     "description": "The produce aisle is changing. You’ve noticed this, I’m sure. It is now full of superstar fruits and vegetables: The Honeycrisp apple, The Cotton Candy grape, The Cuties mandarin orange. They stand out. They cost more. They have branding and sometimes trademarks and patent-ish kinds of protections.And now – it’s happening in the tomato bin too! ..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "The continent nobody owns & everyone benefits from (Summer School)",
     "pub_date": "Wed, 26 Aug 2026 07:30:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "This episode is packed with your best economic ideas from around the world and a penguin interview. It all comes together in this final session of Summer School 2026.Pack your parka, we’re headed to Antarctica.First, we’ll travel back in time to the late 1970s when NPR was a scrappy young network, with a synth soundtrack, and tons of heart. Scie..."
-  },
-  {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Who decides what big box sells? Our GAME got us answers",
-    "pub_date": "Fri, 21 Aug 2026 21:17:27 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "There’s a room where the fates of retail products are decided. Will they make it onto the shelves of the big box stores? Usually the rest of us can’t get inside the room where decisions are made – until now! Today on the show, we pitch the Planet Money game, Sell Me a Sasquatch, to big box retailers. We go behind the scenes to learn about how pr..."
   },
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Trump Banned the Media. This Time, the Media Struck Back.",
+    "pub_date": "Tue, 22 Sep 2026 09:51:35 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/96b1cb24-7d63-422c-a2ee-86af17431537/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=96b1cb24-7d63-422c-a2ee-86af17431537&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "For every day of Donald J. Trump’s presidency, there has been a camera from a major television network pointed at him. But on Monday, that all changed.Zolan Kanno-Youngs and Michael M. Grynbaum discuss the face-off between the president and the press. Guest:Zolan Kanno-Youngs, a White House correspondent for The New York TimesMichael M. Grynbaum..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "The Trump Administration Defangs the Endangered Species Act",
     "pub_date": "Mon, 21 Sep 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/265f73f4-9a55-4715-abe2-b563ef58f7c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=265f73f4-9a55-4715-abe2-b563ef58f7c6&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "In its second term, the Trump administration has increased its efforts to undo environmental regulations. Last week, it became clear that the Endangered Species Act, one of America’s bedrock environmental laws, would be losing some of its most important protections.Catrin Einhorn, who covers biodiversity, explains what is changing and what impac..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "How a 1,000-Year-Old Tapestry Took London by Storm",
     "pub_date": "Sun, 20 Sep 2026 10:00:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "For the first time in centuries, the Bayeux Tapestry — a nearly 1,000-year-old piece of embroidery that depicts the invasion of England by William the Conqueror in 1066 — is on display in Britain.It was long said by art experts to be too fragile to move. But in a development that required geopolitical persuasion, this summer the tapestry made it..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Aaron Sorkin Goes Off Script",
     "pub_date": "Sat, 19 Sep 2026 10:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "The Oscar-winning writer returns to Facebook with “The Social Reckoning”— and surprises us with the revelation of why he is so drawn to uplift and romance. Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on toda..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The Techno-Religion at the Center of the A.I. Debate",
     "pub_date": "Fri, 18 Sep 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Last week, a group of tech leaders called for putting guardrails on artificial intelligence. This week, these calls have been met by backlash from tech executives, lawmakers and President Trump, who liken those ringing the alarm to a doomsday cult.Cade Metz, a technology reporter for The New York Times, explains where this criticism comes from a..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Why Gas Prices Just Keep Going Up",
     "pub_date": "Thu, 17 Sep 2026 09:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "About a month into the war with Iran, we spoke with Cameron Joudi, who owns a gas station in Florida, about how the conflict was reaching him at home. He recently reached out after seeing a 20-cent spike in gas prices in the span of just 24 hours.Vivian Nereim, the Gulf bureau chief for The New York Times, tries to answer Mr. Joudi’s question: W..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "48 Days Until the Midterms: Is a Blue Wave Coming?",
     "pub_date": "Wed, 16 Sep 2026 09:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "As the general midterm elections begin, we take a look at where things stand. A new Times/Siena poll suggests that Democrats have a real shot at winning control of both chambers of Congress. But serious obstacles stand in their way, including a financial disadvantage.The New York Times journalists Shane Goldmacher, Maggie Haberman and Nate Cohn ..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "The Bond Market Is Flipping Out. Here’s Why You Should Care.",
     "pub_date": "Tue, 15 Sep 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "For the past few months, you’ve probably been hearing about the turbulence in the bond market.Today, Ben Casselman, the chief economics correspondent for The New York Times, explains what has been happening, and why it matters.Guest: Ben Casselman, the chief economics correspondent for The New York Times.Background reading: How to make sense of ..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The A.I. Researcher Whose Rebellion Is Changing Everything",
     "pub_date": "Mon, 14 Sep 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "In recent days, Jacob Coxon, a researcher at the artificial intelligence company Anthropic, quit his job and posted warnings about the risks of the technology. That kicked off a crisis that culminated in a call by prominent leaders of the industry to slow down A.I. development.He spoke to “The Daily” about this moment.Guest: Jacob Coxon, a forme..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "The Good, the Bad and the Good-Bad (Movie)",
     "pub_date": "Sun, 13 Sep 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2c469a9-8914-4b2f-9419-f0dd02fd1ede/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2c469a9-8914-4b2f-9419-f0dd02fd1ede&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "When it comes to movies we love, there are the artistic masterpieces and there are the foot-stomping crowd pleasers. But there’s another particular kind of beloved movie, the one that makes our friends groan, but that we rewatch incessantly; the one that we can quote line for line, even as we giggle at the actors’ performances; the one that we’d..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Naomi Klein and Astra Taylor Say the End of the World is Now on the Table",
-    "pub_date": "Sat, 12 Sep 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b6e07a69-6816-4433-9cc2-bca479fe6acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b6e07a69-6816-4433-9cc2-bca479fe6acd&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "In a new book, the writers argue that a powerful coalition of “end times fascists” is just fine with the earth’s demise.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/theda..."
   }
 ]

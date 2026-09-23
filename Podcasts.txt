@@ -3,6 +3,12 @@
 SHOW: NASA's Curious Universe
 ========================================================================
 ----------------------------------------
+Episode Title: Encore: Welcome to the Dark Side
+Published Date: Tue, 22 Sep 2026 13:03:00 -0000
+Description: Normal matter—the kind that makes up our home planet and everything we can see—adds up to just five percent of the known universe. The other 95 percent is dark matter and dark energy. NASA’s Nancy Grace Roman Space Telescope will settle essential questions about this dark side, especially dark energy, one of the biggest mysteries in all of scien...
+Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8321387416.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Roman Series: Liftoff!
 Published Date: Sat, 05 Sep 2026 12:36:00 -0000
 Description: NASA’s Nancy Grace Roman Space Telescope is in space, taking its first steps to explore the cosmos. Relive Roman’s launch—and the emotion that goes along with the roar of a rocket—with NASA experts who worked on the telescope for years. Plus, learn what happens next and when to expect Roman’s first images.   
@@ -59,12 +65,6 @@ Episode Title: Catching Up With Perseverance on Mars
 Published Date: Tue, 02 Jun 2026 13:10:00 -0000
 Description: NASA’s robotic explorers are looking for signs of ancient life on Mars. In its five years and counting on the surface of the Red Planet, the Perseverance rover has collected dozens of rock samples, including tantalizing features that could be signs of past life. Scientists want to keep studying Mars. That’s why NASA plans to send a fleet of next...
 Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7307102032.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Bonus: Behind the Scenes of Artemis II with NASA Experts
-Published Date: Sat, 02 May 2026 13:23:00 -0000
-Description: In this bonus episode, go behind the scenes of key moments from Artemis II with NASA experts who made them possible. Engineers who launched the rocket describe the hours-long process that led to a successful liftoff. The leader of the closeout crew recalls his sendoff message as the astronauts were sealed inside their spacecraft. And the Artemis...
-Audio Stream URL: https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5165690257.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/482aace3b24102ac73fc6ccfd8a88999.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Vaccinated or not, we’re on the brink of a measles epidemic
+Published Date: Wed, 23 Sep 2026 07:00:00 +0000
+Description: Measles is making a comeback. Ongoing outbreaks in Pennsylvania, South Carolina, Texas, and Utah have documented hundreds of cases, mostly among unvaccinated people. And while local and federal politicians debate the definitions and impact of those measles-associated deaths, health experts worry that we’re overlooking the real problem: the threa...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/042f306b-3241-4610-838c-bfa3ce7a1b55/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=042f306b-3241-4610-838c-bfa3ce7a1b55&feed=F0qJcgXZ&t=podcast&e=nx-s1-5974052&p=510351&d=858&size=13743377
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The science of self-worth (and how to boost yours)
 Published Date: Tue, 22 Sep 2026 07:00:00 +0000
 Description: Your self-worth today can be affected by your memories. But you have power over those memories – when you re-experience them. By doing that, you can reshape your self-esteem for the better and change your perspective. That idea and the broader science of self-worth are at the heart of Marisa Franco’s new book Worth. It’s so intriguing to us, we ...
@@ -251,12 +257,6 @@ Episode Title: How hurricanes triggered lizard evolution
 Published Date: Tue, 08 Sep 2026 07:00:00 +0000
 Description: Hurricane season is upon us and it turns out that these powerful storms can quickly affect the biology of animals. After hurricanes Irma and Maria hit the islands that make up Turks and Caicos about a decade ago, the silver key anole adapted. They now have a shorter fourth toe on their hind legs! That could help them cling to objects better. But...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ed2ecd1b-9960-4d89-9021-24be6b383400/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ed2ecd1b-9960-4d89-9021-24be6b383400&feed=F0qJcgXZ&t=podcast&e=nx-s1-5948030&p=510351&d=688&size=11017449
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: When is your brain actually 'adult'?
-Published Date: Mon, 07 Sep 2026 07:00:00 +0000
-Description: Summer is winding down and school is back. And all of that has us thinking about this idea that something happens in the human brain when we turn 25. Suddenly, we can rent a car without fees. Make rational decisions. We may even regret some of our past… indiscretions. All because we’re developed…right? Well, a paper in the journal Nature suggest...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b2d9238c-b8c8-4d15-accd-23b8759d0aee/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b2d9238c-b8c8-4d15-accd-23b8759d0aee&feed=F0qJcgXZ&t=podcast&e=nx-s1-5959775&p=510351&d=834&size=13351332
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -567,6 +567,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Is our national debt finally too much? (update)
+Published Date: Wed, 23 Sep 2026 07:00:00 +0000
+Description: (Note: A version of this episode originally ran in 2024.)$40,000,000,000,000. Four commas. Thirteen zeroes. It’s an eye-popping, almost infinite-sounding pile of money. And every time the debt passes a big round number, almost everyone asks the same question: How much debt is too much?It’s maybe the most important question in macroeconomics. It’...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The Domino’s Pizza Tracker Theory of Everything
 Published Date: Fri, 18 Sep 2026 20:00:00 +0000
 Description: Did a pizza restaurant’s humble status page change how we wait forever? When you order a Lyft or Uber, you get texts every few minutes about your car approaching and arriving. When you have a package coming, you get a notification when it’s shipped, when it’s en route, and when it’s out for delivery. Why do so many companies send these constant ...
@@ -619,12 +625,6 @@ Episode Title: The continent nobody owns & everyone benefits from (Summer School
 Published Date: Wed, 26 Aug 2026 07:30:00 +0000
 Description: This episode is packed with your best economic ideas from around the world and a penguin interview. It all comes together in this final session of Summer School 2026.Pack your parka, we’re headed to Antarctica.First, we’ll travel back in time to the late 1970s when NPR was a scrappy young network, with a synth soundtrack, and tons of heart. Scie...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Who decides what big box sells? Our GAME got us answers
-Published Date: Fri, 21 Aug 2026 21:17:27 +0000
-Description: There’s a room where the fates of retail products are decided. Will they make it onto the shelves of the big box stores? Usually the rest of us can’t get inside the room where decisions are made – until now! Today on the show, we pitch the Planet Money game, Sell Me a Sasquatch, to big box retailers. We go behind the scenes to learn about how pr...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -923,6 +923,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Trump Banned the Media. This Time, the Media Struck Back.
+Published Date: Tue, 22 Sep 2026 09:51:35 +0000
+Description: For every day of Donald J. Trump’s presidency, there has been a camera from a major television network pointed at him. But on Monday, that all changed.Zolan Kanno-Youngs and Michael M. Grynbaum discuss the face-off between the president and the press. Guest:Zolan Kanno-Youngs, a White House correspondent for The New York TimesMichael M. Grynbaum...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/96b1cb24-7d63-422c-a2ee-86af17431537/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=96b1cb24-7d63-422c-a2ee-86af17431537&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The Trump Administration Defangs the Endangered Species Act
 Published Date: Mon, 21 Sep 2026 09:45:00 +0000
 Description: In its second term, the Trump administration has increased its efforts to undo environmental regulations. Last week, it became clear that the Endangered Species Act, one of America’s bedrock environmental laws, would be losing some of its most important protections.Catrin Einhorn, who covers biodiversity, explains what is changing and what impac...
@@ -976,11 +982,4 @@ Episode Title: The Good, the Bad and the Good-Bad (Movie)
 Published Date: Sun, 13 Sep 2026 10:00:00 +0000
 Description: When it comes to movies we love, there are the artistic masterpieces and there are the foot-stomping crowd pleasers. But there’s another particular kind of beloved movie, the one that makes our friends groan, but that we rewatch incessantly; the one that we can quote line for line, even as we giggle at the actors’ performances; the one that we’d...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2c469a9-8914-4b2f-9419-f0dd02fd1ede/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2c469a9-8914-4b2f-9419-f0dd02fd1ede&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Naomi Klein and Astra Taylor Say the End of the World is Now on the Table
-Published Date: Sat, 12 Sep 2026 10:00:00 +0000
-Description: In a new book, the writers argue that a powerful coalition of “end times fascists” is just fine with the earth’s demise.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
-For more information on today’s episode, visit nytimes.com/theda...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b6e07a69-6816-4433-9cc2-bca479fe6acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b6e07a69-6816-4433-9cc2-bca479fe6acd&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
