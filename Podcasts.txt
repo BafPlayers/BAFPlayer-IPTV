@@ -435,12 +435,6 @@ Description: Misha Glenny delves in to the In Our Time archive to select ten epi
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ny4m97.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 ----------------------------------------
-Episode Title: Pockets (from Here For The History)
-Published Date: Fri, 07 Aug 2026 05:00:00 +0000
-Description: To the frustration of many, a lot of women’s clothes don’t have pockets. But why on Earth is that the case? Especially when men’s clothing seems to be full of pockets.On Here For The History, Alice Loxton and Ben Henderson track the tumultuous and muddy history of women’s pockets. From capacious beginnings, through many fashion changes, to suffr...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p19850.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
-----------------------------------------
 Episode Title: Archive: Aphra Behn
 Published Date: Thu, 06 Aug 2026 08:45:00 +0000
 Description: Widely regarded as the first professional woman writer in English literature, Aphra Behn (1640-1689) is best known for her plays and her novel Oroonoko, she's been an inspiration to countless writers across the ages.This archive episode, first released in October 2017, was selected as part of a ten-episode series by Misha Glenny. In the episode,...
@@ -452,10 +446,22 @@ Published Date: Thu, 30 Jul 2026 08:02:00 +0000
 Description: Misha Glenny and guests discuss a familiar feature of our beaches: seashells, from their astonishing shapes and patterns that teach us about Earth’s oceans, to the ways that humans have treasured shells throughout history. Seashells appear in the mythologies of countless cultures across the world - think of Botticelli’s Venus emerging from a gia...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nw62hn.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
+----------------------------------------
+Episode Title: Vigée Le Brun
+Published Date: Thu, 23 Jul 2026 09:15:00 +0000
+Description: Misha Glenny and guests discuss the French portrait painter Élisabeth Vigée Le Brun (1755 - 1842). From her teens she delighted her high society subjects in and around Paris, notably Marie Antoinette who she painted around 30 times, and she invariably found ways to show her sitters at their best.  Some critics were affronted that she, a young wo...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntls0h.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 
 ========================================================================
 SHOW: Lore
 ========================================================================
+----------------------------------------
+Episode Title: Deeper Lore: 315 (32, 196, & 204)
+Published Date: Thu, 24 Sep 2026 05:01:00 +0000
+Description: Go deeper into the subject matter of our most recent episode (Lore 315: All Shook Up) with these three recommendations from further back in the Lore catalog:  Episode 32: LorePodcast.com/episodes/32 Episode 196: LorePodcast.com/episodes/196 Episode 204: LorePodcast.com/episodes/204  ———————— Lore Resources:   Episode Music: lorepodcast.com/music...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-315.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 ----------------------------------------
 Episode Title: Lore 315: All Shook Up
 Published Date: Mon, 21 Sep 2026 05:01:00 +0000
@@ -509,12 +515,6 @@ Episode Title: Deeper Lore: 312 (18, 113, & 122)
 Published Date: Thu, 13 Aug 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (312: Episode To Serve Man) with these three recommendations from further back in the Lore catalog:  Episode 18: LorePodcast.com/episodes/18 Episode 113: LorePodcast.com/episodes/113 Episode 122: LorePodcast.com/episodes/122  ———————— Lore Resources:   Episode Music: lorepodcast.com/mu...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-312.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore 312: To Serve Man
-Published Date: Mon, 10 Aug 2026 05:01:00 +0000
-Description: A lot of folklore is frightening, but some of it is definitely hard to swallow. Let's sink our teeth into some terrifying tales from history today. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— ...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore312d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -631,6 +631,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Advice Line with Danny Meyer of Shake Shack
+Published Date: Thu, 24 Sep 2026 07:10:00 -0000
+Description: Today’s callers: Janell from Kentucky wonders how to build a sense of hospitality into her canned bourbon cocktail brand. Jade from South Carolina considers the upsides and risks of shipping her smoked salmon directly to customers. And Bar from Colorado considers strategies for bringing his protein-packed cous cous to quick service restaurants.P...
+Audio Stream URL: https://rss.art19.com/episodes/c7199e93-5dba-43ab-8fb0-91403917c3ac.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
+----------------------------------------
 Episode Title: Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush
 Published Date: Mon, 21 Sep 2026 07:10:00 -0000
 Description: Brian Rudolph started making chickpea pasta in his Detroit apartment because wheat made him feel sick. A decade later, Banza was in more than 25,000 stores, and today, it’s one of the most popular pasta brands in the country. Success was not automatic: The business barely got off the ground because the cooked pasta was turning to mush—and as Ban...
@@ -683,12 +689,6 @@ Episode Title: YETI: Roy and Ryan Seiders. How Two Brothers Turned a $400 Cooler
 Published Date: Mon, 24 Aug 2026 07:10:00 -0000
 Description: Roy and Ryan were avid outdoorsmen who wanted a cooler that wouldn’t break. So they built one themselves.The result was YETI: a high-end cooler that early retailers thought nobody would buy. But serious outdoorsmen did—and eventually YETI escaped its niche, becoming a status symbol at tailgates, beaches, and soccer fields.In this episode, Roy an...
 Audio Stream URL: https://rss.art19.com/episodes/d7f8e0e8-51a5-4444-8c1d-f5c43c353285.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Advice Line with Carlton Calvin of Razor
-Published Date: Thu, 20 Aug 2026 07:10:00 -0000
-Description: Today’s callers: Shawn from Saskatchewan weighs whether brand-building or licensing is best for his card-based party game. Then Shirin in Texas wants to differentiate her graphic stationery in a crowded Etsy marketplace. And Mark from New Jersey works through refocusing his line of craft spirits. Plus, Carlton’s recent efforts to pass on his tre...
-Audio Stream URL: https://rss.art19.com/episodes/c0de1a84-3d35-45f3-921c-6144693ad86e.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -923,6 +923,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Health Trackers Are Everywhere. Do Babies Need Them, Too?
+Published Date: Wed, 23 Sep 2026 09:45:00 +0000
+Description: More and more people are wearing technology in the form of fitness bands and smart rings. These devices track metrics such as heart rate, skin temperature and sleep. The latest frontier is health tech for babies — and it’s being supercharged by artificial intelligence.Sapna Maheshwari shares her family’s experience with health tracking and discu...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/16a4ec6f-4bf4-4884-a35a-239580e2677e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=16a4ec6f-4bf4-4884-a35a-239580e2677e&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Trump Banned the Media. This Time, the Media Struck Back.
 Published Date: Tue, 22 Sep 2026 09:51:35 +0000
 Description: For every day of Donald J. Trump’s presidency, there has been a camera from a major television network pointed at him. But on Monday, that all changed.Zolan Kanno-Youngs and Michael M. Grynbaum discuss the face-off between the president and the press. Guest:Zolan Kanno-Youngs, a White House correspondent for The New York TimesMichael M. Grynbaum...
@@ -976,10 +982,4 @@ Episode Title: The A.I. Researcher Whose Rebellion Is Changing Everything
 Published Date: Mon, 14 Sep 2026 09:45:00 +0000
 Description: In recent days, Jacob Coxon, a researcher at the artificial intelligence company Anthropic, quit his job and posted warnings about the risks of the technology. That kicked off a crisis that culminated in a call by prominent leaders of the industry to slow down A.I. development.He spoke to “The Daily” about this moment.Guest: Jacob Coxon, a forme...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2782c30a-b111-438b-b586-0cc16459a419/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2782c30a-b111-438b-b586-0cc16459a419&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Good, the Bad and the Good-Bad (Movie)
-Published Date: Sun, 13 Sep 2026 10:00:00 +0000
-Description: When it comes to movies we love, there are the artistic masterpieces and there are the foot-stomping crowd pleasers. But there’s another particular kind of beloved movie, the one that makes our friends groan, but that we rewatch incessantly; the one that we can quote line for line, even as we giggle at the actors’ performances; the one that we’d...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2c469a9-8914-4b2f-9419-f0dd02fd1ede/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2c469a9-8914-4b2f-9419-f0dd02fd1ede&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
