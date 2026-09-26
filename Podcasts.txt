@@ -567,6 +567,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Middlegarchs are the new Oligarchs
+Published Date: Fri, 25 Sep 2026 21:46:44 +0000
+Description: Wanna know who is really in the top 1%? And how they use their influence? It may not be who you think.Look beyond Silicon Valley. Look beyond Wall Street. Look beyond the “oligarchs”. There's a much larger class of wealthy Americans hiding in plain sight. And, often, they got rich in mundane ways. They own car dealerships. They sell hot dogs and...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Is our national debt finally too much? (update)
 Published Date: Wed, 23 Sep 2026 07:00:00 +0000
 Description: (Note: A version of this episode originally ran in 2024.)$40,000,000,000,000. Four commas. Thirteen zeroes. It’s an eye-popping, almost infinite-sounding pile of money. And every time the debt passes a big round number, almost everyone asks the same question: How much debt is too much?It’s maybe the most important question in macroeconomics. It’...
@@ -619,12 +625,6 @@ Episode Title: Branded fruit: How produce got “Honeycrisp-ified"
 Published Date: Fri, 28 Aug 2026 19:19:07 +0000
 Description: The produce aisle is changing. You’ve noticed this, I’m sure. It is now full of superstar fruits and vegetables: The Honeycrisp apple, The Cotton Candy grape, The Cuties mandarin orange. They stand out. They cost more. They have branding and sometimes trademarks and patent-ish kinds of protections.And now – it’s happening in the tomato bin too! ...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32375623
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The continent nobody owns & everyone benefits from (Summer School)
-Published Date: Wed, 26 Aug 2026 07:30:00 +0000
-Description: This episode is packed with your best economic ideas from around the world and a penguin interview. It all comes together in this final session of Summer School 2026.Pack your parka, we’re headed to Antarctica.First, we’ll travel back in time to the late 1970s when NPR was a scrappy young network, with a synth soundtrack, and tons of heart. Scie...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -923,6 +923,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Life and, for Now, the Death of the Kennedy Center
+Published Date: Fri, 25 Sep 2026 09:45:00 +0000
+Description: For 50 years, the Kennedy Center was a sprawling public home for opera, theater, jazz and free programs. Last week, it closed its doors for the time being.Elizabeth Williamson traces how President Trump decided to take over and now shut down Washington’s biggest and most celebrated home for the arts.Guest: Elizabeth Williamson, a feature writer ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d63a35ec-6113-4413-bfb4-2f5cf8be720d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d63a35ec-6113-4413-bfb4-2f5cf8be720d&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: What Safeguarding Nukes Can Teach Us About Safeguarding A.I.
 Published Date: Thu, 24 Sep 2026 09:45:00 +0000
 Description: Last night, President Trump welcomed Xi Jinping, China’s top leader, in a lavish ceremony as he arrived for two days of closely watched negotiations.Artificial intelligence — and what, if any, role the countries should play in regulating it as concerns mount about its risks — is expected to be on the agenda.David E. Sanger, a White House corresp...
@@ -976,10 +982,4 @@ Episode Title: 48 Days Until the Midterms: Is a Blue Wave Coming?
 Published Date: Wed, 16 Sep 2026 09:45:00 +0000
 Description: As the general midterm elections begin, we take a look at where things stand. A new Times/Siena poll suggests that Democrats have a real shot at winning control of both chambers of Congress. But serious obstacles stand in their way, including a financial disadvantage.The New York Times journalists Shane Goldmacher, Maggie Haberman and Nate Cohn ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ba4681d1-d3b1-4741-b3a2-1fec34cafd8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ba4681d1-d3b1-4741-b3a2-1fec34cafd8b&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Bond Market Is Flipping Out. Here’s Why You Should Care.
-Published Date: Tue, 15 Sep 2026 09:45:00 +0000
-Description: For the past few months, you’ve probably been hearing about the turbulence in the bond market.Today, Ben Casselman, the chief economics correspondent for The New York Times, explains what has been happening, and why it matters.Guest: Ben Casselman, the chief economics correspondent for The New York Times.Background reading: How to make sense of ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/87a723b9-3bc9-46a5-9eb2-e055c109a96e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=87a723b9-3bc9-46a5-9eb2-e055c109a96e&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
