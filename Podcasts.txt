@@ -135,6 +135,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee
 SHOW: Astronomy Cast
 ========================================================================
 ----------------------------------------
+Episode Title: Ep. 802: Mission Tech Series: Rocket & Spacecraft 411
+Published Date: Mon, 28 Sep 2026 20:00:00 +0000
+Description: Help us keep Astronomy Cast ad-free: https://patreon.com/astronomycast We removed all ads from the show. We need to get to 1500 patrons to keep it this way. We need your support! Streamed live on Sep 21, 2026 Hosted by: Fraser Cain and Dr. Pamela L. Gay Today we begin a new series on rockets and spacecraft, dealing with each of their components....
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260928.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
 Episode Title: Ep. 801: The Beginning & End of Everything - Part 2
 Published Date: Mon, 21 Sep 2026 20:00:00 +0000
 Description: Help us keep Astronomy Cast ad-free: https://patreon.com/astronomycast We removed all ads from the show. We need to get to 1500 patrons to keep it this way. We need your support! Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/Ast...
@@ -188,16 +194,22 @@ Published Date: Mon, 11 May 2026 20:00:00 +0000
 Description: Astronomy Cast Ep. 793: Star Trek Science By Fraser Cain & Dr. Pamela Gay Streamed live May 4, 2026. Today we continue our mini-series; evaluating the science of various sci-fi franchises. We did Star Wars last week, this week tackle Star Trek. From transporters to warp drives, from phasers to photon torpedos. Let's tackle what Star Trek gets ri...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260511.mp3?dest-id=11189
 Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
-----------------------------------------
-Episode Title: Ep. 792: Star Wars Science
-Published Date: Mon, 04 May 2026 20:00:00 +0000
-Description: Astronomy Cast Ep. 792: Star Wars Science By Fraser Cain & Dr. Pamela Gay Streamed live April 29, 2026. May the fourth be with you! Isn't that what people say on the international holiday known as Star Wars Day? Today we're gonna talk about the science in everyone's favorite sci-fi fantasy stories. Which of it is real, and which is essentially m...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260504.mp3?dest-id=11189
-Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
 
 ========================================================================
 SHOW: Short Wave
 ========================================================================
+----------------------------------------
+Episode Title: What social media gets wrong about inflammation
+Published Date: Tue, 29 Sep 2026 07:00:00 +0000
+Description: Inflammation is all over our feeds. Influencers claim it’s the reason you're bloated or fatigued, the source of digestive problems and the cause of more serious illnesses like Alzheimer's or cardiovascular disease. But how much of that is scientifically backed, and how viable are the solutions you see on social media? Short Wave talks to immunol...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/aa8093c3-ee49-44b4-848b-39593ad7df9c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=aa8093c3-ee49-44b4-848b-39593ad7df9c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5958510&p=510351&d=872&size=13968240
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
+Episode Title: A fall mystery: why do only certain leaves turn red?
+Published Date: Mon, 28 Sep 2026 12:51:23 +0000
+Description: Leaves turn yellow in the fall because Chlorophyll breaks down, revealing the yellow pigment that was there all along. But why red? Red is a different story altogether. Leaves have to make a new pigment to turn red. Why would a dying leaf go an extra mile to do that? Scientists don’t really know. NPR science correspondent Nell Greenfieldboyce re...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/fe8e85b1-c0f6-4c58-9a28-0cb35fdd706d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=fe8e85b1-c0f6-4c58-9a28-0cb35fdd706d&feed=F0qJcgXZ&t=podcast&e=nx-s1-5980105&p=510351&d=839&size=13435760
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: 'Super' El Niño is coming. What should you expect?
 Published Date: Fri, 25 Sep 2026 07:00:00 +0000
@@ -245,18 +257,6 @@ Episode Title: Should race affect BMI guidelines? Doctors are split
 Published Date: Mon, 14 Sep 2026 07:00:00 +0000
 Description: BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it, groups of people have fallen through the cracks and conditions have been caught late. So, some doctors want to add nuance – to consider race when usi...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f6ce454d-d6e7-4773-9b72-e18a40291170/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f6ce454d-d6e7-4773-9b72-e18a40291170&feed=F0qJcgXZ&t=podcast&e=nx-s1-5818478&p=510351&d=827&size=13238901
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: How scientists discovered that animals are doctors, too
-Published Date: Fri, 11 Sep 2026 07:00:00 +0000
-Description: When people are sick, we seek out medications and treatments to help heal. For a long time, scientists thought that was a uniquely human ability. But it turns out, many other animals do a version of it too! And since the late 1980s, western researchers have been trying to get a peek behind the curtain. And aside from just cataloguing all the coo...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f34f7f77-05f1-40a6-b682-7fbecfc5a522/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f34f7f77-05f1-40a6-b682-7fbecfc5a522&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935588&p=510351&d=804&size=12877784
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Lindsay Clancy and postpartum psychosis
-Published Date: Wed, 09 Sep 2026 07:00:00 +0000
-Description: The trial around Lindsay Clancy may be over for now, but it still leaves us with questions. On today’s episode, we talk to psychiatrists and patients to answer them: What is postpartum psychosis, exactly? Why don’t we know more about it? And what can you do if you are worried about a postpartum loved one?Interested in more stories on mental heal...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/4d397d7c-2ed6-49b8-b4ec-04248d55dc34/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=4d397d7c-2ed6-49b8-b4ec-04248d55dc34&feed=F0qJcgXZ&t=podcast&e=nx-s1-5958289&p=510351&d=850&size=13612556
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -923,6 +923,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: He Was Deported to a Country He’d Never Heard Of
+Published Date: Mon, 28 Sep 2026 09:46:17 +0000
+Description: In its efforts to deport as many undocumented immigrants as possible, the Trump administration has increasingly relied on a highly controversial strategy: deporting people to countries they have no connection to.Last week, a federal court ruled the practice to be illegal because it violated people’s right to due process. The administration chall...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c40ef013-6d26-4eac-8a4b-0fe3eaee4df2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c40ef013-6d26-4eac-8a4b-0fe3eaee4df2&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The Best TV Shows of the 21st Century
 Published Date: Sun, 27 Sep 2026 10:00:00 +0000
 Description: The turn of the century was the beginning of a new era in television: prestige TV for the masses. Today, television is where big stars and innovative creators go to marshal sizable budgets and tell meaningful stories.Over recent months, our colleagues at The New York Times ran a survey, asking industry insiders — on-screen talent, writers, direc...
@@ -977,10 +983,4 @@ Published Date: Sat, 19 Sep 2026 10:00:00 +0000
 Description: The Oscar-winning writer returns to Facebook with “The Social Reckoning”— and surprises us with the revelation of why he is so drawn to uplift and romance. Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
 For more information on toda...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c7cf5b73-080f-4159-a6c9-e0bcfa4c5a38/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c7cf5b73-080f-4159-a6c9-e0bcfa4c5a38&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Techno-Religion at the Center of the A.I. Debate
-Published Date: Fri, 18 Sep 2026 09:45:00 +0000
-Description: Last week, a group of tech leaders called for putting guardrails on artificial intelligence. This week, these calls have been met by backlash from tech executives, lawmakers and President Trump, who liken those ringing the alarm to a doomsday cult.Cade Metz, a technology reporter for The New York Times, explains where this criticism comes from a...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6ed880d4-eb3d-466f-b16a-a26994344df6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6ed880d4-eb3d-466f-b16a-a26994344df6&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
