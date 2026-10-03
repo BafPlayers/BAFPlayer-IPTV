@@ -92,7 +92,7 @@
   {
     "id": "science-vs--gimlet--ep-1",
     "show_name": "Science Vs",
-    "episode_title": "How the Teenage Brain Works, with Lisa Damour",
+    "episode_title": "Why We Never Forget Our Teen Years, with Lisa Damour",
     "pub_date": "Thu, 01 Oct 2026 09:00:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3008509393.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "Where all those weird new drinks are coming from",
+    "pub_date": "Fri, 02 Oct 2026 23:14:21 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "It's getting pretty wild in the beverage aisle these days — from the rainbow wall of seltzers, to the increasingly strange flavors of Pepsi, to the new \"functional\" sodas with added fiber or supplements that supposedly offer health benefits. Where are all these new drinks coming from? And why does it seem like the options are multiplying faster ..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "Who’s gonna pay for your Social Security?",
     "pub_date": "Wed, 30 Sep 2026 14:55:43 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284",
@@ -792,7 +801,7 @@
     "description": "Very soon, Social Security may not have enough money to make full payments to retirees. Very soon. Like by 2032, just six years from now. So what are we gonna do about it? Today on the show, we look at some of the most talked about possible solutions; and exactly whose wallets we’ll have to rifle through to find the money to pay for each. Then w..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "Middlegarchs are the new Oligarchs",
     "pub_date": "Fri, 25 Sep 2026 21:46:44 +0000",
@@ -801,7 +810,7 @@
     "description": "Wanna know who is really in the top 1%? And how they use their influence? It may not be who you think.Look beyond Silicon Valley. Look beyond Wall Street. Look beyond the “oligarchs”. There's a much larger class of wealthy Americans hiding in plain sight. And, often, they got rich in mundane ways. They own car dealerships. They sell hot dogs and..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Is our national debt finally too much? (update)",
     "pub_date": "Wed, 23 Sep 2026 07:00:00 +0000",
@@ -810,7 +819,7 @@
     "description": "(Note: A version of this episode originally ran in 2024.)$40,000,000,000,000. Four commas. Thirteen zeroes. It’s an eye-popping, almost infinite-sounding pile of money. And every time the debt passes a big round number, almost everyone asks the same question: How much debt is too much?It’s maybe the most important question in macroeconomics. It’..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "The Domino’s Pizza Tracker Theory of Everything",
     "pub_date": "Fri, 18 Sep 2026 20:00:00 +0000",
@@ -819,7 +828,7 @@
     "description": "Did a pizza restaurant’s humble status page change how we wait forever? When you order a Lyft or Uber, you get texts every few minutes about your car approaching and arriving. When you have a package coming, you get a notification when it’s shipped, when it’s en route, and when it’s out for delivery. Why do so many companies send these constant ..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "How investing is getting riskier (Two Indicators)",
     "pub_date": "Wed, 16 Sep 2026 07:00:00 +0000",
@@ -828,7 +837,7 @@
     "description": "Margin borrowing and sports gambling “investments” are both on the rise! Today on the show, two stories from Planet Money’s daily podcast The Indicator about the ways investing is changing, and getting riskier.According to one study, more than half of Gen Zers are using investment dollars for sports gambling. On average, this is not a smart stra..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "The loan at the heart of a new foreclosure crisis",
     "pub_date": "Fri, 11 Sep 2026 21:00:00 +0000",
@@ -837,7 +846,7 @@
     "description": "There is a new type of loan that is sweeping through the country right now. It’s advertised as a super quick and super easy way to get a mortgage to buy a home. In recent years, Wall Street has been funneling billions of dollars into these loans. But these loans are also raising questions. Are they a financial innovation that’s helping the housi..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Cost-cutting, quiet guilt and the inflation generation",
     "pub_date": "Wed, 09 Sep 2026 07:00:00 +0000",
@@ -846,7 +855,7 @@
     "description": "In this economy it is boom times and doom times all at once. The statistics aren’t really capturing it. K-shaped only goes so far as a metaphor. So … we asked you to help. And you delivered! One one hand, the stock market is on a prolonged, upward trajectory. Unemployment is low and inflation has come down from its peak. But on the other hand, i..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "Trump drinks Venezuela’s milkshake",
     "pub_date": "Sat, 05 Sep 2026 00:00:00 +0000",
@@ -855,22 +864,13 @@
     "description": "One week ago, President Trump announced a deal that would give the “U.S. control of more than 65 BILLION BARRELS of proven Oil Reserves in Venezuela, at no cost to the American Taxpayer.”The exact nature of this deal has been … obscure, to say the least. But today, we wanted to know, from someone who’s been through this before, what does this me..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "Love in the time of Palantir",
     "pub_date": "Wed, 02 Sep 2026 07:00:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318",
     "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
     "description": "To a lot of people, Palantir is a mystery — what does the company know, what data do they have, and (if they have it) what do they do with it all? We dig into that mystery and take you to a singles event to see if Big Data is good for Big Dating.That event, deep in the heart of Manhattan, is called: “Singles Dating Matching Using Palantir Data.”..."
-  },
-  {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
-    "pub_date": "Sun, 30 Aug 2026 07:00:02 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "The brilliance of \"9 to 5\" is that it is catchy even though it’s also kinda depressing. You will be dancing along. You're enjoying it. And, then when you really listen to the lyrics, you're like, Wait, this is messed up. This is real. This is a problem we need to fix. Like, why does it have to be this way?That is the spirit of the song, why it b..."
   },
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The Firestorm Over a Rape Allegation at Cornell",
+    "pub_date": "Fri, 2 Oct 2026 09:49:13 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/272d581e-435b-4127-b2bc-6f0c800dabe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=272d581e-435b-4127-b2bc-6f0c800dabe5&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "An alleged campus sexual assault at Cornell University has gripped the country and ignited a national debate over consent.Debra Kamin, an investigative reporter for The New York Times, explains what we know about what happened.Guest: Debra Kamin, an investigative reporter for the The New York Times.Background reading: Documents reviewed by The T..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Why Washington Is Trying to Rein In College Sports",
     "pub_date": "Thu, 1 Oct 2026 09:46:07 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e1d9c5a9-98e0-41f9-86fe-48e73e6c2acc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e1d9c5a9-98e0-41f9-86fe-48e73e6c2acc&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "In the five years since student athletes have been allowed to earn money, college sports have become a chaotic and murky marketplace where players can move from team to team chasing a payday.Stewart Mandel of The Athletic explains why, this week, Washington decided to step in.Guest: Stewart Mandel, the editor in chief of college football for The..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Inside the Devastating Hack of the F.B.I.",
     "pub_date": "Wed, 30 Sep 2026 09:45:26 +0000",
@@ -1251,7 +1260,7 @@
     "description": "A little over a decade ago, after hackers broke into the U.S. government and stole the personnel records of millions of federal workers, officials vowed that it would never happen again. Something similar recently did — to the F.B.I.Dustin Volz, who covers cybersecurity for The New York Times, tells the story of the attack, the group behind it a..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Are Prediction Markets Gambling? A Lot Rides on the Answer.",
     "pub_date": "Tue, 29 Sep 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "Prediction markets such as Kalshi and Polymarket have gained huge popularity over the past year. These marketplaces allow you to wager on just about anything — whether it’s who will win a football game or the weather in New York City.David Yaffe-Bellany, a technology reporter for The New York Times, discusses the legal challenge these platforms ..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "He Was Deported to a Country He’d Never Heard Of",
     "pub_date": "Mon, 28 Sep 2026 09:46:17 +0000",
@@ -1269,7 +1278,7 @@
     "description": "In its efforts to deport as many undocumented immigrants as possible, the Trump administration has increasingly relied on a highly controversial strategy: deporting people to countries they have no connection to.Last week, a federal court ruled the practice to be illegal because it violated people’s right to due process. The administration chall..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Best TV Shows of the 21st Century",
     "pub_date": "Sun, 27 Sep 2026 10:00:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "The turn of the century was the beginning of a new era in television: prestige TV for the masses. Today, television is where big stars and innovative creators go to marshal sizable budgets and tell meaningful stories.Over recent months, our colleagues at The New York Times ran a survey, asking industry insiders — on-screen talent, writers, direc..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.",
     "pub_date": "Sat, 26 Sep 2026 10:00:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "The legendary actor on his disturbing childhood, his Hollywood missteps and the pain he caused to his loved ones, his body and himself.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit ny..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "The Life and, for Now, the Death of the Kennedy Center",
     "pub_date": "Fri, 25 Sep 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "For 50 years, the Kennedy Center was a sprawling public home for opera, theater, jazz and free programs. Last week, it closed its doors for the time being.Elizabeth Williamson traces how President Trump decided to take over and now shut down Washington’s biggest and most celebrated home for the arts.Guest: Elizabeth Williamson, a feature writer ..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "What Safeguarding Nukes Can Teach Us About Safeguarding A.I.",
     "pub_date": "Thu, 24 Sep 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "Last night, President Trump welcomed Xi Jinping, China’s top leader, in a lavish ceremony as he arrived for two days of closely watched negotiations.Artificial intelligence — and what, if any, role the countries should play in regulating it as concerns mount about its risks — is expected to be on the agenda.David E. Sanger, a White House corresp..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Health Trackers Are Everywhere. Do Babies Need Them, Too?",
     "pub_date": "Wed, 23 Sep 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/16a4ec6f-4bf4-4884-a35a-239580e2677e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=16a4ec6f-4bf4-4884-a35a-239580e2677e&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "More and more people are wearing technology in the form of fitness bands and smart rings. These devices track metrics such as heart rate, skin temperature and sleep. The latest frontier is health tech for babies — and it’s being supercharged by artificial intelligence.Sapna Maheshwari shares her family’s experience with health tracking and discu..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Trump Banned the Media. This Time, the Media Struck Back.",
-    "pub_date": "Tue, 22 Sep 2026 09:51:35 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/96b1cb24-7d63-422c-a2ee-86af17431537/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=96b1cb24-7d63-422c-a2ee-86af17431537&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "For every day of Donald J. Trump’s presidency, there has been a camera from a major television network pointed at him. But on Monday, that all changed.Zolan Kanno-Youngs and Michael M. Grynbaum discuss the face-off between the president and the press. Guest:Zolan Kanno-Youngs, a White House correspondent for The New York TimesMichael M. Grynbaum..."
   }
 ]

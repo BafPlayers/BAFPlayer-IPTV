@@ -71,7 +71,7 @@ Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7be
 SHOW: Science Vs
 ========================================================================
 ----------------------------------------
-Episode Title: How the Teenage Brain Works, with Lisa Damour
+Episode Title: Why We Never Forget Our Teen Years, with Lisa Damour
 Published Date: Thu, 01 Oct 2026 09:00:00 -0000
 Description: Our brains go completely WILD when we go through our teenage years. It’s a time where it feels like every disagreement with our parents turns into World War III, and every idea that could get us killed sounds like the most fun we could ever have. In this episode, we get into the science of what the brain is doing during the teenage years with cl...
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3008509393.mp3
@@ -567,6 +567,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Where all those weird new drinks are coming from
+Published Date: Fri, 02 Oct 2026 23:14:21 +0000
+Description: It's getting pretty wild in the beverage aisle these days — from the rainbow wall of seltzers, to the increasingly strange flavors of Pepsi, to the new "functional" sodas with added fiber or supplements that supposedly offer health benefits. Where are all these new drinks coming from? And why does it seem like the options are multiplying faster ...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Who’s gonna pay for your Social Security?
 Published Date: Wed, 30 Sep 2026 14:55:43 +0000
 Description: Very soon, Social Security may not have enough money to make full payments to retirees. Very soon. Like by 2032, just six years from now. So what are we gonna do about it? Today on the show, we look at some of the most talked about possible solutions; and exactly whose wallets we’ll have to rifle through to find the money to pay for each. Then w...
@@ -619,12 +625,6 @@ Episode Title: Love in the time of Palantir
 Published Date: Wed, 02 Sep 2026 07:00:00 +0000
 Description: To a lot of people, Palantir is a mystery — what does the company know, what data do they have, and (if they have it) what do they do with it all? We dig into that mystery and take you to a singles event to see if Big Data is good for Big Dating.That event, deep in the heart of Manhattan, is called: “Singles Dating Matching Using Palantir Data.”...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
-Published Date: Sun, 30 Aug 2026 07:00:02 +0000
-Description: The brilliance of "9 to 5" is that it is catchy even though it’s also kinda depressing. You will be dancing along. You're enjoying it. And, then when you really listen to the lyrics, you're like, Wait, this is messed up. This is real. This is a problem we need to fix. Like, why does it have to be this way?That is the spirit of the song, why it b...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -924,6 +924,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Firestorm Over a Rape Allegation at Cornell
+Published Date: Fri, 2 Oct 2026 09:49:13 +0000
+Description: An alleged campus sexual assault at Cornell University has gripped the country and ignited a national debate over consent.Debra Kamin, an investigative reporter for The New York Times, explains what we know about what happened.Guest: Debra Kamin, an investigative reporter for the The New York Times.Background reading: Documents reviewed by The T...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/272d581e-435b-4127-b2bc-6f0c800dabe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=272d581e-435b-4127-b2bc-6f0c800dabe5&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Why Washington Is Trying to Rein In College Sports
 Published Date: Thu, 1 Oct 2026 09:46:07 +0000
 Description: In the five years since student athletes have been allowed to earn money, college sports have become a chaotic and murky marketplace where players can move from team to team chasing a payday.Stewart Mandel of The Athletic explains why, this week, Washington decided to step in.Guest: Stewart Mandel, the editor in chief of college football for The...
@@ -977,10 +983,4 @@ Episode Title: Health Trackers Are Everywhere. Do Babies Need Them, Too?
 Published Date: Wed, 23 Sep 2026 09:45:00 +0000
 Description: More and more people are wearing technology in the form of fitness bands and smart rings. These devices track metrics such as heart rate, skin temperature and sleep. The latest frontier is health tech for babies — and it’s being supercharged by artificial intelligence.Sapna Maheshwari shares her family’s experience with health tracking and discu...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/16a4ec6f-4bf4-4884-a35a-239580e2677e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=16a4ec6f-4bf4-4884-a35a-239580e2677e&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Trump Banned the Media. This Time, the Media Struck Back.
-Published Date: Tue, 22 Sep 2026 09:51:35 +0000
-Description: For every day of Donald J. Trump’s presidency, there has been a camera from a major television network pointed at him. But on Monday, that all changed.Zolan Kanno-Youngs and Michael M. Grynbaum discuss the face-off between the president and the press. Guest:Zolan Kanno-Youngs, a White House correspondent for The New York TimesMichael M. Grynbaum...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/96b1cb24-7d63-422c-a2ee-86af17431537/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=96b1cb24-7d63-422c-a2ee-86af17431537&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
