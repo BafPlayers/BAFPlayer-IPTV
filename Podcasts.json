@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Chris Rock Has Been Thinking About Forgiveness",
+    "pub_date": "Sat, 3 Oct 2026 10:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/80d2d987-2ef1-48fc-a605-7c7d40a7ddbd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=80d2d987-2ef1-48fc-a605-7c7d40a7ddbd&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "The comedian and filmmaker on what real friendship looks like, what keeps him up at night and his new movie, \"Misty Green.\"Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/th..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "The Firestorm Over a Rape Allegation at Cornell",
     "pub_date": "Fri, 2 Oct 2026 09:49:13 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/272d581e-435b-4127-b2bc-6f0c800dabe5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=272d581e-435b-4127-b2bc-6f0c800dabe5&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "An alleged campus sexual assault at Cornell University has gripped the country and ignited a national debate over consent.Debra Kamin, an investigative reporter for The New York Times, explains what we know about what happened.Guest: Debra Kamin, an investigative reporter for the The New York Times.Background reading: Documents reviewed by The T..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Why Washington Is Trying to Rein In College Sports",
     "pub_date": "Thu, 1 Oct 2026 09:46:07 +0000",
@@ -1251,7 +1260,7 @@
     "description": "In the five years since student athletes have been allowed to earn money, college sports have become a chaotic and murky marketplace where players can move from team to team chasing a payday.Stewart Mandel of The Athletic explains why, this week, Washington decided to step in.Guest: Stewart Mandel, the editor in chief of college football for The..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Inside the Devastating Hack of the F.B.I.",
     "pub_date": "Wed, 30 Sep 2026 09:45:26 +0000",
@@ -1260,7 +1269,7 @@
     "description": "A little over a decade ago, after hackers broke into the U.S. government and stole the personnel records of millions of federal workers, officials vowed that it would never happen again. Something similar recently did — to the F.B.I.Dustin Volz, who covers cybersecurity for The New York Times, tells the story of the attack, the group behind it a..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Are Prediction Markets Gambling? A Lot Rides on the Answer.",
     "pub_date": "Tue, 29 Sep 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Prediction markets such as Kalshi and Polymarket have gained huge popularity over the past year. These marketplaces allow you to wager on just about anything — whether it’s who will win a football game or the weather in New York City.David Yaffe-Bellany, a technology reporter for The New York Times, discusses the legal challenge these platforms ..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "He Was Deported to a Country He’d Never Heard Of",
     "pub_date": "Mon, 28 Sep 2026 09:46:17 +0000",
@@ -1278,7 +1287,7 @@
     "description": "In its efforts to deport as many undocumented immigrants as possible, the Trump administration has increasingly relied on a highly controversial strategy: deporting people to countries they have no connection to.Last week, a federal court ruled the practice to be illegal because it violated people’s right to due process. The administration chall..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The Best TV Shows of the 21st Century",
     "pub_date": "Sun, 27 Sep 2026 10:00:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "The turn of the century was the beginning of a new era in television: prestige TV for the masses. Today, television is where big stars and innovative creators go to marshal sizable budgets and tell meaningful stories.Over recent months, our colleagues at The New York Times ran a survey, asking industry insiders — on-screen talent, writers, direc..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.",
     "pub_date": "Sat, 26 Sep 2026 10:00:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "The legendary actor on his disturbing childhood, his Hollywood missteps and the pain he caused to his loved ones, his body and himself.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit ny..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The Life and, for Now, the Death of the Kennedy Center",
     "pub_date": "Fri, 25 Sep 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "For 50 years, the Kennedy Center was a sprawling public home for opera, theater, jazz and free programs. Last week, it closed its doors for the time being.Elizabeth Williamson traces how President Trump decided to take over and now shut down Washington’s biggest and most celebrated home for the arts.Guest: Elizabeth Williamson, a feature writer ..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "What Safeguarding Nukes Can Teach Us About Safeguarding A.I.",
     "pub_date": "Thu, 24 Sep 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ce4e04c1-0998-4159-a47b-106499ccdd46/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ce4e04c1-0998-4159-a47b-106499ccdd46&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "Last night, President Trump welcomed Xi Jinping, China’s top leader, in a lavish ceremony as he arrived for two days of closely watched negotiations.Artificial intelligence — and what, if any, role the countries should play in regulating it as concerns mount about its risks — is expected to be on the agenda.David E. Sanger, a White House corresp..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Health Trackers Are Everywhere. Do Babies Need Them, Too?",
-    "pub_date": "Wed, 23 Sep 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/16a4ec6f-4bf4-4884-a35a-239580e2677e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=16a4ec6f-4bf4-4884-a35a-239580e2677e&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "More and more people are wearing technology in the form of fitness bands and smart rings. These devices track metrics such as heart rate, skin temperature and sleep. The latest frontier is health tech for babies — and it’s being supercharged by artificial intelligence.Sapna Maheshwari shares her family’s experience with health tracking and discu..."
   }
 ]
