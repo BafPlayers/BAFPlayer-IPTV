@@ -182,6 +182,15 @@
   {
     "id": "astronomy-cast--libsyn--ep-1",
     "show_name": "Astronomy Cast",
+    "episode_title": "Ep. 803: Mission Tech Series: Engines & Stages",
+    "pub_date": "Mon, 05 Oct 2026 20:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20261005.mp3?dest-id=11189",
+    "logo_url": "https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg",
+    "description": "Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Streamed on October 3, 2026. Today our series continues with our deep dive into rockets, their engines & stages. We fall into the tyranny of the rocket equation and discover what it takes to escape Earth's gravity and head off into deep space. We removed all ads from the sh..."
+  },
+  {
+    "id": "astronomy-cast--libsyn--ep-2",
+    "show_name": "Astronomy Cast",
     "episode_title": "Ep. 802: Mission Tech Series: Rocket & Spacecraft 411",
     "pub_date": "Mon, 28 Sep 2026 20:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260928.mp3?dest-id=11189",
@@ -189,7 +198,7 @@
     "description": "Help us keep Astronomy Cast ad-free: https://patreon.com/astronomycast We removed all ads from the show. We need to get to 1500 patrons to keep it this way. We need your support! Streamed live on Sep 21, 2026 Hosted by: Fraser Cain and Dr. Pamela L. Gay Today we begin a new series on rockets and spacecraft, dealing with each of their components...."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-2",
+    "id": "astronomy-cast--libsyn--ep-3",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 801: The Beginning & End of Everything - Part 2",
     "pub_date": "Mon, 21 Sep 2026 20:00:00 +0000",
@@ -198,7 +207,7 @@
     "description": "Help us keep Astronomy Cast ad-free: https://patreon.com/astronomycast We removed all ads from the show. We need to get to 1500 patrons to keep it this way. We need your support! Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/Ast..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-3",
+    "id": "astronomy-cast--libsyn--ep-4",
     "show_name": "Astronomy Cast",
     "episode_title": "Astronomy Cast Can't Go On Like This",
     "pub_date": "Tue, 15 Sep 2026 00:38:00 +0000",
@@ -207,7 +216,7 @@
     "description": "After 20 years, it's time to make some changes. With your patronage we can ditch the ads & turn up the science. Please join our Patreon community at patreon.astronomycast.com"
   },
   {
-    "id": "astronomy-cast--libsyn--ep-4",
+    "id": "astronomy-cast--libsyn--ep-5",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 800: The Beginning & End of Everything - Part 1",
     "pub_date": "Mon, 14 Sep 2026 19:00:00 +0000",
@@ -216,7 +225,7 @@
     "description": "Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/AstronomyCast To celebrate our 20th season, we thought we'd go back right to the beginning… of everything. Let's wind the clock back to the earliest moments of the Universe, where we..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-5",
+    "id": "astronomy-cast--libsyn--ep-6",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 799: Heavy Lift Rockets",
     "pub_date": "Mon, 29 Jun 2026 20:00:00 +0000",
@@ -225,7 +234,7 @@
     "description": "Astronomy Cast Ep. 799: Heavy Lift Rockets By Fraser Cain & Dr. Pamela Gay Streamed live June 22, 2026. The Saturn 5 was a monster, capable of sending humans and a lander to the Moon and bringing them back again. But the number of heavy lift rockets since then has gotten pretty sparse. Now, with tens if not hundreds of thousands of satellites in..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-6",
+    "id": "astronomy-cast--libsyn--ep-7",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 797: Summer in Space",
     "pub_date": "Mon, 15 Jun 2026 20:00:00 +0000",
@@ -234,7 +243,7 @@
     "description": "Astronomy Cast Ep. 797: Summer in Space By Fraser Cain & Dr. Pamela Gay Streamed live June 10, 2026. We're about to take a much needed 2 month hiatus. But just because we're not here doesn't mean space stops existing and doing things. Today, let's give a preview of the big events due to happen in space this summer so you can prepare yourself and..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-7",
+    "id": "astronomy-cast--libsyn--ep-8",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 796: Oceans & Organics on Mars",
     "pub_date": "Mon, 08 Jun 2026 20:00:00 +0000",
@@ -243,7 +252,7 @@
     "description": "Astronomy Cast Ep. 796: Oceans & Organics on Mars By Fraser Cain & Dr. Pamela Gay Streamed live on Jun 1, 2026. Mars is cold & dry today, but the evidence is growing that it used to be warmer & wetter. with seas & oceans that covered large parts of its surface. With the additional findings of the chemicals for life, the search for life on Mars i..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-8",
+    "id": "astronomy-cast--libsyn--ep-9",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 795: Expanse Science",
     "pub_date": "Mon, 01 Jun 2026 20:00:00 +0000",
@@ -252,7 +261,7 @@
     "description": "Astronomy Cast Ep. 795: Expanse Science By Fraser Cain & Dr. Pamela Gay Streamed live on May 10, 2026. This is the final episode of our series on sci-fi universes. And this week we will tackle \"The Expanse\". Now we've got fusion drives, Proto-matter, g-forces! Listen up, belta lawda! Let's look at the science of our own possible (with a side of ..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-9",
+    "id": "astronomy-cast--libsyn--ep-10",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 794: Stargate Science",
     "pub_date": "Mon, 18 May 2026 20:00:00 +0000",
@@ -261,16 +270,16 @@
     "description": "Astronomy Cast Ep. 794: Stargate Science By Fraser Cain & Dr. Pamela Gay Streamed live on May 10, 2026. We continue our ad-hoc miniseries through sci-fi franchises. This week we'll talk about Stargate, worm holes, mind parasites and self-replicating bots. There's a lot to talk about! This show is supported through people like you on Patreon.com/..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-10",
-    "show_name": "Astronomy Cast",
-    "episode_title": "Ep. 793: Star Trek Science",
-    "pub_date": "Mon, 11 May 2026 20:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260511.mp3?dest-id=11189",
-    "logo_url": "https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg",
-    "description": "Astronomy Cast Ep. 793: Star Trek Science By Fraser Cain & Dr. Pamela Gay Streamed live May 4, 2026. Today we continue our mini-series; evaluating the science of various sci-fi franchises. We did Star Wars last week, this week tackle Star Trek. From transporters to warp drives, from phasers to photon torpedos. Let's tackle what Star Trek gets ri..."
+    "id": "npr-short-wave--science--ep-1",
+    "show_name": "Short Wave",
+    "episode_title": "Science-backed guidance for healthy screen time",
+    "pub_date": "Tue, 06 Oct 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/71f5f934-6833-415a-a4c0-65656d4ca5fb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=71f5f934-6833-415a-a4c0-65656d4ca5fb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5954067&p=510351&d=771&size=12339078",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "We’re all aware – and wary – of doomscrolling. Lots of screen time can be bad for us. But what if that’s not always the case? We spoke with the author of a study that found a positive relationship between screen time and brain development in young people. This episode, we sort through what to actually worry about when it comes to screen time – a..."
   },
   {
-    "id": "npr-short-wave--science--ep-1",
+    "id": "npr-short-wave--science--ep-2",
     "show_name": "Short Wave",
     "episode_title": "The genetic secret helping bats survive a deadly epidemic",
     "pub_date": "Mon, 05 Oct 2026 07:00:00 +0000",
@@ -279,7 +288,7 @@
     "description": "We’re easing you into Halloween season with an episode about bats. There’s a silent serial killer decimating little brown bats as they hibernate. White nose syndrome has driven populations across the U.S. to almost the brink of extinction over the last decade. But recently, conservation biologist Giorgia Auteri and her team noticed several genet..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "Eating alone may be secretly spiking your blood sugar",
     "pub_date": "Fri, 02 Oct 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Being more social has a ton of benefits: lower stress, decreased inflammation – even living a longer life! Recently, some scientists have added lowering your blood sugar to the list. To figure it out, researchers had people break bread both in duos and alone. And they think the results could tell us something about the roots of our social nature..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "How much of Earth's life is still undiscovered?",
     "pub_date": "Wed, 30 Sep 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "If you, like us, clicked on the cute cat photos posted everywhere recently, announcing the discovery of the first new cat species in more than a century, you might have wondered how rare it is to find a new species. Turns out, it’s not! We live in an era of “unprecedented” discovery, says John Wiens, a professor of ecology and evolutionary biolo..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "What social media gets wrong about inflammation",
     "pub_date": "Tue, 29 Sep 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Inflammation is all over our feeds. Influencers claim it’s the reason you're bloated or fatigued, the source of digestive problems and the cause of more serious illnesses like Alzheimer's or cardiovascular disease. But how much of that is scientifically backed, and how viable are the solutions you see on social media? Short Wave talks to immunol..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "A fall mystery: why do only certain leaves turn red?",
     "pub_date": "Mon, 28 Sep 2026 12:51:23 +0000",
@@ -315,7 +324,7 @@
     "description": "Leaves turn yellow in the fall because Chlorophyll breaks down, revealing the yellow pigment that was there all along. But why red? Red is a different story altogether. Leaves have to make a new pigment to turn red. Why would a dying leaf go an extra mile to do that? Scientists don’t really know. NPR science correspondent Nell Greenfieldboyce re..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "'Super' El Niño is coming. What should you expect?",
     "pub_date": "Fri, 25 Sep 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "The world is bracing for the worst effects of a Super El Niño. Or a Godzilla El Niño. But what does that really even mean?For millennia El Niño has shaped weather across the globe, fueling flooding in parts of the U.S., droughts and wildfires in Australia and Indonesia, and disrupting fisheries across the Pacific.Scientists have long wondered if..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Vaccinated or not, we’re on the brink of a measles epidemic",
     "pub_date": "Wed, 23 Sep 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "Measles is making a comeback. Ongoing outbreaks in Pennsylvania, South Carolina, Texas, and Utah have documented hundreds of cases, mostly among unvaccinated people. And while local and federal politicians debate the definitions and impact of those measles-associated deaths, health experts worry that we’re overlooking the real problem: the threa..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "The science of self-worth (and how to boost yours)",
     "pub_date": "Tue, 22 Sep 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Your self-worth today can be affected by your memories. But you have power over those memories – when you re-experience them. By doing that, you can reshape your self-esteem for the better and change your perspective. That idea and the broader science of self-worth are at the heart of Marisa Franco’s new book Worth. It’s so intriguing to us, we ..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "Why we should all be 'bookmaxxing'",
     "pub_date": "Sat, 19 Sep 2026 00:01:05 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/280cc23f-b5ca-41af-9ec4-8f51101ca6fb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=280cc23f-b5ca-41af-9ec4-8f51101ca6fb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968677&p=510351&d=658&size=10541017",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most accessible activities for actually supporting cognitive performance, brain health, mental health, but also overall wellbeing throughout our lives,” said Chri..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "The latest on AI panic — and whether it's justified",
-    "pub_date": "Fri, 18 Sep 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/75926fb0-6c54-49fb-a4f4-44901aa2fa69/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=75926fb0-6c54-49fb-a4f4-44901aa2fa69&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971154&p=510351&d=898&size=14379093",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "AI is in the news again – for its potential to end civilization. A researcher at Anthropic resigned very publicly last week, citing concerns about the accelerating capabilities of AI and what he called “irresponsible” behavior from major AI companies Anthropic and OpenAI. Following his resignation, the leaders of both companies called for an int..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Call My A.I. Agent",
+    "pub_date": "Tue, 6 Oct 2026 09:46:21 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/367aa3e9-2eaa-435f-867a-f172c3ef67cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=367aa3e9-2eaa-435f-867a-f172c3ef67cf&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "Over the past few weeks, millions of people have rushed to download a new type of artificial intelligence app — agents. They are useful, kind of cute and need your most sensitive personal information to work.Eli Tan, a reporter who covers technology for The New York Times, opened up his life to Muse, Meta’s A.I. agent. He explained what happened..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Midterm Surprise: Democrats Are Surging in Red America",
     "pub_date": "Mon, 5 Oct 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/717e8887-4828-4b69-8249-f58831811f43/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=717e8887-4828-4b69-8249-f58831811f43&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "A new set of polls from The New York Times finds that Democratic candidates are doing remarkably well in the Republican-leaning states that they need to win to gain control of the U.S. Senate in next month’s midterm elections.They are doing less well in the blue states that, in theory, should be easier to win.Nate Cohn, the chief political analy..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "The Restaurant Industry Is Broken. Can It Be Fixed?",
     "pub_date": "Sun, 4 Oct 2026 10:00:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "If you dine out regularly, you might have noticed some changes in restaurants over the past few years. Perhaps you’ve found yourself ordering at a counter, scanning a QR code to see the menu, or eating … a lot more soft serve.These changes aren’t just trends. Brett Anderson, a New York Times food reporter, says they are restaurant owners’ desper..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Chris Rock Has Been Thinking About Forgiveness",
     "pub_date": "Sat, 3 Oct 2026 10:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "The comedian and filmmaker on what real friendship looks like, what keeps him up at night and his new movie, \"Misty Green.\"Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/th..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The Firestorm Over a Rape Allegation at Cornell",
     "pub_date": "Fri, 2 Oct 2026 09:49:13 +0000",
@@ -1269,7 +1278,7 @@
     "description": "An alleged campus sexual assault at Cornell University has gripped the country and ignited a national debate over consent.Debra Kamin, an investigative reporter for The New York Times, explains what we know about what happened.Guest: Debra Kamin, an investigative reporter for the The New York Times.Background reading: Documents reviewed by The T..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Why Washington Is Trying to Rein In College Sports",
     "pub_date": "Thu, 1 Oct 2026 09:46:07 +0000",
@@ -1278,7 +1287,7 @@
     "description": "In the five years since student athletes have been allowed to earn money, college sports have become a chaotic and murky marketplace where players can move from team to team chasing a payday.Stewart Mandel of The Athletic explains why, this week, Washington decided to step in.Guest: Stewart Mandel, the editor in chief of college football for The..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Inside the Devastating Hack of the F.B.I.",
     "pub_date": "Wed, 30 Sep 2026 09:45:26 +0000",
@@ -1287,7 +1296,7 @@
     "description": "A little over a decade ago, after hackers broke into the U.S. government and stole the personnel records of millions of federal workers, officials vowed that it would never happen again. Something similar recently did — to the F.B.I.Dustin Volz, who covers cybersecurity for The New York Times, tells the story of the attack, the group behind it a..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Are Prediction Markets Gambling? A Lot Rides on the Answer.",
     "pub_date": "Tue, 29 Sep 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "Prediction markets such as Kalshi and Polymarket have gained huge popularity over the past year. These marketplaces allow you to wager on just about anything — whether it’s who will win a football game or the weather in New York City.David Yaffe-Bellany, a technology reporter for The New York Times, discusses the legal challenge these platforms ..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "He Was Deported to a Country He’d Never Heard Of",
     "pub_date": "Mon, 28 Sep 2026 09:46:17 +0000",
@@ -1305,21 +1314,12 @@
     "description": "In its efforts to deport as many undocumented immigrants as possible, the Trump administration has increasingly relied on a highly controversial strategy: deporting people to countries they have no connection to.Last week, a federal court ruled the practice to be illegal because it violated people’s right to due process. The administration chall..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "The Best TV Shows of the 21st Century",
     "pub_date": "Sun, 27 Sep 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/11b83b1f-3a09-4400-a504-507be826a493/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=11b83b1f-3a09-4400-a504-507be826a493&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "The turn of the century was the beginning of a new era in television: prestige TV for the masses. Today, television is where big stars and innovative creators go to marshal sizable budgets and tell meaningful stories.Over recent months, our colleagues at The New York Times ran a survey, asking industry insiders — on-screen talent, writers, direc..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.",
-    "pub_date": "Sat, 26 Sep 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3c0a5121-a722-4a1e-9b11-b78033a37931/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3c0a5121-a722-4a1e-9b11-b78033a37931&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "The legendary actor on his disturbing childhood, his Hollywood missteps and the pain he caused to his loved ones, his body and himself.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit ny..."
   }
 ]

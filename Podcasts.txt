@@ -135,6 +135,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee
 SHOW: Astronomy Cast
 ========================================================================
 ----------------------------------------
+Episode Title: Ep. 803: Mission Tech Series: Engines & Stages
+Published Date: Mon, 05 Oct 2026 20:00:00 +0000
+Description: Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Streamed on October 3, 2026. Today our series continues with our deep dive into rockets, their engines & stages. We fall into the tyranny of the rocket equation and discover what it takes to escape Earth's gravity and head off into deep space. We removed all ads from the sh...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20261005.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
 Episode Title: Ep. 802: Mission Tech Series: Rocket & Spacecraft 411
 Published Date: Mon, 28 Sep 2026 20:00:00 +0000
 Description: Help us keep Astronomy Cast ad-free: https://patreon.com/astronomycast We removed all ads from the show. We need to get to 1500 patrons to keep it this way. We need your support! Streamed live on Sep 21, 2026 Hosted by: Fraser Cain and Dr. Pamela L. Gay Today we begin a new series on rockets and spacecraft, dealing with each of their components....
@@ -188,16 +194,16 @@ Published Date: Mon, 18 May 2026 20:00:00 +0000
 Description: Astronomy Cast Ep. 794: Stargate Science By Fraser Cain & Dr. Pamela Gay Streamed live on May 10, 2026. We continue our ad-hoc miniseries through sci-fi franchises. This week we'll talk about Stargate, worm holes, mind parasites and self-replicating bots. There's a lot to talk about! This show is supported through people like you on Patreon.com/...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260518.mp3?dest-id=11189
 Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
-----------------------------------------
-Episode Title: Ep. 793: Star Trek Science
-Published Date: Mon, 11 May 2026 20:00:00 +0000
-Description: Astronomy Cast Ep. 793: Star Trek Science By Fraser Cain & Dr. Pamela Gay Streamed live May 4, 2026. Today we continue our mini-series; evaluating the science of various sci-fi franchises. We did Star Wars last week, this week tackle Star Trek. From transporters to warp drives, from phasers to photon torpedos. Let's tackle what Star Trek gets ri...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260511.mp3?dest-id=11189
-Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
 
 ========================================================================
 SHOW: Short Wave
 ========================================================================
+----------------------------------------
+Episode Title: Science-backed guidance for healthy screen time
+Published Date: Tue, 06 Oct 2026 07:00:00 +0000
+Description: We’re all aware – and wary – of doomscrolling. Lots of screen time can be bad for us. But what if that’s not always the case? We spoke with the author of a study that found a positive relationship between screen time and brain development in young people. This episode, we sort through what to actually worry about when it comes to screen time – a...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/71f5f934-6833-415a-a4c0-65656d4ca5fb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=71f5f934-6833-415a-a4c0-65656d4ca5fb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5954067&p=510351&d=771&size=12339078
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: The genetic secret helping bats survive a deadly epidemic
 Published Date: Mon, 05 Oct 2026 07:00:00 +0000
@@ -251,12 +257,6 @@ Episode Title: Why we should all be 'bookmaxxing'
 Published Date: Sat, 19 Sep 2026 00:01:05 +0000
 Description: Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most accessible activities for actually supporting cognitive performance, brain health, mental health, but also overall wellbeing throughout our lives,” said Chri...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/280cc23f-b5ca-41af-9ec4-8f51101ca6fb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=280cc23f-b5ca-41af-9ec4-8f51101ca6fb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968677&p=510351&d=658&size=10541017
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The latest on AI panic — and whether it's justified
-Published Date: Fri, 18 Sep 2026 07:00:00 +0000
-Description: AI is in the news again – for its potential to end civilization. A researcher at Anthropic resigned very publicly last week, citing concerns about the accelerating capabilities of AI and what he called “irresponsible” behavior from major AI companies Anthropic and OpenAI. Following his resignation, the leaders of both companies called for an int...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/75926fb0-6c54-49fb-a4f4-44901aa2fa69/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=75926fb0-6c54-49fb-a4f4-44901aa2fa69&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971154&p=510351&d=898&size=14379093
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -924,6 +924,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Call My A.I. Agent
+Published Date: Tue, 6 Oct 2026 09:46:21 +0000
+Description: Over the past few weeks, millions of people have rushed to download a new type of artificial intelligence app — agents. They are useful, kind of cute and need your most sensitive personal information to work.Eli Tan, a reporter who covers technology for The New York Times, opened up his life to Muse, Meta’s A.I. agent. He explained what happened...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/367aa3e9-2eaa-435f-867a-f172c3ef67cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=367aa3e9-2eaa-435f-867a-f172c3ef67cf&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Midterm Surprise: Democrats Are Surging in Red America
 Published Date: Mon, 5 Oct 2026 09:45:00 +0000
 Description: A new set of polls from The New York Times finds that Democratic candidates are doing remarkably well in the Republican-leaning states that they need to win to gain control of the U.S. Senate in next month’s midterm elections.They are doing less well in the blue states that, in theory, should be easier to win.Nate Cohn, the chief political analy...
@@ -977,11 +983,4 @@ Episode Title: The Best TV Shows of the 21st Century
 Published Date: Sun, 27 Sep 2026 10:00:00 +0000
 Description: The turn of the century was the beginning of a new era in television: prestige TV for the masses. Today, television is where big stars and innovative creators go to marshal sizable budgets and tell meaningful stories.Over recent months, our colleagues at The New York Times ran a survey, asking industry insiders — on-screen talent, writers, direc...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/11b83b1f-3a09-4400-a504-507be826a493/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=11b83b1f-3a09-4400-a504-507be826a493&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.
-Published Date: Sat, 26 Sep 2026 10:00:00 +0000
-Description: The legendary actor on his disturbing childhood, his Hollywood missteps and the pain he caused to his loved ones, his body and himself.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
-For more information on today’s episode, visit ny...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3c0a5121-a722-4a1e-9b11-b78033a37931/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3c0a5121-a722-4a1e-9b11-b78033a37931&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
