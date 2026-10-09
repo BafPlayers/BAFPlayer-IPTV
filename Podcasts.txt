@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: One of the toughest parts of ADHD is left out of the diagnosis
+Published Date: Fri, 09 Oct 2026 07:00:00 +0000
+Description: ADHD diagnoses are on the rise in the United States, but what if professionals are missing a key part of the disorder? In the 1970s, some clinicians recognized a lot of their ADHD patients had trouble with emotional regulation. But because it was easier to measure behavior rather than emotions, the criteria eventually fell off the radar. Today i...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/60ac9a5d-7083-4c69-b86b-fb316b73c8d6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=60ac9a5d-7083-4c69-b86b-fb316b73c8d6&feed=F0qJcgXZ&t=podcast&e=nx-s1-5978061&p=510351&d=729&size=11665745
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: What's missing from the lethal injection conversation
 Published Date: Wed, 07 Oct 2026 07:00:00 +0000
 Description: You might have seen the news that Christa Pike, a convicted murderer in Tennessee, did not die from the injections given to her as part of her death penalty sentence last week. After her failed execution, she was hospitalized, where she continues to receive critical medical care, according to her attorneys. Her survival is singular, but her mish...
@@ -251,12 +257,6 @@ Episode Title: Vaccinated or not, we’re on the brink of a measles epidemic
 Published Date: Wed, 23 Sep 2026 07:00:00 +0000
 Description: Measles is making a comeback. Ongoing outbreaks in Pennsylvania, South Carolina, Texas, and Utah have documented hundreds of cases, mostly among unvaccinated people. And while local and federal politicians debate the definitions and impact of those measles-associated deaths, health experts worry that we’re overlooking the real problem: the threa...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/042f306b-3241-4610-838c-bfa3ce7a1b55/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=042f306b-3241-4610-838c-bfa3ce7a1b55&feed=F0qJcgXZ&t=podcast&e=nx-s1-5974052&p=510351&d=858&size=13743377
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The science of self-worth (and how to boost yours)
-Published Date: Tue, 22 Sep 2026 07:00:00 +0000
-Description: Your self-worth today can be affected by your memories. But you have power over those memories – when you re-experience them. By doing that, you can reshape your self-esteem for the better and change your perspective. That idea and the broader science of self-worth are at the heart of Marisa Franco’s new book Worth. It’s so intriguing to us, we ...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b86ef78d-e61d-4d89-822d-f0b1147d9341/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b86ef78d-e61d-4d89-822d-f0b1147d9341&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968850&p=510351&d=765&size=12244576
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -457,6 +457,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Lore Alive 2: In Dreams
+Published Date: Fri, 09 Oct 2026 05:01:00 +0000
+Description: Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale puts us in the middle of the first known New England vampire exhumation, and the terrifying dream that plagued a heartbroken father. Lore Alive was created by Aaron Mahnke, with writing an...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive2.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Deeper Lore: 316 (118, 166, & 212)
 Published Date: Thu, 08 Oct 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (316: A Spoonful of Sugar) with these three recommendations from further back in the Lore catalog:  Episode 118: LorePodcast.com/episodes/118 Episode 166: LorePodcast.com/episodes/166 Episode 212: LorePodcast.com/episodes/212  ———————— Lore Resources:   Episode Music: lorepodcast.com/m...
@@ -509,12 +515,6 @@ Episode Title: Lore 314: Hive Mind
 Published Date: Mon, 07 Sep 2026 05:01:00 +0000
 Description: Not all big stories are about equally large characters. In the world of folklore, sometimes even the littlest players have a massive stage to perform upon. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore314d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Legends 87: Cursive
-Published Date: Mon, 31 Aug 2026 05:01:00 +0000
-Description: Everyone loves a good ghost story, but literature and spirits have a relationship that is older than some might think. Narrated and produced by Aaron Mahnke, with writing and research by GennaRose Nethercott and Alex Robinson. ————————— ORDER EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   Get Ad-Free Lore: lorepodcast.com/sup...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-87d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -695,6 +695,12 @@ Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: The shocking power of tiny things
+Published Date: Fri, 09 Oct 2026 07:00:00 +0000
+Description: You don't need to be big and boisterous to pack a punch. This hour, TED speakers explore the surprising strength of all things minuscule and fleeting. Guests include microbiologist Anne Madden, cognitive scientist Lera Boroditsky, former educator YeYoon Kim and former industrial engineer and Zen Buddhist monk Bart Weetjens.Original broadcast dat...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/6dc12426-41e1-469b-b6b4-b7c33a5b5f0e/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=6dc12426-41e1-469b-b6b4-b7c33a5b5f0e&feed=gGUt_fS1&t=podcast&e=nx-s1-5995249&p=510298&d=2979&size=47666200
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The women missing from music
 
 Published Date: Fri, 02 Oct 2026 07:00:00 +0000
@@ -748,12 +754,6 @@ Episode Title: Trusting medicine in an age of doubt
 Published Date: Fri, 07 Aug 2026 07:00:00 +0000
 Description: Medicine keeps advancing. Trust is falling behind. This hour, TED speakers explore why the future of healthcare depends not only on innovation, but also on listening, humility and honesty.Guests include viral immunologist Kizzmekia Corbett-Helaire and writer James Robinson.Support public media with NPR+ and enjoy perks for over 25 podcasts like ...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/2ed20250-40f1-463e-8545-fe8ea046e9aa/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=2ed20250-40f1-463e-8545-fe8ea046e9aa&feed=gGUt_fS1&t=podcast&e=nx-s1-5923373&p=510298&d=3009&size=48154375
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Addiction, motherhood and Jesus with writer Anne Lamott
-Published Date: Fri, 31 Jul 2026 07:00:00 +0000
-Description: Writer Anne Lamott has gained a cult following through shockingly honest prose on love, death, faith, writing and more. This hour, her wisdom from a career spanning 21 books and some 40 years.This episode originally aired April 2024.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage yo...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4b4f4cbd-e499-4389-b551-59dd8156dab6/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4b4f4cbd-e499-4389-b551-59dd8156dab6&feed=gGUt_fS1&t=podcast&e=nx-s1-5913647&p=510298&d=3003&size=48049049
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -924,6 +924,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Why France Is in Crisis
+Published Date: Fri, 9 Oct 2026 09:46:18 +0000
+Description: For weeks, thousands of high school students in France have been out in the streets protesting the conditions of public schools. They want better funding, something that won’t be easy with the current state of French finances.Mark Landler, the Paris bureau chief, explains why after years of overspending, France is in crisis, and is driving towar...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b5e251a6-38e1-4682-93b0-7d177cc57b49/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b5e251a6-38e1-4682-93b0-7d177cc57b49&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: A Failed Execution and the Future of the Death Penalty
 Published Date: Thu, 8 Oct 2026 09:45:00 +0000
 Description: Christa Pike survived two doses of a lethal injection drug last week during a botched execution in Tennessee.Pamela Colloff, who writes for The New York Times Magazine, discusses the waning public support for the death penalty and why despite it some states are doubling down.Guest: Pamela Colloff, a reporter at ProPublica and a staff writer at T...
@@ -977,10 +983,4 @@ Episode Title: Inside the Devastating Hack of the F.B.I.
 Published Date: Wed, 30 Sep 2026 09:45:26 +0000
 Description: A little over a decade ago, after hackers broke into the U.S. government and stole the personnel records of millions of federal workers, officials vowed that it would never happen again. Something similar recently did — to the F.B.I.Dustin Volz, who covers cybersecurity for The New York Times, tells the story of the attack, the group behind it a...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6438de0e-1b6c-4a40-87d0-0a5a3617900d/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6438de0e-1b6c-4a40-87d0-0a5a3617900d&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Are Prediction Markets Gambling? A Lot Rides on the Answer.
-Published Date: Tue, 29 Sep 2026 09:45:00 +0000
-Description: Prediction markets such as Kalshi and Polymarket have gained huge popularity over the past year. These marketplaces allow you to wager on just about anything — whether it’s who will win a football game or the weather in New York City.David Yaffe-Bellany, a technology reporter for The New York Times, discusses the legal challenge these platforms ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e402cd48-f992-4da1-9c17-cad1f5dbfee2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e402cd48-f992-4da1-9c17-cad1f5dbfee2&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
