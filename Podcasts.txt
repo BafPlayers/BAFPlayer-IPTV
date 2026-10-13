@@ -135,6 +135,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee
 SHOW: Astronomy Cast
 ========================================================================
 ----------------------------------------
+Episode Title: Ep. 804: Mission Tech Series: Fairings, Docking & Airlocks
+Published Date: Mon, 12 Oct 2026 20:00:00 +0000
+Description: Ad-Free thanks to your support at patreon.astronomycast.com! Instead of sending up an entire space station for every mission, you can just send up a tiny can filled with astronauts. But that takes docking. And today we're gonna talk about what it takes to connect two spacecraft together. How to keep a cargo safe to get into orbit, and how to get...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20261012.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
 Episode Title: Ep. 803: Mission Tech Series: Engines & Stages
 Published Date: Mon, 05 Oct 2026 20:00:00 +0000
 Description: Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Streamed on October 3, 2026. Today our series continues with our deep dive into rockets, their engines & stages. We fall into the tyranny of the rocket equation and discover what it takes to escape Earth's gravity and head off into deep space. We removed all ads from the sh...
@@ -188,16 +194,16 @@ Published Date: Mon, 01 Jun 2026 20:00:00 +0000
 Description: Astronomy Cast Ep. 795: Expanse Science By Fraser Cain & Dr. Pamela Gay Streamed live on May 10, 2026. This is the final episode of our series on sci-fi universes. And this week we will tackle "The Expanse". Now we've got fusion drives, Proto-matter, g-forces! Listen up, belta lawda! Let's look at the science of our own possible (with a side of ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260601.mp3?dest-id=11189
 Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
-----------------------------------------
-Episode Title: Ep. 794: Stargate Science
-Published Date: Mon, 18 May 2026 20:00:00 +0000
-Description: Astronomy Cast Ep. 794: Stargate Science By Fraser Cain & Dr. Pamela Gay Streamed live on May 10, 2026. We continue our ad-hoc miniseries through sci-fi franchises. This week we'll talk about Stargate, worm holes, mind parasites and self-replicating bots. There's a lot to talk about! This show is supported through people like you on Patreon.com/...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260518.mp3?dest-id=11189
-Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
 
 ========================================================================
 SHOW: Short Wave
 ========================================================================
+----------------------------------------
+Episode Title: The sound of fear: Why so many animals scream
+Published Date: Tue, 13 Oct 2026 07:00:00 +0000
+Description: It's Halloween season — and what better way to celebrate October 13th than to explore the haunting sound of fear? That's exactly what we do in this episode, where host Regina G. Barber and NPR science correspondent Nate Rott dive into the science behind the sound of fear. Along the way, they find out what marmot shrieks, baby cries and horror mo...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/48714ab6-e8c4-47b4-9c26-a4f4795bd8f4/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=48714ab6-e8c4-47b4-9c26-a4f4795bd8f4&feed=F0qJcgXZ&t=podcast&e=nx-s1-5999956&p=510351&d=800&size=12812582
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: One of the toughest parts of ADHD is left out of the diagnosis
 Published Date: Fri, 09 Oct 2026 07:00:00 +0000
@@ -251,12 +257,6 @@ Episode Title: 'Super' El Niño is coming. What should you expect?
 Published Date: Fri, 25 Sep 2026 07:00:00 +0000
 Description: The world is bracing for the worst effects of a Super El Niño. Or a Godzilla El Niño. But what does that really even mean?For millennia El Niño has shaped weather across the globe, fueling flooding in parts of the U.S., droughts and wildfires in Australia and Indonesia, and disrupting fisheries across the Pacific.Scientists have long wondered if...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/4a7dd3ff-a325-45f0-9ddb-183108a64806/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=4a7dd3ff-a325-45f0-9ddb-183108a64806&feed=F0qJcgXZ&t=podcast&e=nx-s1-5953022&p=510351&d=751&size=12017624
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Vaccinated or not, we’re on the brink of a measles epidemic
-Published Date: Wed, 23 Sep 2026 07:00:00 +0000
-Description: Measles is making a comeback. Ongoing outbreaks in Pennsylvania, South Carolina, Texas, and Utah have documented hundreds of cases, mostly among unvaccinated people. And while local and federal politicians debate the definitions and impact of those measles-associated deaths, health experts worry that we’re overlooking the real problem: the threa...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/042f306b-3241-4610-838c-bfa3ce7a1b55/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=042f306b-3241-4610-838c-bfa3ce7a1b55&feed=F0qJcgXZ&t=podcast&e=nx-s1-5974052&p=510351&d=858&size=13743377
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -925,6 +925,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Mathematicians’ Latest Problem: What if A.I. Can Do Our Job?
+Published Date: Tue, 13 Oct 2026 09:45:00 +0000
+Description: Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means.Steven Strogatz, a professor of mathematics at Cornell University, describes the excitement and grief of watching A.I. take on work that gives people a sense of p...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2fde62d-0af2-4554-ace2-22f8de6e143c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2fde62d-0af2-4554-ace2-22f8de6e143c&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The Israeli Film Directors Pushing for a Reckoning in Their Home Country
 Published Date: Mon, 12 Oct 2026 09:50:04 +0000
 Description: The documentary film “NAZA,” which investigates the methods the Israeli military has used in the war in Gaza since the Hamas-led attacks on Oct. 7, 2023, received a record-breaking standing ovation at the Venice Film Festival last month. Just a few days later, Prime Minister Benjamin Netanyahu said he would propose legislation that could revoke ...
@@ -978,11 +984,4 @@ Episode Title: The Restaurant Industry Is Broken. Can It Be Fixed?
 Published Date: Sun, 4 Oct 2026 10:00:00 +0000
 Description: If you dine out regularly, you might have noticed some changes in restaurants over the past few years. Perhaps you’ve found yourself ordering at a counter, scanning a QR code to see the menu, or eating … a lot more soft serve.These changes aren’t just trends. Brett Anderson, a New York Times food reporter, says they are restaurant owners’ desper...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6dd6f393-b2fb-414d-98a9-2a95bf47bb71/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6dd6f393-b2fb-414d-98a9-2a95bf47bb71&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Chris Rock Has Been Thinking About Forgiveness
-Published Date: Sat, 3 Oct 2026 10:00:00 +0000
-Description: The comedian and filmmaker on what real friendship looks like, what keeps him up at night and his new movie, "Misty Green."Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
-For more information on today’s episode, visit nytimes.com/th...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/80d2d987-2ef1-48fc-a605-7c7d40a7ddbd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=80d2d987-2ef1-48fc-a605-7c7d40a7ddbd&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
