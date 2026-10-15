@@ -77,7 +77,7 @@ Description: Collagen peptides!! Can they make you look younger and be healthier
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7411697549.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
-Episode Title: Why We Never Forget Our Teen Years, with Lisa Damour
+Episode Title: Why We Never Forget Our Teen Years, with Dr. Lisa Damour
 Published Date: Thu, 01 Oct 2026 09:00:00 -0000
 Description: Our brains go completely WILD when we go through our teenage years. It’s a time where it feels like every disagreement with our parents turns into World War III, and every idea that could get us killed sounds like the most fun we could ever have. In this episode, we get into the science of what the brain is doing during the teenage years with cl...
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3008509393.mp3
@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: What's at stake if we can't regrow our forests
+Published Date: Thu, 15 Oct 2026 07:00:00 +0000
+Description: In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity in...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5983821&p=510351&d=815&size=13048355
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: What Flock cameras really see – and how
 Published Date: Wed, 14 Oct 2026 07:00:00 +0000
 Description: Police departments across the U.S. are installing Flock cameras, saying the surveillance devices help deter theft and solve crimes, like helping find stolen property and missing people. But as the technology and its use by federal agencies expands, a handful of people have taken matters into their own hands. A hacker collective ripped down a Flo...
@@ -251,12 +257,6 @@ Episode Title: What social media gets wrong about inflammation
 Published Date: Tue, 29 Sep 2026 07:00:00 +0000
 Description: Inflammation is all over our feeds. Influencers claim it’s the reason you're bloated or fatigued, the source of digestive problems and the cause of more serious illnesses like Alzheimer's or cardiovascular disease. But how much of that is scientifically backed, and how viable are the solutions you see on social media? Short Wave talks to immunol...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/aa8093c3-ee49-44b4-848b-39593ad7df9c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=aa8093c3-ee49-44b4-848b-39593ad7df9c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5958510&p=510351&d=872&size=13968240
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: A fall mystery: why do only certain leaves turn red?
-Published Date: Mon, 28 Sep 2026 12:51:23 +0000
-Description: Leaves turn yellow in the fall because Chlorophyll breaks down, revealing the yellow pigment that was there all along. But why red? Red is a different story altogether. Leaves have to make a new pigment to turn red. Why would a dying leaf go an extra mile to do that? Scientists don’t really know. NPR science correspondent Nell Greenfieldboyce re...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/fe8e85b1-c0f6-4c58-9a28-0cb35fdd706d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=fe8e85b1-c0f6-4c58-9a28-0cb35fdd706d&feed=F0qJcgXZ&t=podcast&e=nx-s1-5980105&p=510351&d=839&size=13435760
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -568,6 +568,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Wanna slow down AI? These biologists can help.
+Published Date: Wed, 14 Oct 2026 21:30:18 +0000
+Description: Fifty years ago, scientists pioneering a terrifying gene-splicing technology figured out a way to collectively hit pause. Can we do it again with AI? We ask because some top AI industry leaders are saying the technology they’re pushing forward is moving too quickly … and might kill us all. They’re effectively saying, ‘Please, please regulate us!...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Should we all be getting tariff refunds right now?
 Published Date: Fri, 09 Oct 2026 21:07:00 +0000
 Description: Companies are getting billions of dollars back. How about us? It seems simple, right? We paid higher prices for imported goods because of tariffs. Then the tariffs were ruled illegal. Courts said the money paid to the U.S. government had to be refunded. Companies are getting that money now. It would seem like we, the customers, should get paid b...
@@ -621,16 +627,16 @@ Published Date: Fri, 11 Sep 2026 21:00:00 +0000
 Description: There is a new type of loan that is sweeping through the country right now. It’s advertised as a super quick and super easy way to get a mortgage to buy a home. In recent years, Wall Street has been funneling billions of dollars into these loans. But these loans are also raising questions. Are they a financial innovation that’s helping the housi...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Cost-cutting, quiet guilt and the inflation generation
-Published Date: Wed, 09 Sep 2026 07:00:00 +0000
-Description: In this economy it is boom times and doom times all at once. The statistics aren’t really capturing it. K-shaped only goes so far as a metaphor. So … we asked you to help. And you delivered! One one hand, the stock market is on a prolonged, upward trajectory. Unemployment is low and inflation has come down from its peak. But on the other hand, i...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
 SHOW: How I Built This with Guy Raz
 ========================================================================
+----------------------------------------
+Episode Title: Advice Line with Tara Bosch of SmartSweets
+Published Date: Thu, 15 Oct 2026 07:10:00 -0000
+Description: Today’s callers: Lindzi from Chicago wants to expand her gourmet marshmallow brand into retail without cannibalizing her high-margin DTC sales. Then, Vivi from Hawaii considers how to best tell her sustainable swimwear brand’s story to a digital audience. And Aly from Los Angeles wonders whether a subscription model is best for her whimsical cur...
+Audio Stream URL: https://rss.art19.com/episodes/8aab80a1-b0c5-4103-b875-f5d4823d07ce.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
+Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 ----------------------------------------
 Episode Title: Alamo Drafthouse Cinema: Tim and Karrie League (2023)
 Published Date: Mon, 12 Oct 2026 07:10:00 -0000
@@ -684,12 +690,6 @@ Episode Title: Thrive Causemetics: Karissa Bodnar. How a Beauty Business Made Mi
 Published Date: Mon, 14 Sep 2026 07:10:00 -0000
 Description: Karissa Bodnar had a dream job at L'Oréal when a close friend died from cancer at age 24. It shook her up and made her reassess what she really wanted to do with her life. The answer? Build her own beauty business with a mission of “giving back.”The problem? Nobody seemed to want to carry her products. She pitched Sephora, Nordstrom, Ulta, and o...
 Audio Stream URL: https://rss.art19.com/episodes/be72ee5e-a5fd-4554-bd4d-fda64909e6f6.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
-Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
-----------------------------------------
-Episode Title: Advice Line with Kip Tindell of The Container Store
-Published Date: Thu, 10 Sep 2026 07:10:00 -0000
-Description: Today’s callers: Juliette in France wonders how to raise awareness of her “magical” cooling device—without a costly ad campaign. Then David in North Carolina looks to grow the wholesale channel of his engraved gifts business in light of thinning retail margins. And Kaitlin in California wants to leverage the virality of her supportive, bordered ...
-Audio Stream URL: https://rss.art19.com/episodes/93508940-11b5-4b29-ba7b-eb077edee062.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c
 Logo URL: https://content.production.cdn.art19.com/images/56/ae/46/57/56ae4657-2aa7-4cfc-8ddf-9be24410d5ed/a42755c24a721ea0aaed99c400150d8e67da266430f4bf312684a4bd64e5a1b2f4be14f56746ce0633855e356d7a41a0973d96be2dd0f1d4a174bbe7f456aa4e.jpeg
 
 ========================================================================
@@ -925,6 +925,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The U.S. Tried to Choke Russia’s Energy Market. Then It Made a Diesel Deal.
+Published Date: Wed, 14 Oct 2026 09:51:54 +0000
+Description: President Trump announced a deal to purchase Russian diesel fuel and temporarily suspended sanctions in an effort to lower domestic fuel prices amid rising costs from the war in Iran and in anticipation of the upcoming midterms. This abrupt foreign policy shift stunned European allies and drew sharp criticism from Ukraine, which viewed the move ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6a014579-60ac-4d38-bb52-bbbec0c08d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6a014579-60ac-4d38-bb52-bbbec0c08d83&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: When A.I. Comes for Your Purpose in Life
 Published Date: Tue, 13 Oct 2026 09:45:00 +0000
 Description: Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means.Steven Strogatz, a professor of mathematics at Cornell University, describes the excitement and grief of watching A.I. take on work that gives people a sense of p...
@@ -978,10 +984,4 @@ Episode Title: Midterm Surprise: Democrats Are Surging in Red America
 Published Date: Mon, 5 Oct 2026 09:45:00 +0000
 Description: A new set of polls from The New York Times finds that Democratic candidates are doing remarkably well in the Republican-leaning states that they need to win to gain control of the U.S. Senate in next month’s midterm elections.They are doing less well in the blue states that, in theory, should be easier to win.Nate Cohn, the chief political analy...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/717e8887-4828-4b69-8249-f58831811f43/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=717e8887-4828-4b69-8249-f58831811f43&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Restaurant Industry Is Broken. Can It Be Fixed?
-Published Date: Sun, 4 Oct 2026 10:00:00 +0000
-Description: If you dine out regularly, you might have noticed some changes in restaurants over the past few years. Perhaps you’ve found yourself ordering at a counter, scanning a QR code to see the menu, or eating … a lot more soft serve.These changes aren’t just trends. Brett Anderson, a New York Times food reporter, says they are restaurant owners’ desper...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6dd6f393-b2fb-414d-98a9-2a95bf47bb71/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6dd6f393-b2fb-414d-98a9-2a95bf47bb71&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
