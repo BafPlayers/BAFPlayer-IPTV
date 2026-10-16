@@ -92,6 +92,15 @@
   {
     "id": "science-vs--gimlet--ep-1",
     "show_name": "Science Vs",
+    "episode_title": "Fiber Maxxing and Poo Maxxing, with Dr. Trisha Pasricha",
+    "pub_date": "Thu, 15 Oct 2026 09:00:00 -0000",
+    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4931999956.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Have you been puzzled by your poos or felt down about your dumps?? You’re not alone! So many of us are struggling with gut issues, which is why fiber is having a major moment. But even though we’re secretly guzzling psyllium husk, tons of us are too embarrassed to talk about our poo problems. No more! We’re putting an end to the silence on stool..."
+  },
+  {
+    "id": "science-vs--gimlet--ep-2",
+    "show_name": "Science Vs",
     "episode_title": "Collagen Peptides: Should You Take Them?",
     "pub_date": "Thu, 08 Oct 2026 09:00:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7411697549.mp3",
@@ -99,7 +108,7 @@
     "description": "Collagen peptides!! Can they make you look younger and be healthier? It feels like everyone wants to be bursting with collagen, and apparently the way to do it is by scooping up that white powder of collagen peptides and guzzling it down. Do that, and — according to the wellfluencers — not only will your skin be as bouncy as a baby's bottom, but..."
   },
   {
-    "id": "science-vs--gimlet--ep-2",
+    "id": "science-vs--gimlet--ep-3",
     "show_name": "Science Vs",
     "episode_title": "Why We Never Forget Our Teen Years, with Dr. Lisa Damour",
     "pub_date": "Thu, 01 Oct 2026 09:00:00 -0000",
@@ -108,7 +117,7 @@
     "description": "Our brains go completely WILD when we go through our teenage years. It’s a time where it feels like every disagreement with our parents turns into World War III, and every idea that could get us killed sounds like the most fun we could ever have. In this episode, we get into the science of what the brain is doing during the teenage years with cl..."
   },
   {
-    "id": "science-vs--gimlet--ep-3",
+    "id": "science-vs--gimlet--ep-4",
     "show_name": "Science Vs",
     "episode_title": "Stress: The Science of Chilling Out",
     "pub_date": "Thu, 24 Sep 2026 09:00:00 -0000",
@@ -117,7 +126,7 @@
     "description": "Stress! We’re all feeling it. And besides just feeling crappy, we’re also told that stress can wreak havoc on our bodies. The internet has a million solutions: vagus nerve stimulators, deep breaths, or a hot sauna! If that doesn’t work, maybe a cold plunge? But what does the science say about all this — what works to lower our stress? And is it ..."
   },
   {
-    "id": "science-vs--gimlet--ep-4",
+    "id": "science-vs--gimlet--ep-5",
     "show_name": "Science Vs",
     "episode_title": "Could AI Really Kill Us All?",
     "pub_date": "Thu, 17 Sep 2026 20:25:00 -0000",
@@ -126,7 +135,7 @@
     "description": "Could artificial intelligence really wipe out humanity? Claims that AI poses an existential threat are going gangbusters. AI agents from OpenAI recently hacked into another company, Hugging Face, which has people talking about whether AI can go “rogue.” And some current and former AI company employees are raising the alarm. CEOs have called for ..."
   },
   {
-    "id": "science-vs--gimlet--ep-5",
+    "id": "science-vs--gimlet--ep-6",
     "show_name": "Science Vs",
     "episode_title": "Where Have The Insects Gone?? With Dr. Jessica Ware",
     "pub_date": "Thu, 10 Sep 2026 09:00:00 -0000",
@@ -135,7 +144,7 @@
     "description": "Bugs are disappearing at alarming rates, scientists are telling us. Bees, butterflies, beetles: all of them have been dropping like flies. And scientists say there are a bunch of reasons to care about this — for example, fewer bugs means less pollination, which means less pasta in your pantry. But recently, some have suggested that all these sci..."
   },
   {
-    "id": "science-vs--gimlet--ep-6",
+    "id": "science-vs--gimlet--ep-7",
     "show_name": "Science Vs",
     "episode_title": "Protein-Maxxing: Is It Actually Bad For Us?",
     "pub_date": "Thu, 03 Sep 2026 09:00:00 -0000",
@@ -144,7 +153,7 @@
     "description": "Protein is everywhere — tons of us are trying to cram more of it into our diets, and it's showing up in our lattes, our snack bars, even our popcorn. But just as we’re getting on board with protein-maxxing, a bunch of headlines have started saying the opposite: that eating LESS protein could actually help you live longer. So what's going on here..."
   },
   {
-    "id": "science-vs--gimlet--ep-7",
+    "id": "science-vs--gimlet--ep-8",
     "show_name": "Science Vs",
     "episode_title": "Sunscreen: Could It Be Toxic??",
     "pub_date": "Thu, 27 Aug 2026 09:00:00 -0000",
@@ -153,7 +162,7 @@
     "description": "Sunscreen is supposed to protect us from dangerous stuff like cancer, but all over social media, people are saying that we’ve been getting it all wrong. We’re being told that our sunscreen is full of toxic chemicals, that wearing it could mess with our vitamin D levels — even that sunscreen itself actually increases our risk of skin cancer. So, ..."
   },
   {
-    "id": "science-vs--gimlet--ep-8",
+    "id": "science-vs--gimlet--ep-9",
     "show_name": "Science Vs",
     "episode_title": "Hank Green: What No One Tells You About the Algorithm ",
     "pub_date": "Thu, 20 Aug 2026 09:00:00 -0000",
@@ -162,22 +171,13 @@
     "description": "Hank Green is one of the most beloved science creators on the interwebs. He’s been making videos for almost 20 years, spanning LOTS of eras of the Internet, from YouTube prank videos to TikTok dance challenges to AI slop. In this episode, Wendy sits down with Hank to talk about this wild ride. They reminisce about his path to YouTube stardom, an..."
   },
   {
-    "id": "science-vs--gimlet--ep-9",
+    "id": "science-vs--gimlet--ep-10",
     "show_name": "Science Vs",
     "episode_title": "We Solve the 49ers Viral Conspiracy Theory",
     "pub_date": "Thu, 13 Aug 2026 13:37:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4103334081.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "Is an electrical substation contributing to injuries on the San Francisco 49ers?? A bunch of people on the internet seem to think so, claiming that electromagnetic field waves could be to blame for players getting hurt. We partner with the Pulitzer Prize-winning journalists at Pablo Torre Finds Out to get to the bottom of it. We talk to Peter Co..."
-  },
-  {
-    "id": "science-vs--gimlet--ep-10",
-    "show_name": "Science Vs",
-    "episode_title": "Weight Loss: Why Won't It Stick?",
-    "pub_date": "Thu, 06 Aug 2026 09:00:00 -0000",
-    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT1082820867.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "If you have ever tried to lose weight only to find the weight crept back on, you’re not alone. In fact, for tons of people, this happens over and over again. This is called “weight cycling,” and a bunch of influencers are saying that this is terrible for us. They say that it can ruin your metabolism forever and that it can lead to stuff like dia..."
   },
   {
     "id": "astronomy-cast--libsyn--ep-1",
@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "The terrifying physics of prehistoric sea monsters",
+    "pub_date": "Fri, 16 Oct 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/09bed82e-04a2-420b-8de9-17db2b9dd0e3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=09bed82e-04a2-420b-8de9-17db2b9dd0e3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5994381&p=510351&d=560&size=8975299",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "While dinosaurs roamed the earth, giant monsters roamed the sea. Mosasaurs were like the deadly T-rexes of the ocean: They grew up to the size of a bus and chased down their smaller prey. A recent study in the journal Current Biology details just how exactly they might have done that. And the answer is fast – way faster than humans can swim – an..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "What's at stake if we can't regrow our forests",
     "pub_date": "Thu, 15 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5983821&p=510351&d=815&size=13048355",
@@ -279,7 +288,7 @@
     "description": "In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity in..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "What Flock cameras really see – and how",
     "pub_date": "Wed, 14 Oct 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Police departments across the U.S. are installing Flock cameras, saying the surveillance devices help deter theft and solve crimes, like helping find stolen property and missing people. But as the technology and its use by federal agencies expands, a handful of people have taken matters into their own hands. A hacker collective ripped down a Flo..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "The sound of fear: Why so many animals scream",
     "pub_date": "Tue, 13 Oct 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "It's Halloween season — and what better way to celebrate October 13th than to explore the haunting sound of fear? That's exactly what we do in this episode, where host Regina G. Barber and NPR science correspondent Nate Rott dive into the science behind the sound of fear. Along the way, they find out what marmot shrieks, baby cries and horror mo..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "One of the toughest parts of ADHD is left out of the diagnosis",
     "pub_date": "Fri, 09 Oct 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "ADHD diagnoses are on the rise in the United States, but what if professionals are missing a key part of the disorder? In the 1970s, some clinicians recognized a lot of their ADHD patients had trouble with emotional regulation. But because it was easier to measure behavior rather than emotions, the criteria eventually fell off the radar. Today i..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "What's missing from the lethal injection conversation",
     "pub_date": "Wed, 07 Oct 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "You might have seen the news that Christa Pike, a convicted murderer in Tennessee, did not die from the injections given to her as part of her death penalty sentence last week. After her failed execution, she was hospitalized, where she continues to receive critical medical care, according to her attorneys. Her survival is singular, but her mish..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Science-backed guidance for healthy screen time",
     "pub_date": "Tue, 06 Oct 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "We’re all aware – and wary – of doomscrolling. Lots of screen time can be bad for us. But what if that’s not always the case? We spoke with the author of a study that found a positive relationship between screen time and brain development in young people. This episode, we sort through what to actually worry about when it comes to screen time – a..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "The genetic secret helping bats survive a deadly epidemic",
     "pub_date": "Mon, 05 Oct 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "We’re easing you into Halloween season with an episode about bats. There’s a silent serial killer decimating little brown bats as they hibernate. White nose syndrome has driven populations across the U.S. to almost the brink of extinction over the last decade. But recently, conservation biologist Giorgia Auteri and her team noticed several genet..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "Eating alone may be secretly spiking your blood sugar",
     "pub_date": "Fri, 02 Oct 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Being more social has a ton of benefits: lower stress, decreased inflammation – even living a longer life! Recently, some scientists have added lowering your blood sugar to the list. To figure it out, researchers had people break bread both in duos and alone. And they think the results could tell us something about the roots of our social nature..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "How much of Earth's life is still undiscovered?",
     "pub_date": "Wed, 30 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5bc17927-1be6-4514-bc2c-308925959415/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5bc17927-1be6-4514-bc2c-308925959415&feed=F0qJcgXZ&t=podcast&e=nx-s1-5978106&p=510351&d=829&size=13276100",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "If you, like us, clicked on the cute cat photos posted everywhere recently, announcing the discovery of the first new cat species in more than a century, you might have wondered how rare it is to find a new species. Turns out, it’s not! We live in an era of “unprecedented” discovery, says John Wiens, a professor of ecology and evolutionary biolo..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "What social media gets wrong about inflammation",
-    "pub_date": "Tue, 29 Sep 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/aa8093c3-ee49-44b4-848b-39593ad7df9c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=aa8093c3-ee49-44b4-848b-39593ad7df9c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5958510&p=510351&d=872&size=13968240",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Inflammation is all over our feeds. Influencers claim it’s the reason you're bloated or fatigued, the source of digestive problems and the cause of more serious illnesses like Alzheimer's or cardiovascular disease. But how much of that is scientifically backed, and how viable are the solutions you see on social media? Short Wave talks to immunol..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -542,6 +542,15 @@
   {
     "id": "bbc-in-our-time-ep-1",
     "show_name": "In Our Time",
+    "episode_title": "Thomas More's Utopia",
+    "pub_date": "Thu, 15 Oct 2026 08:45:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p9psnw.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
+    "description": "In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book,..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-2",
+    "show_name": "In Our Time",
     "episode_title": "Archive: The Measurement of Time",
     "pub_date": "Mon, 12 Oct 2026 08:45:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p94wbk.mp3",
@@ -549,7 +558,7 @@
     "description": "Misha Glenny chooses the first of his archive picks - bringing back classic conversations from the In Our Time archive, every Monday. \nHumans have tried to calculate, regulate, and measure time for thousands of years: from systems based on tracking sunrise and sunset, to the invention of increasingly precise mechanical alarm clocks and astrolabe..."
   },
   {
-    "id": "bbc-in-our-time-ep-2",
+    "id": "bbc-in-our-time-ep-3",
     "show_name": "In Our Time",
     "episode_title": "Archive: Trinity",
     "pub_date": "Thu, 08 Oct 2026 08:45:00 +0000",
@@ -558,7 +567,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His final choice is the Trinity, an episode first released in March 2014. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest y..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "Archive: Emma",
     "pub_date": "Thu, 01 Oct 2026 08:45:00 +0000",
@@ -567,7 +576,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His ninth choice is the episode on Jane Austen’s novel Emma, first released in November 2015. Austen described her leading character as \"a heroine whom no-one but myself will much like.\" Emma is one of Austen’s most popular novels and arguably her ..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "Archive: The War of 1812",
     "pub_date": "Thu, 24 Sep 2026 08:45:00 +0000",
@@ -576,7 +585,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His eighth choice is The War of 1812, which was first released in January 2013. Melvyn Bragg and his guests discussed the conflict between America and the British Empire sometimes referred to as the second American War of Independence. In June 1812..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "Archive: Rosalind Franklin",
     "pub_date": "Thu, 17 Sep 2026 08:45:00 +0000",
@@ -585,7 +594,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His seventh choice is the pioneering scientist Rosalind Franklin (1920 - 1958), first released in February 2018. During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "Archive: Plato's Republic",
     "pub_date": "Thu, 10 Sep 2026 08:45:00 +0000",
@@ -594,7 +603,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His sixth choice is Plato's Republic, an episode first released in June 2017. Is it always better to be just than unjust? That is the central question of Plato's Republic, written in c380BC. Plato applied this question both to the individual and th..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "In Our Time Returns for a New Series",
     "pub_date": "Mon, 07 Sep 2026 09:15:00 +0000",
@@ -603,7 +612,7 @@
     "description": "In Our Time returns for a new series with host Misha Glenny.A world class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. \n \nOn Thursdays, hear brand-new episodes with Misha Glenny and leading academics. On Monday..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "Archive: Empress Dowager Cixi",
     "pub_date": "Thu, 03 Sep 2026 08:45:00 +0000",
@@ -612,7 +621,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fifth choice, first released in May 2024, is the Empress Dowager Cixi, the woman who, for almost fifty years, was the most powerful figure in the Chinese court. Cixi (1835-1908) started out at court as one of the Emperor's many concubines, yet ..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "Archive: Plate Tectonics",
     "pub_date": "Thu, 27 Aug 2026 08:45:00 +0000",
@@ -621,16 +630,16 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fourth choice, first released in January 2008, explores how the science of plate tectonics revolutionised our understanding of the planet on which we live. America is getting further away from Europe. This is not a political statement but a geo..."
   },
   {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "Archive: Hatshepsut",
-    "pub_date": "Thu, 20 Aug 2026 08:45:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p07nv6.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
-    "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His third choice, first released in November 2014, is the Egyptian pharaoh Hatshepsut, whose name means 'foremost of noble ladies'. She ruled Egypt from about 1479 - 1458 BC and some scholars argue that she was one of the most successful and influe..."
+    "id": "lore--folklore---history--ep-1",
+    "show_name": "Lore",
+    "episode_title": "Lore Alive 3: Under the Rug",
+    "pub_date": "Fri, 16 Oct 2026 05:01:00 +0000",
+    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive3.mp3?dest-id=259905",
+    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
+    "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we travel north to Maine, and the tiny community of Dark Harbor. It is here that a promising marriage falls apart, and a horrifying legend grows up in its place. Lore Alive wa..."
   },
   {
-    "id": "lore--folklore---history--ep-1",
+    "id": "lore--folklore---history--ep-2",
     "show_name": "Lore",
     "episode_title": "Legends 90: Set Aside",
     "pub_date": "Mon, 12 Oct 2026 05:01:00 +0000",
@@ -639,7 +648,7 @@
     "description": "For a very long time, stories were fragile artifacts, passed along on the tenuous thread of oral tradition. And many of the relics that have survived to this day are thanks to one woman, and her connection to a famous pair of brothers. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BU..."
   },
   {
-    "id": "lore--folklore---history--ep-2",
+    "id": "lore--folklore---history--ep-3",
     "show_name": "Lore",
     "episode_title": "Lore Alive 2: In Dreams",
     "pub_date": "Fri, 09 Oct 2026 05:01:00 +0000",
@@ -648,7 +657,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale puts us in the middle of the first known New England vampire exhumation, and the terrifying dream that plagued a heartbroken father. Lore Alive was created by Aaron Mahnke, with writing an..."
   },
   {
-    "id": "lore--folklore---history--ep-3",
+    "id": "lore--folklore---history--ep-4",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 316 (118, 166, & 212)",
     "pub_date": "Thu, 08 Oct 2026 05:01:00 +0000",
@@ -657,7 +666,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (316: A Spoonful of Sugar) with these three recommendations from further back in the Lore catalog:  Episode 118: LorePodcast.com/episodes/118 Episode 166: LorePodcast.com/episodes/166 Episode 212: LorePodcast.com/episodes/212  ———————— Lore Resources:   Episode Music: lorepodcast.com/m..."
   },
   {
-    "id": "lore--folklore---history--ep-4",
+    "id": "lore--folklore---history--ep-5",
     "show_name": "Lore",
     "episode_title": "Lore 316: A Spoonful of Sugar",
     "pub_date": "Mon, 05 Oct 2026 05:01:00 +0000",
@@ -666,7 +675,7 @@
     "description": "Sometimes the most frightening stories involve things we consider safe retreats or mindless pleasures. If that sounds tasty, today's exploration will hit the spot. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhu..."
   },
   {
-    "id": "lore--folklore---history--ep-5",
+    "id": "lore--folklore---history--ep-6",
     "show_name": "Lore",
     "episode_title": "Lore Alive 1: The Sleep",
     "pub_date": "Fri, 02 Oct 2026 05:01:00 +0000",
@@ -675,7 +684,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale introduces us to some newlyweds in late 1800s Kentucky who settled in for a new life together, only for their hopes and dreams to meet a terrifying end. Lore Alive was created by Aaron Mah..."
   },
   {
-    "id": "lore--folklore---history--ep-6",
+    "id": "lore--folklore---history--ep-7",
     "show_name": "Lore",
     "episode_title": "Legends 89: Mother Dearest",
     "pub_date": "Mon, 28 Sep 2026 05:01:00 +0000",
@@ -684,7 +693,7 @@
     "description": "Folklore is often about powerful beings that deserve our fear and respect. Which is why one big category of legends around the globe is about someone very close to home. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:..."
   },
   {
-    "id": "lore--folklore---history--ep-7",
+    "id": "lore--folklore---history--ep-8",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 315 (32, 196, & 204)",
     "pub_date": "Thu, 24 Sep 2026 05:01:00 +0000",
@@ -693,7 +702,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (Lore 315: All Shook Up) with these three recommendations from further back in the Lore catalog:  Episode 32: LorePodcast.com/episodes/32 Episode 196: LorePodcast.com/episodes/196 Episode 204: LorePodcast.com/episodes/204  ———————— Lore Resources:   Episode Music: lorepodcast.com/music..."
   },
   {
-    "id": "lore--folklore---history--ep-8",
+    "id": "lore--folklore---history--ep-9",
     "show_name": "Lore",
     "episode_title": "Lore 315: All Shook Up",
     "pub_date": "Mon, 21 Sep 2026 05:01:00 +0000",
@@ -702,22 +711,13 @@
     "description": "Folklore usually depends on the little things. The daily struggle to survive, the terror of a new location, or even violence and crime. But even when the events are bigger than we can imagine, folklore has a way of showing up. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by..."
   },
   {
-    "id": "lore--folklore---history--ep-9",
+    "id": "lore--folklore---history--ep-10",
     "show_name": "Lore",
     "episode_title": "Legends 88: Tell-Tale Heartland",
     "pub_date": "Mon, 14 Sep 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-88d.mp3?dest-id=259905",
     "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
     "description": "The American heartland might not be as ancient as New England, but it can hold its own when it comes to dark history and terrifying tales. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick, and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:   Get Ad-Free Lore: l..."
-  },
-  {
-    "id": "lore--folklore---history--ep-10",
-    "show_name": "Lore",
-    "episode_title": "Deeper Lore: 314 (166, 186, & 212)",
-    "pub_date": "Thu, 10 Sep 2026 05:01:00 +0000",
-    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-314.mp3?dest-id=259905",
-    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
-    "description": "Go deeper into the subject matter of our most recent episode (Lore 314: Hive Mind) with these three recommendations from further back in the Lore catalog:  Episode 166: LorePodcast.com/episodes/166 Episode 186: LorePodcast.com/episodes/186 Episode 212: LorePodcast.com/episodes/212  ———————— Lore Resources:   Episode Music: lorepodcast.com/music ..."
   },
   {
     "id": "dan-carlin-s-hardcore-history-ep-1",
@@ -965,6 +965,15 @@
   {
     "id": "ted-radio-hour-ep-1",
     "show_name": "TED Radio Hour",
+    "episode_title": "Have we forgotten how to play?",
+    "pub_date": "Fri, 16 Oct 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/f5fee0c8-3954-426f-aa1e-f71315973eb5/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=f5fee0c8-3954-426f-aa1e-f71315973eb5&feed=gGUt_fS1&t=podcast&e=nx-s1-6001767&p=510298&d=2979&size=47666199",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
+    "description": "Play is how we evolved to learn, solve problems, and navigate the world. So why do we treat it as optional? This hour, the science of play — and what happens when we don’t get enough of it.Guests include psychology researcher Peter Gray, sailor and social activist Tracy Edwards and photographer Stefen Chow.Support public media with NPR+ and enjo..."
+  },
+  {
+    "id": "ted-radio-hour-ep-2",
+    "show_name": "TED Radio Hour",
     "episode_title": "The shocking power of tiny things",
     "pub_date": "Fri, 09 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/6dc12426-41e1-469b-b6b4-b7c33a5b5f0e/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=6dc12426-41e1-469b-b6b4-b7c33a5b5f0e&feed=gGUt_fS1&t=podcast&e=nx-s1-5995249&p=510298&d=2979&size=47666200",
@@ -972,7 +981,7 @@
     "description": "You don't need to be big and boisterous to pack a punch. This hour, TED speakers explore the surprising strength of all things minuscule and fleeting. Guests include microbiologist Anne Madden, cognitive scientist Lera Boroditsky, former educator YeYoon Kim and former industrial engineer and Zen Buddhist monk Bart Weetjens.Original broadcast dat..."
   },
   {
-    "id": "ted-radio-hour-ep-2",
+    "id": "ted-radio-hour-ep-3",
     "show_name": "TED Radio Hour",
     "episode_title": "The women missing from music\n",
     "pub_date": "Fri, 02 Oct 2026 07:00:00 +0000",
@@ -981,7 +990,7 @@
     "description": "Women have been writing music for centuries. Why do we know so few of them today? This hour, TED speakers explore the role of women in music history and how we can remember their contributions. Guests include opera singer and activist Gabriella Di Laccio and Nadya Tolokonnikova, a Russian artist and founder of Pussy Riot.Support public media wit..."
   },
   {
-    "id": "ted-radio-hour-ep-3",
+    "id": "ted-radio-hour-ep-4",
     "show_name": "TED Radio Hour",
     "episode_title": "Life can be so awkward. Here's how to embrace the embarrassing",
     "pub_date": "Fri, 25 Sep 2026 07:00:00 +0000",
@@ -990,7 +999,7 @@
     "description": "Forgetting a name, a poorly executed hug, the 7th grade — awkwardness is part of our lives whether we like it or not. But what if we put the embarrassment aside and embraced our awkward selves? Guests include social scientist Ty Tashiro, cartoonist Liana Finck, journalist Melissa Dahl and sex and relationship counselor Erin Chen.Original broadca..."
   },
   {
-    "id": "ted-radio-hour-ep-4",
+    "id": "ted-radio-hour-ep-5",
     "show_name": "TED Radio Hour",
     "episode_title": "Big mysteries explained through your senses",
     "pub_date": "Fri, 18 Sep 2026 07:00:00 +0000",
@@ -999,7 +1008,7 @@
     "description": "Our senses help us navigate everyday life. But can they also reveal what lies beyond our perception? This hour, TED speakers explore the hidden world through the senses. Guests include astronomer Mark Whittle, chemosensory researcher Paule Joseph and artist Yiyun Kang.Support public media with NPR+ and enjoy perks for over 25 podcasts like this ..."
   },
   {
-    "id": "ted-radio-hour-ep-5",
+    "id": "ted-radio-hour-ep-6",
     "show_name": "TED Radio Hour",
     "episode_title": "What this musician’s identity crisis teaches us about navigating change",
     "pub_date": "Fri, 11 Sep 2026 07:00:00 +0000",
@@ -1008,7 +1017,7 @@
     "description": "Since childhood, Joshua Roman's life revolved around the cello. But when long COVID forced him to set his cello aside, he had to rethink his approach to life, faith and music.Original broadcast date: September 26, 2025.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listen..."
   },
   {
-    "id": "ted-radio-hour-ep-6",
+    "id": "ted-radio-hour-ep-7",
     "show_name": "TED Radio Hour",
     "episode_title": "Less guilt, more joy: A new chapter for climate action",
     "pub_date": "Fri, 04 Sep 2026 07:00:00 +0000",
@@ -1017,7 +1026,7 @@
     "description": "Climate action usually means sacrifice: eat less meat, buy less, drive less. What if there's another approach? Researcher Elizabeth Dunn shares climate hacks that help the planet AND make us happier.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences..."
   },
   {
-    "id": "ted-radio-hour-ep-7",
+    "id": "ted-radio-hour-ep-8",
     "show_name": "TED Radio Hour",
     "episode_title": "The day the dinosaurs died",
     "pub_date": "Fri, 28 Aug 2026 07:00:00 +0000",
@@ -1026,7 +1035,7 @@
     "description": "What happened in the days, even hours, after an asteroid set off the fifth extinction? A New Jersey quarry, and site of a new museum founded by paleontologist Ken Lacovara, sheds light on the mystery.Original broadcast date: August 16, 2024Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks includ..."
   },
   {
-    "id": "ted-radio-hour-ep-8",
+    "id": "ted-radio-hour-ep-9",
     "show_name": "TED Radio Hour",
     "episode_title": "How the creator economy is making you talk like the internet",
     "pub_date": "Fri, 21 Aug 2026 07:00:00 +0000",
@@ -1035,22 +1044,13 @@
     "description": "Online linguist Adam Aleksic explains how he goes viral decoding internet slang, plus why making a living online means working for 'the algorithm.' It's part 2 of our creator economy series.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn..."
   },
   {
-    "id": "ted-radio-hour-ep-9",
+    "id": "ted-radio-hour-ep-10",
     "show_name": "TED Radio Hour",
     "episode_title": "The price of creativity",
     "pub_date": "Fri, 14 Aug 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/b26c00b0-7566-4a4e-87ac-ef573f727178/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=b26c00b0-7566-4a4e-87ac-ef573f727178&feed=gGUt_fS1&t=podcast&e=nx-s1-5930324&p=510298&d=3003&size=48049050",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
     "description": "The words \"content creator\" may make you roll your eyes. But in part 1 of our series, Kickstarter co-founder Yancey Strickler explains how the creator economy is changing work, art and what we value.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listeni..."
-  },
-  {
-    "id": "ted-radio-hour-ep-10",
-    "show_name": "TED Radio Hour",
-    "episode_title": "Trusting medicine in an age of doubt",
-    "pub_date": "Fri, 07 Aug 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/2ed20250-40f1-463e-8545-fe8ea046e9aa/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=2ed20250-40f1-463e-8545-fe8ea046e9aa&feed=gGUt_fS1&t=podcast&e=nx-s1-5923373&p=510298&d=3009&size=48154375",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
-    "description": "Medicine keeps advancing. Trust is falling behind. This hour, TED speakers explore why the future of healthcare depends not only on innovation, but also on listening, humility and honesty.Guests include viral immunologist Kizzmekia Corbett-Helaire and writer James Robinson.Support public media with NPR+ and enjoy perks for over 25 podcasts like ..."
   },
   {
     "id": "lex-fridman-podcast-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The Republican Strategy to Salvage the Midterms",
+    "pub_date": "Thu, 15 Oct 2026 09:52:12 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c5e2bb17-fc5a-40cd-a694-d27ad3222fbe/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c5e2bb17-fc5a-40cd-a694-d27ad3222fbe&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "With Republicans trailing in the polls, the party is making hard choices about where to spend its money — abandoning some races while pouring resources into others.Shane Goldmacher, Nate Cohn and Lisa Lerer, political correspondents for The New York Times, explain why President Trump is campaigning almost daily in deep-red territory, how his inf..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "The U.S. Tried to Choke Russia’s Energy Market. Then It Made a Diesel Deal.",
     "pub_date": "Wed, 14 Oct 2026 09:51:54 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6a014579-60ac-4d38-bb52-bbbec0c08d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6a014579-60ac-4d38-bb52-bbbec0c08d83&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "President Trump announced a deal to purchase Russian diesel fuel and temporarily suspended sanctions in an effort to lower domestic fuel prices amid rising costs from the war in Iran and in anticipation of the upcoming midterms. This abrupt foreign policy shift stunned European allies and drew sharp criticism from Ukraine, which viewed the move ..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "When A.I. Comes for Your Purpose in Life",
     "pub_date": "Tue, 13 Oct 2026 09:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means.Steven Strogatz, a professor of mathematics at Cornell University, describes the excitement and grief of watching A.I. take on work that gives people a sense of p..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The Israeli Film Directors Pushing for a Reckoning in Their Home Country",
     "pub_date": "Mon, 12 Oct 2026 09:50:04 +0000",
@@ -1260,7 +1269,7 @@
     "description": "The documentary film “NAZA,” which investigates the methods the Israeli military has used in the war in Gaza since the Hamas-led attacks on Oct. 7, 2023, received a record-breaking standing ovation at the Venice Film Festival last month. Just a few days later, Prime Minister Benjamin Netanyahu said he would propose legislation that could revoke ..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Celine Dion’s Triumphant Return to the Stage",
     "pub_date": "Sun, 11 Oct 2026 10:00:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "A dramatic pop music comeback story is underway: Celine Dion is performing again.In 2022, Dion, the renowned Canadian singer, announced that she had stiff person syndrome, a rare and incurable neurological disorder that causes painful muscle spasms and affects roughly one in a million people. The announcement came as a shock to her fans, and in ..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning.",
     "pub_date": "Sat, 10 Oct 2026 10:00:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "As the head of the International Committee of the Red Cross, Mirjana Spoljaric goes to both sides of conflicts. She’s worried that our warring world is spiraling out of control.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor mor..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Why France Is in Crisis",
     "pub_date": "Fri, 9 Oct 2026 09:46:18 +0000",
@@ -1287,7 +1296,7 @@
     "description": "For weeks, thousands of high school students in France have been out in the streets protesting the conditions of public schools. They want better funding, something that won’t be easy with the current state of French finances.Mark Landler, the Paris bureau chief, explains why after years of overspending, France is in crisis, and is driving towar..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "A Failed Execution and the Future of the Death Penalty",
     "pub_date": "Thu, 8 Oct 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "Christa Pike survived two doses of a lethal injection drug last week during a botched execution in Tennessee.Pamela Colloff, who writes for The New York Times Magazine, discusses the waning public support for the death penalty and why despite it some states are doubling down.Guest: Pamela Colloff, a reporter at ProPublica and a staff writer at T..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Three Vans, a Startled Farmer and an Iranian Plot Against the U.S.",
     "pub_date": "Wed, 7 Oct 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "What exactly happened near an air base in Britain used by the United States?Eric Schmitt, a national security correspondent for The New York Times, discusses what he’s learned about the mysterious events around the base, including the abrupt withdrawal of U.S. Air Force bombers.Guest: Eric Schmitt, a national security correspondent for The New Y..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Call My A.I. Agent",
     "pub_date": "Tue, 6 Oct 2026 09:46:21 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/367aa3e9-2eaa-435f-867a-f172c3ef67cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=367aa3e9-2eaa-435f-867a-f172c3ef67cf&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "Over the past few weeks, millions of people have rushed to download a new type of artificial intelligence app — agents. They are useful, kind of cute and need your most sensitive personal information to work.Eli Tan, a reporter who covers technology for The New York Times, opened up his life to Muse, Meta’s A.I. agent. He explained what happened..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Midterm Surprise: Democrats Are Surging in Red America",
-    "pub_date": "Mon, 5 Oct 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/717e8887-4828-4b69-8249-f58831811f43/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=717e8887-4828-4b69-8249-f58831811f43&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "A new set of polls from The New York Times finds that Democratic candidates are doing remarkably well in the Republican-leaning states that they need to win to gain control of the U.S. Senate in next month’s midterm elections.They are doing less well in the blue states that, in theory, should be easier to win.Nate Cohn, the chief political analy..."
   }
 ]
