@@ -460,6 +460,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Deeper Lore: 317 (84, 111, & 215)
+Published Date: Thu, 22 Oct 2026 05:01:00 +0000
+Description: Go deeper into the subject matter of our most recent episode (317: Smoke and Mirrors) with these three recommendations from further back in the Lore catalog:  Episode 84: LorePodcast.com/episodes/84 Episode 111: LorePodcast.com/episodes/111 Episode 215: LorePodcast.com/episodes/215  ———————— Lore Resources:   Episode Music: lorepodcast.com/music...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-317.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Lore 317: Smoke and Mirrors
 Published Date: Mon, 19 Oct 2026 05:01:00 +0000
 Description: Stage magic as we know it today is very different from how it began. The consequences of those early days, though, are all around us. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources: ...
@@ -512,12 +518,6 @@ Episode Title: Deeper Lore: 315 (32, 196, & 204)
 Published Date: Thu, 24 Sep 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (Lore 315: All Shook Up) with these three recommendations from further back in the Lore catalog:  Episode 32: LorePodcast.com/episodes/32 Episode 196: LorePodcast.com/episodes/196 Episode 204: LorePodcast.com/episodes/204  ———————— Lore Resources:   Episode Music: lorepodcast.com/music...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-315.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore 315: All Shook Up
-Published Date: Mon, 21 Sep 2026 05:01:00 +0000
-Description: Folklore usually depends on the little things. The daily struggle to survive, the terror of a new location, or even violence and crime. But even when the events are bigger than we can imagine, folklore has a way of showing up. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore315d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -634,6 +634,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Advice Line with Seth Berkowitz of Insomnia Cookies
+Published Date: Thu, 22 Oct 2026 07:10:00 -0000
+Description: Today’s callers: Kohindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif...
+Audio Stream URL: https://traffic.megaphone.fm/VMP8144262595.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand
 Published Date: Mon, 19 Oct 2026 07:10:00 -0000
 Description: Loren Castle started baking cookies after surviving cancer in her early twenties. Five years later, Sweet Loren’s refrigerated cookie dough was generating just $350,000 a year. But instead of giving up, she listened to customers, and reinvented the dough without gluten, dairy, eggs or nuts.  That transformation turned a small regional business i...
@@ -689,12 +695,6 @@ Episode Title: Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mu
 Published Date: Mon, 21 Sep 2026 07:10:00 -0000
 Description: Brian Rudolph started making chickpea pasta in his Detroit apartment because wheat made him feel sick. A decade later, Banza was in more than 25,000 stores, and today, it’s one of the most popular pasta brands in the country. Success was not automatic: The business barely got off the ground because the cooked pasta was turning to mush—and as Ban...
 Audio Stream URL: https://traffic.megaphone.fm/VMP4886090161.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Advice Line with Michelle Wahler of Beyond Yoga
-Published Date: Thu, 10 Sep 2026 07:10:00 -0000
-Description: Today's callers: Carrie from Paris wants to turn interest into bookings for her boutique study-abroad programs for adults. Then, Grace from Nashville considers how to re-build relationships with interior designers she may have let down early on in her furniture upholstery business. And Angel from Indiana explores how to translate the emotional a...
-Audio Stream URL: https://traffic.megaphone.fm/VMP3504084344.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -930,6 +930,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Is This Economy as Awful as Voters Think? We Ask Our Expert.
+Published Date: Wed, 21 Oct 2026 09:45:00 +0000
+Description: The economy is one of the most important issues for voters in the midterm elections. President Trump has been trying to persuade Americans that they are wrong to be frustrated about the cost of living.Ben Casselman, the chief economics correspondent for The New York Times, explains what the latest economic data actually says.Guest: Ben Casselman...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/93fe65fc-d93d-490d-b13f-c5a17049a898/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=93fe65fc-d93d-490d-b13f-c5a17049a898&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: James Talarico on the Rage Economy, Billionaires and Flipping Texas
 Published Date: Tue, 20 Oct 2026 09:45:00 +0000
 Description: James Talarico is asking Texas to do something it hasn’t done in nearly 40 years: Elect a Democrat to the U.S. Senate. It won’t be easy. It will take a vast coalition of Democrats, independents and Republicans in a bright red state that President Trump won by about 14 percentage points in 2024 — and where Republicans have plowed hundreds of mill...
@@ -983,10 +989,4 @@ Episode Title: The Israeli Film Directors Pushing for a Reckoning in Their Home 
 Published Date: Mon, 12 Oct 2026 09:50:04 +0000
 Description: The documentary film “NAZA,” which investigates the methods the Israeli military has used in the war in Gaza since the Hamas-led attacks on Oct. 7, 2023, received a record-breaking standing ovation at the Venice Film Festival last month. Just a few days later, Prime Minister Benjamin Netanyahu said he would propose legislation that could revoke ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a46250d4-c001-4b93-9f35-033871237cd4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a46250d4-c001-4b93-9f35-033871237cd4&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Celine Dion’s Triumphant Return to the Stage
-Published Date: Sun, 11 Oct 2026 10:00:00 +0000
-Description: A dramatic pop music comeback story is underway: Celine Dion is performing again.In 2022, Dion, the renowned Canadian singer, announced that she had stiff person syndrome, a rare and incurable neurological disorder that causes painful muscle spasms and affects roughly one in a million people. The announcement came as a shock to her fans, and in ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/dafc2cef-4446-423b-b47d-8df99312ac06/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=dafc2cef-4446-423b-b47d-8df99312ac06&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
