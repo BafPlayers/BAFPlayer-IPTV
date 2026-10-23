@@ -71,6 +71,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7be
 SHOW: Science Vs
 ========================================================================
 ----------------------------------------
+Episode Title: Testosterone: Do We All Need a Boost?
+Published Date: Thu, 22 Oct 2026 09:00:00 -0000
+Description: We’re hearing a ton about the marvels of testosterone from influencers, celebrities, and even government officials. They say we should be thinking about our T levels, topping them off with extra if they’re too low. And we’re told that the benefits of testosterone are HUGE: that we’ll be stronger, sexier, and more energized. So is that true?? And...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT6971811231.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Fiber Maxxing and Poo Maxxing, with Dr. Trisha Pasricha
 Published Date: Thu, 15 Oct 2026 09:00:00 -0000
 Description: Have you been puzzled by your poos or felt down about your dumps?? You’re not alone! So many of us are struggling with gut issues, which is why fiber is having a major moment. But even though we’re secretly guzzling psyllium husk, tons of us are too embarrassed to talk about our poo problems. No more! We’re putting an end to the silence on stool...
@@ -123,12 +129,6 @@ Episode Title: Hank Green: What No One Tells You About the Algorithm
 Published Date: Thu, 20 Aug 2026 09:00:00 -0000
 Description: Hank Green is one of the most beloved science creators on the interwebs. He’s been making videos for almost 20 years, spanning LOTS of eras of the Internet, from YouTube prank videos to TikTok dance challenges to AI slop. In this episode, Wendy sits down with Hank to talk about this wild ride. They reminisce about his path to YouTube stardom, an...
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT6845023950.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: We Solve the 49ers Viral Conspiracy Theory
-Published Date: Thu, 13 Aug 2026 13:37:00 -0000
-Description: Is an electrical substation contributing to injuries on the San Francisco 49ers?? A bunch of people on the internet seem to think so, claiming that electromagnetic field waves could be to blame for players getting hurt. We partner with the Pulitzer Prize-winning journalists at Pablo Torre Finds Out to get to the bottom of it. We talk to Peter Co...
-Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4103334081.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: The dormant viruses in all of us may help explain long COVID
+Published Date: Fri, 23 Oct 2026 07:00:00 +0000
+Description: Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/70d14efb-5797-4acd-b8aa-a16f9e9963b9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=70d14efb-5797-4acd-b8aa-a16f9e9963b9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5985807&p=510351&d=865&size=13842477
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Can planting more trees make allergies worse?
 Published Date: Wed, 21 Oct 2026 07:00:00 +0000
 Description: Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.Interested in more...
@@ -251,12 +257,6 @@ Episode Title: What's missing from the lethal injection conversation
 Published Date: Wed, 07 Oct 2026 07:00:00 +0000
 Description: You might have seen the news that Christa Pike, a convicted murderer in Tennessee, did not die from the injections given to her as part of her death penalty sentence last week. After her failed execution, she was hospitalized, where she continues to receive critical medical care, according to her attorneys. Her survival is singular, but her mish...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e9fc1098-721b-4467-94ac-a5db479e0598/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e9fc1098-721b-4467-94ac-a5db479e0598&feed=F0qJcgXZ&t=podcast&e=nx-s1-5991797&p=510351&d=878&size=14058102
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Science-backed guidance for healthy screen time
-Published Date: Tue, 06 Oct 2026 07:00:00 +0000
-Description: We’re all aware – and wary – of doomscrolling. Lots of screen time can be bad for us. But what if that’s not always the case? We spoke with the author of a study that found a positive relationship between screen time and brain development in young people. This episode, we sort through what to actually worry about when it comes to screen time – a...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/71f5f934-6833-415a-a4c0-65656d4ca5fb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=71f5f934-6833-415a-a4c0-65656d4ca5fb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5954067&p=510351&d=771&size=12339078
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -391,6 +391,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: Particle Accelerators
+Published Date: Thu, 22 Oct 2026 08:45:00 +0000
+Description: Misha Glenny and guests discuss the machines that are described as the world’s largest experiments: Particle Accelerators. A famous example of a Particle Accelerator is the Large Hadron Collider, a device which stretches for nearly 30km, deep beneath the ground in a tunnel between France and Switzerland.    This enormous scale enables the partic...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc10qt.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
+----------------------------------------
 Episode Title: Archive: Erasmus
 Published Date: Mon, 19 Oct 2026 08:45:00 +0000
 Description: One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. 
@@ -449,16 +455,16 @@ Description: In Our Time returns for a new series with host Misha Glenny.A world
 On Thursdays, hear brand-new episodes with Misha Glenny and leading academics. On Monday...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p8cggx.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
-----------------------------------------
-Episode Title: Archive: Empress Dowager Cixi
-Published Date: Thu, 03 Sep 2026 08:45:00 +0000
-Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His fifth choice, first released in May 2024, is the Empress Dowager Cixi, the woman who, for almost fifty years, was the most powerful figure in the Chinese court. Cixi (1835-1908) started out at court as one of the Emperor's many concubines, yet ...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p1bp6f.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 
 ========================================================================
 SHOW: Lore
 ========================================================================
+----------------------------------------
+Episode Title: Lore Alive 4: Peg & Button
+Published Date: Fri, 23 Oct 2026 05:01:00 +0000
+Description: Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we meet a group of mischievous young men who pick on the wrong woman before heading off to war in the far north. Their decision, it turns out, became something that haunted th...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive4.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 ----------------------------------------
 Episode Title: Deeper Lore: 317 (84, 111, & 215)
 Published Date: Thu, 22 Oct 2026 05:01:00 +0000
@@ -512,12 +518,6 @@ Episode Title: Legends 89: Mother Dearest
 Published Date: Mon, 28 Sep 2026 05:01:00 +0000
 Description: Folklore is often about powerful beings that deserve our fear and respect. Which is why one big category of legends around the globe is about someone very close to home. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-89d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Deeper Lore: 315 (32, 196, & 204)
-Published Date: Thu, 24 Sep 2026 05:01:00 +0000
-Description: Go deeper into the subject matter of our most recent episode (Lore 315: All Shook Up) with these three recommendations from further back in the Lore catalog:  Episode 32: LorePodcast.com/episodes/32 Episode 196: LorePodcast.com/episodes/196 Episode 204: LorePodcast.com/episodes/204  ———————— Lore Resources:   Episode Music: lorepodcast.com/music...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-315.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -635,8 +635,8 @@ SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
 Episode Title: Advice Line with Seth Berkowitz of Insomnia Cookies
-Published Date: Thu, 22 Oct 2026 07:10:00 -0000
-Description: Today’s callers: Kohindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif...
+Published Date: Fri, 23 Oct 2026 07:57:00 -0000
+Description: Today’s callers: Kahindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif...
 Audio Stream URL: https://traffic.megaphone.fm/VMP8144262595.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
@@ -701,6 +701,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4da
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: How we experience time
+Published Date: Fri, 23 Oct 2026 07:00:00 +0000
+Description: Why does one hour drag by, but a year can pass in a flash? And how does our relationship with time influence our behavior? This hour, TED speakers share ideas on making the most of the time we have. Guests include artist Katie Paterson, cognitive neuroscientist Irena Arslanova,  the late music director Robert Franz and the late psychologist Phil...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/8849e173-e608-4e2e-9514-16275040d7b7/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=8849e173-e608-4e2e-9514-16275040d7b7&feed=gGUt_fS1&t=podcast&e=nx-s1-6010864&p=510298&d=2981&size=47698799
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Have we forgotten how to play?
 Published Date: Fri, 16 Oct 2026 07:00:00 +0000
 Description: Play is how we evolved to learn, solve problems, and navigate the world. So why do we treat it as optional? This hour, the science of play — and what happens when we don’t get enough of it.Guests include psychology researcher Peter Gray, sailor and social activist Tracy Edwards and photographer Stefen Chow.Support public media with NPR+ and enjo...
@@ -754,12 +760,6 @@ Episode Title: How the creator economy is making you talk like the internet
 Published Date: Fri, 21 Aug 2026 07:00:00 +0000
 Description: Online linguist Adam Aleksic explains how he goes viral decoding internet slang, plus why making a living online means working for 'the algorithm.' It's part 2 of our creator economy series.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/00c5d33a-84b1-49cc-91a1-fdfc38089ad4/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=00c5d33a-84b1-49cc-91a1-fdfc38089ad4&feed=gGUt_fS1&t=podcast&e=nx-s1-5938840&p=510298&d=3000&size=48002657
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The price of creativity
-Published Date: Fri, 14 Aug 2026 07:00:00 +0000
-Description: The words "content creator" may make you roll your eyes. But in part 1 of our series, Kickstarter co-founder Yancey Strickler explains how the creator economy is changing work, art and what we value.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listeni...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/b26c00b0-7566-4a4e-87ac-ef573f727178/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=b26c00b0-7566-4a4e-87ac-ef573f727178&feed=gGUt_fS1&t=podcast&e=nx-s1-5930324&p=510298&d=3003&size=48049050
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -930,6 +930,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Election That Will Define Israel’s Future
+Published Date: Thu, 22 Oct 2026 09:45:00 +0000
+Description: Israelis head to the polls next week. On the ballot is the future of a country that has become isolated on the world stage, because of both its war in Gaza and a growing outcry over settler violence in the West Bank.David M. Halbfinger, the Jerusalem bureau chief for The New York Times, explains how Prime Minister Benjamin Netanyahu differs from...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4d142ed1-ec9d-470b-b52b-ba35e33fedf6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4d142ed1-ec9d-470b-b52b-ba35e33fedf6&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Is This Economy as Awful as Voters Think? We Ask Our Expert.
 Published Date: Wed, 21 Oct 2026 09:45:00 +0000
 Description: The economy is one of the most important issues for voters in the midterm elections. President Trump has been trying to persuade Americans that they are wrong to be frustrated about the cost of living.Ben Casselman, the chief economics correspondent for The New York Times, explains what the latest economic data actually says.Guest: Ben Casselman...
@@ -983,10 +989,4 @@ Episode Title: When A.I. Comes for Your Purpose in Life
 Published Date: Tue, 13 Oct 2026 09:45:00 +0000
 Description: Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means.Steven Strogatz, a professor of mathematics at Cornell University, describes the excitement and grief of watching A.I. take on work that gives people a sense of p...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2fde62d-0af2-4554-ace2-22f8de6e143c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2fde62d-0af2-4554-ace2-22f8de6e143c&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Israeli Film Directors Pushing for a Reckoning in Their Home Country
-Published Date: Mon, 12 Oct 2026 09:50:04 +0000
-Description: The documentary film “NAZA,” which investigates the methods the Israeli military has used in the war in Gaza since the Hamas-led attacks on Oct. 7, 2023, received a record-breaking standing ovation at the Venice Film Festival last month. Just a few days later, Prime Minister Benjamin Netanyahu said he would propose legislation that could revoke ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a46250d4-c001-4b93-9f35-033871237cd4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a46250d4-c001-4b93-9f35-033871237cd4&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
