@@ -570,6 +570,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: How surveillance crept up on us
+Published Date: Fri, 23 Oct 2026 21:00:00 +0000
+Description: For years, police have spent billions of tax dollars on watching us, tracking us, and recording us. In the largest police department in the country, these surveillance systems were paid for and adopted without the kind of public oversight cities usually require. In the wake of 9/11, the New York Police Department built one of the most sophistica...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: We try to fix election polling (update)
 Published Date: Wed, 21 Oct 2026 07:00:00 +0000
 Description: Polling is facing an existential crisis. People aren't picking up the phone. Nobody wants to talk to pollsters. Trust is on the line. We pluck a solution from the economics canon and convince a polling firm to let us test it. Today on the show, we head to Marist College — home of the Marist Poll — to learn how to be pollsters ourselves. We learn...
@@ -622,12 +628,6 @@ Episode Title: Is our national debt finally too much? (update)
 Published Date: Wed, 23 Sep 2026 07:00:00 +0000
 Description: (Note: A version of this episode originally ran in 2024.)$40,000,000,000,000. Four commas. Thirteen zeroes. It’s an eye-popping, almost infinite-sounding pile of money. And every time the debt passes a big round number, almost everyone asks the same question: How much debt is too much?It’s maybe the most important question in macroeconomics. It’...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The Domino’s Pizza Tracker Theory of Everything
-Published Date: Fri, 18 Sep 2026 20:00:00 +0000
-Description: Did a pizza restaurant’s humble status page change how we wait forever? When you order a Lyft or Uber, you get texts every few minutes about your car approaching and arriving. When you have a package coming, you get a notification when it’s shipped, when it’s en route, and when it’s out for delivery. Why do so many companies send these constant ...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -820,9 +820,9 @@ Episode Title: #497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & 
 Published Date: Fri, 29 May 2026 16:22:02 +0000
 Description: Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.
 Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sc
-See below for timestamps, and to give feedback, submit questions, contact Lex, etc.
-CONTACT LEX:
-Feedback – give feedback to Lex: https:/...
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.
+Transcript:
+https://lexfridman.com/don-li...
 Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3
 Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png
 ----------------------------------------
@@ -930,6 +930,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Battle Over Black Representation in the South
+Published Date: Fri, 23 Oct 2026 09:45:00 +0000
+Description: The approach to this year’s midterms has brought two hugely consequential changes to voting for Black Americans: the gutting of the Voting Rights Act, and redistricting. In the wake of those actions, efforts are underway to mobilize Black voters in the South.In Mississippi, the Senate battle is being seen as a sleeper race, and the Black Democra...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60ffceb7-687b-4c09-b075-cd86e8bd477f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60ffceb7-687b-4c09-b075-cd86e8bd477f&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: The Election That Will Define Israel’s Future
 Published Date: Thu, 22 Oct 2026 09:45:00 +0000
 Description: Israelis head to the polls next week. On the ballot is the future of a country that has become isolated on the world stage, because of both its war in Gaza and a growing outcry over settler violence in the West Bank.David M. Halbfinger, the Jerusalem bureau chief for The New York Times, explains how Prime Minister Benjamin Netanyahu differs from...
@@ -983,10 +989,4 @@ Episode Title: The U.S. Tried to Choke Russia’s Energy Market. Then It Made a 
 Published Date: Wed, 14 Oct 2026 09:51:54 +0000
 Description: President Trump announced a deal to purchase Russian diesel fuel and temporarily suspended sanctions in an effort to lower domestic fuel prices amid rising costs from the war in Iran and in anticipation of the upcoming midterms. This abrupt foreign policy shift stunned European allies and drew sharp criticism from Ukraine, which viewed the move ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6a014579-60ac-4d38-bb52-bbbec0c08d83/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6a014579-60ac-4d38-bb52-bbbec0c08d83&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: When A.I. Comes for Your Purpose in Life
-Published Date: Tue, 13 Oct 2026 09:45:00 +0000
-Description: Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means.Steven Strogatz, a professor of mathematics at Cornell University, describes the excitement and grief of watching A.I. take on work that gives people a sense of p...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2fde62d-0af2-4554-ace2-22f8de6e143c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2fde62d-0af2-4554-ace2-22f8de6e143c&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
