@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: The battle between matter and antimatter
+Published Date: Mon, 26 Oct 2026 07:00:00 +0000
+Description: At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter, matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they ...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/264d2592-5591-455b-b334-1f1bb38b1eb6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=264d2592-5591-455b-b334-1f1bb38b1eb6&feed=F0qJcgXZ&t=podcast&e=nx-s1-6005516&p=510351&d=677&size=10842324
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: The dormant viruses in all of us may help explain long COVID
 Published Date: Fri, 23 Oct 2026 07:00:00 +0000
 Description: Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts...
@@ -251,12 +257,6 @@ Episode Title: One of the toughest parts of ADHD is left out of the diagnosis
 Published Date: Fri, 09 Oct 2026 07:00:00 +0000
 Description: ADHD diagnoses are on the rise in the United States, but what if professionals are missing a key part of the disorder? In the 1970s, some clinicians recognized a lot of their ADHD patients had trouble with emotional regulation. But because it was easier to measure behavior rather than emotions, the criteria eventually fell off the radar. Today i...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/60ac9a5d-7083-4c69-b86b-fb316b73c8d6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=60ac9a5d-7083-4c69-b86b-fb316b73c8d6&feed=F0qJcgXZ&t=podcast&e=nx-s1-5978061&p=510351&d=729&size=11665745
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: What's missing from the lethal injection conversation
-Published Date: Wed, 07 Oct 2026 07:00:00 +0000
-Description: You might have seen the news that Christa Pike, a convicted murderer in Tennessee, did not die from the injections given to her as part of her death penalty sentence last week. After her failed execution, she was hospitalized, where she continues to receive critical medical care, according to her attorneys. Her survival is singular, but her mish...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e9fc1098-721b-4467-94ac-a5db479e0598/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e9fc1098-721b-4467-94ac-a5db479e0598&feed=F0qJcgXZ&t=podcast&e=nx-s1-5991797&p=510351&d=878&size=14058102
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -460,6 +460,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Legends 91: Landslide
+Published Date: Mon, 26 Oct 2026 05:01:00 +0000
+Description: Humans have a special ability to create a lot of tragedy, and history is marked with many examples. But the natural world has always done its best to keep up, as these stories show. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed —————...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-91d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Lore Alive 4: Peg & Button
 Published Date: Fri, 23 Oct 2026 05:01:00 +0000
 Description: Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we meet a group of mischievous young men who pick on the wrong woman before heading off to war in the far north. Their decision, it turns out, became something that haunted th...
@@ -512,12 +518,6 @@ Episode Title: Lore Alive 1: The Sleep
 Published Date: Fri, 02 Oct 2026 05:01:00 +0000
 Description: Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale introduces us to some newlyweds in late 1800s Kentucky who settled in for a new life together, only for their hopes and dreams to meet a terrifying end. Lore Alive was created by Aaron Mah...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive1.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Legends 89: Mother Dearest
-Published Date: Mon, 28 Sep 2026 05:01:00 +0000
-Description: Folklore is often about powerful beings that deserve our fear and respect. Which is why one big category of legends around the globe is about someone very close to home. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources:...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-89d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -634,6 +634,16 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work
+Published Date: Mon, 26 Oct 2026 07:10:00 -0000
+Description: Heather Hasson and Trina Spear saw an opportunity nobody else seemed to notice: millions of healthcare workers were spending long days in uncomfortable, ill-fitting scrubs.
+
+So they set out to reinvent them.
+
+Heather was a designer with almost no money. To join her, Trina left a prestigious job at Blackstone and cashed out her retirement. They s...
+Audio Stream URL: https://traffic.megaphone.fm/VMP6448511514.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Advice Line with Seth Berkowitz of Insomnia Cookies
 Published Date: Fri, 23 Oct 2026 07:57:00 -0000
 Description: Today’s callers: Kahindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif...
@@ -689,12 +699,6 @@ Published Date: Thu, 24 Sep 2026 07:10:00 -0000
 Description: Today’s callers: Janell from Kentucky wonders how to build a sense of hospitality into her canned bourbon cocktail brand. Jade from South Carolina considers the upsides and risks of shipping her smoked salmon directly to customers. And Bar from Colorado considers strategies for bringing his protein-packed cous cous to quick service restaurants.
 ...
 Audio Stream URL: https://traffic.megaphone.fm/VMP6794631928.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush
-Published Date: Mon, 21 Sep 2026 07:10:00 -0000
-Description: Brian Rudolph started making chickpea pasta in his Detroit apartment because wheat made him feel sick. A decade later, Banza was in more than 25,000 stores, and today, it’s one of the most popular pasta brands in the country. Success was not automatic: The business barely got off the ground because the cooked pasta was turning to mush—and as Ban...
-Audio Stream URL: https://traffic.megaphone.fm/VMP4886090161.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -930,6 +934,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Tricks, Treats and Trends
+Published Date: Sun, 25 Oct 2026 10:00:00 +0000
+Description: Americans are expected to spend a record $13.5 billion on Halloween this year, according to the National Retail Federation. That includes costumes, decorations and lots of candy.In this episode of “The Sunday Daily,” our host Rachel Abrams talks about these three tent poles of the Halloween season with reporters from across the Times newsroom.Ki...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c139c515-24f7-449e-a672-ae828726f1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c139c515-24f7-449e-a672-ae828726f1b2&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: What This Democrat’s Surge in Texas Says About the Midterms
 Published Date: Sat, 24 Oct 2026 10:00:00 +0000
 Description: Gina Hinojosa, the Democratic nominee for governor, on her appeal to MAGA voters and her refusal to engage in the “culture wars.”Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
@@ -984,10 +994,4 @@ Episode Title: MAGA's Midterm Defectors
 Published Date: Fri, 16 Oct 2026 09:59:39 +0000
 Description: Perhaps no American feels the domestic effects of the war, tariffs and inflation more than the Iowa farmer. The political environment stirred up by those farmers’ strife could allow the Democrats to seize the moment and elect one of theirs to the Senate or the governor’s mansion for the first time in 20 years — making Iowa potentially one of the...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/dc199e6c-a832-42a8-ace2-55ca24e25099/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=dc199e6c-a832-42a8-ace2-55ca24e25099&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Republican Strategy to Salvage the Midterms
-Published Date: Thu, 15 Oct 2026 09:52:12 +0000
-Description: With Republicans trailing in the polls, the party is making hard choices about where to spend its money — abandoning some races while pouring resources into others.Shane Goldmacher, Nate Cohn and Lisa Lerer, political correspondents for The New York Times, explain why President Trump is campaigning almost daily in deep-red territory, how his inf...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c5e2bb17-fc5a-40cd-a694-d27ad3222fbe/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c5e2bb17-fc5a-40cd-a694-d27ad3222fbe&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
