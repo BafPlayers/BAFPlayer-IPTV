@@ -182,14 +182,23 @@
   {
     "id": "astronomy-cast--libsyn--ep-1",
     "show_name": "Astronomy Cast",
-    "episode_title": "Ep. 805: Mission Tech Series - Gyroscopes & Servos",
+    "episode_title": "Ep. 806: Mission Tech Series: Thrusters",
+    "pub_date": "Mon, 26 Oct 2026 20:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20261026.mp3?dest-id=11189",
+    "logo_url": "https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg",
+    "description": "Streamed live 18 Oct 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Today we continue looking at space exploration technologies. This time we will examine thrusters, which can reorient a spacecraft and help it maneuver in space. Maximum flexibility but you need to bring along some propellant. Smarter Every Day's Y..."
+  },
+  {
+    "id": "astronomy-cast--libsyn--ep-2",
+    "show_name": "Astronomy Cast",
+    "episode_title": "Ep. 805: Mission Tech Series: Gyroscopes & Servos",
     "pub_date": "Mon, 19 Oct 2026 20:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20261019.mp3?dest-id=11189",
     "logo_url": "https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg",
     "description": "Spinney things! Streamed live 18 Oct 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Our journey through space exploration technology continues! Today we look at the things that spin: gyros, reaction wheels, servos. Newton's laws are large and in charge today as spinning has a very useful benefit when you're in wei..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-2",
+    "id": "astronomy-cast--libsyn--ep-3",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 804: Mission Tech Series: Fairings, Docking & Airlocks",
     "pub_date": "Mon, 12 Oct 2026 20:00:00 +0000",
@@ -198,7 +207,7 @@
     "description": "Ad-Free thanks to your support at patreon.astronomycast.com! Instead of sending up an entire space station for every mission, you can just send up a tiny can filled with astronauts. But that takes docking. And today we're gonna talk about what it takes to connect two spacecraft together. How to keep a cargo safe to get into orbit, and how to get..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-3",
+    "id": "astronomy-cast--libsyn--ep-4",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 803: Mission Tech Series: Engines & Stages",
     "pub_date": "Mon, 05 Oct 2026 20:00:00 +0000",
@@ -207,7 +216,7 @@
     "description": "Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Streamed on October 3, 2026. Today our series continues with our deep dive into rockets, their engines & stages. We fall into the tyranny of the rocket equation and discover what it takes to escape Earth's gravity and head off into deep space. We removed all ads from the sh..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-4",
+    "id": "astronomy-cast--libsyn--ep-5",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 802: Mission Tech Series: Rocket & Spacecraft 411",
     "pub_date": "Mon, 28 Sep 2026 20:00:00 +0000",
@@ -216,7 +225,7 @@
     "description": "Help us keep Astronomy Cast ad-free: https://patreon.com/astronomycast We removed all ads from the show. We need to get to 1500 patrons to keep it this way. We need your support! Streamed live on Sep 21, 2026 Hosted by: Fraser Cain and Dr. Pamela L. Gay Today we begin a new series on rockets and spacecraft, dealing with each of their components...."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-5",
+    "id": "astronomy-cast--libsyn--ep-6",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 801: The Beginning & End of Everything - Part 2",
     "pub_date": "Mon, 21 Sep 2026 20:00:00 +0000",
@@ -225,7 +234,7 @@
     "description": "Help us keep Astronomy Cast ad-free: https://patreon.com/astronomycast We removed all ads from the show. We need to get to 1500 patrons to keep it this way. We need your support! Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/Ast..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-6",
+    "id": "astronomy-cast--libsyn--ep-7",
     "show_name": "Astronomy Cast",
     "episode_title": "Astronomy Cast Can't Go On Like This",
     "pub_date": "Tue, 15 Sep 2026 00:38:00 +0000",
@@ -234,7 +243,7 @@
     "description": "After 20 years, it's time to make some changes. With your patronage we can ditch the ads & turn up the science. Please join our Patreon community at patreon.astronomycast.com"
   },
   {
-    "id": "astronomy-cast--libsyn--ep-7",
+    "id": "astronomy-cast--libsyn--ep-8",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 800: The Beginning & End of Everything - Part 1",
     "pub_date": "Mon, 14 Sep 2026 19:00:00 +0000",
@@ -243,7 +252,7 @@
     "description": "Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/AstronomyCast To celebrate our 20th season, we thought we'd go back right to the beginning… of everything. Let's wind the clock back to the earliest moments of the Universe, where we..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-8",
+    "id": "astronomy-cast--libsyn--ep-9",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 799: Heavy Lift Rockets",
     "pub_date": "Mon, 29 Jun 2026 20:00:00 +0000",
@@ -252,7 +261,7 @@
     "description": "Astronomy Cast Ep. 799: Heavy Lift Rockets By Fraser Cain & Dr. Pamela Gay Streamed live June 22, 2026. The Saturn 5 was a monster, capable of sending humans and a lander to the Moon and bringing them back again. But the number of heavy lift rockets since then has gotten pretty sparse. Now, with tens if not hundreds of thousands of satellites in..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-9",
+    "id": "astronomy-cast--libsyn--ep-10",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 797: Summer in Space",
     "pub_date": "Mon, 15 Jun 2026 20:00:00 +0000",
@@ -261,16 +270,16 @@
     "description": "Astronomy Cast Ep. 797: Summer in Space By Fraser Cain & Dr. Pamela Gay Streamed live June 10, 2026. We're about to take a much needed 2 month hiatus. But just because we're not here doesn't mean space stops existing and doing things. Today, let's give a preview of the big events due to happen in space this summer so you can prepare yourself and..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-10",
-    "show_name": "Astronomy Cast",
-    "episode_title": "Ep. 796: Oceans & Organics on Mars",
-    "pub_date": "Mon, 08 Jun 2026 20:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260608.mp3?dest-id=11189",
-    "logo_url": "https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg",
-    "description": "Astronomy Cast Ep. 796: Oceans & Organics on Mars By Fraser Cain & Dr. Pamela Gay Streamed live on Jun 1, 2026. Mars is cold & dry today, but the evidence is growing that it used to be warmer & wetter. with seas & oceans that covered large parts of its surface. With the additional findings of the chemicals for life, the search for life on Mars i..."
+    "id": "npr-short-wave--science--ep-1",
+    "show_name": "Short Wave",
+    "episode_title": "You Can See Everything and the science of spotting liars",
+    "pub_date": "Tue, 27 Oct 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/05754ca5-c0c0-4149-8aff-1271295182dc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=05754ca5-c0c0-4149-8aff-1271295182dc&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012707&p=510351&d=825&size=13207973",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible ..."
   },
   {
-    "id": "npr-short-wave--science--ep-1",
+    "id": "npr-short-wave--science--ep-2",
     "show_name": "Short Wave",
     "episode_title": "The battle between matter and antimatter",
     "pub_date": "Mon, 26 Oct 2026 07:00:00 +0000",
@@ -279,7 +288,7 @@
     "description": "At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter, matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they ..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "The dormant viruses in all of us may help explain long COVID",
     "pub_date": "Fri, 23 Oct 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "Can planting more trees make allergies worse?",
     "pub_date": "Wed, 21 Oct 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.Interested in more..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "What are the odds we're not alone in the universe?",
     "pub_date": "Tue, 20 Oct 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "There are hundreds of billions of stars in the galaxy we live in. Many of them have their own exoplanets. So why haven’t we found proof of alien life yet? And what’s the probability of us contacting or being contacted anyway? That’s exactly what a famous math formula called the Drake Equation tries to answer. It takes into account a whole variet..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "What the world's leading researchers think about saunas",
     "pub_date": "Mon, 19 Oct 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Saunas have gone from a Scandinavian tradition to a global wellness phenomenon. But how long should a person endure heat? Do saunas actually work? And if so, what are their benefits? NPR health reporter Will Stone goes as deep as the science will let him to explore the sauna hype waves and find out what happens to our bodies when we step in them..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "The terrifying physics of prehistoric sea monsters",
     "pub_date": "Fri, 16 Oct 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "While dinosaurs roamed the earth, giant monsters roamed the sea. Mosasaurs were like the deadly T-rexes of the ocean: They grew up to the size of a bus and chased down their smaller prey. A recent study in the journal Current Biology details just how exactly they might have done that. And the answer is fast – way faster than humans can swim – an..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "What's at stake if we can't regrow our forests",
     "pub_date": "Thu, 15 Oct 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity in..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "What Flock cameras really see – and how",
     "pub_date": "Wed, 14 Oct 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Police departments across the U.S. are installing Flock cameras, saying the surveillance devices help deter theft and solve crimes, like helping find stolen property and missing people. But as the technology and its use by federal agencies expands, a handful of people have taken matters into their own hands. A hacker collective ripped down a Flo..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "The sound of fear: Why so many animals scream",
     "pub_date": "Tue, 13 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/48714ab6-e8c4-47b4-9c26-a4f4795bd8f4/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=48714ab6-e8c4-47b4-9c26-a4f4795bd8f4&feed=F0qJcgXZ&t=podcast&e=nx-s1-5999956&p=510351&d=800&size=12812582",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "It's Halloween season — and what better way to celebrate October 13th than to explore the haunting sound of fear? That's exactly what we do in this episode, where host Regina G. Barber and NPR science correspondent Nate Rott dive into the science behind the sound of fear. Along the way, they find out what marmot shrieks, baby cries and horror mo..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "One of the toughest parts of ADHD is left out of the diagnosis",
-    "pub_date": "Fri, 09 Oct 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/60ac9a5d-7083-4c69-b86b-fb316b73c8d6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=60ac9a5d-7083-4c69-b86b-fb316b73c8d6&feed=F0qJcgXZ&t=podcast&e=nx-s1-5978061&p=510351&d=729&size=11665745",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "ADHD diagnoses are on the rise in the United States, but what if professionals are missing a key part of the disorder? In the 1970s, some clinicians recognized a lot of their ADHD patients had trouble with emotional regulation. But because it was easier to measure behavior rather than emotions, the criteria eventually fell off the radar. Today i..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -542,6 +542,15 @@
   {
     "id": "bbc-in-our-time-ep-1",
     "show_name": "In Our Time",
+    "episode_title": "Archive: Dark Matter, the mysterious substance in space",
+    "pub_date": "Mon, 26 Oct 2026 09:45:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pchg4c.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
+    "description": "Dark Matter is a proposed form of matter that does not absorb, reflect or emit light. It is known to make up 27% of our universe, while the matter that makes up stars and galaxies accounts for only 5%.   \n  \nIn this archive episode, first released in March 2015, Melvyn Bragg and his guests discuss dark matter, the mysterious and invisible substa..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-2",
+    "show_name": "In Our Time",
     "episode_title": "Particle Accelerators",
     "pub_date": "Thu, 22 Oct 2026 08:45:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc10qt.mp3",
@@ -549,7 +558,7 @@
     "description": "Misha Glenny and guests discuss the machines that are described as the world’s largest experiments: Particle Accelerators. A famous example of a Particle Accelerator is the Large Hadron Collider, a device which stretches for nearly 30km, deep beneath the ground in a tunnel between France and Switzerland.    This enormous scale enables the partic..."
   },
   {
-    "id": "bbc-in-our-time-ep-2",
+    "id": "bbc-in-our-time-ep-3",
     "show_name": "In Our Time",
     "episode_title": "Archive: Erasmus",
     "pub_date": "Mon, 19 Oct 2026 08:45:00 +0000",
@@ -558,7 +567,7 @@
     "description": "One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. \n \nIn this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch ..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "Thomas More's Utopia",
     "pub_date": "Thu, 15 Oct 2026 08:45:00 +0000",
@@ -567,7 +576,7 @@
     "description": "In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book,..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "Archive: The Measurement of Time",
     "pub_date": "Mon, 12 Oct 2026 08:45:00 +0000",
@@ -576,7 +585,7 @@
     "description": "Misha Glenny chooses the first of his archive picks - bringing back classic conversations from the In Our Time archive, every Monday. \nHumans have tried to calculate, regulate, and measure time for thousands of years: from systems based on tracking sunrise and sunset, to the invention of increasingly precise mechanical alarm clocks and astrolabe..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "Archive: Trinity",
     "pub_date": "Thu, 08 Oct 2026 08:45:00 +0000",
@@ -585,7 +594,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His final choice is the Trinity, an episode first released in March 2014. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest y..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "Archive: Emma",
     "pub_date": "Thu, 01 Oct 2026 08:45:00 +0000",
@@ -594,7 +603,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His ninth choice is the episode on Jane Austen’s novel Emma, first released in November 2015. Austen described her leading character as \"a heroine whom no-one but myself will much like.\" Emma is one of Austen’s most popular novels and arguably her ..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "Archive: The War of 1812",
     "pub_date": "Thu, 24 Sep 2026 08:45:00 +0000",
@@ -603,7 +612,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His eighth choice is The War of 1812, which was first released in January 2013. Melvyn Bragg and his guests discussed the conflict between America and the British Empire sometimes referred to as the second American War of Independence. In June 1812..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "Archive: Rosalind Franklin",
     "pub_date": "Thu, 17 Sep 2026 08:45:00 +0000",
@@ -612,22 +621,13 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His seventh choice is the pioneering scientist Rosalind Franklin (1920 - 1958), first released in February 2018. During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "Archive: Plato's Republic",
     "pub_date": "Thu, 10 Sep 2026 08:45:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbrk74.mp3",
     "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His sixth choice is Plato's Republic, an episode first released in June 2017. Is it always better to be just than unjust? That is the central question of Plato's Republic, written in c380BC. Plato applied this question both to the individual and th..."
-  },
-  {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "In Our Time Returns for a New Series",
-    "pub_date": "Mon, 07 Sep 2026 09:15:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p8cggx.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
-    "description": "In Our Time returns for a new series with host Misha Glenny.A world class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. \n \nOn Thursdays, hear brand-new episodes with Misha Glenny and leading academics. On Monday..."
   },
   {
     "id": "lore--folklore---history--ep-1",
@@ -1055,92 +1055,92 @@
   {
     "id": "lex-fridman-podcast-ep-1",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
-    "pub_date": "Thu, 17 Sep 2026 00:40:49 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback – give feedback to Lex: https://lexf..."
+    "episode_title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+    "pub_date": "Mon, 26 Oct 2026 22:52:28 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_math_ai_crisis.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting th..."
   },
   {
     "id": "lex-fridman-podcast-ep-2",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
-    "pub_date": "Wed, 26 Aug 2026 21:47:04 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFee..."
+    "episode_title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+    "pub_date": "Thu, 17 Sep 2026 00:40:49 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback – give feedback to Lex: https://lexf..."
   },
   {
     "id": "lex-fridman-podcast-ep-3",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
-    "pub_date": "Wed, 12 Aug 2026 13:11:45 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It’s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to m..."
+    "episode_title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+    "pub_date": "Wed, 26 Aug 2026 21:47:04 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFee..."
   },
   {
     "id": "lex-fridman-podcast-ep-4",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
-    "pub_date": "Tue, 28 Jul 2026 20:06:06 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_gary_gallagher.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Gary Gallagher is a historian of the American Civil War.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/gary-gallagher-transcript\nCONTACT LEX:\nFeedback – give feedback to L..."
+    "episode_title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
+    "pub_date": "Wed, 12 Aug 2026 13:11:45 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It’s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to m..."
   },
   {
     "id": "lex-fridman-podcast-ep-5",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
-    "pub_date": "Tue, 30 Jun 2026 21:33:40 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Anthony Kaldellis is a historian of the Roman Empire and author of “The New Roman Empire”, a comprehensive history of the Byzantine Empire (Eastern Roman Empire).\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, et..."
+    "episode_title": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
+    "pub_date": "Tue, 28 Jul 2026 20:06:06 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_gary_gallagher.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Gary Gallagher is a historian of the American Civil War.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/gary-gallagher-transcript\nCONTACT LEX:\nFeedback – give feedback to L..."
   },
   {
     "id": "lex-fridman-podcast-ep-6",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
-    "pub_date": "Fri, 29 May 2026 16:22:02 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/don-li..."
+    "episode_title": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
+    "pub_date": "Tue, 30 Jun 2026 21:33:40 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Anthony Kaldellis is a historian of the Roman Empire and author of “The New Roman Empire”, a comprehensive history of the Byzantine Empire (Eastern Roman Empire).\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, et..."
   },
   {
     "id": "lex-fridman-podcast-ep-7",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
-    "pub_date": "Wed, 06 May 2026 22:06:47 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc\nSee below for timestamps, transcript, and to give feedback, ..."
+    "episode_title": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
+    "pub_date": "Fri, 29 May 2026 16:22:02 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/don-li..."
   },
   {
     "id": "lex-fridman-podcast-ep-8",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
-    "pub_date": "Thu, 09 Apr 2026 17:43:17 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://le..."
+    "episode_title": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
+    "pub_date": "Wed, 06 May 2026 22:06:47 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc\nSee below for timestamps, transcript, and to give feedback, ..."
   },
   {
     "id": "lex-fridman-podcast-ep-9",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution",
-    "pub_date": "Mon, 23 Mar 2026 16:28:42 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Jensen Huang is the co-founder and CEO of NVIDIA, the world’s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lex..."
+    "episode_title": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+    "pub_date": "Thu, 09 Apr 2026 17:43:17 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://le..."
   },
   {
     "id": "lex-fridman-podcast-ep-10",
     "show_name": "Lex Fridman Podcast",
-    "episode_title": "#493 – Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
-    "pub_date": "Wed, 11 Mar 2026 20:37:33 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jeff_kaplan.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
-    "description": "Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama – available to wishlist on Steam today, with alpha later in March.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep493-sc\nSee belo..."
+    "episode_title": "#494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution",
+    "pub_date": "Mon, 23 Mar 2026 16:28:42 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Jensen Huang is the co-founder and CEO of NVIDIA, the world’s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lex..."
   },
   {
     "id": "the-tim-ferriss-show-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The $10 Billion Midterm Ad War",
+    "pub_date": "Mon, 26 Oct 2026 09:46:35 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/644711de-301b-4b0c-ae4b-c283d6fc948e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=644711de-301b-4b0c-ae4b-c283d6fc948e&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "The midterms are shaping up to be the most expensive election cycle in history as campaigns pour huge sums into the ads voters see virtually everywhere.Today, Shane Goldmacher, a national political correspondent for The New York Times, breaks down how Democrats are tying Republicans to President Trump, inflation and corruption, while Republicans..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Tricks, Treats and Trends",
     "pub_date": "Sun, 25 Oct 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c139c515-24f7-449e-a672-ae828726f1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c139c515-24f7-449e-a672-ae828726f1b2&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "Americans are expected to spend a record $13.5 billion on Halloween this year, according to the National Retail Federation. That includes costumes, decorations and lots of candy.In this episode of “The Sunday Daily,” our host Rachel Abrams talks about these three tent poles of the Halloween season with reporters from across the Times newsroom.Ki..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "What This Democrat’s Surge in Texas Says About the Midterms",
     "pub_date": "Sat, 24 Oct 2026 10:00:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "Gina Hinojosa, the Democratic nominee for governor, on her appeal to MAGA voters and her refusal to engage in the “culture wars.”Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes...."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The Battle Over Black Representation in the South",
     "pub_date": "Fri, 23 Oct 2026 09:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "The approach to this year’s midterms has brought two hugely consequential changes to voting for Black Americans: the gutting of the Voting Rights Act, and redistricting. In the wake of those actions, efforts are underway to mobilize Black voters in the South.In Mississippi, the Senate battle is being seen as a sleeper race, and the Black Democra..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The Election That Will Define Israel’s Future",
     "pub_date": "Thu, 22 Oct 2026 09:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Israelis head to the polls next week. On the ballot is the future of a country that has become isolated on the world stage, because of both its war in Gaza and a growing outcry over settler violence in the West Bank.David M. Halbfinger, the Jerusalem bureau chief for The New York Times, explains how Prime Minister Benjamin Netanyahu differs from..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Is This Economy as Awful as Voters Think? We Ask Our Expert.",
     "pub_date": "Wed, 21 Oct 2026 09:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "The economy is one of the most important issues for voters in the midterm elections. President Trump has been trying to persuade Americans that they are wrong to be frustrated about the cost of living.Ben Casselman, the chief economics correspondent for The New York Times, explains what the latest economic data actually says.Guest: Ben Casselman..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
     "pub_date": "Tue, 20 Oct 2026 09:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "James Talarico is asking Texas to do something it hasn’t done in nearly 40 years: Elect a Democrat to the U.S. Senate. It won’t be easy. It will take a vast coalition of Democrats, independents and Republicans in a bright red state that President Trump won by about 14 percentage points in 2024 — and where Republicans have plowed hundreds of mill..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Inside Putin’s Plan to Cripple Ukraine This Winter",
     "pub_date": "Mon, 19 Oct 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "President Trump said he was making an energy deal with President Vladimir V. Putin of Russia and waiving new sanctions on Moscow. Now, he’s feuding with Ukraine’s leader, Volodymyr Zelensky.Russia is taking advantage of the moment by relentlessly striking Kyiv, killing civilians and cutting off power for more than a million people.Constant Méheu..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Elizabeth Holmes and Nathan Fielder Keep Us Guessing",
     "pub_date": "Sun, 18 Oct 2026 10:00:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "The comedian Nathan Fielder came to fame as the creator and host of the Comedy Central series “Nathan for You.” The show followed Fielder as he devised outrageous schemes, ostensibly with the aim of helping various small businesses. What became clear, though, was that Fielder was less interested in helping business owners generate profits than h..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "50 Years In, What's the Point of U2? Bono and the Edge Have Answers.",
     "pub_date": "Sat, 17 Oct 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/341814dc-cc80-4322-88d6-a548f769b54a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=341814dc-cc80-4322-88d6-a548f769b54a&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "The longtime friends and creative partners on what U2 still means — and what would make them call it quits.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/thedaily. Transcri..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "MAGA's Midterm Defectors",
-    "pub_date": "Fri, 16 Oct 2026 09:59:39 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/dc199e6c-a832-42a8-ace2-55ca24e25099/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=dc199e6c-a832-42a8-ace2-55ca24e25099&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "Perhaps no American feels the domestic effects of the war, tariffs and inflation more than the Iowa farmer. The political environment stirred up by those farmers’ strife could allow the Democrats to seize the moment and elect one of theirs to the Senate or the governor’s mansion for the first time in 20 years — making Iowa potentially one of the..."
   }
 ]
