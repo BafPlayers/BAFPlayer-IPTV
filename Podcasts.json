@@ -92,6 +92,15 @@
   {
     "id": "science-vs--gimlet--ep-1",
     "show_name": "Science Vs",
+    "episode_title": "Sitting: As Bad As Smoking?!",
+    "pub_date": "Thu, 29 Oct 2026 09:00:00 -0000",
+    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9254393831.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Lots of us spend HOURS a day sitting on our bums. And we’re often told that this is terrible for us — even that it could be as bad for our health as smoking. But how bad is it really? And can exercise or standing desks help make up for all those hours on the couch?? We dig into what happens inside our bodies when we sit all day — with sedentary ..."
+  },
+  {
+    "id": "science-vs--gimlet--ep-2",
+    "show_name": "Science Vs",
     "episode_title": "Testosterone: Do We All Need a Boost?",
     "pub_date": "Thu, 22 Oct 2026 09:00:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT6971811231.mp3",
@@ -99,7 +108,7 @@
     "description": "We’re hearing a ton about the marvels of testosterone from influencers, celebrities, and even government officials. They say we should be thinking about our T levels, topping them off with extra if they’re too low. And we’re told that the benefits of testosterone are HUGE: that we’ll be stronger, sexier, and more energized. So is that true?? And..."
   },
   {
-    "id": "science-vs--gimlet--ep-2",
+    "id": "science-vs--gimlet--ep-3",
     "show_name": "Science Vs",
     "episode_title": "Fiber Maxxing and Poo Maxxing, with Dr. Trisha Pasricha",
     "pub_date": "Thu, 15 Oct 2026 09:00:00 -0000",
@@ -108,7 +117,7 @@
     "description": "Have you been puzzled by your poos or felt down about your dumps?? You’re not alone! So many of us are struggling with gut issues, which is why fiber is having a major moment. But even though we’re secretly guzzling psyllium husk, tons of us are too embarrassed to talk about our poo problems. No more! We’re putting an end to the silence on stool..."
   },
   {
-    "id": "science-vs--gimlet--ep-3",
+    "id": "science-vs--gimlet--ep-4",
     "show_name": "Science Vs",
     "episode_title": "Collagen Peptides: Should You Take Them?",
     "pub_date": "Thu, 08 Oct 2026 09:00:00 -0000",
@@ -117,7 +126,7 @@
     "description": "Collagen peptides!! Can they make you look younger and be healthier? It feels like everyone wants to be bursting with collagen, and apparently the way to do it is by scooping up that white powder of collagen peptides and guzzling it down. Do that, and — according to the wellfluencers — not only will your skin be as bouncy as a baby's bottom, but..."
   },
   {
-    "id": "science-vs--gimlet--ep-4",
+    "id": "science-vs--gimlet--ep-5",
     "show_name": "Science Vs",
     "episode_title": "Why We Never Forget Our Teen Years, with Dr. Lisa Damour",
     "pub_date": "Thu, 01 Oct 2026 09:00:00 -0000",
@@ -126,7 +135,7 @@
     "description": "Our brains go completely WILD when we go through our teenage years. It’s a time where it feels like every disagreement with our parents turns into World War III, and every idea that could get us killed sounds like the most fun we could ever have. In this episode, we get into the science of what the brain is doing during the teenage years with cl..."
   },
   {
-    "id": "science-vs--gimlet--ep-5",
+    "id": "science-vs--gimlet--ep-6",
     "show_name": "Science Vs",
     "episode_title": "Stress: The Science of Chilling Out",
     "pub_date": "Thu, 24 Sep 2026 09:00:00 -0000",
@@ -135,7 +144,7 @@
     "description": "Stress! We’re all feeling it. And besides just feeling crappy, we’re also told that stress can wreak havoc on our bodies. The internet has a million solutions: vagus nerve stimulators, deep breaths, or a hot sauna! If that doesn’t work, maybe a cold plunge? But what does the science say about all this — what works to lower our stress? And is it ..."
   },
   {
-    "id": "science-vs--gimlet--ep-6",
+    "id": "science-vs--gimlet--ep-7",
     "show_name": "Science Vs",
     "episode_title": "Could AI Really Kill Us All?",
     "pub_date": "Thu, 17 Sep 2026 20:25:00 -0000",
@@ -144,7 +153,7 @@
     "description": "Could artificial intelligence really wipe out humanity? Claims that AI poses an existential threat are going gangbusters. AI agents from OpenAI recently hacked into another company, Hugging Face, which has people talking about whether AI can go “rogue.” And some current and former AI company employees are raising the alarm. CEOs have called for ..."
   },
   {
-    "id": "science-vs--gimlet--ep-7",
+    "id": "science-vs--gimlet--ep-8",
     "show_name": "Science Vs",
     "episode_title": "Where Have The Insects Gone?? With Dr. Jessica Ware",
     "pub_date": "Thu, 10 Sep 2026 09:00:00 -0000",
@@ -153,7 +162,7 @@
     "description": "Bugs are disappearing at alarming rates, scientists are telling us. Bees, butterflies, beetles: all of them have been dropping like flies. And scientists say there are a bunch of reasons to care about this — for example, fewer bugs means less pollination, which means less pasta in your pantry. But recently, some have suggested that all these sci..."
   },
   {
-    "id": "science-vs--gimlet--ep-8",
+    "id": "science-vs--gimlet--ep-9",
     "show_name": "Science Vs",
     "episode_title": "Protein-Maxxing: Is It Actually Bad For Us?",
     "pub_date": "Thu, 03 Sep 2026 09:00:00 -0000",
@@ -162,22 +171,13 @@
     "description": "Protein is everywhere — tons of us are trying to cram more of it into our diets, and it's showing up in our lattes, our snack bars, even our popcorn. But just as we’re getting on board with protein-maxxing, a bunch of headlines have started saying the opposite: that eating LESS protein could actually help you live longer. So what's going on here..."
   },
   {
-    "id": "science-vs--gimlet--ep-9",
+    "id": "science-vs--gimlet--ep-10",
     "show_name": "Science Vs",
     "episode_title": "Sunscreen: Could It Be Toxic??",
     "pub_date": "Thu, 27 Aug 2026 09:00:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9864857559.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "Sunscreen is supposed to protect us from dangerous stuff like cancer, but all over social media, people are saying that we’ve been getting it all wrong. We’re being told that our sunscreen is full of toxic chemicals, that wearing it could mess with our vitamin D levels — even that sunscreen itself actually increases our risk of skin cancer. So, ..."
-  },
-  {
-    "id": "science-vs--gimlet--ep-10",
-    "show_name": "Science Vs",
-    "episode_title": "Hank Green: What No One Tells You About the Algorithm ",
-    "pub_date": "Thu, 20 Aug 2026 09:00:00 -0000",
-    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT6845023950.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Hank Green is one of the most beloved science creators on the interwebs. He’s been making videos for almost 20 years, spanning LOTS of eras of the Internet, from YouTube prank videos to TikTok dance challenges to AI slop. In this episode, Wendy sits down with Hank to talk about this wild ride. They reminisce about his path to YouTube stardom, an..."
   },
   {
     "id": "astronomy-cast--libsyn--ep-1",
@@ -276,7 +276,7 @@
     "pub_date": "Wed, 28 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2bf6bac2-afdd-49fb-9fa0-9d8d47785793/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2bf6bac2-afdd-49fb-9fa0-9d8d47785793&feed=F0qJcgXZ&t=podcast&e=nx-s1-6018272&p=510351&d=788&size=12608662",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "It’s been just over two years since the rise of Make America Great Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like MA..."
+    "description": "It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ..."
   },
   {
     "id": "npr-short-wave--science--ep-2",
@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+    "pub_date": "Wed, 28 Oct 2026 12:57:50 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "Connecticut’s property tax system has been broken for decades and the politicians have failed to fix the problem. So now, they’re trying something new: a citizens assembly. (Citizens assemblies are also old. They go back to Ancient Greece, when lawmakers were chosen not through elections, but through random lotteries.) Today on the show, Connect..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "How surveillance crept up on us",
     "pub_date": "Fri, 23 Oct 2026 21:00:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916",
@@ -792,7 +801,7 @@
     "description": "For years, police have spent billions of tax dollars on watching us, tracking us, and recording us. In the largest police department in the country, these surveillance systems were paid for and adopted without the kind of public oversight cities usually require. In the wake of 9/11, the New York Police Department built one of the most sophistica..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "We try to fix election polling (update)",
     "pub_date": "Wed, 21 Oct 2026 07:00:00 +0000",
@@ -801,7 +810,7 @@
     "description": "Polling is facing an existential crisis. People aren't picking up the phone. Nobody wants to talk to pollsters. Trust is on the line. We pluck a solution from the economics canon and convince a polling firm to let us test it. Today on the show, we head to Marist College — home of the Marist Poll — to learn how to be pollsters ourselves. We learn..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Anatomy of a movie market",
     "pub_date": "Fri, 16 Oct 2026 21:30:00 +0000",
@@ -810,7 +819,7 @@
     "description": "Before an independent movie makes it to a streaming platform or a theater near you, it first needs to survive an artistic and economic gauntlet. And even for those movies that make it into elite film festivals like Sundance – it can take everything from performance stunts to corporate spycraft to seal the deal. Today on the show, we follow the ‘..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "Wanna slow down AI? These biologists can help.",
     "pub_date": "Wed, 14 Oct 2026 21:30:18 +0000",
@@ -819,7 +828,7 @@
     "description": "Fifty years ago, scientists pioneering a terrifying gene-splicing technology figured out a way to collectively hit pause. Can we do it again with AI? We ask because some top AI industry leaders are saying the technology they’re pushing forward is moving too quickly … and might kill us all. They’re effectively saying, ‘Please, please regulate us!..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "Should we all be getting tariff refunds right now?",
     "pub_date": "Fri, 09 Oct 2026 21:07:00 +0000",
@@ -828,7 +837,7 @@
     "description": "Companies are getting billions of dollars back. How about us? It seems simple, right? We paid higher prices for imported goods because of tariffs. Then the tariffs were ruled illegal. Courts said the money paid to the U.S. government had to be refunded. Companies are getting that money now. It would seem like we, the customers, should get paid b..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "Charles Ponzi's scheme (plus a new scam)",
     "pub_date": "Wed, 07 Oct 2026 07:00:00 +0000",
@@ -837,7 +846,7 @@
     "description": "Charles Ponzi was down on his luck. In 1919, the Italian immigrant had spent a decade and a half in the U.S. He was looking for a way to get rich and tried his hand at everything — including bookkeeping, sign painting, grocery clerk, dishwasher, and librarian.He caught a lucky break in August, when he received a letter from Europe. In the envelo..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Where all those weird new drinks are coming from",
     "pub_date": "Fri, 02 Oct 2026 23:14:21 +0000",
@@ -846,7 +855,7 @@
     "description": "It's getting pretty wild in the beverage aisle these days — from the rainbow wall of seltzers, to the increasingly strange flavors of Pepsi, to the new \"functional\" sodas with added fiber or supplements that supposedly offer health benefits. Where are all these new drinks coming from? And why does it seem like the options are multiplying faster ..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "Who’s gonna pay for your Social Security?",
     "pub_date": "Wed, 30 Sep 2026 14:55:43 +0000",
@@ -855,7 +864,7 @@
     "description": "Very soon, Social Security may not have enough money to make full payments to retirees. Very soon. Like by 2032, just six years from now. So what are we gonna do about it? Today on the show, we look at some of the most talked about possible solutions; and exactly whose wallets we’ll have to rifle through to find the money to pay for each. Then w..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "Middlegarchs are the new Oligarchs",
     "pub_date": "Fri, 25 Sep 2026 21:46:44 +0000",
@@ -864,16 +873,16 @@
     "description": "Wanna know who is really in the top 1%? And how they use their influence? It may not be who you think.Look beyond Silicon Valley. Look beyond Wall Street. Look beyond the “oligarchs”. There's a much larger class of wealthy Americans hiding in plain sight. And, often, they got rich in mundane ways. They own car dealerships. They sell hot dogs and..."
   },
   {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Is our national debt finally too much? (update)",
-    "pub_date": "Wed, 23 Sep 2026 07:00:00 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "(Note: A version of this episode originally ran in 2024.)$40,000,000,000,000. Four commas. Thirteen zeroes. It’s an eye-popping, almost infinite-sounding pile of money. And every time the debt passes a big round number, almost everyone asks the same question: How much debt is too much?It’s maybe the most important question in macroeconomics. It’..."
+    "id": "how-i-built-this-with-guy-raz-ep-1",
+    "show_name": "How I Built This with Guy Raz",
+    "episode_title": "Advice Line with Tope Awotona of Calendly",
+    "pub_date": "Thu, 29 Oct 2026 07:10:00 -0000",
+    "stream_url": "https://traffic.megaphone.fm/VMP4254648132.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Today’s callers: Dominic in London faces challenges with profitability and scaling for his foldable bike helmet. Then, Ivana in Vancouver wonders how to maintain the momentum of her pet gear brand as she prepares for the arrival of her first child. Danny in South Carolina wants to expand her nail salon concept without making major trade-offs in ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-1",
+    "id": "how-i-built-this-with-guy-raz-ep-2",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
     "pub_date": "Mon, 26 Oct 2026 07:10:00 -0000",
@@ -882,7 +891,7 @@
     "description": "Heather Hasson and Trina Spear saw an opportunity nobody else seemed to notice: millions of healthcare workers were spending long days in uncomfortable, ill-fitting scrubs.\n\nSo they set out to reinvent them.\n\nHeather was a designer with almost no money. To join her, Trina left a prestigious job at Blackstone and cashed out her retirement. They s..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
     "pub_date": "Fri, 23 Oct 2026 07:57:00 -0000",
@@ -891,7 +900,7 @@
     "description": "Today’s callers: Kahindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
     "pub_date": "Mon, 19 Oct 2026 07:10:00 -0000",
@@ -900,7 +909,7 @@
     "description": "Loren Castle started baking cookies after surviving cancer in her early twenties. Five years later, Sweet Loren’s refrigerated cookie dough was generating just $350,000 a year. But instead of giving up, she listened to customers, and reinvented the dough without gluten, dairy, eggs or nuts.  That transformation turned a small regional business i..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Tara Bosch of SmartSweets",
     "pub_date": "Thu, 15 Oct 2026 07:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Today’s callers: Lindzi from Chicago wants to expand her gourmet marshmallow brand into retail without cannibalizing her high-margin DTC sales. Then, Vivi from Hawaii considers how to best tell her sustainable swimwear brand’s story to a digital audience. And Aly from Los Angeles wonders whether a subscription model is best for her whimsical cur..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
     "pub_date": "Mon, 12 Oct 2026 07:10:00 -0000",
@@ -918,7 +927,7 @@
     "description": "In the early 1990’s, Tim League spent $50,000 in savings to lease an abandoned movie theater on the wrong side of the tracks—a shaky experiment that eventually grew into a thriving national chain. As Tim and his wife Karrie built theaters in Austin and beyond, they made a name for themselves by offering dinner with the movie, creative pairings (..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Nick Green of Thrive Market",
     "pub_date": "Thu, 08 Oct 2026 07:10:00 -0000",
@@ -927,7 +936,7 @@
     "description": "Today’s callers: Mercedes in Utah tries to find harmony between quality and speed as she scales her concert attire brand for musicians. Then Danny in Colorado grapples with the tradeoffs of growing his sustainable and functional coffee brand. And Riya in Illinois wonders how to build awareness for her app that aids people affected by speech loss..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "10 Years of How I Built This:  A Decade of Innovation, Risk and Reinvention",
     "pub_date": "Mon, 05 Oct 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "Stories about starting a business are almost always full of drama. They’re about ambition, loss, triumph, catastrophe, resilience. And they’re also full of life lessons – which is why Guy Raz launched How I Built This 10 years ago: He wanted to host a free master class in entrepreneurship, one conversation at a time. Ten years on, he’s conducted..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)",
     "pub_date": "Thu, 01 Oct 2026 07:10:00 -0000",
@@ -945,22 +954,13 @@
     "description": "CEO and co-founder of Boll & Branch, Scott Tannen joins Ring founder Jamie Siminoff and Guy on the Advice Line to answer questions from three early-stage entrepreneurs. Plus, Jamie and Guy talk about how creating repeat customers often comes from creating social good.  \nFirst, we hear from Melita in Toronto who's wondering whether to continue bo..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) ",
     "pub_date": "Mon, 28 Sep 2026 07:10:00 -0000",
     "stream_url": "https://traffic.megaphone.fm/VMP9825762329.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "With its eco-friendly paper towels, diapers, and cleansers, Seventh Generation was one of the first—and most successful—green household brands to hit the market. But in the early 1990s, its two founders had a bitter falling out.\nAlan Newman and Jeffrey Hollender have barely spoken since that time, but they both agreed to come on the show to talk..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "Advice Line with Danny Meyer of Shake Shack",
-    "pub_date": "Thu, 24 Sep 2026 07:10:00 -0000",
-    "stream_url": "https://traffic.megaphone.fm/VMP6794631928.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Today’s callers: Janell from Kentucky wonders how to build a sense of hospitality into her canned bourbon cocktail brand. Jade from South Carolina considers the upsides and risks of shipping her smoked salmon directly to customers. And Bar from Colorado considers strategies for bringing his protein-packed cous cous to quick service restaurants.\n..."
   },
   {
     "id": "ted-radio-hour-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Is Running From Trump Enough to Save Republicans on Tuesday?",
+    "pub_date": "Wed, 28 Oct 2026 09:54:28 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e5d90a09-39f5-4657-8f1b-56f5d80752fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e5d90a09-39f5-4657-8f1b-56f5d80752fa&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "A look at candidates from President Trump’s party who are running on a platform of criticizing him. In next week’s midterm elections, a specific kind of Republican candidate is appealing to disillusioned voters of both parties: moderates willing to criticize President Trump.Jess Bidgood explains how some Republicans are trying to bring back an o..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "They Protested ICE. Now They’ve Been Convicted of Terrorism.",
     "pub_date": "Tue, 27 Oct 2026 09:53:22 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/75fb862b-e951-4edc-a99c-24a745a3d0d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=75fb862b-e951-4edc-a99c-24a745a3d0d9&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "On July 4, 2025, a group of 10 antifa protesters was arrested, accused of what the federal government called a planned attack on the Prairieland detention facility in Texas. They were prosecuted as terrorists.Janet Reitman, who has been covering the story, discusses the legal case and the questions it raises about who now qualifies as a terroris..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "The $10 Billion Midterm Ad War",
     "pub_date": "Mon, 26 Oct 2026 09:46:35 +0000",
@@ -1251,7 +1260,7 @@
     "description": "The midterms are shaping up to be the most expensive election cycle in history as campaigns pour huge sums into the ads voters see virtually everywhere.Today, Shane Goldmacher, a national political correspondent for The New York Times, breaks down how Democrats are tying Republicans to President Trump, inflation and corruption, while Republicans..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Tricks, Treats and Trends",
     "pub_date": "Sun, 25 Oct 2026 10:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "Americans are expected to spend a record $13.5 billion on Halloween this year, according to the National Retail Federation. That includes costumes, decorations and lots of candy.In this episode of “The Sunday Daily,” our host Rachel Abrams talks about these three tent poles of the Halloween season with reporters from across the Times newsroom.Ki..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "What This Democrat’s Surge in Texas Says About the Midterms",
     "pub_date": "Sat, 24 Oct 2026 10:00:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Gina Hinojosa, the Democratic nominee for governor, on her appeal to MAGA voters and her refusal to engage in the “culture wars.”Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes...."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Battle Over Black Representation in the South",
     "pub_date": "Fri, 23 Oct 2026 09:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "The approach to this year’s midterms has brought two hugely consequential changes to voting for Black Americans: the gutting of the Voting Rights Act, and redistricting. In the wake of those actions, efforts are underway to mobilize Black voters in the South.In Mississippi, the Senate battle is being seen as a sleeper race, and the Black Democra..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The Election That Will Define Israel’s Future",
     "pub_date": "Thu, 22 Oct 2026 09:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "Israelis head to the polls next week. On the ballot is the future of a country that has become isolated on the world stage, because of both its war in Gaza and a growing outcry over settler violence in the West Bank.David M. Halbfinger, the Jerusalem bureau chief for The New York Times, explains how Prime Minister Benjamin Netanyahu differs from..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Is This Economy as Awful as Voters Think? We Ask Our Expert.",
     "pub_date": "Wed, 21 Oct 2026 09:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "The economy is one of the most important issues for voters in the midterm elections. President Trump has been trying to persuade Americans that they are wrong to be frustrated about the cost of living.Ben Casselman, the chief economics correspondent for The New York Times, explains what the latest economic data actually says.Guest: Ben Casselman..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
     "pub_date": "Tue, 20 Oct 2026 09:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "James Talarico is asking Texas to do something it hasn’t done in nearly 40 years: Elect a Democrat to the U.S. Senate. It won’t be easy. It will take a vast coalition of Democrats, independents and Republicans in a bright red state that President Trump won by about 14 percentage points in 2024 — and where Republicans have plowed hundreds of mill..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Inside Putin’s Plan to Cripple Ukraine This Winter",
     "pub_date": "Mon, 19 Oct 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5d4af67f-8924-4298-8fd7-19a04e793c81/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5d4af67f-8924-4298-8fd7-19a04e793c81&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "President Trump said he was making an energy deal with President Vladimir V. Putin of Russia and waiving new sanctions on Moscow. Now, he’s feuding with Ukraine’s leader, Volodymyr Zelensky.Russia is taking advantage of the moment by relentlessly striking Kyiv, killing civilians and cutting off power for more than a million people.Constant Méheu..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Elizabeth Holmes and Nathan Fielder Keep Us Guessing",
-    "pub_date": "Sun, 18 Oct 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/44d9e7d3-34a2-4376-9aa7-9266fa4ec8a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=44d9e7d3-34a2-4376-9aa7-9266fa4ec8a6&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "The comedian Nathan Fielder came to fame as the creator and host of the Comedy Central series “Nathan for You.” The show followed Fielder as he devised outrageous schemes, ostensibly with the aim of helping various small businesses. What became clear, though, was that Fielder was less interested in helping business owners generate profits than h..."
   }
 ]

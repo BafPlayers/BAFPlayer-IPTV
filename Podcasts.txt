@@ -71,6 +71,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7be
 SHOW: Science Vs
 ========================================================================
 ----------------------------------------
+Episode Title: Sitting: As Bad As Smoking?!
+Published Date: Thu, 29 Oct 2026 09:00:00 -0000
+Description: Lots of us spend HOURS a day sitting on our bums. And we’re often told that this is terrible for us — even that it could be as bad for our health as smoking. But how bad is it really? And can exercise or standing desks help make up for all those hours on the couch?? We dig into what happens inside our bodies when we sit all day — with sedentary ...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9254393831.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Testosterone: Do We All Need a Boost?
 Published Date: Thu, 22 Oct 2026 09:00:00 -0000
 Description: We’re hearing a ton about the marvels of testosterone from influencers, celebrities, and even government officials. They say we should be thinking about our T levels, topping them off with extra if they’re too low. And we’re told that the benefits of testosterone are HUGE: that we’ll be stronger, sexier, and more energized. So is that true?? And...
@@ -123,12 +129,6 @@ Episode Title: Sunscreen: Could It Be Toxic??
 Published Date: Thu, 27 Aug 2026 09:00:00 -0000
 Description: Sunscreen is supposed to protect us from dangerous stuff like cancer, but all over social media, people are saying that we’ve been getting it all wrong. We’re being told that our sunscreen is full of toxic chemicals, that wearing it could mess with our vitamin D levels — even that sunscreen itself actually increases our risk of skin cancer. So, ...
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT9864857559.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Hank Green: What No One Tells You About the Algorithm 
-Published Date: Thu, 20 Aug 2026 09:00:00 -0000
-Description: Hank Green is one of the most beloved science creators on the interwebs. He’s been making videos for almost 20 years, spanning LOTS of eras of the Internet, from YouTube prank videos to TikTok dance challenges to AI slop. In this episode, Wendy sits down with Hank to talk about this wild ride. They reminisce about his path to YouTube stardom, an...
-Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT6845023950.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -201,7 +201,7 @@ SHOW: Short Wave
 ----------------------------------------
 Episode Title: MAHA’s midterm report card
 Published Date: Wed, 28 Oct 2026 07:00:00 +0000
-Description: It’s been just over two years since the rise of Make America Great Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like MA...
+Description: It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2bf6bac2-afdd-49fb-9fa0-9d8d47785793/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2bf6bac2-afdd-49fb-9fa0-9d8d47785793&feed=F0qJcgXZ&t=podcast&e=nx-s1-6018272&p=510351&d=788&size=12608662
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
@@ -570,6 +570,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: Politicians are afraid to fix taxes. So 100 citizens tried.
+Published Date: Wed, 28 Oct 2026 12:57:50 +0000
+Description: Connecticut’s property tax system has been broken for decades and the politicians have failed to fix the problem. So now, they’re trying something new: a citizens assembly. (Citizens assemblies are also old. They go back to Ancient Greece, when lawmakers were chosen not through elections, but through random lotteries.) Today on the show, Connect...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How surveillance crept up on us
 Published Date: Fri, 23 Oct 2026 21:00:00 +0000
 Description: For years, police have spent billions of tax dollars on watching us, tracking us, and recording us. In the largest police department in the country, these surveillance systems were paid for and adopted without the kind of public oversight cities usually require. In the wake of 9/11, the New York Police Department built one of the most sophistica...
@@ -623,16 +629,16 @@ Published Date: Fri, 25 Sep 2026 21:46:44 +0000
 Description: Wanna know who is really in the top 1%? And how they use their influence? It may not be who you think.Look beyond Silicon Valley. Look beyond Wall Street. Look beyond the “oligarchs”. There's a much larger class of wealthy Americans hiding in plain sight. And, often, they got rich in mundane ways. They own car dealerships. They sell hot dogs and...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Is our national debt finally too much? (update)
-Published Date: Wed, 23 Sep 2026 07:00:00 +0000
-Description: (Note: A version of this episode originally ran in 2024.)$40,000,000,000,000. Four commas. Thirteen zeroes. It’s an eye-popping, almost infinite-sounding pile of money. And every time the debt passes a big round number, almost everyone asks the same question: How much debt is too much?It’s maybe the most important question in macroeconomics. It’...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
 SHOW: How I Built This with Guy Raz
 ========================================================================
+----------------------------------------
+Episode Title: Advice Line with Tope Awotona of Calendly
+Published Date: Thu, 29 Oct 2026 07:10:00 -0000
+Description: Today’s callers: Dominic in London faces challenges with profitability and scaling for his foldable bike helmet. Then, Ivana in Vancouver wonders how to maintain the momentum of her pet gear brand as she prepares for the arrival of her first child. Danny in South Carolina wants to expand her nail salon concept without making major trade-offs in ...
+Audio Stream URL: https://traffic.megaphone.fm/VMP4254648132.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work
 Published Date: Mon, 26 Oct 2026 07:10:00 -0000
@@ -692,13 +698,6 @@ Published Date: Mon, 28 Sep 2026 07:10:00 -0000
 Description: With its eco-friendly paper towels, diapers, and cleansers, Seventh Generation was one of the first—and most successful—green household brands to hit the market. But in the early 1990s, its two founders had a bitter falling out.
 Alan Newman and Jeffrey Hollender have barely spoken since that time, but they both agreed to come on the show to talk...
 Audio Stream URL: https://traffic.megaphone.fm/VMP9825762329.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Advice Line with Danny Meyer of Shake Shack
-Published Date: Thu, 24 Sep 2026 07:10:00 -0000
-Description: Today’s callers: Janell from Kentucky wonders how to build a sense of hospitality into her canned bourbon cocktail brand. Jade from South Carolina considers the upsides and risks of shipping her smoked salmon directly to customers. And Bar from Colorado considers strategies for bringing his protein-packed cous cous to quick service restaurants.
-...
-Audio Stream URL: https://traffic.megaphone.fm/VMP6794631928.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -932,6 +931,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Is Running From Trump Enough to Save Republicans on Tuesday?
+Published Date: Wed, 28 Oct 2026 09:54:28 +0000
+Description: A look at candidates from President Trump’s party who are running on a platform of criticizing him. In next week’s midterm elections, a specific kind of Republican candidate is appealing to disillusioned voters of both parties: moderates willing to criticize President Trump.Jess Bidgood explains how some Republicans are trying to bring back an o...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e5d90a09-39f5-4657-8f1b-56f5d80752fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e5d90a09-39f5-4657-8f1b-56f5d80752fa&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: They Protested ICE. Now They’ve Been Convicted of Terrorism.
 Published Date: Tue, 27 Oct 2026 09:53:22 +0000
 Description: On July 4, 2025, a group of 10 antifa protesters was arrested, accused of what the federal government called a planned attack on the Prairieland detention facility in Texas. They were prosecuted as terrorists.Janet Reitman, who has been covering the story, discusses the legal case and the questions it raises about who now qualifies as a terroris...
@@ -985,10 +990,4 @@ Episode Title: Inside Putin’s Plan to Cripple Ukraine This Winter
 Published Date: Mon, 19 Oct 2026 09:45:00 +0000
 Description: President Trump said he was making an energy deal with President Vladimir V. Putin of Russia and waiving new sanctions on Moscow. Now, he’s feuding with Ukraine’s leader, Volodymyr Zelensky.Russia is taking advantage of the moment by relentlessly striking Kyiv, killing civilians and cutting off power for more than a million people.Constant Méheu...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5d4af67f-8924-4298-8fd7-19a04e793c81/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5d4af67f-8924-4298-8fd7-19a04e793c81&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Elizabeth Holmes and Nathan Fielder Keep Us Guessing
-Published Date: Sun, 18 Oct 2026 10:00:00 +0000
-Description: The comedian Nathan Fielder came to fame as the creator and host of the Comedy Central series “Nathan for You.” The show followed Fielder as he devised outrageous schemes, ostensibly with the aim of helping various small businesses. What became clear, though, was that Fielder was less interested in helping business owners generate profits than h...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/44d9e7d3-34a2-4376-9aa7-9266fa4ec8a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=44d9e7d3-34a2-4376-9aa7-9266fa4ec8a6&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
