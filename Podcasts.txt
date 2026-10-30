@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Is your favorite crime show rooted in fake science?
+Published Date: Fri, 30 Oct 2026 07:00:00 +0000
+Description: If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, ...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c488ad83-c8c1-4f05-b858-2ac40457211a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c488ad83-c8c1-4f05-b858-2ac40457211a&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012302&p=510351&d=881&size=14110347
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: MAHA’s midterm report card
 Published Date: Wed, 28 Oct 2026 07:00:00 +0000
 Description: It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ...
@@ -251,12 +257,6 @@ Episode Title: What's at stake if we can't regrow our forests
 Published Date: Thu, 15 Oct 2026 07:00:00 +0000
 Description: In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity in...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5983821&p=510351&d=815&size=13048355
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: What Flock cameras really see – and how
-Published Date: Wed, 14 Oct 2026 07:00:00 +0000
-Description: Police departments across the U.S. are installing Flock cameras, saying the surveillance devices help deter theft and solve crimes, like helping find stolen property and missing people. But as the technology and its use by federal agencies expands, a handful of people have taken matters into their own hands. A hacker collective ripped down a Flo...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b3ca7f8b-a12d-4e9e-b005-342705c0c001/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b3ca7f8b-a12d-4e9e-b005-342705c0c001&feed=F0qJcgXZ&t=podcast&e=nx-s1-5984956&p=510351&d=936&size=14982209
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -391,6 +391,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: Casablanca
+Published Date: Thu, 29 Oct 2026 09:45:00 +0000
+Description: Recorded at the Crossed Wires Festival in Sheffield, Misha Glenny and guests discuss Casablanca, one of the greatest films from Hollywood’s Golden Era.   The film stars Humphrey Bogart and Ingrid Bergman and features the unforgettable song As Time Goes By.    Casablanca opened in November 1942 when Europe had been at war for three years and the ...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pd6wc7.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
+----------------------------------------
 Episode Title: Archive: Dark Matter, the mysterious substance in space
 Published Date: Mon, 26 Oct 2026 09:45:00 +0000
 Description: Dark Matter is a proposed form of matter that does not absorb, reflect or emit light. It is known to make up 27% of our universe, while the matter that makes up stars and galaxies accounts for only 5%.   
@@ -449,16 +455,16 @@ Published Date: Thu, 17 Sep 2026 08:45:00 +0000
 Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His seventh choice is the pioneering scientist Rosalind Franklin (1920 - 1958), first released in February 2018. During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2dsvk.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
-----------------------------------------
-Episode Title: Archive: Plato's Republic
-Published Date: Thu, 10 Sep 2026 08:45:00 +0000
-Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His sixth choice is Plato's Republic, an episode first released in June 2017. Is it always better to be just than unjust? That is the central question of Plato's Republic, written in c380BC. Plato applied this question both to the individual and th...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbrk74.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 
 ========================================================================
 SHOW: Lore
 ========================================================================
+----------------------------------------
+Episode Title: Lore Alive 5: In the Next Room
+Published Date: Fri, 30 Oct 2026 05:01:00 +0000
+Description: Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's final Halloween bonus of the year, we have the sort of story that captured my heart as a kid. On the surface, it's the story of a woman grieving the departure of a dear friend. But there's...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive5.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 ----------------------------------------
 Episode Title: Legends 91: Landslide
 Published Date: Mon, 26 Oct 2026 05:01:00 +0000
@@ -512,12 +518,6 @@ Episode Title: Lore 316: A Spoonful of Sugar
 Published Date: Mon, 05 Oct 2026 05:01:00 +0000
 Description: Sometimes the most frightening stories involve things we consider safe retreats or mindless pleasures. If that sounds tasty, today's exploration will hit the spot. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhu...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore316d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore Alive 1: The Sleep
-Published Date: Fri, 02 Oct 2026 05:01:00 +0000
-Description: Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale introduces us to some newlyweds in late 1800s Kentucky who settled in for a new life together, only for their hopes and dreams to meet a terrifying end. Lore Alive was created by Aaron Mah...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive1.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -704,6 +704,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4da
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: Can curiosity save the wild?
+Published Date: Fri, 30 Oct 2026 07:00:00 +0000
+Description: How do we inspire people to care about wild animals without disrupting their lives? This hour, two surprising approaches to getting to know wildlife — and rethinking what it means to protect it.Guests include conservationist Maya Higa and computational linguist Jeffery Reed.Support public media with NPR+ and enjoy perks for over 25 podcasts like...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/6f98e092-7327-4f5a-8923-711abecd27a5/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=6f98e092-7327-4f5a-8923-711abecd27a5&feed=gGUt_fS1&t=podcast&e=nx-s1-6020932&p=510298&d=2979&size=47668706
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How we experience time
 Published Date: Fri, 23 Oct 2026 07:00:00 +0000
 Description: Why does one hour drag by, but a year can pass in a flash? And how does our relationship with time influence our behavior? This hour, TED speakers share ideas on making the most of the time we have. Guests include artist Katie Paterson, cognitive neuroscientist Irena Arslanova,  the late music director Robert Franz and the late psychologist Phil...
@@ -757,12 +763,6 @@ Episode Title: The day the dinosaurs died
 Published Date: Fri, 28 Aug 2026 07:00:00 +0000
 Description: What happened in the days, even hours, after an asteroid set off the fifth extinction? A New Jersey quarry, and site of a new museum founded by paleontologist Ken Lacovara, sheds light on the mystery.Original broadcast date: August 16, 2024Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks includ...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/c093f2b2-a19d-4381-9a36-c27506bccd36/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=c093f2b2-a19d-4381-9a36-c27506bccd36&feed=gGUt_fS1&t=podcast&e=nx-s1-5945734&p=510298&d=3021&size=48349145
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: How the creator economy is making you talk like the internet
-Published Date: Fri, 21 Aug 2026 07:00:00 +0000
-Description: Online linguist Adam Aleksic explains how he goes viral decoding internet slang, plus why making a living online means working for 'the algorithm.' It's part 2 of our creator economy series.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/00c5d33a-84b1-49cc-91a1-fdfc38089ad4/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=00c5d33a-84b1-49cc-91a1-fdfc38089ad4&feed=gGUt_fS1&t=podcast&e=nx-s1-5938840&p=510298&d=3000&size=48002657
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -931,6 +931,18 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: The Art of the Pardon: How Trump Turned Clemency Into a Business
+Published Date: Fri, 30 Oct 2026 09:45:00 +0000
+Description: In the final stretch of the midterm election campaign, polls have found that voters are latching onto the perceived corruption of the Trump administration.Kenneth P. Vogel, a New York Times investigative journalist, explores one major story line feeding that perception: how those around the president have turned the pardon process into a busines...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cdf9c669-1803-4c63-851b-4aa19be5b62c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cdf9c669-1803-4c63-851b-4aa19be5b62c&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: A Plan for Two Dans: How Democrats Manipulated Alaska’s Ballot
+Published Date: Thu, 29 Oct 2026 09:45:00 +0000
+Description: An investigation from The New York Times has uncovered how two candidates named Dan Sullivan ended up on the ballot for U.S. Senate in Alaska and the secret role that Democrats played in making it happen.Kellen Browning, a political reporter for The Times, takes us inside the political scheme and explains what it means for a race that could dete...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9aeacd77-c434-4046-b7e1-a8b0c90c8090/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9aeacd77-c434-4046-b7e1-a8b0c90c8090&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Is Running From Trump Enough to Save Republicans on Tuesday?
 Published Date: Wed, 28 Oct 2026 09:54:28 +0000
 Description: A look at candidates from President Trump’s party who are running on a platform of criticizing him. In next week’s midterm elections, a specific kind of Republican candidate is appealing to disillusioned voters of both parties: moderates willing to criticize President Trump.Jess Bidgood explains how some Republicans are trying to bring back an o...
@@ -978,16 +990,4 @@ Episode Title: Is This Economy as Awful as Voters Think? We Ask Our Expert.
 Published Date: Wed, 21 Oct 2026 09:45:00 +0000
 Description: The economy is one of the most important issues for voters in the midterm elections. President Trump has been trying to persuade Americans that they are wrong to be frustrated about the cost of living.Ben Casselman, the chief economics correspondent for The New York Times, explains what the latest economic data actually says.Guest: Ben Casselman...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/93fe65fc-d93d-490d-b13f-c5a17049a898/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=93fe65fc-d93d-490d-b13f-c5a17049a898&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: James Talarico on the Rage Economy, Billionaires and Flipping Texas
-Published Date: Tue, 20 Oct 2026 09:45:00 +0000
-Description: James Talarico is asking Texas to do something it hasn’t done in nearly 40 years: Elect a Democrat to the U.S. Senate. It won’t be easy. It will take a vast coalition of Democrats, independents and Republicans in a bright red state that President Trump won by about 14 percentage points in 2024 — and where Republicans have plowed hundreds of mill...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/15e1e27a-94bb-46f3-94cb-085aa2f8a88c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=15e1e27a-94bb-46f3-94cb-085aa2f8a88c&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Inside Putin’s Plan to Cripple Ukraine This Winter
-Published Date: Mon, 19 Oct 2026 09:45:00 +0000
-Description: President Trump said he was making an energy deal with President Vladimir V. Putin of Russia and waiving new sanctions on Moscow. Now, he’s feuding with Ukraine’s leader, Volodymyr Zelensky.Russia is taking advantage of the moment by relentlessly striking Kyiv, killing civilians and cutting off power for more than a million people.Constant Méheu...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5d4af67f-8924-4298-8fd7-19a04e793c81/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5d4af67f-8924-4298-8fd7-19a04e793c81&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

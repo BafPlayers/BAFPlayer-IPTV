@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "Is your favorite crime show rooted in fake science?",
+    "pub_date": "Fri, 30 Oct 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c488ad83-c8c1-4f05-b858-2ac40457211a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c488ad83-c8c1-4f05-b858-2ac40457211a&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012302&p=510351&d=881&size=14110347",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, ..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "MAHA’s midterm report card",
     "pub_date": "Wed, 28 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2bf6bac2-afdd-49fb-9fa0-9d8d47785793/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2bf6bac2-afdd-49fb-9fa0-9d8d47785793&feed=F0qJcgXZ&t=podcast&e=nx-s1-6018272&p=510351&d=788&size=12608662",
@@ -279,7 +288,7 @@
     "description": "It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "You Can See Everything and the science of spotting liars",
     "pub_date": "Tue, 27 Oct 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible ..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "The battle between matter and antimatter",
     "pub_date": "Mon, 26 Oct 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter, matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they ..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "The dormant viruses in all of us may help explain long COVID",
     "pub_date": "Fri, 23 Oct 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Can planting more trees make allergies worse?",
     "pub_date": "Wed, 21 Oct 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.Interested in more..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "What are the odds we're not alone in the universe?",
     "pub_date": "Tue, 20 Oct 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "There are hundreds of billions of stars in the galaxy we live in. Many of them have their own exoplanets. So why haven’t we found proof of alien life yet? And what’s the probability of us contacting or being contacted anyway? That’s exactly what a famous math formula called the Drake Equation tries to answer. It takes into account a whole variet..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "What the world's leading researchers think about saunas",
     "pub_date": "Mon, 19 Oct 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "Saunas have gone from a Scandinavian tradition to a global wellness phenomenon. But how long should a person endure heat? Do saunas actually work? And if so, what are their benefits? NPR health reporter Will Stone goes as deep as the science will let him to explore the sauna hype waves and find out what happens to our bodies when we step in them..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "The terrifying physics of prehistoric sea monsters",
     "pub_date": "Fri, 16 Oct 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "While dinosaurs roamed the earth, giant monsters roamed the sea. Mosasaurs were like the deadly T-rexes of the ocean: They grew up to the size of a bus and chased down their smaller prey. A recent study in the journal Current Biology details just how exactly they might have done that. And the answer is fast – way faster than humans can swim – an..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "What's at stake if we can't regrow our forests",
     "pub_date": "Thu, 15 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5983821&p=510351&d=815&size=13048355",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity in..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "What Flock cameras really see – and how",
-    "pub_date": "Wed, 14 Oct 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b3ca7f8b-a12d-4e9e-b005-342705c0c001/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b3ca7f8b-a12d-4e9e-b005-342705c0c001&feed=F0qJcgXZ&t=podcast&e=nx-s1-5984956&p=510351&d=936&size=14982209",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Police departments across the U.S. are installing Flock cameras, saying the surveillance devices help deter theft and solve crimes, like helping find stolen property and missing people. But as the technology and its use by federal agencies expands, a handful of people have taken matters into their own hands. A hacker collective ripped down a Flo..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -542,6 +542,15 @@
   {
     "id": "bbc-in-our-time-ep-1",
     "show_name": "In Our Time",
+    "episode_title": "Casablanca",
+    "pub_date": "Thu, 29 Oct 2026 09:45:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pd6wc7.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
+    "description": "Recorded at the Crossed Wires Festival in Sheffield, Misha Glenny and guests discuss Casablanca, one of the greatest films from Hollywood’s Golden Era.   The film stars Humphrey Bogart and Ingrid Bergman and features the unforgettable song As Time Goes By.    Casablanca opened in November 1942 when Europe had been at war for three years and the ..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-2",
+    "show_name": "In Our Time",
     "episode_title": "Archive: Dark Matter, the mysterious substance in space",
     "pub_date": "Mon, 26 Oct 2026 09:45:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pchg4c.mp3",
@@ -549,7 +558,7 @@
     "description": "Dark Matter is a proposed form of matter that does not absorb, reflect or emit light. It is known to make up 27% of our universe, while the matter that makes up stars and galaxies accounts for only 5%.   \n  \nIn this archive episode, first released in March 2015, Melvyn Bragg and his guests discuss dark matter, the mysterious and invisible substa..."
   },
   {
-    "id": "bbc-in-our-time-ep-2",
+    "id": "bbc-in-our-time-ep-3",
     "show_name": "In Our Time",
     "episode_title": "Particle Accelerators",
     "pub_date": "Thu, 22 Oct 2026 08:45:00 +0000",
@@ -558,7 +567,7 @@
     "description": "Misha Glenny and guests discuss the machines that are described as the world’s largest experiments: Particle Accelerators. A famous example of a Particle Accelerator is the Large Hadron Collider, a device which stretches for nearly 30km, deep beneath the ground in a tunnel between France and Switzerland.    This enormous scale enables the partic..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "Archive: Erasmus",
     "pub_date": "Mon, 19 Oct 2026 08:45:00 +0000",
@@ -567,7 +576,7 @@
     "description": "One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. \n \nIn this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch ..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "Thomas More's Utopia",
     "pub_date": "Thu, 15 Oct 2026 08:45:00 +0000",
@@ -576,7 +585,7 @@
     "description": "In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book,..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "Archive: The Measurement of Time",
     "pub_date": "Mon, 12 Oct 2026 08:45:00 +0000",
@@ -585,7 +594,7 @@
     "description": "Misha Glenny chooses the first of his archive picks - bringing back classic conversations from the In Our Time archive, every Monday. \nHumans have tried to calculate, regulate, and measure time for thousands of years: from systems based on tracking sunrise and sunset, to the invention of increasingly precise mechanical alarm clocks and astrolabe..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "Archive: Trinity",
     "pub_date": "Thu, 08 Oct 2026 08:45:00 +0000",
@@ -594,7 +603,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His final choice is the Trinity, an episode first released in March 2014. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest y..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "Archive: Emma",
     "pub_date": "Thu, 01 Oct 2026 08:45:00 +0000",
@@ -603,7 +612,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His ninth choice is the episode on Jane Austen’s novel Emma, first released in November 2015. Austen described her leading character as \"a heroine whom no-one but myself will much like.\" Emma is one of Austen’s most popular novels and arguably her ..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "Archive: The War of 1812",
     "pub_date": "Thu, 24 Sep 2026 08:45:00 +0000",
@@ -612,7 +621,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His eighth choice is The War of 1812, which was first released in January 2013. Melvyn Bragg and his guests discussed the conflict between America and the British Empire sometimes referred to as the second American War of Independence. In June 1812..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "Archive: Rosalind Franklin",
     "pub_date": "Thu, 17 Sep 2026 08:45:00 +0000",
@@ -621,16 +630,16 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His seventh choice is the pioneering scientist Rosalind Franklin (1920 - 1958), first released in February 2018. During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered..."
   },
   {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "Archive: Plato's Republic",
-    "pub_date": "Thu, 10 Sep 2026 08:45:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbrk74.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
-    "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His sixth choice is Plato's Republic, an episode first released in June 2017. Is it always better to be just than unjust? That is the central question of Plato's Republic, written in c380BC. Plato applied this question both to the individual and th..."
+    "id": "lore--folklore---history--ep-1",
+    "show_name": "Lore",
+    "episode_title": "Lore Alive 5: In the Next Room",
+    "pub_date": "Fri, 30 Oct 2026 05:01:00 +0000",
+    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive5.mp3?dest-id=259905",
+    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
+    "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's final Halloween bonus of the year, we have the sort of story that captured my heart as a kid. On the surface, it's the story of a woman grieving the departure of a dear friend. But there's..."
   },
   {
-    "id": "lore--folklore---history--ep-1",
+    "id": "lore--folklore---history--ep-2",
     "show_name": "Lore",
     "episode_title": "Legends 91: Landslide",
     "pub_date": "Mon, 26 Oct 2026 05:01:00 +0000",
@@ -639,7 +648,7 @@
     "description": "Humans have a special ability to create a lot of tragedy, and history is marked with many examples. But the natural world has always done its best to keep up, as these stories show. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed —————..."
   },
   {
-    "id": "lore--folklore---history--ep-2",
+    "id": "lore--folklore---history--ep-3",
     "show_name": "Lore",
     "episode_title": "Lore Alive 4: Peg & Button",
     "pub_date": "Fri, 23 Oct 2026 05:01:00 +0000",
@@ -648,7 +657,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we meet a group of mischievous young men who pick on the wrong woman before heading off to war in the far north. Their decision, it turns out, became something that haunted th..."
   },
   {
-    "id": "lore--folklore---history--ep-3",
+    "id": "lore--folklore---history--ep-4",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 317 (84, 111, & 215)",
     "pub_date": "Thu, 22 Oct 2026 05:01:00 +0000",
@@ -657,7 +666,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (317: Smoke and Mirrors) with these three recommendations from further back in the Lore catalog:  Episode 84: LorePodcast.com/episodes/84 Episode 111: LorePodcast.com/episodes/111 Episode 215: LorePodcast.com/episodes/215  ———————— Lore Resources:   Episode Music: lorepodcast.com/music..."
   },
   {
-    "id": "lore--folklore---history--ep-4",
+    "id": "lore--folklore---history--ep-5",
     "show_name": "Lore",
     "episode_title": "Lore 317: Smoke and Mirrors",
     "pub_date": "Mon, 19 Oct 2026 05:01:00 +0000",
@@ -666,7 +675,7 @@
     "description": "Stage magic as we know it today is very different from how it began. The consequences of those early days, though, are all around us. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources: ..."
   },
   {
-    "id": "lore--folklore---history--ep-5",
+    "id": "lore--folklore---history--ep-6",
     "show_name": "Lore",
     "episode_title": "Lore Alive 3: Under the Rug",
     "pub_date": "Fri, 16 Oct 2026 05:01:00 +0000",
@@ -675,7 +684,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we travel north to Maine, and the tiny community of Dark Harbor. It is here that a promising marriage falls apart, and a horrifying legend grows up in its place. Lore Alive wa..."
   },
   {
-    "id": "lore--folklore---history--ep-6",
+    "id": "lore--folklore---history--ep-7",
     "show_name": "Lore",
     "episode_title": "Legends 90: Set Aside",
     "pub_date": "Mon, 12 Oct 2026 05:01:00 +0000",
@@ -684,7 +693,7 @@
     "description": "For a very long time, stories were fragile artifacts, passed along on the tenuous thread of oral tradition. And many of the relics that have survived to this day are thanks to one woman, and her connection to a famous pair of brothers. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BU..."
   },
   {
-    "id": "lore--folklore---history--ep-7",
+    "id": "lore--folklore---history--ep-8",
     "show_name": "Lore",
     "episode_title": "Lore Alive 2: In Dreams",
     "pub_date": "Fri, 09 Oct 2026 05:01:00 +0000",
@@ -693,7 +702,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale puts us in the middle of the first known New England vampire exhumation, and the terrifying dream that plagued a heartbroken father. Lore Alive was created by Aaron Mahnke, with writing an..."
   },
   {
-    "id": "lore--folklore---history--ep-8",
+    "id": "lore--folklore---history--ep-9",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 316 (118, 166, & 212)",
     "pub_date": "Thu, 08 Oct 2026 05:01:00 +0000",
@@ -702,22 +711,13 @@
     "description": "Go deeper into the subject matter of our most recent episode (316: A Spoonful of Sugar) with these three recommendations from further back in the Lore catalog:  Episode 118: LorePodcast.com/episodes/118 Episode 166: LorePodcast.com/episodes/166 Episode 212: LorePodcast.com/episodes/212  ———————— Lore Resources:   Episode Music: lorepodcast.com/m..."
   },
   {
-    "id": "lore--folklore---history--ep-9",
+    "id": "lore--folklore---history--ep-10",
     "show_name": "Lore",
     "episode_title": "Lore 316: A Spoonful of Sugar",
     "pub_date": "Mon, 05 Oct 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore316d.mp3?dest-id=259905",
     "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
     "description": "Sometimes the most frightening stories involve things we consider safe retreats or mindless pleasures. If that sounds tasty, today's exploration will hit the spot. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhu..."
-  },
-  {
-    "id": "lore--folklore---history--ep-10",
-    "show_name": "Lore",
-    "episode_title": "Lore Alive 1: The Sleep",
-    "pub_date": "Fri, 02 Oct 2026 05:01:00 +0000",
-    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive1.mp3?dest-id=259905",
-    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
-    "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale introduces us to some newlyweds in late 1800s Kentucky who settled in for a new life together, only for their hopes and dreams to meet a terrifying end. Lore Alive was created by Aaron Mah..."
   },
   {
     "id": "dan-carlin-s-hardcore-history-ep-1",
@@ -965,6 +965,15 @@
   {
     "id": "ted-radio-hour-ep-1",
     "show_name": "TED Radio Hour",
+    "episode_title": "Can curiosity save the wild?",
+    "pub_date": "Fri, 30 Oct 2026 07:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/6f98e092-7327-4f5a-8923-711abecd27a5/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=6f98e092-7327-4f5a-8923-711abecd27a5&feed=gGUt_fS1&t=podcast&e=nx-s1-6020932&p=510298&d=2979&size=47668706",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
+    "description": "How do we inspire people to care about wild animals without disrupting their lives? This hour, two surprising approaches to getting to know wildlife — and rethinking what it means to protect it.Guests include conservationist Maya Higa and computational linguist Jeffery Reed.Support public media with NPR+ and enjoy perks for over 25 podcasts like..."
+  },
+  {
+    "id": "ted-radio-hour-ep-2",
+    "show_name": "TED Radio Hour",
     "episode_title": "How we experience time",
     "pub_date": "Fri, 23 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/8849e173-e608-4e2e-9514-16275040d7b7/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=8849e173-e608-4e2e-9514-16275040d7b7&feed=gGUt_fS1&t=podcast&e=nx-s1-6010864&p=510298&d=2981&size=47698799",
@@ -972,7 +981,7 @@
     "description": "Why does one hour drag by, but a year can pass in a flash? And how does our relationship with time influence our behavior? This hour, TED speakers share ideas on making the most of the time we have. Guests include artist Katie Paterson, cognitive neuroscientist Irena Arslanova,  the late music director Robert Franz and the late psychologist Phil..."
   },
   {
-    "id": "ted-radio-hour-ep-2",
+    "id": "ted-radio-hour-ep-3",
     "show_name": "TED Radio Hour",
     "episode_title": "Have we forgotten how to play?",
     "pub_date": "Fri, 16 Oct 2026 07:00:00 +0000",
@@ -981,7 +990,7 @@
     "description": "Play is how we evolved to learn, solve problems, and navigate the world. So why do we treat it as optional? This hour, the science of play — and what happens when we don’t get enough of it.Guests include psychology researcher Peter Gray, sailor and social activist Tracy Edwards and photographer Stefen Chow.Support public media with NPR+ and enjo..."
   },
   {
-    "id": "ted-radio-hour-ep-3",
+    "id": "ted-radio-hour-ep-4",
     "show_name": "TED Radio Hour",
     "episode_title": "The shocking power of tiny things",
     "pub_date": "Fri, 09 Oct 2026 07:00:00 +0000",
@@ -990,7 +999,7 @@
     "description": "You don't need to be big and boisterous to pack a punch. This hour, TED speakers explore the surprising strength of all things minuscule and fleeting. Guests include microbiologist Anne Madden, cognitive scientist Lera Boroditsky, former educator YeYoon Kim and former industrial engineer and Zen Buddhist monk Bart Weetjens.Original broadcast dat..."
   },
   {
-    "id": "ted-radio-hour-ep-4",
+    "id": "ted-radio-hour-ep-5",
     "show_name": "TED Radio Hour",
     "episode_title": "The women missing from music\n",
     "pub_date": "Fri, 02 Oct 2026 07:00:00 +0000",
@@ -999,7 +1008,7 @@
     "description": "Women have been writing music for centuries. Why do we know so few of them today? This hour, TED speakers explore the role of women in music history and how we can remember their contributions. Guests include opera singer and activist Gabriella Di Laccio and Nadya Tolokonnikova, a Russian artist and founder of Pussy Riot.Support public media wit..."
   },
   {
-    "id": "ted-radio-hour-ep-5",
+    "id": "ted-radio-hour-ep-6",
     "show_name": "TED Radio Hour",
     "episode_title": "Life can be so awkward. Here's how to embrace the embarrassing",
     "pub_date": "Fri, 25 Sep 2026 07:00:00 +0000",
@@ -1008,7 +1017,7 @@
     "description": "Forgetting a name, a poorly executed hug, the 7th grade — awkwardness is part of our lives whether we like it or not. But what if we put the embarrassment aside and embraced our awkward selves? Guests include social scientist Ty Tashiro, cartoonist Liana Finck, journalist Melissa Dahl and sex and relationship counselor Erin Chen.Original broadca..."
   },
   {
-    "id": "ted-radio-hour-ep-6",
+    "id": "ted-radio-hour-ep-7",
     "show_name": "TED Radio Hour",
     "episode_title": "Big mysteries explained through your senses",
     "pub_date": "Fri, 18 Sep 2026 07:00:00 +0000",
@@ -1017,7 +1026,7 @@
     "description": "Our senses help us navigate everyday life. But can they also reveal what lies beyond our perception? This hour, TED speakers explore the hidden world through the senses. Guests include astronomer Mark Whittle, chemosensory researcher Paule Joseph and artist Yiyun Kang.Support public media with NPR+ and enjoy perks for over 25 podcasts like this ..."
   },
   {
-    "id": "ted-radio-hour-ep-7",
+    "id": "ted-radio-hour-ep-8",
     "show_name": "TED Radio Hour",
     "episode_title": "What this musician’s identity crisis teaches us about navigating change",
     "pub_date": "Fri, 11 Sep 2026 07:00:00 +0000",
@@ -1026,7 +1035,7 @@
     "description": "Since childhood, Joshua Roman's life revolved around the cello. But when long COVID forced him to set his cello aside, he had to rethink his approach to life, faith and music.Original broadcast date: September 26, 2025.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listen..."
   },
   {
-    "id": "ted-radio-hour-ep-8",
+    "id": "ted-radio-hour-ep-9",
     "show_name": "TED Radio Hour",
     "episode_title": "Less guilt, more joy: A new chapter for climate action",
     "pub_date": "Fri, 04 Sep 2026 07:00:00 +0000",
@@ -1035,22 +1044,13 @@
     "description": "Climate action usually means sacrifice: eat less meat, buy less, drive less. What if there's another approach? Researcher Elizabeth Dunn shares climate hacks that help the planet AND make us happier.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences..."
   },
   {
-    "id": "ted-radio-hour-ep-9",
+    "id": "ted-radio-hour-ep-10",
     "show_name": "TED Radio Hour",
     "episode_title": "The day the dinosaurs died",
     "pub_date": "Fri, 28 Aug 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/c093f2b2-a19d-4381-9a36-c27506bccd36/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=c093f2b2-a19d-4381-9a36-c27506bccd36&feed=gGUt_fS1&t=podcast&e=nx-s1-5945734&p=510298&d=3021&size=48349145",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
     "description": "What happened in the days, even hours, after an asteroid set off the fifth extinction? A New Jersey quarry, and site of a new museum founded by paleontologist Ken Lacovara, sheds light on the mystery.Original broadcast date: August 16, 2024Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks includ..."
-  },
-  {
-    "id": "ted-radio-hour-ep-10",
-    "show_name": "TED Radio Hour",
-    "episode_title": "How the creator economy is making you talk like the internet",
-    "pub_date": "Fri, 21 Aug 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/00c5d33a-84b1-49cc-91a1-fdfc38089ad4/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=00c5d33a-84b1-49cc-91a1-fdfc38089ad4&feed=gGUt_fS1&t=podcast&e=nx-s1-5938840&p=510298&d=3000&size=48002657",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
-    "description": "Online linguist Adam Aleksic explains how he goes viral decoding internet slang, plus why making a living online means working for 'the algorithm.' It's part 2 of our creator economy series.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn..."
   },
   {
     "id": "lex-fridman-podcast-ep-1",
@@ -1235,6 +1235,24 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "The Art of the Pardon: How Trump Turned Clemency Into a Business",
+    "pub_date": "Fri, 30 Oct 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cdf9c669-1803-4c63-851b-4aa19be5b62c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cdf9c669-1803-4c63-851b-4aa19be5b62c&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "In the final stretch of the midterm election campaign, polls have found that voters are latching onto the perceived corruption of the Trump administration.Kenneth P. Vogel, a New York Times investigative journalist, explores one major story line feeding that perception: how those around the president have turned the pardon process into a busines..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
+    "episode_title": "A Plan for Two Dans: How Democrats Manipulated Alaska’s Ballot",
+    "pub_date": "Thu, 29 Oct 2026 09:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9aeacd77-c434-4046-b7e1-a8b0c90c8090/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9aeacd77-c434-4046-b7e1-a8b0c90c8090&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "An investigation from The New York Times has uncovered how two candidates named Dan Sullivan ended up on the ballot for U.S. Senate in Alaska and the secret role that Democrats played in making it happen.Kellen Browning, a political reporter for The Times, takes us inside the political scheme and explains what it means for a race that could dete..."
+  },
+  {
+    "id": "the-daily--nyt--ep-3",
+    "show_name": "The Daily",
     "episode_title": "Is Running From Trump Enough to Save Republicans on Tuesday?",
     "pub_date": "Wed, 28 Oct 2026 09:54:28 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e5d90a09-39f5-4657-8f1b-56f5d80752fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e5d90a09-39f5-4657-8f1b-56f5d80752fa&feed=54nAGcIl",
@@ -1242,7 +1260,7 @@
     "description": "A look at candidates from President Trump’s party who are running on a platform of criticizing him. In next week’s midterm elections, a specific kind of Republican candidate is appealing to disillusioned voters of both parties: moderates willing to criticize President Trump.Jess Bidgood explains how some Republicans are trying to bring back an o..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "They Protested ICE. Now They’ve Been Convicted of Terrorism.",
     "pub_date": "Tue, 27 Oct 2026 09:53:22 +0000",
@@ -1251,7 +1269,7 @@
     "description": "On July 4, 2025, a group of 10 antifa protesters was arrested, accused of what the federal government called a planned attack on the Prairieland detention facility in Texas. They were prosecuted as terrorists.Janet Reitman, who has been covering the story, discusses the legal case and the questions it raises about who now qualifies as a terroris..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The $10 Billion Midterm Ad War",
     "pub_date": "Mon, 26 Oct 2026 09:46:35 +0000",
@@ -1260,7 +1278,7 @@
     "description": "The midterms are shaping up to be the most expensive election cycle in history as campaigns pour huge sums into the ads voters see virtually everywhere.Today, Shane Goldmacher, a national political correspondent for The New York Times, breaks down how Democrats are tying Republicans to President Trump, inflation and corruption, while Republicans..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Tricks, Treats and Trends",
     "pub_date": "Sun, 25 Oct 2026 10:00:00 +0000",
@@ -1269,7 +1287,7 @@
     "description": "Americans are expected to spend a record $13.5 billion on Halloween this year, according to the National Retail Federation. That includes costumes, decorations and lots of candy.In this episode of “The Sunday Daily,” our host Rachel Abrams talks about these three tent poles of the Halloween season with reporters from across the Times newsroom.Ki..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "What This Democrat’s Surge in Texas Says About the Midterms",
     "pub_date": "Sat, 24 Oct 2026 10:00:00 +0000",
@@ -1278,7 +1296,7 @@
     "description": "Gina Hinojosa, the Democratic nominee for governor, on her appeal to MAGA voters and her refusal to engage in the “culture wars.”Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes...."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "The Battle Over Black Representation in the South",
     "pub_date": "Fri, 23 Oct 2026 09:45:00 +0000",
@@ -1287,7 +1305,7 @@
     "description": "The approach to this year’s midterms has brought two hugely consequential changes to voting for Black Americans: the gutting of the Voting Rights Act, and redistricting. In the wake of those actions, efforts are underway to mobilize Black voters in the South.In Mississippi, the Senate battle is being seen as a sleeper race, and the Black Democra..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The Election That Will Define Israel’s Future",
     "pub_date": "Thu, 22 Oct 2026 09:45:00 +0000",
@@ -1296,30 +1314,12 @@
     "description": "Israelis head to the polls next week. On the ballot is the future of a country that has become isolated on the world stage, because of both its war in Gaza and a growing outcry over settler violence in the West Bank.David M. Halbfinger, the Jerusalem bureau chief for The New York Times, explains how Prime Minister Benjamin Netanyahu differs from..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Is This Economy as Awful as Voters Think? We Ask Our Expert.",
     "pub_date": "Wed, 21 Oct 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/93fe65fc-d93d-490d-b13f-c5a17049a898/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=93fe65fc-d93d-490d-b13f-c5a17049a898&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "The economy is one of the most important issues for voters in the midterm elections. President Trump has been trying to persuade Americans that they are wrong to be frustrated about the cost of living.Ben Casselman, the chief economics correspondent for The New York Times, explains what the latest economic data actually says.Guest: Ben Casselman..."
-  },
-  {
-    "id": "the-daily--nyt--ep-9",
-    "show_name": "The Daily",
-    "episode_title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
-    "pub_date": "Tue, 20 Oct 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/15e1e27a-94bb-46f3-94cb-085aa2f8a88c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=15e1e27a-94bb-46f3-94cb-085aa2f8a88c&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "James Talarico is asking Texas to do something it hasn’t done in nearly 40 years: Elect a Democrat to the U.S. Senate. It won’t be easy. It will take a vast coalition of Democrats, independents and Republicans in a bright red state that President Trump won by about 14 percentage points in 2024 — and where Republicans have plowed hundreds of mill..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Inside Putin’s Plan to Cripple Ukraine This Winter",
-    "pub_date": "Mon, 19 Oct 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5d4af67f-8924-4298-8fd7-19a04e793c81/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5d4af67f-8924-4298-8fd7-19a04e793c81&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "President Trump said he was making an energy deal with President Vladimir V. Putin of Russia and waiving new sanctions on Moscow. Now, he’s feuding with Ukraine’s leader, Volodymyr Zelensky.Russia is taking advantage of the moment by relentlessly striking Kyiv, killing civilians and cutting off power for more than a million people.Constant Méheu..."
   }
 ]
