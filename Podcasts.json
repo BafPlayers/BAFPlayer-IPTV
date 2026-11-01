@@ -1235,6 +1235,24 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Want to Enjoy Music More? Go For a Run.",
+    "pub_date": "Sun, 1 Nov 2026 10:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/45c30d5c-ee34-4e59-aa41-be04a804b7bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=45c30d5c-ee34-4e59-aa41-be04a804b7bd&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "Ben Ratliff, a music critic and avid runner, always ran in silence. Then he discovered how music opened up to him — while running. It changed his entire approach to criticism and listening. He calls it “running the song.”Today, for the New York City Marathon, Ben talks with our host Rachel Abrams about how his listening sharpens when he runs to ..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
+    "episode_title": "Martin McDonagh Has a Vision for Hope. It's Not for the Faint of Heart.",
+    "pub_date": "Sat, 31 Oct 2026 10:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/103db548-78e9-4a05-8b79-2704e5d914c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=103db548-78e9-4a05-8b79-2704e5d914c2&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "The writer-director, known for his dark and bleak work, believes in film’s power to change our lives.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/thedaily. Transcripts of..."
+  },
+  {
+    "id": "the-daily--nyt--ep-3",
+    "show_name": "The Daily",
     "episode_title": "The Art of the Pardon: How Trump Turned Clemency Into a Business",
     "pub_date": "Fri, 30 Oct 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cdf9c669-1803-4c63-851b-4aa19be5b62c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cdf9c669-1803-4c63-851b-4aa19be5b62c&feed=54nAGcIl",
@@ -1242,7 +1260,7 @@
     "description": "In the final stretch of the midterm election campaign, polls have found that voters are latching onto the perceived corruption of the Trump administration.Kenneth P. Vogel, a New York Times investigative journalist, explores one major story line feeding that perception: how those around the president have turned the pardon process into a busines..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "A Plan for Two Dans: How Democrats Manipulated Alaska’s Ballot",
     "pub_date": "Thu, 29 Oct 2026 09:45:00 +0000",
@@ -1251,7 +1269,7 @@
     "description": "An investigation from The New York Times has uncovered how two candidates named Dan Sullivan ended up on the ballot for U.S. Senate in Alaska and the secret role that Democrats played in making it happen.Kellen Browning, a political reporter for The Times, takes us inside the political scheme and explains what it means for a race that could dete..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Is Running From Trump Enough to Save Republicans on Tuesday?",
     "pub_date": "Wed, 28 Oct 2026 09:54:28 +0000",
@@ -1260,7 +1278,7 @@
     "description": "A look at candidates from President Trump’s party who are running on a platform of criticizing him. In next week’s midterm elections, a specific kind of Republican candidate is appealing to disillusioned voters of both parties: moderates willing to criticize President Trump.Jess Bidgood explains how some Republicans are trying to bring back an o..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "They Protested ICE. Now They’ve Been Convicted of Terrorism.",
     "pub_date": "Tue, 27 Oct 2026 09:53:22 +0000",
@@ -1269,7 +1287,7 @@
     "description": "On July 4, 2025, a group of 10 antifa protesters was arrested, accused of what the federal government called a planned attack on the Prairieland detention facility in Texas. They were prosecuted as terrorists.Janet Reitman, who has been covering the story, discusses the legal case and the questions it raises about who now qualifies as a terroris..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The $10 Billion Midterm Ad War",
     "pub_date": "Mon, 26 Oct 2026 09:46:35 +0000",
@@ -1278,7 +1296,7 @@
     "description": "The midterms are shaping up to be the most expensive election cycle in history as campaigns pour huge sums into the ads voters see virtually everywhere.Today, Shane Goldmacher, a national political correspondent for The New York Times, breaks down how Democrats are tying Republicans to President Trump, inflation and corruption, while Republicans..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Tricks, Treats and Trends",
     "pub_date": "Sun, 25 Oct 2026 10:00:00 +0000",
@@ -1287,7 +1305,7 @@
     "description": "Americans are expected to spend a record $13.5 billion on Halloween this year, according to the National Retail Federation. That includes costumes, decorations and lots of candy.In this episode of “The Sunday Daily,” our host Rachel Abrams talks about these three tent poles of the Halloween season with reporters from across the Times newsroom.Ki..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "What This Democrat’s Surge in Texas Says About the Midterms",
     "pub_date": "Sat, 24 Oct 2026 10:00:00 +0000",
@@ -1296,30 +1314,12 @@
     "description": "Gina Hinojosa, the Democratic nominee for governor, on her appeal to MAGA voters and her refusal to engage in the “culture wars.”Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes...."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "The Battle Over Black Representation in the South",
     "pub_date": "Fri, 23 Oct 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60ffceb7-687b-4c09-b075-cd86e8bd477f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60ffceb7-687b-4c09-b075-cd86e8bd477f&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "The approach to this year’s midterms has brought two hugely consequential changes to voting for Black Americans: the gutting of the Voting Rights Act, and redistricting. In the wake of those actions, efforts are underway to mobilize Black voters in the South.In Mississippi, the Senate battle is being seen as a sleeper race, and the Black Democra..."
-  },
-  {
-    "id": "the-daily--nyt--ep-9",
-    "show_name": "The Daily",
-    "episode_title": "The Election That Will Define Israel’s Future",
-    "pub_date": "Thu, 22 Oct 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4d142ed1-ec9d-470b-b52b-ba35e33fedf6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4d142ed1-ec9d-470b-b52b-ba35e33fedf6&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "Israelis head to the polls next week. On the ballot is the future of a country that has become isolated on the world stage, because of both its war in Gaza and a growing outcry over settler violence in the West Bank.David M. Halbfinger, the Jerusalem bureau chief for The New York Times, explains how Prime Minister Benjamin Netanyahu differs from..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Is This Economy as Awful as Voters Think? We Ask Our Expert.",
-    "pub_date": "Wed, 21 Oct 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/93fe65fc-d93d-490d-b13f-c5a17049a898/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=93fe65fc-d93d-490d-b13f-c5a17049a898&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "The economy is one of the most important issues for voters in the midterm elections. President Trump has been trying to persuade Americans that they are wrong to be frustrated about the cost of living.Ben Casselman, the chief economics correspondent for The New York Times, explains what the latest economic data actually says.Guest: Ben Casselman..."
   }
 ]
