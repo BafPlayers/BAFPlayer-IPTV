@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Could virtual reality speed up learning?
+Published Date: Mon, 02 Nov 2026 08:00:00 +0000
+Description: Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal Science Advances. Interested in more science involving video games? Email us your question at shortwave@npr.org.Suppo...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d51a63f-30fe-4e81-8d89-ec27653bd40f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d51a63f-30fe-4e81-8d89-ec27653bd40f&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023397&p=510351&d=587&size=9399110
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Is your favorite crime show rooted in fake science?
 Published Date: Fri, 30 Oct 2026 07:00:00 +0000
 Description: If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, ...
@@ -251,12 +257,6 @@ Episode Title: The terrifying physics of prehistoric sea monsters
 Published Date: Fri, 16 Oct 2026 07:00:00 +0000
 Description: While dinosaurs roamed the earth, giant monsters roamed the sea. Mosasaurs were like the deadly T-rexes of the ocean: They grew up to the size of a bus and chased down their smaller prey. A recent study in the journal Current Biology details just how exactly they might have done that. And the answer is fast – way faster than humans can swim – an...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/09bed82e-04a2-420b-8de9-17db2b9dd0e3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=09bed82e-04a2-420b-8de9-17db2b9dd0e3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5994381&p=510351&d=560&size=8975299
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: What's at stake if we can't regrow our forests
-Published Date: Thu, 15 Oct 2026 07:00:00 +0000
-Description: In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity in...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5983821&p=510351&d=815&size=13048355
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -391,6 +391,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: Archive: Citizen Kane
+Published Date: Mon, 02 Nov 2026 09:45:00 +0000
+Description: Orson Welles was only 25 when his film Citizen Kane was released in 1941. It is widely acclaimed as one of the greatest, if not the greatest, films yet made.   Melvyn Bragg and guests discuss Welles' film, in which he plays the lead role of Charles Foster Kane, a newspaper magnate. It was his first acting role. He also directed, produced and co-...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pdpv8d.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
+----------------------------------------
 Episode Title: Casablanca
 Published Date: Thu, 29 Oct 2026 09:45:00 +0000
 Description: Recorded at the Crossed Wires Festival in Sheffield, Misha Glenny and guests discuss Casablanca, one of the greatest films from Hollywood’s Golden Era.   The film stars Humphrey Bogart and Ingrid Bergman and features the unforgettable song As Time Goes By.    Casablanca opened in November 1942 when Europe had been at war for three years and the ...
@@ -449,16 +455,16 @@ Published Date: Thu, 24 Sep 2026 08:45:00 +0000
 Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His eighth choice is The War of 1812, which was first released in January 2013. Melvyn Bragg and his guests discussed the conflict between America and the British Empire sometimes referred to as the second American War of Independence. In June 1812...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2vwgz.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
-----------------------------------------
-Episode Title: Archive: Rosalind Franklin
-Published Date: Thu, 17 Sep 2026 08:45:00 +0000
-Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His seventh choice is the pioneering scientist Rosalind Franklin (1920 - 1958), first released in February 2018. During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2dsvk.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 
 ========================================================================
 SHOW: Lore
 ========================================================================
+----------------------------------------
+Episode Title: Lore 318: Pack Mentality
+Published Date: Mon, 02 Nov 2026 05:01:00 +0000
+Description: Europe didn't spend all of its time hunting witches in its darkest past, and a great example of their other obsession can be found in the forests of France. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ———...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore318d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 ----------------------------------------
 Episode Title: Lore Alive 5: In the Next Room
 Published Date: Fri, 30 Oct 2026 05:01:00 +0000
@@ -512,12 +518,6 @@ Episode Title: Deeper Lore: 316 (118, 166, & 212)
 Published Date: Thu, 08 Oct 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (316: A Spoonful of Sugar) with these three recommendations from further back in the Lore catalog:  Episode 118: LorePodcast.com/episodes/118 Episode 166: LorePodcast.com/episodes/166 Episode 212: LorePodcast.com/episodes/212  ———————— Lore Resources:   Episode Music: lorepodcast.com/m...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-316.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore 316: A Spoonful of Sugar
-Published Date: Mon, 05 Oct 2026 05:01:00 +0000
-Description: Sometimes the most frightening stories involve things we consider safe retreats or mindless pleasures. If that sounds tasty, today's exploration will hit the spot. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhu...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore316d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -634,6 +634,14 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”
+Published Date: Mon, 02 Nov 2026 08:10:00 -0000
+Description: Brian Chesky was 26 when he and his co-founders launched Airbnb, turning a few air mattresses in a San Francisco apartment into one of the most successful startups of all time.
+
+But as Airbnb grew into a company worth more than $100 billion, Brian struggled to keep up. He hired experienced executives, trusted them to make decisions, and watched ...
+Audio Stream URL: https://traffic.megaphone.fm/VMP9745758647.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Advice Line with Tope Awotona of Calendly
 Published Date: Thu, 29 Oct 2026 07:10:00 -0000
 Description: Today’s callers: Dominic in London faces challenges with profitability and scaling for his foldable bike helmet. Then, Ivana in Vancouver wonders how to maintain the momentum of her pet gear brand as she prepares for the arrival of her first child. Danny in South Carolina wants to expand her nail salon concept without making major trade-offs in ...
@@ -691,13 +699,6 @@ Published Date: Thu, 01 Oct 2026 07:10:00 -0000
 Description: CEO and co-founder of Boll & Branch, Scott Tannen joins Ring founder Jamie Siminoff and Guy on the Advice Line to answer questions from three early-stage entrepreneurs. Plus, Jamie and Guy talk about how creating repeat customers often comes from creating social good.  
 First, we hear from Melita in Toronto who's wondering whether to continue bo...
 Audio Stream URL: https://traffic.megaphone.fm/VMP1210850408.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) 
-Published Date: Mon, 28 Sep 2026 07:10:00 -0000
-Description: With its eco-friendly paper towels, diapers, and cleansers, Seventh Generation was one of the first—and most successful—green household brands to hit the market. But in the early 1990s, its two founders had a bitter falling out.
-Alan Newman and Jeffrey Hollender have barely spoken since that time, but they both agreed to come on the show to talk...
-Audio Stream URL: https://traffic.megaphone.fm/VMP9825762329.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================

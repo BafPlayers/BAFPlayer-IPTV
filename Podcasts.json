@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "Could virtual reality speed up learning?",
+    "pub_date": "Mon, 02 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d51a63f-30fe-4e81-8d89-ec27653bd40f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d51a63f-30fe-4e81-8d89-ec27653bd40f&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023397&p=510351&d=587&size=9399110",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal Science Advances. Interested in more science involving video games? Email us your question at shortwave@npr.org.Suppo..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "Is your favorite crime show rooted in fake science?",
     "pub_date": "Fri, 30 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c488ad83-c8c1-4f05-b858-2ac40457211a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c488ad83-c8c1-4f05-b858-2ac40457211a&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012302&p=510351&d=881&size=14110347",
@@ -279,7 +288,7 @@
     "description": "If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, ..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "MAHA’s midterm report card",
     "pub_date": "Wed, 28 Oct 2026 07:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "You Can See Everything and the science of spotting liars",
     "pub_date": "Tue, 27 Oct 2026 07:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible ..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "The battle between matter and antimatter",
     "pub_date": "Mon, 26 Oct 2026 07:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter, matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they ..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "The dormant viruses in all of us may help explain long COVID",
     "pub_date": "Fri, 23 Oct 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Can planting more trees make allergies worse?",
     "pub_date": "Wed, 21 Oct 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.Interested in more..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "What are the odds we're not alone in the universe?",
     "pub_date": "Tue, 20 Oct 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "There are hundreds of billions of stars in the galaxy we live in. Many of them have their own exoplanets. So why haven’t we found proof of alien life yet? And what’s the probability of us contacting or being contacted anyway? That’s exactly what a famous math formula called the Drake Equation tries to answer. It takes into account a whole variet..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "What the world's leading researchers think about saunas",
     "pub_date": "Mon, 19 Oct 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Saunas have gone from a Scandinavian tradition to a global wellness phenomenon. But how long should a person endure heat? Do saunas actually work? And if so, what are their benefits? NPR health reporter Will Stone goes as deep as the science will let him to explore the sauna hype waves and find out what happens to our bodies when we step in them..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "The terrifying physics of prehistoric sea monsters",
     "pub_date": "Fri, 16 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/09bed82e-04a2-420b-8de9-17db2b9dd0e3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=09bed82e-04a2-420b-8de9-17db2b9dd0e3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5994381&p=510351&d=560&size=8975299",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "While dinosaurs roamed the earth, giant monsters roamed the sea. Mosasaurs were like the deadly T-rexes of the ocean: They grew up to the size of a bus and chased down their smaller prey. A recent study in the journal Current Biology details just how exactly they might have done that. And the answer is fast – way faster than humans can swim – an..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "What's at stake if we can't regrow our forests",
-    "pub_date": "Thu, 15 Oct 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5983821&p=510351&d=815&size=13048355",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity in..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -542,6 +542,15 @@
   {
     "id": "bbc-in-our-time-ep-1",
     "show_name": "In Our Time",
+    "episode_title": "Archive: Citizen Kane",
+    "pub_date": "Mon, 02 Nov 2026 09:45:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pdpv8d.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
+    "description": "Orson Welles was only 25 when his film Citizen Kane was released in 1941. It is widely acclaimed as one of the greatest, if not the greatest, films yet made.   Melvyn Bragg and guests discuss Welles' film, in which he plays the lead role of Charles Foster Kane, a newspaper magnate. It was his first acting role. He also directed, produced and co-..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-2",
+    "show_name": "In Our Time",
     "episode_title": "Casablanca",
     "pub_date": "Thu, 29 Oct 2026 09:45:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pd6wc7.mp3",
@@ -549,7 +558,7 @@
     "description": "Recorded at the Crossed Wires Festival in Sheffield, Misha Glenny and guests discuss Casablanca, one of the greatest films from Hollywood’s Golden Era.   The film stars Humphrey Bogart and Ingrid Bergman and features the unforgettable song As Time Goes By.    Casablanca opened in November 1942 when Europe had been at war for three years and the ..."
   },
   {
-    "id": "bbc-in-our-time-ep-2",
+    "id": "bbc-in-our-time-ep-3",
     "show_name": "In Our Time",
     "episode_title": "Archive: Dark Matter, the mysterious substance in space",
     "pub_date": "Mon, 26 Oct 2026 09:45:00 +0000",
@@ -558,7 +567,7 @@
     "description": "Dark Matter is a proposed form of matter that does not absorb, reflect or emit light. It is known to make up 27% of our universe, while the matter that makes up stars and galaxies accounts for only 5%.   \n  \nIn this archive episode, first released in March 2015, Melvyn Bragg and his guests discuss dark matter, the mysterious and invisible substa..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "Particle Accelerators",
     "pub_date": "Thu, 22 Oct 2026 08:45:00 +0000",
@@ -567,7 +576,7 @@
     "description": "Misha Glenny and guests discuss the machines that are described as the world’s largest experiments: Particle Accelerators. A famous example of a Particle Accelerator is the Large Hadron Collider, a device which stretches for nearly 30km, deep beneath the ground in a tunnel between France and Switzerland.    This enormous scale enables the partic..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "Archive: Erasmus",
     "pub_date": "Mon, 19 Oct 2026 08:45:00 +0000",
@@ -576,7 +585,7 @@
     "description": "One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. \n \nIn this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch ..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "Thomas More's Utopia",
     "pub_date": "Thu, 15 Oct 2026 08:45:00 +0000",
@@ -585,7 +594,7 @@
     "description": "In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book,..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "Archive: The Measurement of Time",
     "pub_date": "Mon, 12 Oct 2026 08:45:00 +0000",
@@ -594,7 +603,7 @@
     "description": "Misha Glenny chooses the first of his archive picks - bringing back classic conversations from the In Our Time archive, every Monday. \nHumans have tried to calculate, regulate, and measure time for thousands of years: from systems based on tracking sunrise and sunset, to the invention of increasingly precise mechanical alarm clocks and astrolabe..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "Archive: Trinity",
     "pub_date": "Thu, 08 Oct 2026 08:45:00 +0000",
@@ -603,7 +612,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His final choice is the Trinity, an episode first released in March 2014. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest y..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "Archive: Emma",
     "pub_date": "Thu, 01 Oct 2026 08:45:00 +0000",
@@ -612,7 +621,7 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His ninth choice is the episode on Jane Austen’s novel Emma, first released in November 2015. Austen described her leading character as \"a heroine whom no-one but myself will much like.\" Emma is one of Austen’s most popular novels and arguably her ..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "Archive: The War of 1812",
     "pub_date": "Thu, 24 Sep 2026 08:45:00 +0000",
@@ -621,16 +630,16 @@
     "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His eighth choice is The War of 1812, which was first released in January 2013. Melvyn Bragg and his guests discussed the conflict between America and the British Empire sometimes referred to as the second American War of Independence. In June 1812..."
   },
   {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "Archive: Rosalind Franklin",
-    "pub_date": "Thu, 17 Sep 2026 08:45:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2dsvk.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
-    "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His seventh choice is the pioneering scientist Rosalind Franklin (1920 - 1958), first released in February 2018. During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered..."
+    "id": "lore--folklore---history--ep-1",
+    "show_name": "Lore",
+    "episode_title": "Lore 318: Pack Mentality",
+    "pub_date": "Mon, 02 Nov 2026 05:01:00 +0000",
+    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore318d.mp3?dest-id=259905",
+    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
+    "description": "Europe didn't spend all of its time hunting witches in its darkest past, and a great example of their other obsession can be found in the forests of France. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ———..."
   },
   {
-    "id": "lore--folklore---history--ep-1",
+    "id": "lore--folklore---history--ep-2",
     "show_name": "Lore",
     "episode_title": "Lore Alive 5: In the Next Room",
     "pub_date": "Fri, 30 Oct 2026 05:01:00 +0000",
@@ -639,7 +648,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's final Halloween bonus of the year, we have the sort of story that captured my heart as a kid. On the surface, it's the story of a woman grieving the departure of a dear friend. But there's..."
   },
   {
-    "id": "lore--folklore---history--ep-2",
+    "id": "lore--folklore---history--ep-3",
     "show_name": "Lore",
     "episode_title": "Legends 91: Landslide",
     "pub_date": "Mon, 26 Oct 2026 05:01:00 +0000",
@@ -648,7 +657,7 @@
     "description": "Humans have a special ability to create a lot of tragedy, and history is marked with many examples. But the natural world has always done its best to keep up, as these stories show. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed —————..."
   },
   {
-    "id": "lore--folklore---history--ep-3",
+    "id": "lore--folklore---history--ep-4",
     "show_name": "Lore",
     "episode_title": "Lore Alive 4: Peg & Button",
     "pub_date": "Fri, 23 Oct 2026 05:01:00 +0000",
@@ -657,7 +666,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we meet a group of mischievous young men who pick on the wrong woman before heading off to war in the far north. Their decision, it turns out, became something that haunted th..."
   },
   {
-    "id": "lore--folklore---history--ep-4",
+    "id": "lore--folklore---history--ep-5",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 317 (84, 111, & 215)",
     "pub_date": "Thu, 22 Oct 2026 05:01:00 +0000",
@@ -666,7 +675,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (317: Smoke and Mirrors) with these three recommendations from further back in the Lore catalog:  Episode 84: LorePodcast.com/episodes/84 Episode 111: LorePodcast.com/episodes/111 Episode 215: LorePodcast.com/episodes/215  ———————— Lore Resources:   Episode Music: lorepodcast.com/music..."
   },
   {
-    "id": "lore--folklore---history--ep-5",
+    "id": "lore--folklore---history--ep-6",
     "show_name": "Lore",
     "episode_title": "Lore 317: Smoke and Mirrors",
     "pub_date": "Mon, 19 Oct 2026 05:01:00 +0000",
@@ -675,7 +684,7 @@
     "description": "Stage magic as we know it today is very different from how it began. The consequences of those early days, though, are all around us. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources: ..."
   },
   {
-    "id": "lore--folklore---history--ep-6",
+    "id": "lore--folklore---history--ep-7",
     "show_name": "Lore",
     "episode_title": "Lore Alive 3: Under the Rug",
     "pub_date": "Fri, 16 Oct 2026 05:01:00 +0000",
@@ -684,7 +693,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we travel north to Maine, and the tiny community of Dark Harbor. It is here that a promising marriage falls apart, and a horrifying legend grows up in its place. Lore Alive wa..."
   },
   {
-    "id": "lore--folklore---history--ep-7",
+    "id": "lore--folklore---history--ep-8",
     "show_name": "Lore",
     "episode_title": "Legends 90: Set Aside",
     "pub_date": "Mon, 12 Oct 2026 05:01:00 +0000",
@@ -693,7 +702,7 @@
     "description": "For a very long time, stories were fragile artifacts, passed along on the tenuous thread of oral tradition. And many of the relics that have survived to this day are thanks to one woman, and her connection to a famous pair of brothers. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BU..."
   },
   {
-    "id": "lore--folklore---history--ep-8",
+    "id": "lore--folklore---history--ep-9",
     "show_name": "Lore",
     "episode_title": "Lore Alive 2: In Dreams",
     "pub_date": "Fri, 09 Oct 2026 05:01:00 +0000",
@@ -702,22 +711,13 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale puts us in the middle of the first known New England vampire exhumation, and the terrifying dream that plagued a heartbroken father. Lore Alive was created by Aaron Mahnke, with writing an..."
   },
   {
-    "id": "lore--folklore---history--ep-9",
+    "id": "lore--folklore---history--ep-10",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 316 (118, 166, & 212)",
     "pub_date": "Thu, 08 Oct 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-316.mp3?dest-id=259905",
     "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
     "description": "Go deeper into the subject matter of our most recent episode (316: A Spoonful of Sugar) with these three recommendations from further back in the Lore catalog:  Episode 118: LorePodcast.com/episodes/118 Episode 166: LorePodcast.com/episodes/166 Episode 212: LorePodcast.com/episodes/212  ———————— Lore Resources:   Episode Music: lorepodcast.com/m..."
-  },
-  {
-    "id": "lore--folklore---history--ep-10",
-    "show_name": "Lore",
-    "episode_title": "Lore 316: A Spoonful of Sugar",
-    "pub_date": "Mon, 05 Oct 2026 05:01:00 +0000",
-    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore316d.mp3?dest-id=259905",
-    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
-    "description": "Sometimes the most frightening stories involve things we consider safe retreats or mindless pleasures. If that sounds tasty, today's exploration will hit the spot. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhu..."
   },
   {
     "id": "dan-carlin-s-hardcore-history-ep-1",
@@ -875,6 +875,15 @@
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
     "show_name": "How I Built This with Guy Raz",
+    "episode_title": "Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”",
+    "pub_date": "Mon, 02 Nov 2026 08:10:00 -0000",
+    "stream_url": "https://traffic.megaphone.fm/VMP9745758647.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Brian Chesky was 26 when he and his co-founders launched Airbnb, turning a few air mattresses in a San Francisco apartment into one of the most successful startups of all time.\n\nBut as Airbnb grew into a company worth more than $100 billion, Brian struggled to keep up. He hired experienced executives, trusted them to make decisions, and watched ..."
+  },
+  {
+    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Tope Awotona of Calendly",
     "pub_date": "Thu, 29 Oct 2026 07:10:00 -0000",
     "stream_url": "https://traffic.megaphone.fm/VMP4254648132.mp3",
@@ -882,7 +891,7 @@
     "description": "Today’s callers: Dominic in London faces challenges with profitability and scaling for his foldable bike helmet. Then, Ivana in Vancouver wonders how to maintain the momentum of her pet gear brand as she prepares for the arrival of her first child. Danny in South Carolina wants to expand her nail salon concept without making major trade-offs in ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
     "pub_date": "Mon, 26 Oct 2026 07:10:00 -0000",
@@ -891,7 +900,7 @@
     "description": "Heather Hasson and Trina Spear saw an opportunity nobody else seemed to notice: millions of healthcare workers were spending long days in uncomfortable, ill-fitting scrubs.\n\nSo they set out to reinvent them.\n\nHeather was a designer with almost no money. To join her, Trina left a prestigious job at Blackstone and cashed out her retirement. They s..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
     "pub_date": "Fri, 23 Oct 2026 07:57:00 -0000",
@@ -900,7 +909,7 @@
     "description": "Today’s callers: Kahindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
     "pub_date": "Mon, 19 Oct 2026 07:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Loren Castle started baking cookies after surviving cancer in her early twenties. Five years later, Sweet Loren’s refrigerated cookie dough was generating just $350,000 a year. But instead of giving up, she listened to customers, and reinvented the dough without gluten, dairy, eggs or nuts.  That transformation turned a small regional business i..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Tara Bosch of SmartSweets",
     "pub_date": "Thu, 15 Oct 2026 07:10:00 -0000",
@@ -918,7 +927,7 @@
     "description": "Today’s callers: Lindzi from Chicago wants to expand her gourmet marshmallow brand into retail without cannibalizing her high-margin DTC sales. Then, Vivi from Hawaii considers how to best tell her sustainable swimwear brand’s story to a digital audience. And Aly from Los Angeles wonders whether a subscription model is best for her whimsical cur..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
     "pub_date": "Mon, 12 Oct 2026 07:10:00 -0000",
@@ -927,7 +936,7 @@
     "description": "In the early 1990’s, Tim League spent $50,000 in savings to lease an abandoned movie theater on the wrong side of the tracks—a shaky experiment that eventually grew into a thriving national chain. As Tim and his wife Karrie built theaters in Austin and beyond, they made a name for themselves by offering dinner with the movie, creative pairings (..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Nick Green of Thrive Market",
     "pub_date": "Thu, 08 Oct 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "Today’s callers: Mercedes in Utah tries to find harmony between quality and speed as she scales her concert attire brand for musicians. Then Danny in Colorado grapples with the tradeoffs of growing his sustainable and functional coffee brand. And Riya in Illinois wonders how to build awareness for her app that aids people affected by speech loss..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "10 Years of How I Built This:  A Decade of Innovation, Risk and Reinvention",
     "pub_date": "Mon, 05 Oct 2026 07:10:00 -0000",
@@ -945,22 +954,13 @@
     "description": "Stories about starting a business are almost always full of drama. They’re about ambition, loss, triumph, catastrophe, resilience. And they’re also full of life lessons – which is why Guy Raz launched How I Built This 10 years ago: He wanted to host a free master class in entrepreneurship, one conversation at a time. Ten years on, he’s conducted..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)",
     "pub_date": "Thu, 01 Oct 2026 07:10:00 -0000",
     "stream_url": "https://traffic.megaphone.fm/VMP1210850408.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "CEO and co-founder of Boll & Branch, Scott Tannen joins Ring founder Jamie Siminoff and Guy on the Advice Line to answer questions from three early-stage entrepreneurs. Plus, Jamie and Guy talk about how creating repeat customers often comes from creating social good.  \nFirst, we hear from Melita in Toronto who's wondering whether to continue bo..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021) ",
-    "pub_date": "Mon, 28 Sep 2026 07:10:00 -0000",
-    "stream_url": "https://traffic.megaphone.fm/VMP9825762329.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "With its eco-friendly paper towels, diapers, and cleansers, Seventh Generation was one of the first—and most successful—green household brands to hit the market. But in the early 1990s, its two founders had a bitter falling out.\nAlan Newman and Jeffrey Hollender have barely spoken since that time, but they both agreed to come on the show to talk..."
   },
   {
     "id": "ted-radio-hour-ep-1",
