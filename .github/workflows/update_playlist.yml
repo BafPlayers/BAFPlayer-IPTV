@@ -5,6 +5,11 @@ on:
     # Runs at 03:00 UTC every day
     - cron: '0 3 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/update_playlist.yml'
+      - 'update_library.py'
 
 permissions:
   contents: write # Required to allow GitHub Actions to commit and push changes back
