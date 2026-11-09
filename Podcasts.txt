@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist
+Published Date: Mon, 09 Nov 2026 08:00:00 +0000
+Description: The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors cau...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0d99d962-f901-4f83-8f26-403789a8e0bd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0d99d962-f901-4f83-8f26-403789a8e0bd&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023369&p=510351&d=730&size=11687061
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Predicting elections is getting harder. What did the midterms teach us?
 Published Date: Thu, 05 Nov 2026 08:00:00 +0000
 Description: Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his Senate forecasting model for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us unde...
@@ -251,12 +257,6 @@ Episode Title: The dormant viruses in all of us may help explain long COVID
 Published Date: Fri, 23 Oct 2026 07:00:00 +0000
 Description: Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/70d14efb-5797-4acd-b8aa-a16f9e9963b9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=70d14efb-5797-4acd-b8aa-a16f9e9963b9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5985807&p=510351&d=865&size=13842477
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Can planting more trees make allergies worse?
-Published Date: Wed, 21 Oct 2026 07:00:00 +0000
-Description: Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.Interested in more...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/db22198b-4a47-40fd-a9eb-cfb7ae81f1b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=db22198b-4a47-40fd-a9eb-cfb7ae81f1b3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5953066&p=510351&d=700&size=11201394
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -460,6 +460,12 @@ Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 SHOW: Lore
 ========================================================================
 ----------------------------------------
+Episode Title: Legends 92: Last Call
+Published Date: Mon, 09 Nov 2026 05:01:00 +0000
+Description: The older the building, the longer the history inside. While that's a nice thought, there are some structures in England that give that rule a more sinister tone. Today's journey through the past will leave you feeling restless.  Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick and research by Jamie Vargas. ————————— ...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-92d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
+----------------------------------------
 Episode Title: Deeper Lore: 318 (3, 53, & 155)
 Published Date: Thu, 05 Nov 2026 05:01:00 +0000
 Description: Go deeper into the subject matter of our most recent episode (318: Pack Mentality) with these three recommendations from further back in the Lore catalog:  Episode 3: LorePodcast.com/episodes/3 Episode 53: LorePodcast.com/episodes/53 Episode 155: LorePodcast.com/episodes/155  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Episo...
@@ -512,12 +518,6 @@ Episode Title: Legends 90: Set Aside
 Published Date: Mon, 12 Oct 2026 05:01:00 +0000
 Description: For a very long time, stories were fragile artifacts, passed along on the tenuous thread of oral tradition. And many of the relics that have survived to this day are thanks to one woman, and her connection to a famous pair of brothers. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BU...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-90d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore Alive 2: In Dreams
-Published Date: Fri, 09 Oct 2026 05:01:00 +0000
-Description: Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale puts us in the middle of the first known New England vampire exhumation, and the terrifying dream that plagued a heartbroken father. Lore Alive was created by Aaron Mahnke, with writing an...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive2.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -634,6 +634,14 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand
+Published Date: Mon, 09 Nov 2026 08:10:00 -0000
+Description: Jack Haldrup didn’t set out to build a billion-dollar company. He just wanted a way out of consulting and a bar of soap he actually liked.
+
+After developing psoriasis, Jack started paying closer attention to the products he used on his skin. A chance purchase at a farmers market introduced him to handmade soap and sparked a business idea. With j...
+Audio Stream URL: https://traffic.megaphone.fm/VMP1750831437.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)
 Published Date: Thu, 05 Nov 2026 08:10:00 -0000
 Description: Michael Dell was building a tech business in his dorm room long before it became a familiar startup story. In 1983, the UT Austin student began selling PC upgrade kits. Within months, he left college to devote himself to the business. When Dell entered the Fortune 500 in 1992, Michael was just 27—the youngest CEO on the list.
@@ -696,12 +704,6 @@ Episode Title: Advice Line with Nick Green of Thrive Market
 Published Date: Thu, 08 Oct 2026 07:10:00 -0000
 Description: Today’s callers: Mercedes in Utah tries to find harmony between quality and speed as she scales her concert attire brand for musicians. Then Danny in Colorado grapples with the tradeoffs of growing his sustainable and functional coffee brand. And Riya in Illinois wonders how to build awareness for her app that aids people affected by speech loss...
 Audio Stream URL: https://traffic.megaphone.fm/VMP5049607037.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: 10 Years of How I Built This:  A Decade of Innovation, Risk and Reinvention
-Published Date: Mon, 05 Oct 2026 07:10:00 -0000
-Description: Stories about starting a business are almost always full of drama. They’re about ambition, loss, triumph, catastrophe, resilience. And they’re also full of life lessons – which is why Guy Raz launched How I Built This 10 years ago: He wanted to host a free master class in entrepreneurship, one conversation at a time. Ten years on, he’s conducted...
-Audio Stream URL: https://traffic.megaphone.fm/VMP5062285139.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -935,6 +937,19 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win
+Published Date: Sun, 8 Nov 2026 11:00:00 +0000
+Description: The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
+For more information on today’s episode, visit nytimes.com/th...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/958e1ec4-6157-45a5-882d-490801f9b4e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=958e1ec4-6157-45a5-882d-490801f9b4e7&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: Introducing ‘METRO’ From Serial Productions
+Published Date: Sat, 7 Nov 2026 11:00:00 +0000
+Description: Today, we’re sharing an episode from a brand-new show called “METRO,” made by the Serial podcast team and the reporters here at The Times who cover New York City.Every other week, Sarah Koenig and her team will tell stories about the city and its most fascinating raw material: New Yorkers. They’ll bring you investigations, personal stories, essa...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5a033179-92e3-43c1-bd01-45ea0c152d0f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5a033179-92e3-43c1-bd01-45ea0c152d0f&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Chuck Schumer on Governing With (Or Without) Trump
 Published Date: Fri, 6 Nov 2026 10:45:00 +0000
 Description: Warning: This episode contains strong language.Last spring, the political picture for Senator Chuck Schumer, the minority leader, was downright bleak. President Trump was back in the White House. Schumer’s Democratic caucus was largely powerless to stop him. And restless Democratic activists were calling for Schumer to resign.Fast forward to thi...
@@ -982,16 +997,4 @@ Episode Title: The Art of the Pardon: How Trump Turned Clemency Into a Business
 Published Date: Fri, 30 Oct 2026 09:45:00 +0000
 Description: In the final stretch of the midterm election campaign, polls have found that voters are latching onto the perceived corruption of the Trump administration.Kenneth P. Vogel, a New York Times investigative journalist, explores one major story line feeding that perception: how those around the president have turned the pardon process into a busines...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cdf9c669-1803-4c63-851b-4aa19be5b62c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cdf9c669-1803-4c63-851b-4aa19be5b62c&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: A Plan for Two Dans: How Democrats Manipulated Alaska’s Ballot
-Published Date: Thu, 29 Oct 2026 09:45:00 +0000
-Description: An investigation from The New York Times has uncovered how two candidates named Dan Sullivan ended up on the ballot for U.S. Senate in Alaska and the secret role that Democrats played in making it happen.Kellen Browning, a political reporter for The Times, takes us inside the political scheme and explains what it means for a race that could dete...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9aeacd77-c434-4046-b7e1-a8b0c90c8090/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9aeacd77-c434-4046-b7e1-a8b0c90c8090&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Is Running From Trump Enough to Save Republicans on Tuesday?
-Published Date: Wed, 28 Oct 2026 09:54:28 +0000
-Description: A look at candidates from President Trump’s party who are running on a platform of criticizing him. In next week’s midterm elections, a specific kind of Republican candidate is appealing to disillusioned voters of both parties: moderates willing to criticize President Trump.Jess Bidgood explains how some Republicans are trying to bring back an o...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e5d90a09-39f5-4657-8f1b-56f5d80752fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e5d90a09-39f5-4657-8f1b-56f5d80752fa&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

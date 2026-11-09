@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist",
+    "pub_date": "Mon, 09 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0d99d962-f901-4f83-8f26-403789a8e0bd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0d99d962-f901-4f83-8f26-403789a8e0bd&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023369&p=510351&d=730&size=11687061",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors cau..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "Predicting elections is getting harder. What did the midterms teach us?",
     "pub_date": "Thu, 05 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1a710728-6a1a-479d-bca3-655f02b631ef/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1a710728-6a1a-479d-bca3-655f02b631ef&feed=F0qJcgXZ&t=podcast&e=nx-s1-6026649&p=510351&d=763&size=12208675",
@@ -279,7 +288,7 @@
     "description": "Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his Senate forecasting model for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us unde..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "AI is changing mathematics -- but not how you think",
     "pub_date": "Wed, 04 Nov 2026 08:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "OpenAI whistleblowers on the fight over AI safety | Machine Gods",
     "pub_date": "Tue, 03 Nov 2026 08:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how th..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "Could virtual reality speed up learning?",
     "pub_date": "Mon, 02 Nov 2026 08:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal Science Advances. Interested in more science involving video games? Email us your question at shortwave@npr.org.Suppo..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Is your favorite crime show rooted in fake science?",
     "pub_date": "Fri, 30 Oct 2026 07:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, ..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "MAHA’s midterm report card",
     "pub_date": "Wed, 28 Oct 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "You Can See Everything and the science of spotting liars",
     "pub_date": "Tue, 27 Oct 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible ..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "The battle between matter and antimatter",
     "pub_date": "Mon, 26 Oct 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter, matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they ..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "The dormant viruses in all of us may help explain long COVID",
     "pub_date": "Fri, 23 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/70d14efb-5797-4acd-b8aa-a16f9e9963b9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=70d14efb-5797-4acd-b8aa-a16f9e9963b9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5985807&p=510351&d=865&size=13842477",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "Can planting more trees make allergies worse?",
-    "pub_date": "Wed, 21 Oct 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/db22198b-4a47-40fd-a9eb-cfb7ae81f1b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=db22198b-4a47-40fd-a9eb-cfb7ae81f1b3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5953066&p=510351&d=700&size=11201394",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.Interested in more..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -632,6 +632,15 @@
   {
     "id": "lore--folklore---history--ep-1",
     "show_name": "Lore",
+    "episode_title": "Legends 92: Last Call",
+    "pub_date": "Mon, 09 Nov 2026 05:01:00 +0000",
+    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-92d.mp3?dest-id=259905",
+    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
+    "description": "The older the building, the longer the history inside. While that's a nice thought, there are some structures in England that give that rule a more sinister tone. Today's journey through the past will leave you feeling restless.  Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick and research by Jamie Vargas. ————————— ..."
+  },
+  {
+    "id": "lore--folklore---history--ep-2",
+    "show_name": "Lore",
     "episode_title": "Deeper Lore: 318 (3, 53, & 155)",
     "pub_date": "Thu, 05 Nov 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-318.mp3?dest-id=259905",
@@ -639,7 +648,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (318: Pack Mentality) with these three recommendations from further back in the Lore catalog:  Episode 3: LorePodcast.com/episodes/3 Episode 53: LorePodcast.com/episodes/53 Episode 155: LorePodcast.com/episodes/155  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Episo..."
   },
   {
-    "id": "lore--folklore---history--ep-2",
+    "id": "lore--folklore---history--ep-3",
     "show_name": "Lore",
     "episode_title": "Lore 318: Pack Mentality",
     "pub_date": "Mon, 02 Nov 2026 05:01:00 +0000",
@@ -648,7 +657,7 @@
     "description": "Europe didn't spend all of its time hunting witches in its darkest past, and a great example of their other obsession can be found in the forests of France. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ———..."
   },
   {
-    "id": "lore--folklore---history--ep-3",
+    "id": "lore--folklore---history--ep-4",
     "show_name": "Lore",
     "episode_title": "Lore Alive 5: In the Next Room",
     "pub_date": "Fri, 30 Oct 2026 05:01:00 +0000",
@@ -657,7 +666,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's final Halloween bonus of the year, we have the sort of story that captured my heart as a kid. On the surface, it's the story of a woman grieving the departure of a dear friend. But there's..."
   },
   {
-    "id": "lore--folklore---history--ep-4",
+    "id": "lore--folklore---history--ep-5",
     "show_name": "Lore",
     "episode_title": "Legends 91: Landslide",
     "pub_date": "Mon, 26 Oct 2026 05:01:00 +0000",
@@ -666,7 +675,7 @@
     "description": "Humans have a special ability to create a lot of tragedy, and history is marked with many examples. But the natural world has always done its best to keep up, as these stories show. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed —————..."
   },
   {
-    "id": "lore--folklore---history--ep-5",
+    "id": "lore--folklore---history--ep-6",
     "show_name": "Lore",
     "episode_title": "Lore Alive 4: Peg & Button",
     "pub_date": "Fri, 23 Oct 2026 05:01:00 +0000",
@@ -675,7 +684,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we meet a group of mischievous young men who pick on the wrong woman before heading off to war in the far north. Their decision, it turns out, became something that haunted th..."
   },
   {
-    "id": "lore--folklore---history--ep-6",
+    "id": "lore--folklore---history--ep-7",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 317 (84, 111, & 215)",
     "pub_date": "Thu, 22 Oct 2026 05:01:00 +0000",
@@ -684,7 +693,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (317: Smoke and Mirrors) with these three recommendations from further back in the Lore catalog:  Episode 84: LorePodcast.com/episodes/84 Episode 111: LorePodcast.com/episodes/111 Episode 215: LorePodcast.com/episodes/215  ———————— Lore Resources:   Episode Music: lorepodcast.com/music..."
   },
   {
-    "id": "lore--folklore---history--ep-7",
+    "id": "lore--folklore---history--ep-8",
     "show_name": "Lore",
     "episode_title": "Lore 317: Smoke and Mirrors",
     "pub_date": "Mon, 19 Oct 2026 05:01:00 +0000",
@@ -693,7 +702,7 @@
     "description": "Stage magic as we know it today is very different from how it began. The consequences of those early days, though, are all around us. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources: ..."
   },
   {
-    "id": "lore--folklore---history--ep-8",
+    "id": "lore--folklore---history--ep-9",
     "show_name": "Lore",
     "episode_title": "Lore Alive 3: Under the Rug",
     "pub_date": "Fri, 16 Oct 2026 05:01:00 +0000",
@@ -702,22 +711,13 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we travel north to Maine, and the tiny community of Dark Harbor. It is here that a promising marriage falls apart, and a horrifying legend grows up in its place. Lore Alive wa..."
   },
   {
-    "id": "lore--folklore---history--ep-9",
+    "id": "lore--folklore---history--ep-10",
     "show_name": "Lore",
     "episode_title": "Legends 90: Set Aside",
     "pub_date": "Mon, 12 Oct 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-90d.mp3?dest-id=259905",
     "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
     "description": "For a very long time, stories were fragile artifacts, passed along on the tenuous thread of oral tradition. And many of the relics that have survived to this day are thanks to one woman, and her connection to a famous pair of brothers. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BU..."
-  },
-  {
-    "id": "lore--folklore---history--ep-10",
-    "show_name": "Lore",
-    "episode_title": "Lore Alive 2: In Dreams",
-    "pub_date": "Fri, 09 Oct 2026 05:01:00 +0000",
-    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive2.mp3?dest-id=259905",
-    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
-    "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. Today's tale puts us in the middle of the first known New England vampire exhumation, and the terrifying dream that plagued a heartbroken father. Lore Alive was created by Aaron Mahnke, with writing an..."
   },
   {
     "id": "dan-carlin-s-hardcore-history-ep-1",
@@ -875,6 +875,15 @@
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
     "show_name": "How I Built This with Guy Raz",
+    "episode_title": "Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
+    "pub_date": "Mon, 09 Nov 2026 08:10:00 -0000",
+    "stream_url": "https://traffic.megaphone.fm/VMP1750831437.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Jack Haldrup didn’t set out to build a billion-dollar company. He just wanted a way out of consulting and a bar of soap he actually liked.\n\nAfter developing psoriasis, Jack started paying closer attention to the products he used on his skin. A chance purchase at a farmers market introduced him to handmade soap and sparked a business idea. With j..."
+  },
+  {
+    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "show_name": "How I Built This with Guy Raz",
     "episode_title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
     "pub_date": "Thu, 05 Nov 2026 08:10:00 -0000",
     "stream_url": "https://traffic.megaphone.fm/VMP4247798433.mp3",
@@ -882,7 +891,7 @@
     "description": "Michael Dell was building a tech business in his dorm room long before it became a familiar startup story. In 1983, the UT Austin student began selling PC upgrade kits. Within months, he left college to devote himself to the business. When Dell entered the Fortune 500 in 1992, Michael was just 27—the youngest CEO on the list.\n\nIn this episode, M..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”",
     "pub_date": "Mon, 02 Nov 2026 08:10:00 -0000",
@@ -891,7 +900,7 @@
     "description": "This episode is available on Youtube: https://youtu.be/ZYf-DfxJg1c\n\nBrian Chesky was 26 when he and his co-founders launched Airbnb, turning a few air mattresses in a San Francisco apartment into one of the most successful startups of all time.\n\nBut as Airbnb grew into a company worth more than $100 billion, Brian struggled to keep up. He hired ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Tope Awotona of Calendly",
     "pub_date": "Thu, 29 Oct 2026 07:10:00 -0000",
@@ -900,7 +909,7 @@
     "description": "Today’s callers: Dominic in London faces challenges with profitability and scaling for his foldable bike helmet. Then, Ivana in Vancouver wonders how to maintain the momentum of her pet gear brand as she prepares for the arrival of her first child. Danny in South Carolina wants to expand her nail salon concept without making major trade-offs in ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
     "pub_date": "Mon, 26 Oct 2026 07:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Heather Hasson and Trina Spear saw an opportunity nobody else seemed to notice: millions of healthcare workers were spending long days in uncomfortable, ill-fitting scrubs.\n\nSo they set out to reinvent them.\n\nHeather was a designer with almost no money. To join her, Trina left a prestigious job at Blackstone and cashed out her retirement. They s..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
     "pub_date": "Fri, 23 Oct 2026 07:57:00 -0000",
@@ -918,7 +927,7 @@
     "description": "Today’s callers: Kahindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
     "pub_date": "Mon, 19 Oct 2026 07:10:00 -0000",
@@ -927,7 +936,7 @@
     "description": "Loren Castle started baking cookies after surviving cancer in her early twenties. Five years later, Sweet Loren’s refrigerated cookie dough was generating just $350,000 a year. But instead of giving up, she listened to customers, and reinvented the dough without gluten, dairy, eggs or nuts.  That transformation turned a small regional business i..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Tara Bosch of SmartSweets",
     "pub_date": "Thu, 15 Oct 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "Today’s callers: Lindzi from Chicago wants to expand her gourmet marshmallow brand into retail without cannibalizing her high-margin DTC sales. Then, Vivi from Hawaii considers how to best tell her sustainable swimwear brand’s story to a digital audience. And Aly from Los Angeles wonders whether a subscription model is best for her whimsical cur..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
     "pub_date": "Mon, 12 Oct 2026 07:10:00 -0000",
@@ -945,22 +954,13 @@
     "description": "In the early 1990’s, Tim League spent $50,000 in savings to lease an abandoned movie theater on the wrong side of the tracks—a shaky experiment that eventually grew into a thriving national chain. As Tim and his wife Karrie built theaters in Austin and beyond, they made a name for themselves by offering dinner with the movie, creative pairings (..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Nick Green of Thrive Market",
     "pub_date": "Thu, 08 Oct 2026 07:10:00 -0000",
     "stream_url": "https://traffic.megaphone.fm/VMP5049607037.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "Today’s callers: Mercedes in Utah tries to find harmony between quality and speed as she scales her concert attire brand for musicians. Then Danny in Colorado grapples with the tradeoffs of growing his sustainable and functional coffee brand. And Riya in Illinois wonders how to build awareness for her app that aids people affected by speech loss..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "10 Years of How I Built This:  A Decade of Innovation, Risk and Reinvention",
-    "pub_date": "Mon, 05 Oct 2026 07:10:00 -0000",
-    "stream_url": "https://traffic.megaphone.fm/VMP5062285139.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Stories about starting a business are almost always full of drama. They’re about ambition, loss, triumph, catastrophe, resilience. And they’re also full of life lessons – which is why Guy Raz launched How I Built This 10 years ago: He wanted to host a free master class in entrepreneurship, one conversation at a time. Ten years on, he’s conducted..."
   },
   {
     "id": "ted-radio-hour-ep-1",
@@ -1235,6 +1235,24 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
+    "pub_date": "Sun, 8 Nov 2026 11:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/958e1ec4-6157-45a5-882d-490801f9b4e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=958e1ec4-6157-45a5-882d-490801f9b4e7&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/th..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
+    "episode_title": "Introducing ‘METRO’ From Serial Productions",
+    "pub_date": "Sat, 7 Nov 2026 11:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5a033179-92e3-43c1-bd01-45ea0c152d0f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5a033179-92e3-43c1-bd01-45ea0c152d0f&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "Today, we’re sharing an episode from a brand-new show called “METRO,” made by the Serial podcast team and the reporters here at The Times who cover New York City.Every other week, Sarah Koenig and her team will tell stories about the city and its most fascinating raw material: New Yorkers. They’ll bring you investigations, personal stories, essa..."
+  },
+  {
+    "id": "the-daily--nyt--ep-3",
+    "show_name": "The Daily",
     "episode_title": "Chuck Schumer on Governing With (Or Without) Trump",
     "pub_date": "Fri, 6 Nov 2026 10:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/44a3253d-0a16-48ac-ba4e-261e51ef0353/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=44a3253d-0a16-48ac-ba4e-261e51ef0353&feed=54nAGcIl",
@@ -1242,7 +1260,7 @@
     "description": "Warning: This episode contains strong language.Last spring, the political picture for Senator Chuck Schumer, the minority leader, was downright bleak. President Trump was back in the White House. Schumer’s Democratic caucus was largely powerless to stop him. And restless Democratic activists were calling for Schumer to resign.Fast forward to thi..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The Voters Who Flipped Congress",
     "pub_date": "Thu, 5 Nov 2026 10:45:00 +0000",
@@ -1251,7 +1269,7 @@
     "description": "The midterm elections were an electoral tsunami for Democrats: a complete collapse of the Republican coalition and a landslide victory.Nate Cohn, the chief political analyst for The New York Times, examines the results to figure out which voters showed up, which stayed home and how much billions in campaign spending mattered.Guest: Nate Cohn, th..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "A Landslide Victory for Democrats",
     "pub_date": "Wed, 4 Nov 2026 10:51:32 +0000",
@@ -1260,7 +1278,7 @@
     "description": "On Tuesday night, the blue wave that polls predicted landed with extraordinary force across the United States as Democrats flipped control of both the House and the Senate.Nate Cohn, Lisa Lerer and Shane Goldmacher of The New York Times discuss an extraordinary shift in power and a new era of American politics.Guest: Nate Cohn, the chief politic..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "A Guide to Election Night 2026",
     "pub_date": "Tue, 3 Nov 2026 10:45:00 +0000",
@@ -1269,7 +1287,7 @@
     "description": "After two years of campaigning, the 2026 midterm election is now in the hands of the American voters.As the ballot counting begins, Nate Cohn, the chief political analyst for The New York Times, offers a guide for how to understand the results.Guest: Nate Cohn, the chief political analyst for The New York Times.Background reading: Here are four ..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "A Political Rebellion in the Rio Grande Valley",
     "pub_date": "Mon, 2 Nov 2026 10:50:24 +0000",
@@ -1278,7 +1296,7 @@
     "description": "Warning: This episode contains strong language.In the midterm elections, one of the regions expected to swing away from President Trump and toward Democrats is the Rio Grande Valley of Texas, where life has been transformed by his administration’s crackdown on immigration.Lynsea Garrison, a producer for “The Daily,” has been reporting on that sh..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Want to Enjoy Music More? Go For a Run.",
     "pub_date": "Sun, 1 Nov 2026 10:00:00 +0000",
@@ -1287,7 +1305,7 @@
     "description": "Ben Ratliff, a music critic and avid runner, always ran in silence. Then he discovered how music opened up to him — while running. It changed his entire approach to criticism and listening. He calls it “running the song.”Today, for the New York City Marathon, Ben talks with our host Rachel Abrams about how his listening sharpens when he runs to ..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Martin McDonagh Has a Vision for Hope. It's Not for the Faint of Heart.",
     "pub_date": "Sat, 31 Oct 2026 10:00:00 +0000",
@@ -1296,30 +1314,12 @@
     "description": "The writer-director, known for his dark and bleak work, believes in film’s power to change our lives.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/thedaily. Transcripts of..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "The Art of the Pardon: How Trump Turned Clemency Into a Business",
     "pub_date": "Fri, 30 Oct 2026 09:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cdf9c669-1803-4c63-851b-4aa19be5b62c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cdf9c669-1803-4c63-851b-4aa19be5b62c&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "In the final stretch of the midterm election campaign, polls have found that voters are latching onto the perceived corruption of the Trump administration.Kenneth P. Vogel, a New York Times investigative journalist, explores one major story line feeding that perception: how those around the president have turned the pardon process into a busines..."
-  },
-  {
-    "id": "the-daily--nyt--ep-9",
-    "show_name": "The Daily",
-    "episode_title": "A Plan for Two Dans: How Democrats Manipulated Alaska’s Ballot",
-    "pub_date": "Thu, 29 Oct 2026 09:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9aeacd77-c434-4046-b7e1-a8b0c90c8090/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9aeacd77-c434-4046-b7e1-a8b0c90c8090&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "An investigation from The New York Times has uncovered how two candidates named Dan Sullivan ended up on the ballot for U.S. Senate in Alaska and the secret role that Democrats played in making it happen.Kellen Browning, a political reporter for The Times, takes us inside the political scheme and explains what it means for a race that could dete..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Is Running From Trump Enough to Save Republicans on Tuesday?",
-    "pub_date": "Wed, 28 Oct 2026 09:54:28 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e5d90a09-39f5-4657-8f1b-56f5d80752fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e5d90a09-39f5-4657-8f1b-56f5d80752fa&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "A look at candidates from President Trump’s party who are running on a platform of criticizing him. In next week’s midterm elections, a specific kind of Republican candidate is appealing to disillusioned voters of both parties: moderates willing to criticize President Trump.Jess Bidgood explains how some Republicans are trying to bring back an o..."
   }
 ]
