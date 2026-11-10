@@ -135,6 +135,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee
 SHOW: Astronomy Cast
 ========================================================================
 ----------------------------------------
+Episode Title: Ep. 808: Mission Tech Series: Nuclear Rockets
+Published Date: Mon, 09 Nov 2026 21:00:00 +0000
+Description: Astronomy Cast Ep. 808: Mission Tech Series: Nuclear Rockets Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Streamed live on Oct 27, 2026. Once again, chemical rockets are ubiquitous but not as powerful as other propulsion ideas. And one big idea that's been around for decades is using the power of nuclear fission to ge...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20261109.mp3?dest-id=11189
+Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
+----------------------------------------
 Episode Title: Ep. 807: Mission Tech Series: Ion Drives
 Published Date: Mon, 02 Nov 2026 20:00:00 +0000
 Description: Astronomy Cast Ep. 807: Mission Tech Series: Ion Drives Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Streamed live on Oct 27, 2026. The majority of rockets use a chemical propulsion system, but there are other ideas, fancy ideas that sound like they came from science fiction. But they're real and they work! Today we'l...
@@ -188,16 +194,17 @@ Published Date: Mon, 14 Sep 2026 19:00:00 +0000
 Description: Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/AstronomyCast To celebrate our 20th season, we thought we'd go back right to the beginning… of everything. Let's wind the clock back to the earliest moments of the Universe, where we...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260914.mp3?dest-id=11189
 Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
-----------------------------------------
-Episode Title: Ep. 799: Heavy Lift Rockets
-Published Date: Mon, 29 Jun 2026 20:00:00 +0000
-Description: Astronomy Cast Ep. 799: Heavy Lift Rockets By Fraser Cain & Dr. Pamela Gay Streamed live June 22, 2026. The Saturn 5 was a monster, capable of sending humans and a lander to the Moon and bringing them back again. But the number of heavy lift rockets since then has gotten pretty sparse. Now, with tens if not hundreds of thousands of satellites in...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260629.mp3?dest-id=11189
-Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg
 
 ========================================================================
 SHOW: Short Wave
 ========================================================================
+----------------------------------------
+Episode Title: How this year's record El Niño could hit your wallet 
+
+Published Date: Tue, 10 Nov 2026 08:00:00 +0000
+Description: Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which c...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/11d9e8b7-05a7-4f76-9816-b788ccf9decb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=11d9e8b7-05a7-4f76-9816-b788ccf9decb&feed=F0qJcgXZ&t=podcast&e=nx-s1-6011189&p=510351&d=587&size=9403289
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
 Episode Title: An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist
 Published Date: Mon, 09 Nov 2026 08:00:00 +0000
@@ -251,12 +258,6 @@ Episode Title: The battle between matter and antimatter
 Published Date: Mon, 26 Oct 2026 07:00:00 +0000
 Description: At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter, matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they ...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/264d2592-5591-455b-b334-1f1bb38b1eb6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=264d2592-5591-455b-b334-1f1bb38b1eb6&feed=F0qJcgXZ&t=podcast&e=nx-s1-6005516&p=510351&d=677&size=10842324
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The dormant viruses in all of us may help explain long COVID
-Published Date: Fri, 23 Oct 2026 07:00:00 +0000
-Description: Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/70d14efb-5797-4acd-b8aa-a16f9e9963b9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=70d14efb-5797-4acd-b8aa-a16f9e9963b9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5985807&p=510351&d=865&size=13842477
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -937,6 +938,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal
+Published Date: Tue, 10 Nov 2026 10:55:19 +0000
+Description: Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who, according to U.S. officials, turned out to be a Chinese spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncov...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60e9e1cf-51c5-41b1-af3d-736ef4484e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60e9e1cf-51c5-41b1-af3d-736ef4484e18&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: After a Crushing Defeat, Trump Doubles Down
 Published Date: Mon, 9 Nov 2026 10:45:00 +0000
 Description: After a stinging rebuke last week at the polls, President Trump announced that he would elevate Stephen Miller — a driving force behind some of the most polarizing policies of Mr. Trump’s second term — to chief of staff.Maggie Haberman and Jonathan Swan, White House reporters for The New York Times, explain what Mr. Miller’s appointment reveals ...
@@ -990,11 +997,4 @@ Episode Title: Want to Enjoy Music More? Go For a Run.
 Published Date: Sun, 1 Nov 2026 10:00:00 +0000
 Description: Ben Ratliff, a music critic and avid runner, always ran in silence. Then he discovered how music opened up to him — while running. It changed his entire approach to criticism and listening. He calls it “running the song.”Today, for the New York City Marathon, Ben talks with our host Rachel Abrams about how his listening sharpens when he runs to ...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/45c30d5c-ee34-4e59-aa41-be04a804b7bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=45c30d5c-ee34-4e59-aa41-be04a804b7bd&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Martin McDonagh Has a Vision for Hope. It's Not for the Faint of Heart.
-Published Date: Sat, 31 Oct 2026 10:00:00 +0000
-Description: The writer-director, known for his dark and bleak work, believes in film’s power to change our lives.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
-For more information on today’s episode, visit nytimes.com/thedaily. Transcripts of...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/103db548-78e9-4a05-8b79-2704e5d914c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=103db548-78e9-4a05-8b79-2704e5d914c2&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

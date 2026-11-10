@@ -182,6 +182,15 @@
   {
     "id": "astronomy-cast--libsyn--ep-1",
     "show_name": "Astronomy Cast",
+    "episode_title": "Ep. 808: Mission Tech Series: Nuclear Rockets",
+    "pub_date": "Mon, 09 Nov 2026 21:00:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20261109.mp3?dest-id=11189",
+    "logo_url": "https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg",
+    "description": "Astronomy Cast Ep. 808: Mission Tech Series: Nuclear Rockets Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Streamed live on Oct 27, 2026. Once again, chemical rockets are ubiquitous but not as powerful as other propulsion ideas. And one big idea that's been around for decades is using the power of nuclear fission to ge..."
+  },
+  {
+    "id": "astronomy-cast--libsyn--ep-2",
+    "show_name": "Astronomy Cast",
     "episode_title": "Ep. 807: Mission Tech Series: Ion Drives",
     "pub_date": "Mon, 02 Nov 2026 20:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20261102.mp3?dest-id=11189",
@@ -189,7 +198,7 @@
     "description": "Astronomy Cast Ep. 807: Mission Tech Series: Ion Drives Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Streamed live on Oct 27, 2026. The majority of rockets use a chemical propulsion system, but there are other ideas, fancy ideas that sound like they came from science fiction. But they're real and they work! Today we'l..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-2",
+    "id": "astronomy-cast--libsyn--ep-3",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 806: Mission Tech Series: Thrusters",
     "pub_date": "Mon, 26 Oct 2026 20:00:00 +0000",
@@ -198,7 +207,7 @@
     "description": "Streamed live 18 Oct 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Today we continue looking at space exploration technologies. This time we will examine thrusters, which can reorient a spacecraft and help it maneuver in space. Maximum flexibility but you need to bring along some propellant. Smarter Every Day's Y..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-3",
+    "id": "astronomy-cast--libsyn--ep-4",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 805: Mission Tech Series: Gyroscopes & Servos",
     "pub_date": "Mon, 19 Oct 2026 20:00:00 +0000",
@@ -207,7 +216,7 @@
     "description": "Spinney things! Streamed live 18 Oct 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Our journey through space exploration technology continues! Today we look at the things that spin: gyros, reaction wheels, servos. Newton's laws are large and in charge today as spinning has a very useful benefit when you're in wei..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-4",
+    "id": "astronomy-cast--libsyn--ep-5",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 804: Mission Tech Series: Fairings, Docking & Airlocks",
     "pub_date": "Mon, 12 Oct 2026 20:00:00 +0000",
@@ -216,7 +225,7 @@
     "description": "Ad-Free thanks to your support at patreon.astronomycast.com! Instead of sending up an entire space station for every mission, you can just send up a tiny can filled with astronauts. But that takes docking. And today we're gonna talk about what it takes to connect two spacecraft together. How to keep a cargo safe to get into orbit, and how to get..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-5",
+    "id": "astronomy-cast--libsyn--ep-6",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 803: Mission Tech Series: Engines & Stages",
     "pub_date": "Mon, 05 Oct 2026 20:00:00 +0000",
@@ -225,7 +234,7 @@
     "description": "Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) Streamed on October 3, 2026. Today our series continues with our deep dive into rockets, their engines & stages. We fall into the tyranny of the rocket equation and discover what it takes to escape Earth's gravity and head off into deep space. We removed all ads from the sh..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-6",
+    "id": "astronomy-cast--libsyn--ep-7",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 802: Mission Tech Series: Rocket & Spacecraft 411",
     "pub_date": "Mon, 28 Sep 2026 20:00:00 +0000",
@@ -234,7 +243,7 @@
     "description": "Help us keep Astronomy Cast ad-free: https://patreon.com/astronomycast We removed all ads from the show. We need to get to 1500 patrons to keep it this way. We need your support! Streamed live on Sep 21, 2026 Hosted by: Fraser Cain and Dr. Pamela L. Gay Today we begin a new series on rockets and spacecraft, dealing with each of their components...."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-7",
+    "id": "astronomy-cast--libsyn--ep-8",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 801: The Beginning & End of Everything - Part 2",
     "pub_date": "Mon, 21 Sep 2026 20:00:00 +0000",
@@ -243,7 +252,7 @@
     "description": "Help us keep Astronomy Cast ad-free: https://patreon.com/astronomycast We removed all ads from the show. We need to get to 1500 patrons to keep it this way. We need your support! Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/Ast..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-8",
+    "id": "astronomy-cast--libsyn--ep-9",
     "show_name": "Astronomy Cast",
     "episode_title": "Astronomy Cast Can't Go On Like This",
     "pub_date": "Tue, 15 Sep 2026 00:38:00 +0000",
@@ -252,7 +261,7 @@
     "description": "After 20 years, it's time to make some changes. With your patronage we can ditch the ads & turn up the science. Please join our Patreon community at patreon.astronomycast.com"
   },
   {
-    "id": "astronomy-cast--libsyn--ep-9",
+    "id": "astronomy-cast--libsyn--ep-10",
     "show_name": "Astronomy Cast",
     "episode_title": "Ep. 800: The Beginning & End of Everything - Part 1",
     "pub_date": "Mon, 14 Sep 2026 19:00:00 +0000",
@@ -261,16 +270,16 @@
     "description": "Streamed live on Sep 7, 2026. Hosted by: Fraser Cain (@frasercain) and Dr. Pamela L. Gay (@CosmoQuest) This show is supported through people like you on Patreon.com/AstronomyCast To celebrate our 20th season, we thought we'd go back right to the beginning… of everything. Let's wind the clock back to the earliest moments of the Universe, where we..."
   },
   {
-    "id": "astronomy-cast--libsyn--ep-10",
-    "show_name": "Astronomy Cast",
-    "episode_title": "Ep. 799: Heavy Lift Rockets",
-    "pub_date": "Mon, 29 Jun 2026 20:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/arttrk.com/p/ADCT2/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/astronomycast/AstroCast-20260629.mp3?dest-id=11189",
-    "logo_url": "https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_cast_logo2.jpg",
-    "description": "Astronomy Cast Ep. 799: Heavy Lift Rockets By Fraser Cain & Dr. Pamela Gay Streamed live June 22, 2026. The Saturn 5 was a monster, capable of sending humans and a lander to the Moon and bringing them back again. But the number of heavy lift rockets since then has gotten pretty sparse. Now, with tens if not hundreds of thousands of satellites in..."
+    "id": "npr-short-wave--science--ep-1",
+    "show_name": "Short Wave",
+    "episode_title": "How this year's record El Niño could hit your wallet \n",
+    "pub_date": "Tue, 10 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/11d9e8b7-05a7-4f76-9816-b788ccf9decb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=11d9e8b7-05a7-4f76-9816-b788ccf9decb&feed=F0qJcgXZ&t=podcast&e=nx-s1-6011189&p=510351&d=587&size=9403289",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which c..."
   },
   {
-    "id": "npr-short-wave--science--ep-1",
+    "id": "npr-short-wave--science--ep-2",
     "show_name": "Short Wave",
     "episode_title": "An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist",
     "pub_date": "Mon, 09 Nov 2026 08:00:00 +0000",
@@ -279,7 +288,7 @@
     "description": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors cau..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "Predicting elections is getting harder. What did the midterms teach us?",
     "pub_date": "Thu, 05 Nov 2026 08:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his Senate forecasting model for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us unde..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "AI is changing mathematics -- but not how you think",
     "pub_date": "Wed, 04 Nov 2026 08:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "OpenAI whistleblowers on the fight over AI safety | Machine Gods",
     "pub_date": "Tue, 03 Nov 2026 08:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how th..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Could virtual reality speed up learning?",
     "pub_date": "Mon, 02 Nov 2026 08:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal Science Advances. Interested in more science involving video games? Email us your question at shortwave@npr.org.Suppo..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Is your favorite crime show rooted in fake science?",
     "pub_date": "Fri, 30 Oct 2026 07:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, ..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "MAHA’s midterm report card",
     "pub_date": "Wed, 28 Oct 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "You Can See Everything and the science of spotting liars",
     "pub_date": "Tue, 27 Oct 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible ..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "The battle between matter and antimatter",
     "pub_date": "Mon, 26 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/264d2592-5591-455b-b334-1f1bb38b1eb6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=264d2592-5591-455b-b334-1f1bb38b1eb6&feed=F0qJcgXZ&t=podcast&e=nx-s1-6005516&p=510351&d=677&size=10842324",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter, matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they ..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "The dormant viruses in all of us may help explain long COVID",
-    "pub_date": "Fri, 23 Oct 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/70d14efb-5797-4acd-b8aa-a16f9e9963b9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=70d14efb-5797-4acd-b8aa-a16f9e9963b9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5985807&p=510351&d=865&size=13842477",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Virtually every human on Earth has a slew of different types of dormant viruses in our bodies. They are remnants of past infections and are—generally—harmless. Unless they wake up, which can be triggered by extreme stress or something that severely compromises the immune system. But now, through a unique study on the immune systems of astronauts..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
+    "pub_date": "Tue, 10 Nov 2026 10:55:19 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60e9e1cf-51c5-41b1-af3d-736ef4484e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60e9e1cf-51c5-41b1-af3d-736ef4484e18&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who, according to U.S. officials, turned out to be a Chinese spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncov..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "After a Crushing Defeat, Trump Doubles Down",
     "pub_date": "Mon, 9 Nov 2026 10:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/82833c9b-8790-46e3-95b6-a79e2189b8dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=82833c9b-8790-46e3-95b6-a79e2189b8dd&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "After a stinging rebuke last week at the polls, President Trump announced that he would elevate Stephen Miller — a driving force behind some of the most polarizing policies of Mr. Trump’s second term — to chief of staff.Maggie Haberman and Jonathan Swan, White House reporters for The New York Times, explain what Mr. Miller’s appointment reveals ..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
     "pub_date": "Sun, 8 Nov 2026 11:00:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/th..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Introducing ‘METRO’ From Serial Productions",
     "pub_date": "Sat, 7 Nov 2026 11:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "Today, we’re sharing an episode from a brand-new show called “METRO,” made by the Serial podcast team and the reporters here at The Times who cover New York City.Every other week, Sarah Koenig and her team will tell stories about the city and its most fascinating raw material: New Yorkers. They’ll bring you investigations, personal stories, essa..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Chuck Schumer on Governing With (Or Without) Trump",
     "pub_date": "Fri, 6 Nov 2026 10:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Warning: This episode contains strong language.Last spring, the political picture for Senator Chuck Schumer, the minority leader, was downright bleak. President Trump was back in the White House. Schumer’s Democratic caucus was largely powerless to stop him. And restless Democratic activists were calling for Schumer to resign.Fast forward to thi..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Voters Who Flipped Congress",
     "pub_date": "Thu, 5 Nov 2026 10:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "The midterm elections were an electoral tsunami for Democrats: a complete collapse of the Republican coalition and a landslide victory.Nate Cohn, the chief political analyst for The New York Times, examines the results to figure out which voters showed up, which stayed home and how much billions in campaign spending mattered.Guest: Nate Cohn, th..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "A Landslide Victory for Democrats",
     "pub_date": "Wed, 4 Nov 2026 10:51:32 +0000",
@@ -1287,7 +1296,7 @@
     "description": "On Tuesday night, the blue wave that polls predicted landed with extraordinary force across the United States as Democrats flipped control of both the House and the Senate.Nate Cohn, Lisa Lerer and Shane Goldmacher of The New York Times discuss an extraordinary shift in power and a new era of American politics.Guest: Nate Cohn, the chief politic..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "A Guide to Election Night 2026",
     "pub_date": "Tue, 3 Nov 2026 10:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "After two years of campaigning, the 2026 midterm election is now in the hands of the American voters.As the ballot counting begins, Nate Cohn, the chief political analyst for The New York Times, offers a guide for how to understand the results.Guest: Nate Cohn, the chief political analyst for The New York Times.Background reading: Here are four ..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "A Political Rebellion in the Rio Grande Valley",
     "pub_date": "Mon, 2 Nov 2026 10:50:24 +0000",
@@ -1305,21 +1314,12 @@
     "description": "Warning: This episode contains strong language.In the midterm elections, one of the regions expected to swing away from President Trump and toward Democrats is the Rio Grande Valley of Texas, where life has been transformed by his administration’s crackdown on immigration.Lynsea Garrison, a producer for “The Daily,” has been reporting on that sh..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Want to Enjoy Music More? Go For a Run.",
     "pub_date": "Sun, 1 Nov 2026 10:00:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/45c30d5c-ee34-4e59-aa41-be04a804b7bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=45c30d5c-ee34-4e59-aa41-be04a804b7bd&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "Ben Ratliff, a music critic and avid runner, always ran in silence. Then he discovered how music opened up to him — while running. It changed his entire approach to criticism and listening. He calls it “running the song.”Today, for the New York City Marathon, Ben talks with our host Rachel Abrams about how his listening sharpens when he runs to ..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Martin McDonagh Has a Vision for Hope. It's Not for the Faint of Heart.",
-    "pub_date": "Sat, 31 Oct 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/103db548-78e9-4a05-8b79-2704e5d914c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=103db548-78e9-4a05-8b79-2704e5d914c2&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "The writer-director, known for his dark and bleak work, believes in film’s power to change our lives.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/thedaily. Transcripts of..."
   }
 ]
