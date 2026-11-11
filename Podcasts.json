@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "Can scientists reverse your age?",
+    "pub_date": "Wed, 11 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c11a4fcd-bae3-4e66-ae53-c01e33212a58/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c11a4fcd-bae3-4e66-ae53-c01e33212a58&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971828&p=510351&d=864&size=13838673",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to c..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "How this year's record El Niño could hit your wallet \n",
     "pub_date": "Tue, 10 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/11d9e8b7-05a7-4f76-9816-b788ccf9decb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=11d9e8b7-05a7-4f76-9816-b788ccf9decb&feed=F0qJcgXZ&t=podcast&e=nx-s1-6011189&p=510351&d=587&size=9403289",
@@ -279,7 +288,7 @@
     "description": "Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which c..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist",
     "pub_date": "Mon, 09 Nov 2026 08:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors cau..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "Predicting elections is getting harder. What did the midterms teach us?",
     "pub_date": "Thu, 05 Nov 2026 08:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his Senate forecasting model for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us unde..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "AI is changing mathematics -- but not how you think",
     "pub_date": "Wed, 04 Nov 2026 08:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "OpenAI whistleblowers on the fight over AI safety | Machine Gods",
     "pub_date": "Tue, 03 Nov 2026 08:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how th..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "Could virtual reality speed up learning?",
     "pub_date": "Mon, 02 Nov 2026 08:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal Science Advances. Interested in more science involving video games? Email us your question at shortwave@npr.org.Suppo..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Is your favorite crime show rooted in fake science?",
     "pub_date": "Fri, 30 Oct 2026 07:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, ..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "MAHA’s midterm report card",
     "pub_date": "Wed, 28 Oct 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "You Can See Everything and the science of spotting liars",
     "pub_date": "Tue, 27 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/05754ca5-c0c0-4149-8aff-1271295182dc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=05754ca5-c0c0-4149-8aff-1271295182dc&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012707&p=510351&d=825&size=13207973",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible ..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "The battle between matter and antimatter",
-    "pub_date": "Mon, 26 Oct 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/264d2592-5591-455b-b334-1f1bb38b1eb6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=264d2592-5591-455b-b334-1f1bb38b1eb6&feed=F0qJcgXZ&t=podcast&e=nx-s1-6005516&p=510351&d=677&size=10842324",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter, matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they ..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -1055,6 +1055,15 @@
   {
     "id": "lex-fridman-podcast-ep-1",
     "show_name": "Lex Fridman Podcast",
+    "episode_title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
+    "pub_date": "Tue, 10 Nov 2026 23:52:44 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_preston_stewart_michael_kofman.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carne..."
+  },
+  {
+    "id": "lex-fridman-podcast-ep-2",
+    "show_name": "Lex Fridman Podcast",
     "episode_title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
     "pub_date": "Mon, 26 Oct 2026 22:52:28 +0000",
     "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_math_ai_crisis.mp3",
@@ -1062,7 +1071,7 @@
     "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting th..."
   },
   {
-    "id": "lex-fridman-podcast-ep-2",
+    "id": "lex-fridman-podcast-ep-3",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
     "pub_date": "Thu, 17 Sep 2026 00:40:49 +0000",
@@ -1071,7 +1080,7 @@
     "description": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback – give feedback to Lex: https://lexf..."
   },
   {
-    "id": "lex-fridman-podcast-ep-3",
+    "id": "lex-fridman-podcast-ep-4",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
     "pub_date": "Wed, 26 Aug 2026 21:47:04 +0000",
@@ -1080,7 +1089,7 @@
     "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFee..."
   },
   {
-    "id": "lex-fridman-podcast-ep-4",
+    "id": "lex-fridman-podcast-ep-5",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
     "pub_date": "Wed, 12 Aug 2026 13:11:45 +0000",
@@ -1089,7 +1098,7 @@
     "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It’s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to m..."
   },
   {
-    "id": "lex-fridman-podcast-ep-5",
+    "id": "lex-fridman-podcast-ep-6",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
     "pub_date": "Tue, 28 Jul 2026 20:06:06 +0000",
@@ -1098,7 +1107,7 @@
     "description": "Gary Gallagher is a historian of the American Civil War.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/gary-gallagher-transcript\nCONTACT LEX:\nFeedback – give feedback to L..."
   },
   {
-    "id": "lex-fridman-podcast-ep-6",
+    "id": "lex-fridman-podcast-ep-7",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
     "pub_date": "Tue, 30 Jun 2026 21:33:40 +0000",
@@ -1107,7 +1116,7 @@
     "description": "Anthony Kaldellis is a historian of the Roman Empire and author of “The New Roman Empire”, a comprehensive history of the Byzantine Empire (Eastern Roman Empire).\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, et..."
   },
   {
-    "id": "lex-fridman-podcast-ep-7",
+    "id": "lex-fridman-podcast-ep-8",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
     "pub_date": "Fri, 29 May 2026 16:22:02 +0000",
@@ -1116,7 +1125,7 @@
     "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/don-li..."
   },
   {
-    "id": "lex-fridman-podcast-ep-8",
+    "id": "lex-fridman-podcast-ep-9",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
     "pub_date": "Wed, 06 May 2026 22:06:47 +0000",
@@ -1125,22 +1134,13 @@
     "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc\nSee below for timestamps, transcript, and to give feedback, ..."
   },
   {
-    "id": "lex-fridman-podcast-ep-9",
+    "id": "lex-fridman-podcast-ep-10",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
     "pub_date": "Thu, 09 Apr 2026 17:43:17 +0000",
     "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
     "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
     "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://le..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-10",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution",
-    "pub_date": "Mon, 23 Mar 2026 16:28:42 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
-    "description": "Jensen Huang is the co-founder and CEO of NVIDIA, the world’s most valuable company and the engine powering the AI computing revolution.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lex..."
   },
   {
     "id": "the-tim-ferriss-show-ep-1",
@@ -1239,7 +1239,7 @@
     "pub_date": "Tue, 10 Nov 2026 10:55:19 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60e9e1cf-51c5-41b1-af3d-736ef4484e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60e9e1cf-51c5-41b1-af3d-736ef4484e18&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who, according to U.S. officials, turned out to be a Chinese spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncov..."
+    "description": "Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t..."
   },
   {
     "id": "the-daily--nyt--ep-2",

@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Can scientists reverse your age?
+Published Date: Wed, 11 Nov 2026 08:00:00 +0000
+Description: Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to c...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c11a4fcd-bae3-4e66-ae53-c01e33212a58/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c11a4fcd-bae3-4e66-ae53-c01e33212a58&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971828&p=510351&d=864&size=13838673
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How this year's record El Niño could hit your wallet 
 
 Published Date: Tue, 10 Nov 2026 08:00:00 +0000
@@ -252,12 +258,6 @@ Episode Title: You Can See Everything and the science of spotting liars
 Published Date: Tue, 27 Oct 2026 07:00:00 +0000
 Description: It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible ...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/05754ca5-c0c0-4149-8aff-1271295182dc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=05754ca5-c0c0-4149-8aff-1271295182dc&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012707&p=510351&d=825&size=13207973
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: The battle between matter and antimatter
-Published Date: Mon, 26 Oct 2026 07:00:00 +0000
-Description: At the beginning of our universe, in addition to matter, there was also an equal amount of antimatter, matter's opposite. But today, there's lots more matter than antimatter. So how did that happen? Well, the answer might have to do with neutrinos, a very mysterious, elusive particle. They're incredibly difficult to catch and study because they ...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/264d2592-5591-455b-b334-1f1bb38b1eb6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=264d2592-5591-455b-b334-1f1bb38b1eb6&feed=F0qJcgXZ&t=podcast&e=nx-s1-6005516&p=510351&d=677&size=10842324
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -776,6 +776,12 @@ Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-ne
 SHOW: Lex Fridman Podcast
 ========================================================================
 ----------------------------------------
+Episode Title: #504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare
+Published Date: Tue, 10 Nov 2026 23:52:44 +0000
+Description: Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carne...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_preston_stewart_michael_kofman.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg
+----------------------------------------
 Episode Title: #503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory
 Published Date: Mon, 26 Oct 2026 22:52:28 +0000
 Description: Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting th...
@@ -859,16 +865,6 @@ Transcript:
 https://le...
 Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3
 Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg
-----------------------------------------
-Episode Title: #494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution
-Published Date: Mon, 23 Mar 2026 16:28:42 +0000
-Description: Jensen Huang is the co-founder and CEO of NVIDIA, the world’s most valuable company and the engine powering the AI computing revolution.
-Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc
-See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.
-Transcript:
-https://lex...
-Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3
-Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg
 
 ========================================================================
 SHOW: The Tim Ferriss Show
@@ -940,7 +936,7 @@ SHOW: The Daily
 ----------------------------------------
 Episode Title: Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal
 Published Date: Tue, 10 Nov 2026 10:55:19 +0000
-Description: Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who, according to U.S. officials, turned out to be a Chinese spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncov...
+Description: Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60e9e1cf-51c5-41b1-af3d-736ef4484e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60e9e1cf-51c5-41b1-af3d-736ef4484e18&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
 ----------------------------------------
