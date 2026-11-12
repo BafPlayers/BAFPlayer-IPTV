@@ -542,6 +542,15 @@
   {
     "id": "bbc-in-our-time-ep-1",
     "show_name": "In Our Time",
+    "episode_title": "The Battle of Antietam",
+    "pub_date": "Thu, 12 Nov 2026 09:45:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgmdgv.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
+    "description": "Misha Glenny and guests discuss The Battle of Antietam, the single deadliest day of the American Civil War. The battle took place on 17th September 1862, less than 100 miles from Washington D.C. The conflict had been going on for over a year, and there had been a string of successes by the rebel Confederate Army against Union forces. The Confede..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-2",
+    "show_name": "In Our Time",
     "episode_title": "Archive: Feathered Dinosaurs",
     "pub_date": "Mon, 09 Nov 2026 09:45:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfvb88.mp3",
@@ -549,7 +558,7 @@
     "description": "All dinosaurs were originally thought to be related to lizards - the word 'dinosaur' was created by Richard Owen (1804-1892) from the Greek for 'terrible lizard' - but that now appears to be false. In this archive episode, first released in October 2017, Melvyn Bragg and guests discuss the development of theories about dinosaur feathers, followi..."
   },
   {
-    "id": "bbc-in-our-time-ep-2",
+    "id": "bbc-in-our-time-ep-3",
     "show_name": "In Our Time",
     "episode_title": "Megalosaurus",
     "pub_date": "Thu, 05 Nov 2026 09:45:00 +0000",
@@ -558,7 +567,7 @@
     "description": "The first dinosaur to ever be scientifically named, almost 20 years before we even had the word ‘dinosaur’. In 1824, the geologist and priest William Buckland (1784-1856) stood before the Geological Society of London and announced something that would kickstart two centuries of dinosaur science. He’d been studying large, fossilised bones which d..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "Archive: Citizen Kane",
     "pub_date": "Mon, 02 Nov 2026 09:45:00 +0000",
@@ -567,7 +576,7 @@
     "description": "Orson Welles was only 25 when his film Citizen Kane was released in 1941. It is widely acclaimed as one of the greatest, if not the greatest, films yet made.   Melvyn Bragg and guests discuss Welles' film, in which he plays the lead role of Charles Foster Kane, a newspaper magnate. It was his first acting role. He also directed, produced and co-..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "Casablanca",
     "pub_date": "Thu, 29 Oct 2026 09:45:00 +0000",
@@ -576,7 +585,7 @@
     "description": "Recorded at the Crossed Wires Festival in Sheffield, Misha Glenny and guests discuss Casablanca, one of the greatest films from Hollywood’s Golden Era.   The film stars Humphrey Bogart and Ingrid Bergman and features the unforgettable song As Time Goes By.    Casablanca opened in November 1942 when Europe had been at war for three years and the ..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "Archive: Dark Matter, the mysterious substance in space",
     "pub_date": "Mon, 26 Oct 2026 09:45:00 +0000",
@@ -585,7 +594,7 @@
     "description": "Dark Matter is a proposed form of matter that does not absorb, reflect or emit light. It is known to make up 27% of our universe, while the matter that makes up stars and galaxies accounts for only 5%.   \n  \nIn this archive episode, first released in March 2015, Melvyn Bragg and his guests discuss dark matter, the mysterious and invisible substa..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "Particle Accelerators",
     "pub_date": "Thu, 22 Oct 2026 08:45:00 +0000",
@@ -594,7 +603,7 @@
     "description": "Misha Glenny and guests discuss the machines that are described as the world’s largest experiments: Particle Accelerators. A famous example of a Particle Accelerator is the Large Hadron Collider, a device which stretches for nearly 30km, deep beneath the ground in a tunnel between France and Switzerland.    This enormous scale enables the partic..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "Archive: Erasmus",
     "pub_date": "Mon, 19 Oct 2026 08:45:00 +0000",
@@ -603,7 +612,7 @@
     "description": "One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. \n \nIn this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch ..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "Thomas More's Utopia",
     "pub_date": "Thu, 15 Oct 2026 08:45:00 +0000",
@@ -612,22 +621,13 @@
     "description": "In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book,..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "Archive: The Measurement of Time",
     "pub_date": "Mon, 12 Oct 2026 08:45:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p94wbk.mp3",
     "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
     "description": "Misha Glenny chooses the first of his archive picks - bringing back classic conversations from the In Our Time archive, every Monday. \nHumans have tried to calculate, regulate, and measure time for thousands of years: from systems based on tracking sunrise and sunset, to the invention of increasingly precise mechanical alarm clocks and astrolabe..."
-  },
-  {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "Archive: Trinity",
-    "pub_date": "Thu, 08 Oct 2026 08:45:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p4mlsx.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
-    "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His final choice is the Trinity, an episode first released in March 2014. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest y..."
   },
   {
     "id": "lore--folklore---history--ep-1",
@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "How bodegas led to the Yemeni coffeehouse explosion",
+    "pub_date": "Wed, 11 Nov 2026 13:03:29 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "There is a long-standing tradition of different immigrant groups arriving in the U.S. and specializing in one particular type of business. Think, nail salons run by people from Vietnam or Gujarati Indians owning motels and hotels.Yemenis are another immigrant community that has largely clustered around one industry, in their case, bodegas and sm..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "Inside the insurance industry’s destruction lab",
     "pub_date": "Fri, 06 Nov 2026 22:30:00 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653",
@@ -792,7 +801,7 @@
     "description": "When you think of someone burning down a house for insurance purposes, you don’t imagine it would ever be the insurance company itself lighting the match. But that’s essentially what’s happening inside a giant destruction laboratory, funded by the insurance industry, in the woods of South Carolina. Scientists and engineers there build household ..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "The history of light (classic)",
     "pub_date": "Wed, 04 Nov 2026 08:00:00 +0000",
@@ -801,7 +810,7 @@
     "description": "How do you measure human progress? Light is the answer.For thousands of years, getting light was a huge hassle. You had to make candles from scratch. This is not as romantic as it sounds. You had to get a cow, raise the cow, feed the cow, kill the cow, get the fat out of the cow, cook the fat, dip wicks into the fat. All that — for not very much..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Is this how the great international borrowing spree ends?",
     "pub_date": "Sat, 31 Oct 2026 00:15:00 +0000",
@@ -810,7 +819,7 @@
     "description": "In recent months, there have been serious whispers about an outrageous possibility: that one day soon, France — the seventh largest economy in the world — might not be able to pay back its debts. Right now, protesters in France are complaining about crumbling schools, the lack of teachers, and the overall high cost of living. But the government ..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
     "pub_date": "Wed, 28 Oct 2026 12:57:50 +0000",
@@ -819,7 +828,7 @@
     "description": "Connecticut’s property tax system has been broken for decades and the politicians have failed to fix the problem. So now, they’re trying something new: a citizens assembly. (Citizens assemblies are also old. They go back to Ancient Greece, when lawmakers were chosen not through elections, but through random lotteries.) Today on the show, Connect..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "How surveillance crept up on us",
     "pub_date": "Fri, 23 Oct 2026 21:00:00 +0000",
@@ -828,7 +837,7 @@
     "description": "For years, police have spent billions of tax dollars on watching us, tracking us, and recording us. In the largest police department in the country, these surveillance systems were paid for and adopted without the kind of public oversight cities usually require. In the wake of 9/11, the New York Police Department built one of the most sophistica..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "We try to fix election polling (update)",
     "pub_date": "Wed, 21 Oct 2026 07:00:00 +0000",
@@ -837,7 +846,7 @@
     "description": "Polling is facing an existential crisis. People aren't picking up the phone. Nobody wants to talk to pollsters. Trust is on the line. We pluck a solution from the economics canon and convince a polling firm to let us test it. Today on the show, we head to Marist College — home of the Marist Poll — to learn how to be pollsters ourselves. We learn..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "Anatomy of a movie market",
     "pub_date": "Fri, 16 Oct 2026 21:30:00 +0000",
@@ -846,7 +855,7 @@
     "description": "Before an independent movie makes it to a streaming platform or a theater near you, it first needs to survive an artistic and economic gauntlet. And even for those movies that make it into elite film festivals like Sundance – it can take everything from performance stunts to corporate spycraft to seal the deal. Today on the show, we follow the ‘..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "Wanna slow down AI? These biologists can help.",
     "pub_date": "Wed, 14 Oct 2026 21:30:18 +0000",
@@ -855,7 +864,7 @@
     "description": "Fifty years ago, scientists pioneering a terrifying gene-splicing technology figured out a way to collectively hit pause. Can we do it again with AI? We ask because some top AI industry leaders are saying the technology they’re pushing forward is moving too quickly … and might kill us all. They’re effectively saying, ‘Please, please regulate us!..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "Should we all be getting tariff refunds right now?",
     "pub_date": "Fri, 09 Oct 2026 21:07:00 +0000",
@@ -864,16 +873,16 @@
     "description": "Companies are getting billions of dollars back. How about us? It seems simple, right? We paid higher prices for imported goods because of tariffs. Then the tariffs were ruled illegal. Courts said the money paid to the U.S. government had to be refunded. Companies are getting that money now. It would seem like we, the customers, should get paid b..."
   },
   {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Charles Ponzi's scheme (plus a new scam)",
-    "pub_date": "Wed, 07 Oct 2026 07:00:00 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "Charles Ponzi was down on his luck. In 1919, the Italian immigrant had spent a decade and a half in the U.S. He was looking for a way to get rich and tried his hand at everything — including bookkeeping, sign painting, grocery clerk, dishwasher, and librarian.He caught a lucky break in August, when he received a letter from Europe. In the envelo..."
+    "id": "how-i-built-this-with-guy-raz-ep-1",
+    "show_name": "How I Built This with Guy Raz",
+    "episode_title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
+    "pub_date": "Thu, 12 Nov 2026 05:00:00 -0000",
+    "stream_url": "https://traffic.megaphone.fm/VMP7917788157.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "In the early 1980s, Ron Shaich took over Au Bon Pain, a struggling group of Boston bakeries, and helped grow it into a national chain with 250 locations. But Ron saw an even bigger opportunity in a small bakery chain in St. Louis. So he made a remarkable gamble: he sold Au Bon Pain to focus entirely on what would become Panera Bread. That bet he..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-1",
+    "id": "how-i-built-this-with-guy-raz-ep-2",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
     "pub_date": "Mon, 09 Nov 2026 08:10:00 -0000",
@@ -882,7 +891,7 @@
     "description": "Jack Haldrup didn’t set out to build a billion-dollar company. He just wanted a way out of consulting and a bar of soap he actually liked.\n\nAfter developing psoriasis, Jack started paying closer attention to the products he used on his skin. A chance purchase at a farmers market introduced him to handmade soap and sparked a business idea. With j..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
     "pub_date": "Thu, 05 Nov 2026 08:10:00 -0000",
@@ -891,7 +900,7 @@
     "description": "Michael Dell was building a tech business in his dorm room long before it became a familiar startup story. In 1983, the UT Austin student began selling PC upgrade kits. Within months, he left college to devote himself to the business. When Dell entered the Fortune 500 in 1992, Michael was just 27—the youngest CEO on the list.\n\nIn this episode, M..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”",
     "pub_date": "Mon, 02 Nov 2026 08:10:00 -0000",
@@ -900,7 +909,7 @@
     "description": "This episode is available on Youtube: https://youtu.be/ZYf-DfxJg1c\n\nBrian Chesky was 26 when he and his co-founders launched Airbnb, turning a few air mattresses in a San Francisco apartment into one of the most successful startups of all time.\n\nBut as Airbnb grew into a company worth more than $100 billion, Brian struggled to keep up. He hired ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Tope Awotona of Calendly",
     "pub_date": "Thu, 29 Oct 2026 07:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Today’s callers: Dominic in London faces challenges with profitability and scaling for his foldable bike helmet. Then, Ivana in Vancouver wonders how to maintain the momentum of her pet gear brand as she prepares for the arrival of her first child. Danny in South Carolina wants to expand her nail salon concept without making major trade-offs in ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
     "pub_date": "Mon, 26 Oct 2026 07:10:00 -0000",
@@ -918,7 +927,7 @@
     "description": "Heather Hasson and Trina Spear saw an opportunity nobody else seemed to notice: millions of healthcare workers were spending long days in uncomfortable, ill-fitting scrubs.\n\nSo they set out to reinvent them.\n\nHeather was a designer with almost no money. To join her, Trina left a prestigious job at Blackstone and cashed out her retirement. They s..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
     "pub_date": "Fri, 23 Oct 2026 07:57:00 -0000",
@@ -927,7 +936,7 @@
     "description": "Today’s callers: Kahindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
     "pub_date": "Mon, 19 Oct 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "Loren Castle started baking cookies after surviving cancer in her early twenties. Five years later, Sweet Loren’s refrigerated cookie dough was generating just $350,000 a year. But instead of giving up, she listened to customers, and reinvented the dough without gluten, dairy, eggs or nuts.  That transformation turned a small regional business i..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Tara Bosch of SmartSweets",
     "pub_date": "Thu, 15 Oct 2026 07:10:00 -0000",
@@ -945,22 +954,13 @@
     "description": "Today’s callers: Lindzi from Chicago wants to expand her gourmet marshmallow brand into retail without cannibalizing her high-margin DTC sales. Then, Vivi from Hawaii considers how to best tell her sustainable swimwear brand’s story to a digital audience. And Aly from Los Angeles wonders whether a subscription model is best for her whimsical cur..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
     "pub_date": "Mon, 12 Oct 2026 07:10:00 -0000",
     "stream_url": "https://traffic.megaphone.fm/VMP4354753461.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "In the early 1990’s, Tim League spent $50,000 in savings to lease an abandoned movie theater on the wrong side of the tracks—a shaky experiment that eventually grew into a thriving national chain. As Tim and his wife Karrie built theaters in Austin and beyond, they made a name for themselves by offering dinner with the movie, creative pairings (..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "Advice Line with Nick Green of Thrive Market",
-    "pub_date": "Thu, 08 Oct 2026 07:10:00 -0000",
-    "stream_url": "https://traffic.megaphone.fm/VMP5049607037.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Today’s callers: Mercedes in Utah tries to find harmony between quality and speed as she scales her concert attire brand for musicians. Then Danny in Colorado grapples with the tradeoffs of growing his sustainable and functional coffee brand. And Riya in Illinois wonders how to build awareness for her app that aids people affected by speech loss..."
   },
   {
     "id": "ted-radio-hour-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Public Schools Have a New Crisis: Not Enough Students",
+    "pub_date": "Wed, 11 Nov 2026 10:47:41 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/99e149de-75d1-4f1c-8a8c-e26e47dcb648/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=99e149de-75d1-4f1c-8a8c-e26e47dcb648&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "The number of students in America’s public schools is shrinking. In some cases, the declines have been so drastic that districts are facing empty classrooms, painful budget cuts and angry debates about whether to close schools.Sarah Mervosh, an education reporter at The New York Times, discusses what the enrollment crisis looks like, why it’s ha..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
     "pub_date": "Tue, 10 Nov 2026 10:55:19 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60e9e1cf-51c5-41b1-af3d-736ef4484e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60e9e1cf-51c5-41b1-af3d-736ef4484e18&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "After a Crushing Defeat, Trump Doubles Down",
     "pub_date": "Mon, 9 Nov 2026 10:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "After a stinging rebuke last week at the polls, President Trump announced that he would elevate Stephen Miller — a driving force behind some of the most polarizing policies of Mr. Trump’s second term — to chief of staff.Maggie Haberman and Jonathan Swan, White House reporters for The New York Times, explain what Mr. Miller’s appointment reveals ..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
     "pub_date": "Sun, 8 Nov 2026 11:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/th..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Introducing ‘METRO’ From Serial Productions",
     "pub_date": "Sat, 7 Nov 2026 11:00:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Today, we’re sharing an episode from a brand-new show called “METRO,” made by the Serial podcast team and the reporters here at The Times who cover New York City.Every other week, Sarah Koenig and her team will tell stories about the city and its most fascinating raw material: New Yorkers. They’ll bring you investigations, personal stories, essa..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Chuck Schumer on Governing With (Or Without) Trump",
     "pub_date": "Fri, 6 Nov 2026 10:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "Warning: This episode contains strong language.Last spring, the political picture for Senator Chuck Schumer, the minority leader, was downright bleak. President Trump was back in the White House. Schumer’s Democratic caucus was largely powerless to stop him. And restless Democratic activists were calling for Schumer to resign.Fast forward to thi..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "The Voters Who Flipped Congress",
     "pub_date": "Thu, 5 Nov 2026 10:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "The midterm elections were an electoral tsunami for Democrats: a complete collapse of the Republican coalition and a landslide victory.Nate Cohn, the chief political analyst for The New York Times, examines the results to figure out which voters showed up, which stayed home and how much billions in campaign spending mattered.Guest: Nate Cohn, th..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "A Landslide Victory for Democrats",
     "pub_date": "Wed, 4 Nov 2026 10:51:32 +0000",
@@ -1296,7 +1305,7 @@
     "description": "On Tuesday night, the blue wave that polls predicted landed with extraordinary force across the United States as Democrats flipped control of both the House and the Senate.Nate Cohn, Lisa Lerer and Shane Goldmacher of The New York Times discuss an extraordinary shift in power and a new era of American politics.Guest: Nate Cohn, the chief politic..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "A Guide to Election Night 2026",
     "pub_date": "Tue, 3 Nov 2026 10:45:00 +0000",
@@ -1305,21 +1314,12 @@
     "description": "After two years of campaigning, the 2026 midterm election is now in the hands of the American voters.As the ballot counting begins, Nate Cohn, the chief political analyst for The New York Times, offers a guide for how to understand the results.Guest: Nate Cohn, the chief political analyst for The New York Times.Background reading: Here are four ..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "A Political Rebellion in the Rio Grande Valley",
     "pub_date": "Mon, 2 Nov 2026 10:50:24 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7bf4706f-de8e-4b7f-99df-a0e4d6c37736/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7bf4706f-de8e-4b7f-99df-a0e4d6c37736&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "Warning: This episode contains strong language.In the midterm elections, one of the regions expected to swing away from President Trump and toward Democrats is the Rio Grande Valley of Texas, where life has been transformed by his administration’s crackdown on immigration.Lynsea Garrison, a producer for “The Daily,” has been reporting on that sh..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Want to Enjoy Music More? Go For a Run.",
-    "pub_date": "Sun, 1 Nov 2026 10:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/45c30d5c-ee34-4e59-aa41-be04a804b7bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=45c30d5c-ee34-4e59-aa41-be04a804b7bd&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "Ben Ratliff, a music critic and avid runner, always ran in silence. Then he discovered how music opened up to him — while running. It changed his entire approach to criticism and listening. He calls it “running the song.”Today, for the New York City Marathon, Ben talks with our host Rachel Abrams about how his listening sharpens when he runs to ..."
   }
 ]

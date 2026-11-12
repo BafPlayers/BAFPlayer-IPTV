@@ -392,6 +392,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: The Battle of Antietam
+Published Date: Thu, 12 Nov 2026 09:45:00 +0000
+Description: Misha Glenny and guests discuss The Battle of Antietam, the single deadliest day of the American Civil War. The battle took place on 17th September 1862, less than 100 miles from Washington D.C. The conflict had been going on for over a year, and there had been a string of successes by the rebel Confederate Army against Union forces. The Confede...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgmdgv.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
+----------------------------------------
 Episode Title: Archive: Feathered Dinosaurs
 Published Date: Mon, 09 Nov 2026 09:45:00 +0000
 Description: All dinosaurs were originally thought to be related to lizards - the word 'dinosaur' was created by Richard Owen (1804-1892) from the Greek for 'terrible lizard' - but that now appears to be false. In this archive episode, first released in October 2017, Melvyn Bragg and guests discuss the development of theories about dinosaur feathers, followi...
@@ -449,12 +455,6 @@ Published Date: Mon, 12 Oct 2026 08:45:00 +0000
 Description: Misha Glenny chooses the first of his archive picks - bringing back classic conversations from the In Our Time archive, every Monday. 
 Humans have tried to calculate, regulate, and measure time for thousands of years: from systems based on tracking sunrise and sunset, to the invention of increasingly precise mechanical alarm clocks and astrolabe...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p94wbk.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
-----------------------------------------
-Episode Title: Archive: Trinity
-Published Date: Thu, 08 Oct 2026 08:45:00 +0000
-Description: Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His final choice is the Trinity, an episode first released in March 2014. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest y...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p4mlsx.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 
 ========================================================================
@@ -571,6 +571,12 @@ Logo URL: https://static.libsyn.com/p/assets/b/6/9/3/b69392cf5ebfef30/CS_DC_iTun
 SHOW: Planet Money
 ========================================================================
 ----------------------------------------
+Episode Title: How bodegas led to the Yemeni coffeehouse explosion
+Published Date: Wed, 11 Nov 2026 13:03:29 +0000
+Description: There is a long-standing tradition of different immigrant groups arriving in the U.S. and specializing in one particular type of business. Think, nail salons run by people from Vietnam or Gujarati Indians owning motels and hotels.Yemenis are another immigrant community that has largely clustered around one industry, in their case, bodegas and sm...
+Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985
+Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Inside the insurance industry’s destruction lab
 Published Date: Fri, 06 Nov 2026 22:30:00 +0000
 Description: When you think of someone burning down a house for insurance purposes, you don’t imagine it would ever be the insurance company itself lighting the match. But that’s essentially what’s happening inside a giant destruction laboratory, funded by the insurance industry, in the woods of South Carolina. Scientists and engineers there build household ...
@@ -624,16 +630,16 @@ Published Date: Fri, 09 Oct 2026 21:07:00 +0000
 Description: Companies are getting billions of dollars back. How about us? It seems simple, right? We paid higher prices for imported goods because of tariffs. Then the tariffs were ruled illegal. Courts said the money paid to the U.S. government had to be refunded. Companies are getting that money now. It would seem like we, the customers, should get paid b...
 Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555
 Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Charles Ponzi's scheme (plus a new scam)
-Published Date: Wed, 07 Oct 2026 07:00:00 +0000
-Description: Charles Ponzi was down on his luck. In 1919, the Italian immigrant had spent a decade and a half in the U.S. He was looking for a way to get rich and tried his hand at everything — including bookkeeping, sign painting, grocery clerk, dishwasher, and librarian.He caught a lucky break in August, when he received a letter from Europe. In the envelo...
-Audio Stream URL: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839
-Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
 SHOW: How I Built This with Guy Raz
 ========================================================================
+----------------------------------------
+Episode Title: Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)
+Published Date: Thu, 12 Nov 2026 05:00:00 -0000
+Description: In the early 1980s, Ron Shaich took over Au Bon Pain, a struggling group of Boston bakeries, and helped grow it into a national chain with 250 locations. But Ron saw an even bigger opportunity in a small bakery chain in St. Louis. So he made a remarkable gamble: he sold Au Bon Pain to focus entirely on what would become Panera Bread. That bet he...
+Audio Stream URL: https://traffic.megaphone.fm/VMP7917788157.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 ----------------------------------------
 Episode Title: Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand
 Published Date: Mon, 09 Nov 2026 08:10:00 -0000
@@ -699,12 +705,6 @@ Episode Title: Alamo Drafthouse Cinema: Tim and Karrie League (2023)
 Published Date: Mon, 12 Oct 2026 07:10:00 -0000
 Description: In the early 1990’s, Tim League spent $50,000 in savings to lease an abandoned movie theater on the wrong side of the tracks—a shaky experiment that eventually grew into a thriving national chain. As Tim and his wife Karrie built theaters in Austin and beyond, they made a name for themselves by offering dinner with the movie, creative pairings (...
 Audio Stream URL: https://traffic.megaphone.fm/VMP4354753461.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Advice Line with Nick Green of Thrive Market
-Published Date: Thu, 08 Oct 2026 07:10:00 -0000
-Description: Today’s callers: Mercedes in Utah tries to find harmony between quality and speed as she scales her concert attire brand for musicians. Then Danny in Colorado grapples with the tradeoffs of growing his sustainable and functional coffee brand. And Riya in Illinois wonders how to build awareness for her app that aids people affected by speech loss...
-Audio Stream URL: https://traffic.megaphone.fm/VMP5049607037.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -934,6 +934,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Public Schools Have a New Crisis: Not Enough Students
+Published Date: Wed, 11 Nov 2026 10:47:41 +0000
+Description: The number of students in America’s public schools is shrinking. In some cases, the declines have been so drastic that districts are facing empty classrooms, painful budget cuts and angry debates about whether to close schools.Sarah Mervosh, an education reporter at The New York Times, discusses what the enrollment crisis looks like, why it’s ha...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/99e149de-75d1-4f1c-8a8c-e26e47dcb648/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=99e149de-75d1-4f1c-8a8c-e26e47dcb648&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal
 Published Date: Tue, 10 Nov 2026 10:55:19 +0000
 Description: Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t...
@@ -987,10 +993,4 @@ Episode Title: A Political Rebellion in the Rio Grande Valley
 Published Date: Mon, 2 Nov 2026 10:50:24 +0000
 Description: Warning: This episode contains strong language.In the midterm elections, one of the regions expected to swing away from President Trump and toward Democrats is the Rio Grande Valley of Texas, where life has been transformed by his administration’s crackdown on immigration.Lynsea Garrison, a producer for “The Daily,” has been reporting on that sh...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7bf4706f-de8e-4b7f-99df-a0e4d6c37736/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7bf4706f-de8e-4b7f-99df-a0e4d6c37736&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Want to Enjoy Music More? Go For a Run.
-Published Date: Sun, 1 Nov 2026 10:00:00 +0000
-Description: Ben Ratliff, a music critic and avid runner, always ran in silence. Then he discovered how music opened up to him — while running. It changed his entire approach to criticism and listening. He calls it “running the song.”Today, for the New York City Marathon, Ben talks with our host Rachel Abrams about how his listening sharpens when he runs to ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/45c30d5c-ee34-4e59-aa41-be04a804b7bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=45c30d5c-ee34-4e59-aa41-be04a804b7bd&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
