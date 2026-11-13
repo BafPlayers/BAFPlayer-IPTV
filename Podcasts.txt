@@ -71,6 +71,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7be
 SHOW: Science Vs
 ========================================================================
 ----------------------------------------
+Episode Title: Is the ‘War on Science’ Over?
+Published Date: Thu, 12 Nov 2026 17:07:00 -0000
+Description: A whole bunch of scientists and doctors won in the U.S. midterm elections, which has got some nerds really excited. They’re wondering: Could this turn things around for U.S. science, which has been hit by cuts and restrictions from the Trump administration?? We talk to journalist Max Kozlov from Nature to find out whether it’s time for a nerd pa...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4521877056.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: How Music Can Be Medicine, with Dr. Dan Levitin
 Published Date: Thu, 05 Nov 2026 10:00:00 -0000
 Description: A lot of us reach for music when we’re struggling. Whether we’re going through a breakup or just a rough day, our favorite jams seem to have an almost magical ability to give us relief. But WHY?! What exactly is music doing in the brain that affects how we feel? And how powerful is it? Like, could music actually treat diseases? We dig into these...
@@ -123,12 +129,6 @@ Episode Title: Where Have The Insects Gone?? With Dr. Jessica Ware
 Published Date: Thu, 10 Sep 2026 09:00:00 -0000
 Description: Bugs are disappearing at alarming rates, scientists are telling us. Bees, butterflies, beetles: all of them have been dropping like flies. And scientists say there are a bunch of reasons to care about this — for example, fewer bugs means less pollination, which means less pasta in your pantry. But recently, some have suggested that all these sci...
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT5572731551.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Protein-Maxxing: Is It Actually Bad For Us?
-Published Date: Thu, 03 Sep 2026 09:00:00 -0000
-Description: Protein is everywhere — tons of us are trying to cram more of it into our diets, and it's showing up in our lattes, our snack bars, even our popcorn. But just as we’re getting on board with protein-maxxing, a bunch of headlines have started saying the opposite: that eating LESS protein could actually help you live longer. So what's going on here...
-Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7998903304.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: AI could help hospitals diagnose PTSD in real time
+Published Date: Fri, 13 Nov 2026 08:00:00 +0000
+Description: Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demog...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ad3c40b1-8a86-451d-8129-cc901ffaf09b/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ad3c40b1-8a86-451d-8129-cc901ffaf09b&feed=F0qJcgXZ&t=podcast&e=nx-s1-6031981&p=510351&d=742&size=11879280
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Can scientists reverse your age?
 Published Date: Wed, 11 Nov 2026 08:00:00 +0000
 Description: Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to c...
@@ -252,12 +258,6 @@ Episode Title: MAHA’s midterm report card
 Published Date: Wed, 28 Oct 2026 07:00:00 +0000
 Description: It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2bf6bac2-afdd-49fb-9fa0-9d8d47785793/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2bf6bac2-afdd-49fb-9fa0-9d8d47785793&feed=F0qJcgXZ&t=podcast&e=nx-s1-6018272&p=510351&d=788&size=12608662
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: You Can See Everything and the science of spotting liars
-Published Date: Tue, 27 Oct 2026 07:00:00 +0000
-Description: It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible ...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/05754ca5-c0c0-4149-8aff-1271295182dc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=05754ca5-c0c0-4149-8aff-1271295182dc&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012707&p=510351&d=825&size=13207973
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -711,6 +711,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4da
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: An epidemiologist's guide to good health advice
+Published Date: Fri, 13 Nov 2026 08:00:00 +0000
+Description: Bad medical advice is everywhere, from TikTok to chatbots. Epidemiologist Jessica Malaty Rivera is fighting back. This hour, how she’s taking on the internet and helping us figure out who to trust.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.N...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/7f77890e-86aa-414a-a345-5c5db9e91fba/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=7f77890e-86aa-414a-a345-5c5db9e91fba&feed=gGUt_fS1&t=podcast&e=nx-s1-6035796&p=510298&d=2977&size=47639032
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Escaping the modern world and your noisy mind
 Published Date: Fri, 06 Nov 2026 08:00:00 +0000
 Description: How do you find the courage to leave the world you know and make your way to a completely different reality? This episode, TED speakers share ideas about escape and renewal.Guests include author Pico Iyer, NXIVM whistleblower Sarah Edmondson, captain and navigator Lehua Kamalu and TV producer and screenwriter Shonda Rhimes.Original broadcast dat...
@@ -764,12 +770,6 @@ Episode Title: What this musician’s identity crisis teaches us about navigatin
 Published Date: Fri, 11 Sep 2026 07:00:00 +0000
 Description: Since childhood, Joshua Roman's life revolved around the cello. But when long COVID forced him to set his cello aside, he had to rethink his approach to life, faith and music.Original broadcast date: September 26, 2025.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listen...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4cd40b2b-7723-4073-b05c-0713448a15a1/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4cd40b2b-7723-4073-b05c-0713448a15a1&feed=gGUt_fS1&t=podcast&e=nx-s1-5964816&p=510298&d=3002&size=48043617
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Less guilt, more joy: A new chapter for climate action
-Published Date: Fri, 04 Sep 2026 07:00:00 +0000
-Description: Climate action usually means sacrifice: eat less meat, buy less, drive less. What if there's another approach? Researcher Elizabeth Dunn shares climate hacks that help the planet AND make us happier.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/e22ea64a-affa-4de2-a8f7-27f830145f42/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=e22ea64a-affa-4de2-a8f7-27f830145f42&feed=gGUt_fS1&t=podcast&e=nx-s1-5954862&p=510298&d=3010&size=48168587
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -934,6 +934,18 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Can Israel’s Opposition Unseat Netanyahu?
+Published Date: Fri, 13 Nov 2026 10:45:00 +0000
+Description: More than two weeks after one of the most consequential elections in Israel’s history, there is still uncertainty about who will lead the country.The spotlight has fallen on the opposition leader Gadi Eisenkot, who is trying to make all kinds of deals to build a coalition that could run the government.David Halbfinger, The New York Times’s Jerus...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/154b87b0-da48-48d3-860b-13fa569ecbec/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=154b87b0-da48-48d3-860b-13fa569ecbec&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: What Jensen Huang’s Resignation Will Mean for A.I.
+Published Date: Thu, 12 Nov 2026 10:51:56 +0000
+Description: This episode was recorded before the news of Mr. Huang’s resignation was made public.Jensen Huang resigned as the chief executive of Nvidia on Thursday after The New York Times reported that he had extramarital relationships with a woman identified by U.S. officials as a Chinese spy and an executive at the company. In a memo this week, Mr. Huang...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/81baedea-f263-4b69-9789-fef913b31bee/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=81baedea-f263-4b69-9789-fef913b31bee&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Public Schools Have a New Crisis: Not Enough Students
 Published Date: Wed, 11 Nov 2026 10:47:41 +0000
 Description: The number of students in America’s public schools is shrinking. In some cases, the declines have been so drastic that districts are facing empty classrooms, painful budget cuts and angry debates about whether to close schools.Sarah Mervosh, an education reporter at The New York Times, discusses what the enrollment crisis looks like, why it’s ha...
@@ -981,16 +993,4 @@ Episode Title: A Landslide Victory for Democrats
 Published Date: Wed, 4 Nov 2026 10:51:32 +0000
 Description: On Tuesday night, the blue wave that polls predicted landed with extraordinary force across the United States as Democrats flipped control of both the House and the Senate.Nate Cohn, Lisa Lerer and Shane Goldmacher of The New York Times discuss an extraordinary shift in power and a new era of American politics.Guest: Nate Cohn, the chief politic...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58d4b75a-ce15-4da5-b1b7-bc351c227983/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58d4b75a-ce15-4da5-b1b7-bc351c227983&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: A Guide to Election Night 2026
-Published Date: Tue, 3 Nov 2026 10:45:00 +0000
-Description: After two years of campaigning, the 2026 midterm election is now in the hands of the American voters.As the ballot counting begins, Nate Cohn, the chief political analyst for The New York Times, offers a guide for how to understand the results.Guest: Nate Cohn, the chief political analyst for The New York Times.Background reading: Here are four ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7269d6cb-724a-4375-8898-e4be357e5108/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7269d6cb-724a-4375-8898-e4be357e5108&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: A Political Rebellion in the Rio Grande Valley
-Published Date: Mon, 2 Nov 2026 10:50:24 +0000
-Description: Warning: This episode contains strong language.In the midterm elections, one of the regions expected to swing away from President Trump and toward Democrats is the Rio Grande Valley of Texas, where life has been transformed by his administration’s crackdown on immigration.Lynsea Garrison, a producer for “The Daily,” has been reporting on that sh...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7bf4706f-de8e-4b7f-99df-a0e4d6c37736/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7bf4706f-de8e-4b7f-99df-a0e4d6c37736&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

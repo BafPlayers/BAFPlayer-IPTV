@@ -92,6 +92,15 @@
   {
     "id": "science-vs--gimlet--ep-1",
     "show_name": "Science Vs",
+    "episode_title": "Is the ‘War on Science’ Over?",
+    "pub_date": "Thu, 12 Nov 2026 17:07:00 -0000",
+    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4521877056.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "A whole bunch of scientists and doctors won in the U.S. midterm elections, which has got some nerds really excited. They’re wondering: Could this turn things around for U.S. science, which has been hit by cuts and restrictions from the Trump administration?? We talk to journalist Max Kozlov from Nature to find out whether it’s time for a nerd pa..."
+  },
+  {
+    "id": "science-vs--gimlet--ep-2",
+    "show_name": "Science Vs",
     "episode_title": "How Music Can Be Medicine, with Dr. Dan Levitin",
     "pub_date": "Thu, 05 Nov 2026 10:00:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7785136744.mp3",
@@ -99,7 +108,7 @@
     "description": "A lot of us reach for music when we’re struggling. Whether we’re going through a breakup or just a rough day, our favorite jams seem to have an almost magical ability to give us relief. But WHY?! What exactly is music doing in the brain that affects how we feel? And how powerful is it? Like, could music actually treat diseases? We dig into these..."
   },
   {
-    "id": "science-vs--gimlet--ep-2",
+    "id": "science-vs--gimlet--ep-3",
     "show_name": "Science Vs",
     "episode_title": "Sitting: As Bad As Smoking?!",
     "pub_date": "Thu, 29 Oct 2026 09:00:00 -0000",
@@ -108,7 +117,7 @@
     "description": "Lots of us spend HOURS a day sitting on our bums. And we’re often told that this is terrible for us — even that it could be as bad for our health as smoking. But how bad is it really? And can exercise or standing desks help make up for all those hours on the couch?? We dig into what happens inside our bodies when we sit all day — with sedentary ..."
   },
   {
-    "id": "science-vs--gimlet--ep-3",
+    "id": "science-vs--gimlet--ep-4",
     "show_name": "Science Vs",
     "episode_title": "Testosterone: Do We All Need a Boost?",
     "pub_date": "Thu, 22 Oct 2026 09:00:00 -0000",
@@ -117,7 +126,7 @@
     "description": "We’re hearing a ton about the marvels of testosterone from influencers, celebrities, and even government officials. They say we should be thinking about our T levels, topping them off with extra if they’re too low. And we’re told that the benefits of testosterone are HUGE: that we’ll be stronger, sexier, and more energized. So is that true?? And..."
   },
   {
-    "id": "science-vs--gimlet--ep-4",
+    "id": "science-vs--gimlet--ep-5",
     "show_name": "Science Vs",
     "episode_title": "Fiber Maxxing and Poo Maxxing, with Dr. Trisha Pasricha",
     "pub_date": "Thu, 15 Oct 2026 09:00:00 -0000",
@@ -126,7 +135,7 @@
     "description": "Have you been puzzled by your poos or felt down about your dumps?? You’re not alone! So many of us are struggling with gut issues, which is why fiber is having a major moment. But even though we’re secretly guzzling psyllium husk, tons of us are too embarrassed to talk about our poo problems. No more! We’re putting an end to the silence on stool..."
   },
   {
-    "id": "science-vs--gimlet--ep-5",
+    "id": "science-vs--gimlet--ep-6",
     "show_name": "Science Vs",
     "episode_title": "Collagen Peptides: Should You Take Them?",
     "pub_date": "Thu, 08 Oct 2026 09:00:00 -0000",
@@ -135,7 +144,7 @@
     "description": "Collagen peptides!! Can they make you look younger and be healthier? It feels like everyone wants to be bursting with collagen, and apparently the way to do it is by scooping up that white powder of collagen peptides and guzzling it down. Do that, and — according to the wellfluencers — not only will your skin be as bouncy as a baby's bottom, but..."
   },
   {
-    "id": "science-vs--gimlet--ep-6",
+    "id": "science-vs--gimlet--ep-7",
     "show_name": "Science Vs",
     "episode_title": "Why We Never Forget Our Teen Years, with Dr. Lisa Damour",
     "pub_date": "Thu, 01 Oct 2026 09:00:00 -0000",
@@ -144,7 +153,7 @@
     "description": "Our brains go completely WILD when we go through our teenage years. It’s a time where it feels like every disagreement with our parents turns into World War III, and every idea that could get us killed sounds like the most fun we could ever have. In this episode, we get into the science of what the brain is doing during the teenage years with cl..."
   },
   {
-    "id": "science-vs--gimlet--ep-7",
+    "id": "science-vs--gimlet--ep-8",
     "show_name": "Science Vs",
     "episode_title": "Stress: The Science of Chilling Out",
     "pub_date": "Thu, 24 Sep 2026 09:00:00 -0000",
@@ -153,7 +162,7 @@
     "description": "Stress! We’re all feeling it. And besides just feeling crappy, we’re also told that stress can wreak havoc on our bodies. The internet has a million solutions: vagus nerve stimulators, deep breaths, or a hot sauna! If that doesn’t work, maybe a cold plunge? But what does the science say about all this — what works to lower our stress? And is it ..."
   },
   {
-    "id": "science-vs--gimlet--ep-8",
+    "id": "science-vs--gimlet--ep-9",
     "show_name": "Science Vs",
     "episode_title": "Could AI Really Kill Us All?",
     "pub_date": "Thu, 17 Sep 2026 20:25:00 -0000",
@@ -162,22 +171,13 @@
     "description": "Could artificial intelligence really wipe out humanity? Claims that AI poses an existential threat are going gangbusters. AI agents from OpenAI recently hacked into another company, Hugging Face, which has people talking about whether AI can go “rogue.” And some current and former AI company employees are raising the alarm. CEOs have called for ..."
   },
   {
-    "id": "science-vs--gimlet--ep-9",
+    "id": "science-vs--gimlet--ep-10",
     "show_name": "Science Vs",
     "episode_title": "Where Have The Insects Gone?? With Dr. Jessica Ware",
     "pub_date": "Thu, 10 Sep 2026 09:00:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT5572731551.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "Bugs are disappearing at alarming rates, scientists are telling us. Bees, butterflies, beetles: all of them have been dropping like flies. And scientists say there are a bunch of reasons to care about this — for example, fewer bugs means less pollination, which means less pasta in your pantry. But recently, some have suggested that all these sci..."
-  },
-  {
-    "id": "science-vs--gimlet--ep-10",
-    "show_name": "Science Vs",
-    "episode_title": "Protein-Maxxing: Is It Actually Bad For Us?",
-    "pub_date": "Thu, 03 Sep 2026 09:00:00 -0000",
-    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7998903304.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Protein is everywhere — tons of us are trying to cram more of it into our diets, and it's showing up in our lattes, our snack bars, even our popcorn. But just as we’re getting on board with protein-maxxing, a bunch of headlines have started saying the opposite: that eating LESS protein could actually help you live longer. So what's going on here..."
   },
   {
     "id": "astronomy-cast--libsyn--ep-1",
@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "AI could help hospitals diagnose PTSD in real time",
+    "pub_date": "Fri, 13 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ad3c40b1-8a86-451d-8129-cc901ffaf09b/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ad3c40b1-8a86-451d-8129-cc901ffaf09b&feed=F0qJcgXZ&t=podcast&e=nx-s1-6031981&p=510351&d=742&size=11879280",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demog..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "Can scientists reverse your age?",
     "pub_date": "Wed, 11 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c11a4fcd-bae3-4e66-ae53-c01e33212a58/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c11a4fcd-bae3-4e66-ae53-c01e33212a58&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971828&p=510351&d=864&size=13838673",
@@ -279,7 +288,7 @@
     "description": "Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to c..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "How this year's record El Niño could hit your wallet \n",
     "pub_date": "Tue, 10 Nov 2026 08:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which c..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist",
     "pub_date": "Mon, 09 Nov 2026 08:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors cau..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "Predicting elections is getting harder. What did the midterms teach us?",
     "pub_date": "Thu, 05 Nov 2026 08:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his Senate forecasting model for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us unde..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "AI is changing mathematics -- but not how you think",
     "pub_date": "Wed, 04 Nov 2026 08:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "OpenAI whistleblowers on the fight over AI safety | Machine Gods",
     "pub_date": "Tue, 03 Nov 2026 08:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how th..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Could virtual reality speed up learning?",
     "pub_date": "Mon, 02 Nov 2026 08:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal Science Advances. Interested in more science involving video games? Email us your question at shortwave@npr.org.Suppo..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "Is your favorite crime show rooted in fake science?",
     "pub_date": "Fri, 30 Oct 2026 07:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, ..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "MAHA’s midterm report card",
     "pub_date": "Wed, 28 Oct 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2bf6bac2-afdd-49fb-9fa0-9d8d47785793/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2bf6bac2-afdd-49fb-9fa0-9d8d47785793&feed=F0qJcgXZ&t=podcast&e=nx-s1-6018272&p=510351&d=788&size=12608662",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "You Can See Everything and the science of spotting liars",
-    "pub_date": "Tue, 27 Oct 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/05754ca5-c0c0-4149-8aff-1271295182dc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=05754ca5-c0c0-4149-8aff-1271295182dc&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012707&p=510351&d=825&size=13207973",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "It feels like everyone we know is talking about the new documentary You Can See Everything. It tracks the effort of comedian and documentarian Nathan Fielder to suss out how deceptive Elizabeth Holmes, disgraced founder of the company Theranos, is. And after watching the film, we all left the theater wondering -- what could we see? How possible ..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -965,6 +965,15 @@
   {
     "id": "ted-radio-hour-ep-1",
     "show_name": "TED Radio Hour",
+    "episode_title": "An epidemiologist's guide to good health advice",
+    "pub_date": "Fri, 13 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/7f77890e-86aa-414a-a345-5c5db9e91fba/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=7f77890e-86aa-414a-a345-5c5db9e91fba&feed=gGUt_fS1&t=podcast&e=nx-s1-6035796&p=510298&d=2977&size=47639032",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
+    "description": "Bad medical advice is everywhere, from TikTok to chatbots. Epidemiologist Jessica Malaty Rivera is fighting back. This hour, how she’s taking on the internet and helping us figure out who to trust.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.N..."
+  },
+  {
+    "id": "ted-radio-hour-ep-2",
+    "show_name": "TED Radio Hour",
     "episode_title": "Escaping the modern world and your noisy mind",
     "pub_date": "Fri, 06 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/9cb070f4-7480-48ec-b995-ebce220b0ae4/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=9cb070f4-7480-48ec-b995-ebce220b0ae4&feed=gGUt_fS1&t=podcast&e=nx-s1-6030663&p=510298&d=2979&size=47673305",
@@ -972,7 +981,7 @@
     "description": "How do you find the courage to leave the world you know and make your way to a completely different reality? This episode, TED speakers share ideas about escape and renewal.Guests include author Pico Iyer, NXIVM whistleblower Sarah Edmondson, captain and navigator Lehua Kamalu and TV producer and screenwriter Shonda Rhimes.Original broadcast dat..."
   },
   {
-    "id": "ted-radio-hour-ep-2",
+    "id": "ted-radio-hour-ep-3",
     "show_name": "TED Radio Hour",
     "episode_title": "Can curiosity save the wild?",
     "pub_date": "Fri, 30 Oct 2026 07:00:00 +0000",
@@ -981,7 +990,7 @@
     "description": "How do we inspire people to care about wild animals without disrupting their lives? This hour, two surprising approaches to getting to know wildlife — and rethinking what it means to protect it.Guests include conservationist Maya Higa and computational linguist Jeffery Reed.Support public media with NPR+ and enjoy perks for over 25 podcasts like..."
   },
   {
-    "id": "ted-radio-hour-ep-3",
+    "id": "ted-radio-hour-ep-4",
     "show_name": "TED Radio Hour",
     "episode_title": "How we experience time",
     "pub_date": "Fri, 23 Oct 2026 07:00:00 +0000",
@@ -990,7 +999,7 @@
     "description": "Why does one hour drag by, but a year can pass in a flash? And how does our relationship with time influence our behavior? This hour, TED speakers share ideas on making the most of the time we have. Guests include artist Katie Paterson, cognitive neuroscientist Irena Arslanova,  the late music director Robert Franz and the late psychologist Phil..."
   },
   {
-    "id": "ted-radio-hour-ep-4",
+    "id": "ted-radio-hour-ep-5",
     "show_name": "TED Radio Hour",
     "episode_title": "Have we forgotten how to play?",
     "pub_date": "Fri, 16 Oct 2026 07:00:00 +0000",
@@ -999,7 +1008,7 @@
     "description": "Play is how we evolved to learn, solve problems, and navigate the world. So why do we treat it as optional? This hour, the science of play — and what happens when we don’t get enough of it.Guests include psychology researcher Peter Gray, sailor and social activist Tracy Edwards and photographer Stefen Chow.Support public media with NPR+ and enjo..."
   },
   {
-    "id": "ted-radio-hour-ep-5",
+    "id": "ted-radio-hour-ep-6",
     "show_name": "TED Radio Hour",
     "episode_title": "The shocking power of tiny things",
     "pub_date": "Fri, 09 Oct 2026 07:00:00 +0000",
@@ -1008,7 +1017,7 @@
     "description": "You don't need to be big and boisterous to pack a punch. This hour, TED speakers explore the surprising strength of all things minuscule and fleeting. Guests include microbiologist Anne Madden, cognitive scientist Lera Boroditsky, former educator YeYoon Kim and former industrial engineer and Zen Buddhist monk Bart Weetjens.Original broadcast dat..."
   },
   {
-    "id": "ted-radio-hour-ep-6",
+    "id": "ted-radio-hour-ep-7",
     "show_name": "TED Radio Hour",
     "episode_title": "The women missing from music\n",
     "pub_date": "Fri, 02 Oct 2026 07:00:00 +0000",
@@ -1017,7 +1026,7 @@
     "description": "Women have been writing music for centuries. Why do we know so few of them today? This hour, TED speakers explore the role of women in music history and how we can remember their contributions. Guests include opera singer and activist Gabriella Di Laccio and Nadya Tolokonnikova, a Russian artist and founder of Pussy Riot.Support public media wit..."
   },
   {
-    "id": "ted-radio-hour-ep-7",
+    "id": "ted-radio-hour-ep-8",
     "show_name": "TED Radio Hour",
     "episode_title": "Life can be so awkward. Here's how to embrace the embarrassing",
     "pub_date": "Fri, 25 Sep 2026 07:00:00 +0000",
@@ -1026,7 +1035,7 @@
     "description": "Forgetting a name, a poorly executed hug, the 7th grade — awkwardness is part of our lives whether we like it or not. But what if we put the embarrassment aside and embraced our awkward selves? Guests include social scientist Ty Tashiro, cartoonist Liana Finck, journalist Melissa Dahl and sex and relationship counselor Erin Chen.Original broadca..."
   },
   {
-    "id": "ted-radio-hour-ep-8",
+    "id": "ted-radio-hour-ep-9",
     "show_name": "TED Radio Hour",
     "episode_title": "Big mysteries explained through your senses",
     "pub_date": "Fri, 18 Sep 2026 07:00:00 +0000",
@@ -1035,22 +1044,13 @@
     "description": "Our senses help us navigate everyday life. But can they also reveal what lies beyond our perception? This hour, TED speakers explore the hidden world through the senses. Guests include astronomer Mark Whittle, chemosensory researcher Paule Joseph and artist Yiyun Kang.Support public media with NPR+ and enjoy perks for over 25 podcasts like this ..."
   },
   {
-    "id": "ted-radio-hour-ep-9",
+    "id": "ted-radio-hour-ep-10",
     "show_name": "TED Radio Hour",
     "episode_title": "What this musician’s identity crisis teaches us about navigating change",
     "pub_date": "Fri, 11 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4cd40b2b-7723-4073-b05c-0713448a15a1/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4cd40b2b-7723-4073-b05c-0713448a15a1&feed=gGUt_fS1&t=podcast&e=nx-s1-5964816&p=510298&d=3002&size=48043617",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
     "description": "Since childhood, Joshua Roman's life revolved around the cello. But when long COVID forced him to set his cello aside, he had to rethink his approach to life, faith and music.Original broadcast date: September 26, 2025.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listen..."
-  },
-  {
-    "id": "ted-radio-hour-ep-10",
-    "show_name": "TED Radio Hour",
-    "episode_title": "Less guilt, more joy: A new chapter for climate action",
-    "pub_date": "Fri, 04 Sep 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/e22ea64a-affa-4de2-a8f7-27f830145f42/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=e22ea64a-affa-4de2-a8f7-27f830145f42&feed=gGUt_fS1&t=podcast&e=nx-s1-5954862&p=510298&d=3010&size=48168587",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
-    "description": "Climate action usually means sacrifice: eat less meat, buy less, drive less. What if there's another approach? Researcher Elizabeth Dunn shares climate hacks that help the planet AND make us happier.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences..."
   },
   {
     "id": "lex-fridman-podcast-ep-1",
@@ -1235,6 +1235,24 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "Can Israel’s Opposition Unseat Netanyahu?",
+    "pub_date": "Fri, 13 Nov 2026 10:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/154b87b0-da48-48d3-860b-13fa569ecbec/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=154b87b0-da48-48d3-860b-13fa569ecbec&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "More than two weeks after one of the most consequential elections in Israel’s history, there is still uncertainty about who will lead the country.The spotlight has fallen on the opposition leader Gadi Eisenkot, who is trying to make all kinds of deals to build a coalition that could run the government.David Halbfinger, The New York Times’s Jerus..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
+    "episode_title": "What Jensen Huang’s Resignation Will Mean for A.I.",
+    "pub_date": "Thu, 12 Nov 2026 10:51:56 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/81baedea-f263-4b69-9789-fef913b31bee/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=81baedea-f263-4b69-9789-fef913b31bee&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "This episode was recorded before the news of Mr. Huang’s resignation was made public.Jensen Huang resigned as the chief executive of Nvidia on Thursday after The New York Times reported that he had extramarital relationships with a woman identified by U.S. officials as a Chinese spy and an executive at the company. In a memo this week, Mr. Huang..."
+  },
+  {
+    "id": "the-daily--nyt--ep-3",
+    "show_name": "The Daily",
     "episode_title": "Public Schools Have a New Crisis: Not Enough Students",
     "pub_date": "Wed, 11 Nov 2026 10:47:41 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/99e149de-75d1-4f1c-8a8c-e26e47dcb648/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=99e149de-75d1-4f1c-8a8c-e26e47dcb648&feed=54nAGcIl",
@@ -1242,7 +1260,7 @@
     "description": "The number of students in America’s public schools is shrinking. In some cases, the declines have been so drastic that districts are facing empty classrooms, painful budget cuts and angry debates about whether to close schools.Sarah Mervosh, an education reporter at The New York Times, discusses what the enrollment crisis looks like, why it’s ha..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
     "pub_date": "Tue, 10 Nov 2026 10:55:19 +0000",
@@ -1251,7 +1269,7 @@
     "description": "Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "After a Crushing Defeat, Trump Doubles Down",
     "pub_date": "Mon, 9 Nov 2026 10:45:00 +0000",
@@ -1260,7 +1278,7 @@
     "description": "After a stinging rebuke last week at the polls, President Trump announced that he would elevate Stephen Miller — a driving force behind some of the most polarizing policies of Mr. Trump’s second term — to chief of staff.Maggie Haberman and Jonathan Swan, White House reporters for The New York Times, explain what Mr. Miller’s appointment reveals ..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
     "pub_date": "Sun, 8 Nov 2026 11:00:00 +0000",
@@ -1269,7 +1287,7 @@
     "description": "The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/th..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Introducing ‘METRO’ From Serial Productions",
     "pub_date": "Sat, 7 Nov 2026 11:00:00 +0000",
@@ -1278,7 +1296,7 @@
     "description": "Today, we’re sharing an episode from a brand-new show called “METRO,” made by the Serial podcast team and the reporters here at The Times who cover New York City.Every other week, Sarah Koenig and her team will tell stories about the city and its most fascinating raw material: New Yorkers. They’ll bring you investigations, personal stories, essa..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Chuck Schumer on Governing With (Or Without) Trump",
     "pub_date": "Fri, 6 Nov 2026 10:45:00 +0000",
@@ -1287,7 +1305,7 @@
     "description": "Warning: This episode contains strong language.Last spring, the political picture for Senator Chuck Schumer, the minority leader, was downright bleak. President Trump was back in the White House. Schumer’s Democratic caucus was largely powerless to stop him. And restless Democratic activists were calling for Schumer to resign.Fast forward to thi..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "The Voters Who Flipped Congress",
     "pub_date": "Thu, 5 Nov 2026 10:45:00 +0000",
@@ -1296,30 +1314,12 @@
     "description": "The midterm elections were an electoral tsunami for Democrats: a complete collapse of the Republican coalition and a landslide victory.Nate Cohn, the chief political analyst for The New York Times, examines the results to figure out which voters showed up, which stayed home and how much billions in campaign spending mattered.Guest: Nate Cohn, th..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "A Landslide Victory for Democrats",
     "pub_date": "Wed, 4 Nov 2026 10:51:32 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58d4b75a-ce15-4da5-b1b7-bc351c227983/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58d4b75a-ce15-4da5-b1b7-bc351c227983&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "On Tuesday night, the blue wave that polls predicted landed with extraordinary force across the United States as Democrats flipped control of both the House and the Senate.Nate Cohn, Lisa Lerer and Shane Goldmacher of The New York Times discuss an extraordinary shift in power and a new era of American politics.Guest: Nate Cohn, the chief politic..."
-  },
-  {
-    "id": "the-daily--nyt--ep-9",
-    "show_name": "The Daily",
-    "episode_title": "A Guide to Election Night 2026",
-    "pub_date": "Tue, 3 Nov 2026 10:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7269d6cb-724a-4375-8898-e4be357e5108/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7269d6cb-724a-4375-8898-e4be357e5108&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "After two years of campaigning, the 2026 midterm election is now in the hands of the American voters.As the ballot counting begins, Nate Cohn, the chief political analyst for The New York Times, offers a guide for how to understand the results.Guest: Nate Cohn, the chief political analyst for The New York Times.Background reading: Here are four ..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "A Political Rebellion in the Rio Grande Valley",
-    "pub_date": "Mon, 2 Nov 2026 10:50:24 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7bf4706f-de8e-4b7f-99df-a0e4d6c37736/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7bf4706f-de8e-4b7f-99df-a0e4d6c37736&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "Warning: This episode contains strong language.In the midterm elections, one of the regions expected to swing away from President Trump and toward Democrats is the Rio Grande Valley of Texas, where life has been transformed by his administration’s crackdown on immigration.Lynsea Garrison, a producer for “The Daily,” has been reporting on that sh..."
   }
 ]
