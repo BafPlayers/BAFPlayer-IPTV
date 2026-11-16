@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Are your body clocks off? Meet ‘circadian depression’
+Published Date: Mon, 16 Nov 2026 08:00:00 +0000
+Description: What if depression is sometimes linked to your body’s internal sense of time? That’s what researchers from the University of Sydney’s Brain and Mind Centre wanted to know. In a new study, they surveyed patients with depression whose symptoms may reflect problems with their circadian rhythms – like their sleep schedule, how tired they feel in the...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/57726724-7480-485d-96ac-abe063f256ef/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=57726724-7480-485d-96ac-abe063f256ef&feed=F0qJcgXZ&t=podcast&e=nx-s1-6035777&p=510351&d=703&size=11257775
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: AI could help hospitals diagnose PTSD in real time
 Published Date: Fri, 13 Nov 2026 08:00:00 +0000
 Description: Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demog...
@@ -252,12 +258,6 @@ Episode Title: Is your favorite crime show rooted in fake science?
 Published Date: Fri, 30 Oct 2026 07:00:00 +0000
 Description: If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just how reliable are these clues – and does science back them up? Well, ...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c488ad83-c8c1-4f05-b858-2ac40457211a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c488ad83-c8c1-4f05-b858-2ac40457211a&feed=F0qJcgXZ&t=podcast&e=nx-s1-6012302&p=510351&d=881&size=14110347
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: MAHA’s midterm report card
-Published Date: Wed, 28 Oct 2026 07:00:00 +0000
-Description: It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like ...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2bf6bac2-afdd-49fb-9fa0-9d8d47785793/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2bf6bac2-afdd-49fb-9fa0-9d8d47785793&feed=F0qJcgXZ&t=podcast&e=nx-s1-6018272&p=510351&d=788&size=12608662
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -392,6 +392,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: Archive: Frederick Douglass
+Published Date: Mon, 16 Nov 2026 09:45:00 +0000
+Description: Frederick Douglass was born into slavery in Maryland in 1818 and, once he had escaped, became one of that century's most prominent abolitionists.  In this archive episode, first broadcast in 2018, Melvyn Bragg and his guests discuss Douglass’ life and ideas.  He was such a good orator, his opponents doubted his story, but he told it in grim deta...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phgb8l.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
+----------------------------------------
 Episode Title: The Battle of Antietam
 Published Date: Thu, 12 Nov 2026 09:45:00 +0000
 Description: Misha Glenny and guests discuss The Battle of Antietam, the single deadliest day of the American Civil War. The battle took place on 17th September 1862, less than 100 miles from Washington D.C. The conflict had been going on for over a year, and there had been a string of successes by the rebel Confederate Army against Union forces. The Confede...
@@ -449,17 +455,16 @@ Published Date: Thu, 15 Oct 2026 08:45:00 +0000
 Description: In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book,...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p9psnw.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
-----------------------------------------
-Episode Title: Archive: The Measurement of Time
-Published Date: Mon, 12 Oct 2026 08:45:00 +0000
-Description: Misha Glenny chooses the first of his archive picks - bringing back classic conversations from the In Our Time archive, every Monday. 
-Humans have tried to calculate, regulate, and measure time for thousands of years: from systems based on tracking sunrise and sunset, to the invention of increasingly precise mechanical alarm clocks and astrolabe...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p94wbk.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 
 ========================================================================
 SHOW: Lore
 ========================================================================
+----------------------------------------
+Episode Title: Lore 319: Face Off
+Published Date: Mon, 16 Nov 2026 05:01:00 +0000
+Description: While much of folklore is invisible to the naked eye, there are a few traditions that put a face to those beliefs. And some of them can be downright terrifying. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore319d.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 ----------------------------------------
 Episode Title: Legends 92: Last Call
 Published Date: Mon, 09 Nov 2026 05:01:00 +0000
@@ -513,12 +518,6 @@ Episode Title: Lore Alive 3: Under the Rug
 Published Date: Fri, 16 Oct 2026 05:01:00 +0000
 Description: Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we travel north to Maine, and the tiny community of Dark Harbor. It is here that a promising marriage falls apart, and a horrifying legend grows up in its place. Lore Alive wa...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive3.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Legends 90: Set Aside
-Published Date: Mon, 12 Oct 2026 05:01:00 +0000
-Description: For a very long time, stories were fragile artifacts, passed along on the tenuous thread of oral tradition. And many of the relics that have survived to this day are thanks to one woman, and her connection to a famous pair of brothers. Narrated and produced by Aaron Mahnke, with writing by Alex Robinson and research by Jamie Vargas. ————————— BU...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Legends-90d.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -635,6 +634,14 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Good Culture: How Jesse Merrill Made Cottage Cheese Cool
+Published Date: Mon, 16 Nov 2026 08:10:00 -0000
+Description: Jesse Merrill wanted to make movies. Instead, he made cottage cheese cool—and built a business with more than $200 million in annual sales.
+
+Jesse got his start fetching coffee on the set of Jackass and handing out product samples for extra cash. After helping build Moby’s tea brand and grow Honest Tea, he teamed up with cofounder Anders Eisner ...
+Audio Stream URL: https://traffic.megaphone.fm/VMP7035807570.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)
 Published Date: Thu, 12 Nov 2026 05:00:00 -0000
 Description: In the early 1980s, Ron Shaich took over Au Bon Pain, a struggling group of Boston bakeries, and helped grow it into a national chain with 250 locations. But Ron saw an even bigger opportunity in a small bakery chain in St. Louis. So he made a remarkable gamble: he sold Au Bon Pain to focus entirely on what would become Panera Bread. That bet he...
@@ -699,12 +706,6 @@ Episode Title: Advice Line with Tara Bosch of SmartSweets
 Published Date: Thu, 15 Oct 2026 07:10:00 -0000
 Description: Today’s callers: Lindzi from Chicago wants to expand her gourmet marshmallow brand into retail without cannibalizing her high-margin DTC sales. Then, Vivi from Hawaii considers how to best tell her sustainable swimwear brand’s story to a digital audience. And Aly from Los Angeles wonders whether a subscription model is best for her whimsical cur...
 Audio Stream URL: https://traffic.megaphone.fm/VMP5291785441.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Alamo Drafthouse Cinema: Tim and Karrie League (2023)
-Published Date: Mon, 12 Oct 2026 07:10:00 -0000
-Description: In the early 1990’s, Tim League spent $50,000 in savings to lease an abandoned movie theater on the wrong side of the tracks—a shaky experiment that eventually grew into a thriving national chain. As Tim and his wife Karrie built theaters in Austin and beyond, they made a name for themselves by offering dinner with the movie, creative pairings (...
-Audio Stream URL: https://traffic.megaphone.fm/VMP4354753461.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -934,6 +935,18 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: Finally, a Vaccine for Cancer
+Published Date: Mon, 16 Nov 2026 10:45:00 +0000
+Description: An experimental vaccine has been found to prevent recurrence of melanoma. Scientists hope it won’t be the last. A new, experimental vaccine could become the first of its kind to treat cancer.Nina Agrawal, a health reporter for The New York Times, explains how a century-old idea is finally becoming a reality and where this breakthrough could lead...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/cfacb2c0-58cc-4a37-b24f-4fe14fce220e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=cfacb2c0-58cc-4a37-b24f-4fe14fce220e&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
+Episode Title: The Ultraviolent, Wildly Successful, Uniquely American Phenomenon of Grand Theft Auto
+Published Date: Sun, 15 Nov 2026 11:00:00 +0000
+Description: Thursday, Nov. 19 will see the release of one of the biggest, most anticipated entertainment properties of the year: The video game Grand Theft Auto VI.The first Grand Theft Auto game was released in 1997, and immediately stoked controversy with its aggressively satirical portrait of amoral, criminal American culture. Over the past 30 years, the...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/89222de7-90a4-481a-9e4e-db26e4c06bf4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=89222de7-90a4-481a-9e4e-db26e4c06bf4&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Olivia Wilde Hit Bottom. Here's How She Bounced Back.
 Published Date: Sat, 14 Nov 2026 11:00:00 +0000
 Description: The actor-director learned a lot about shame, regret and failure — and then made a hit movie.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview
@@ -982,16 +995,4 @@ Episode Title: Introducing ‘METRO’ From Serial Productions
 Published Date: Sat, 7 Nov 2026 11:00:00 +0000
 Description: Today, we’re sharing an episode from a brand-new show called “METRO,” made by the Serial podcast team and the reporters here at The Times who cover New York City.Every other week, Sarah Koenig and her team will tell stories about the city and its most fascinating raw material: New Yorkers. They’ll bring you investigations, personal stories, essa...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5a033179-92e3-43c1-bd01-45ea0c152d0f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5a033179-92e3-43c1-bd01-45ea0c152d0f&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Chuck Schumer on Governing With (Or Without) Trump
-Published Date: Fri, 6 Nov 2026 10:45:00 +0000
-Description: Warning: This episode contains strong language.Last spring, the political picture for Senator Chuck Schumer, the minority leader, was downright bleak. President Trump was back in the White House. Schumer’s Democratic caucus was largely powerless to stop him. And restless Democratic activists were calling for Schumer to resign.Fast forward to thi...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/44a3253d-0a16-48ac-ba4e-261e51ef0353/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=44a3253d-0a16-48ac-ba4e-261e51ef0353&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: The Voters Who Flipped Congress
-Published Date: Thu, 5 Nov 2026 10:45:00 +0000
-Description: The midterm elections were an electoral tsunami for Democrats: a complete collapse of the Republican coalition and a landslide victory.Nate Cohn, the chief political analyst for The New York Times, examines the results to figure out which voters showed up, which stayed home and how much billions in campaign spending mattered.Guest: Nate Cohn, th...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60627ca2-a3fc-41c5-a85e-673e60593e30/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60627ca2-a3fc-41c5-a85e-673e60593e30&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
