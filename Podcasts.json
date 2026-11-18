@@ -2,6 +2,15 @@
   {
     "id": "nasa-s-curious-universe-ep-1",
     "show_name": "NASA's Curious Universe",
+    "episode_title": "What Voyager Teaches Us From One Light-Day Away",
+    "pub_date": "Tue, 17 Nov 2026 14:22:00 -0000",
+    "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6710865215.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/40d679c7583b1f4010567b2d6bf1412e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Almost 50 years after launch, NASA’s Voyager mission is exploring space beyond the Sun’s protective bubble. No other human-made object has traveled that far. Now, Voyager 1 reaches a new milestone: it will be one light-day from Earth. Explore the distant shores of interstellar space with Jamie Rankin, the Voyager deputy project scientist. Jamie ..."
+  },
+  {
+    "id": "nasa-s-curious-universe-ep-2",
+    "show_name": "NASA's Curious Universe",
     "episode_title": "Encore: A Year In Mars Dune Alpha",
     "pub_date": "Tue, 20 Oct 2026 13:40:00 -0000",
     "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6420899881.mp3",
@@ -9,7 +18,7 @@
     "description": "To prepare for the day when humans travel to Mars, NASA is conducting a one-year experiment in a Mars simulation environment. So what’s it like to spend a year in CHAPEA, the Crew Health and Performance Exploration Analog? Travel through the airlock with voice recordings made by the four-person crew, including what it feels like—and smells like—..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-2",
+    "id": "nasa-s-curious-universe-ep-3",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Encore: Welcome to the Dark Side",
     "pub_date": "Tue, 22 Sep 2026 13:03:00 -0000",
@@ -18,7 +27,7 @@
     "description": "Normal matter—the kind that makes up our home planet and everything we can see—adds up to just five percent of the known universe. The other 95 percent is dark matter and dark energy. NASA’s Nancy Grace Roman Space Telescope will settle essential questions about this dark side, especially dark energy, one of the biggest mysteries in all of scien..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-3",
+    "id": "nasa-s-curious-universe-ep-4",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: Liftoff!",
     "pub_date": "Sat, 05 Sep 2026 12:36:00 -0000",
@@ -27,7 +36,7 @@
     "description": "NASA’s Nancy Grace Roman Space Telescope is in space, taking its first steps to explore the cosmos. Relive Roman’s launch—and the emotion that goes along with the roar of a rocket—with NASA experts who worked on the telescope for years. Plus, learn what happens next and when to expect Roman’s first images.   \n\nLearn more about the Nancy Grace Ro..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-4",
+    "id": "nasa-s-curious-universe-ep-5",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: Why NASA’s Roman Space Telescope Will Make Unexpected Discoveries",
     "pub_date": "Thu, 27 Aug 2026 12:59:00 -0000",
@@ -36,7 +45,7 @@
     "description": "Take a deep dive into the science of NASA’s Nancy Grace Roman Space Telescope with Julie McEnery, Roman's senior project scientist. Learn why Roman’s survey data will be so detailed that they could cover a 4K screen the size of dozens of city blocks and why Julie says she doesn’t hope Roman changes our understanding of the universe—she knows it ..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-5",
+    "id": "nasa-s-curious-universe-ep-6",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: The Technology Inside NASA’s Newest Space Telescope",
     "pub_date": "Tue, 25 Aug 2026 12:59:00 -0000",
@@ -45,7 +54,7 @@
     "description": "What makes NASA’s Nancy Grace Roman Space Telescope a powerful tool with an unprecedented wide view of the cosmos? NASA engineers who designed, built, and tested Roman pop the hood to explain the unique technology inside. Go inside the huge NASA clean room where Roman was built, and get an up-close look at the testing campaign that ensures Roman..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-6",
+    "id": "nasa-s-curious-universe-ep-7",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: Jupiters Around Other Suns",
     "pub_date": "Tue, 18 Aug 2026 13:33:00 -0000",
@@ -54,7 +63,7 @@
     "description": "NASA’s Nancy Grace Roman Space Telescope is on a quest to discover planets outside our solar system. NASA scientists Bertrand Mennesson and Vanessa Bailey explain how Roman’s wide view will spot as many as 100,000 new exoplanets in a galactic census that will change how we understand planetary system formation. And we’ll learn about an experimen..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-7",
+    "id": "nasa-s-curious-universe-ep-8",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Roman Series: NASA’s New View of the Dark Universe",
     "pub_date": "Tue, 11 Aug 2026 13:08:00 -0000",
@@ -63,7 +72,7 @@
     "description": "Meet NASA’s newest space telescope: Roman. With similar resolution to Hubble but a field of view 100 times larger, the Nancy Grace Roman Space Telescope will settle essential questions in astronomy. NASA scientists Josh Schlieder and Alina Kiessling explain how that wide view will help us understand dark energy, one of the most puzzling mysterie..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-8",
+    "id": "nasa-s-curious-universe-ep-9",
     "show_name": "NASA's Curious Universe",
     "episode_title": "Launching Soon: NASA’s Roman Space Telescope",
     "pub_date": "Tue, 04 Aug 2026 13:25:00 -0000",
@@ -72,22 +81,13 @@
     "description": "NASA is about to launch the Nancy Grace Roman Space Telescope, which will change the way we see the universe and settle essential questions about some of the biggest mysteries out there. In a new limited series, Curious Universe takes you behind the scenes with NASA scientists and engineers who made Roman a reality—no Ph.D. required. \n\nLearn mor..."
   },
   {
-    "id": "nasa-s-curious-universe-ep-9",
+    "id": "nasa-s-curious-universe-ep-10",
     "show_name": "NASA's Curious Universe",
     "episode_title": "There’s More Space in Your Life Than You Think ",
     "pub_date": "Tue, 21 Jul 2026 13:00:00 -0000",
     "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6777593734.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/40d679c7583b1f4010567b2d6bf1412e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "In its mission to explore the unknown in air and space, NASA ends up inventing a lot of new things. Then, the agency “spins off” those inventions to companies that produce products to make our lives easier and safer here on Earth. From memory foam mattresses and cordless power tools to wireless headphones and dating apps, NASA Technology is all ..."
-  },
-  {
-    "id": "nasa-s-curious-universe-ep-10",
-    "show_name": "NASA's Curious Universe",
-    "episode_title": "Meet the Artemis III Crew",
-    "pub_date": "Fri, 12 Jun 2026 14:00:00 -0000",
-    "stream_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6756666120.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7bea28/image/40d679c7583b1f4010567b2d6bf1412e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Meet the astronauts who will fly on Artemis III: Commander Randy Bresnik, Pilot Luca Parmitano, and Mission Specialists Frank Rubio and Andre Douglas. In this special presentation of Houston We Have a Podcast, the Artemis III astronauts discuss their backgrounds and training ahead of them to prepare for one of the most complex human spaceflight ..."
   },
   {
     "id": "science-vs--gimlet--ep-1",
@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "How a viral video gave a huge boost to new gene therapy",
+    "pub_date": "Wed, 18 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/8d27e9f5-844d-4899-89e9-99a92c6c96bd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=8d27e9f5-844d-4899-89e9-99a92c6c96bd&feed=F0qJcgXZ&t=podcast&e=nx-s1-6034426&p=510351&d=893&size=14293830",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Sanfilippo syndrome is a rare and degenerative disease that can be fatal by the time someone reaches their teens. So the O’Neill family knew they didn’t have much time after learning their 4-year old daughter, Eliza, had it. At the time no treatment existed, and the world of drug development had its eyes on more common illnesses. So the family t..."
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "How bird poop and manta rays sustain a pristine coral reef",
     "pub_date": "Tue, 17 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d844d8cb-7b7c-41d8-aa78-4d05df7f85fa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d844d8cb-7b7c-41d8-aa78-4d05df7f85fa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5988269&p=510351&d=834&size=13345085",
@@ -279,7 +288,7 @@
     "description": "Coral reefs are at risk around the world. So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommers recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.Interested in more ..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "Are your body clocks off? Meet ‘circadian depression’",
     "pub_date": "Mon, 16 Nov 2026 08:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "What if depression is sometimes linked to your body’s internal sense of time? That’s what researchers from the University of Sydney’s Brain and Mind Centre wanted to know. In a new study, they surveyed patients with depression whose symptoms may reflect problems with their circadian rhythms – like their sleep schedule, how tired they feel in the..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "AI could help hospitals diagnose PTSD in real time",
     "pub_date": "Fri, 13 Nov 2026 08:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demog..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "Can scientists reverse your age?",
     "pub_date": "Wed, 11 Nov 2026 08:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to c..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "How this year's record El Niño could hit your wallet \n",
     "pub_date": "Tue, 10 Nov 2026 08:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which c..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist",
     "pub_date": "Mon, 09 Nov 2026 08:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors cau..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "Predicting elections is getting harder. What did the midterms teach us?",
     "pub_date": "Thu, 05 Nov 2026 08:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his Senate forecasting model for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us unde..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "AI is changing mathematics -- but not how you think",
     "pub_date": "Wed, 04 Nov 2026 08:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "OpenAI whistleblowers on the fight over AI safety | Machine Gods",
     "pub_date": "Tue, 03 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e6a3cb83-f129-4f9b-9427-4b5da3a023e7/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e6a3cb83-f129-4f9b-9427-4b5da3a023e7&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023241&p=510351&d=1935&size=30970444",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how th..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "Could virtual reality speed up learning?",
-    "pub_date": "Mon, 02 Nov 2026 08:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d51a63f-30fe-4e81-8d89-ec27653bd40f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d51a63f-30fe-4e81-8d89-ec27653bd40f&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023397&p=510351&d=587&size=9399110",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal Science Advances. Interested in more science involving video games? Email us your question at shortwave@npr.org.Suppo..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -785,6 +785,15 @@
   {
     "id": "npr-planet-money-ep-1",
     "show_name": "Planet Money",
+    "episode_title": "Two ways big bets on data centers might affect you (Two Indicators)",
+    "pub_date": "Wed, 18 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090",
+    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+    "description": "Your money might be fueling the AI boom … just as some AI data center bets are starting to look riskier. If you own stocks, that money is likely tied up in giant tech companies like Microsoft and Nvidia. And if your 401(k) has money invested in the US bond fund, you might be lending tech companies the money to build data centers. Today on the sh..."
+  },
+  {
+    "id": "npr-planet-money-ep-2",
+    "show_name": "Planet Money",
     "episode_title": "Are wildfires making the future uninsurable?",
     "pub_date": "Fri, 13 Nov 2026 23:49:12 +0000",
     "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
@@ -792,7 +801,7 @@
     "description": "Over the past decade, increasingly catastrophic wildfires have wrought unprecedented destruction and upended the basic math of the insurance industry. In some of the riskiest parts of the country, homeowners have seen spiking premiums or lost their coverage altogether.Today on the show, we travel to the forested foothills of Northern California ..."
   },
   {
-    "id": "npr-planet-money-ep-2",
+    "id": "npr-planet-money-ep-3",
     "show_name": "Planet Money",
     "episode_title": "How bodegas led to the Yemeni coffeehouse explosion",
     "pub_date": "Wed, 11 Nov 2026 13:03:29 +0000",
@@ -801,7 +810,7 @@
     "description": "There is a long-standing tradition of different immigrant groups arriving in the U.S. and specializing in one particular type of business. Think, nail salons run by people from Vietnam or Gujarati Indians owning motels and hotels.Yemenis are another immigrant community that has largely clustered around one industry, in their case, bodegas and sm..."
   },
   {
-    "id": "npr-planet-money-ep-3",
+    "id": "npr-planet-money-ep-4",
     "show_name": "Planet Money",
     "episode_title": "Inside the insurance industry’s destruction lab",
     "pub_date": "Fri, 06 Nov 2026 22:30:00 +0000",
@@ -810,7 +819,7 @@
     "description": "When you think of someone burning down a house for insurance purposes, you don’t imagine it would ever be the insurance company itself lighting the match. But that’s essentially what’s happening inside a giant destruction laboratory, funded by the insurance industry, in the woods of South Carolina. Scientists and engineers there build household ..."
   },
   {
-    "id": "npr-planet-money-ep-4",
+    "id": "npr-planet-money-ep-5",
     "show_name": "Planet Money",
     "episode_title": "The history of light (classic)",
     "pub_date": "Wed, 04 Nov 2026 08:00:00 +0000",
@@ -819,7 +828,7 @@
     "description": "How do you measure human progress? Light is the answer.For thousands of years, getting light was a huge hassle. You had to make candles from scratch. This is not as romantic as it sounds. You had to get a cow, raise the cow, feed the cow, kill the cow, get the fat out of the cow, cook the fat, dip wicks into the fat. All that — for not very much..."
   },
   {
-    "id": "npr-planet-money-ep-5",
+    "id": "npr-planet-money-ep-6",
     "show_name": "Planet Money",
     "episode_title": "Is this how the great international borrowing spree ends?",
     "pub_date": "Sat, 31 Oct 2026 00:15:00 +0000",
@@ -828,7 +837,7 @@
     "description": "In recent months, there have been serious whispers about an outrageous possibility: that one day soon, France — the seventh largest economy in the world — might not be able to pay back its debts. Right now, protesters in France are complaining about crumbling schools, the lack of teachers, and the overall high cost of living. But the government ..."
   },
   {
-    "id": "npr-planet-money-ep-6",
+    "id": "npr-planet-money-ep-7",
     "show_name": "Planet Money",
     "episode_title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
     "pub_date": "Wed, 28 Oct 2026 12:57:50 +0000",
@@ -837,7 +846,7 @@
     "description": "Connecticut’s property tax system has been broken for decades and the politicians have failed to fix the problem. So now, they’re trying something new: a citizens assembly. (Citizens assemblies are also old. They go back to Ancient Greece, when lawmakers were chosen not through elections, but through random lotteries.) Today on the show, Connect..."
   },
   {
-    "id": "npr-planet-money-ep-7",
+    "id": "npr-planet-money-ep-8",
     "show_name": "Planet Money",
     "episode_title": "How surveillance crept up on us",
     "pub_date": "Fri, 23 Oct 2026 21:00:00 +0000",
@@ -846,7 +855,7 @@
     "description": "For years, police have spent billions of tax dollars on watching us, tracking us, and recording us. In the largest police department in the country, these surveillance systems were paid for and adopted without the kind of public oversight cities usually require. In the wake of 9/11, the New York Police Department built one of the most sophistica..."
   },
   {
-    "id": "npr-planet-money-ep-8",
+    "id": "npr-planet-money-ep-9",
     "show_name": "Planet Money",
     "episode_title": "We try to fix election polling (update)",
     "pub_date": "Wed, 21 Oct 2026 07:00:00 +0000",
@@ -855,7 +864,7 @@
     "description": "Polling is facing an existential crisis. People aren't picking up the phone. Nobody wants to talk to pollsters. Trust is on the line. We pluck a solution from the economics canon and convince a polling firm to let us test it. Today on the show, we head to Marist College — home of the Marist Poll — to learn how to be pollsters ourselves. We learn..."
   },
   {
-    "id": "npr-planet-money-ep-9",
+    "id": "npr-planet-money-ep-10",
     "show_name": "Planet Money",
     "episode_title": "Anatomy of a movie market",
     "pub_date": "Fri, 16 Oct 2026 21:30:00 +0000",
@@ -864,16 +873,16 @@
     "description": "Before an independent movie makes it to a streaming platform or a theater near you, it first needs to survive an artistic and economic gauntlet. And even for those movies that make it into elite film festivals like Sundance – it can take everything from performance stunts to corporate spycraft to seal the deal. Today on the show, we follow the ‘..."
   },
   {
-    "id": "npr-planet-money-ep-10",
-    "show_name": "Planet Money",
-    "episode_title": "Wanna slow down AI? These biologists can help.",
-    "pub_date": "Wed, 14 Oct 2026 21:30:18 +0000",
-    "stream_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
-    "logo_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "description": "Fifty years ago, scientists pioneering a terrifying gene-splicing technology figured out a way to collectively hit pause. Can we do it again with AI? We ask because some top AI industry leaders are saying the technology they’re pushing forward is moving too quickly … and might kill us all. They’re effectively saying, ‘Please, please regulate us!..."
+    "id": "how-i-built-this-with-guy-raz-ep-1",
+    "show_name": "How I Built This with Guy Raz",
+    "episode_title": "Exciting News: More How I Built This is on the Way!",
+    "pub_date": "Wed, 18 Nov 2026 08:10:00 -0000",
+    "stream_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5396536074.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Guy shares what’s next for How I Built This, including a brand-new YouTube channel and a bigger weekly lineup ahead:\n\n\n  Rest of 2026: A new episode every Monday (in audio and video) and an archive favorite every Thursday.\n\n  Starting January: Three episodes a week: two new founder interviews (in audio and video) plus never-before-seen video ver..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-1",
+    "id": "how-i-built-this-with-guy-raz-ep-2",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
     "pub_date": "Mon, 16 Nov 2026 08:10:00 -0000",
@@ -882,7 +891,7 @@
     "description": "Jesse Merrill wanted to make movies. Instead, he made cottage cheese cool—and built a business with more than $200 million in annual sales.\n\nJesse got his start fetching coffee on the set of Jackass and handing out product samples for extra cash. After helping build Moby’s tea brand and grow Honest Tea, he teamed up with cofounder Anders Eisner ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
     "pub_date": "Thu, 12 Nov 2026 05:00:00 -0000",
@@ -891,7 +900,7 @@
     "description": "In the early 1980s, Ron Shaich took over Au Bon Pain, a struggling group of Boston bakeries, and helped grow it into a national chain with 250 locations. But Ron saw an even bigger opportunity in a small bakery chain in St. Louis. So he made a remarkable gamble: he sold Au Bon Pain to focus entirely on what would become Panera Bread. That bet he..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
     "pub_date": "Mon, 09 Nov 2026 08:10:00 -0000",
@@ -900,7 +909,7 @@
     "description": "Jack Haldrup didn’t set out to build a billion-dollar company. He just wanted a way out of consulting and a bar of soap he actually liked.\n\nAfter developing psoriasis, Jack started paying closer attention to the products he used on his skin. A chance purchase at a farmers market introduced him to handmade soap and sparked a business idea. With j..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
     "pub_date": "Thu, 05 Nov 2026 08:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Michael Dell was building a tech business in his dorm room long before it became a familiar startup story. In 1983, the UT Austin student began selling PC upgrade kits. Within months, he left college to devote himself to the business. When Dell entered the Fortune 500 in 1992, Michael was just 27—the youngest CEO on the list.\n\nIn this episode, M..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”",
     "pub_date": "Mon, 02 Nov 2026 08:10:00 -0000",
@@ -918,7 +927,7 @@
     "description": "This episode is available on Youtube: https://youtu.be/ZYf-DfxJg1c\n\nBrian Chesky was 26 when he and his co-founders launched Airbnb, turning a few air mattresses in a San Francisco apartment into one of the most successful startups of all time.\n\nBut as Airbnb grew into a company worth more than $100 billion, Brian struggled to keep up. He hired ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Tope Awotona of Calendly",
     "pub_date": "Thu, 29 Oct 2026 07:10:00 -0000",
@@ -927,7 +936,7 @@
     "description": "Today’s callers: Dominic in London faces challenges with profitability and scaling for his foldable bike helmet. Then, Ivana in Vancouver wonders how to maintain the momentum of her pet gear brand as she prepares for the arrival of her first child. Danny in South Carolina wants to expand her nail salon concept without making major trade-offs in ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
     "pub_date": "Mon, 26 Oct 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "Heather Hasson and Trina Spear saw an opportunity nobody else seemed to notice: millions of healthcare workers were spending long days in uncomfortable, ill-fitting scrubs.\n\nSo they set out to reinvent them.\n\nHeather was a designer with almost no money. To join her, Trina left a prestigious job at Blackstone and cashed out her retirement. They s..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
     "pub_date": "Fri, 23 Oct 2026 07:57:00 -0000",
@@ -945,22 +954,13 @@
     "description": "Today’s callers: Kahindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
     "pub_date": "Mon, 19 Oct 2026 07:10:00 -0000",
     "stream_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6250914256.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "Loren Castle started baking cookies after surviving cancer in her early twenties. Five years later, Sweet Loren’s refrigerated cookie dough was generating just $350,000 a year. But instead of giving up, she listened to customers, and reinvented the dough without gluten, dairy, eggs or nuts.  That transformation turned a small regional business i..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "Advice Line with Tara Bosch of SmartSweets",
-    "pub_date": "Thu, 15 Oct 2026 07:10:00 -0000",
-    "stream_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5291785441.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Today’s callers: Lindzi from Chicago wants to expand her gourmet marshmallow brand into retail without cannibalizing her high-margin DTC sales. Then, Vivi from Hawaii considers how to best tell her sustainable swimwear brand’s story to a digital audience. And Aly from Los Angeles wonders whether a subscription model is best for her whimsical cur..."
   },
   {
     "id": "ted-radio-hour-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "How Stable Is the A.I. Industry? We’re About to Find Out.",
+    "pub_date": "Wed, 18 Nov 2026 10:48:59 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c0d8552f-8a74-4b9d-9cbf-0ba520ea03bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c0d8552f-8a74-4b9d-9cbf-0ba520ea03bd&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "Anthropic is a barometer of the economy at a volatile time. Its initial public offering will have widespread implications. As Anthropic prepares for what is expected to be a huge initial public offering this week, the company has been wooing investors with a simple message: Bet on us. But Jensen Huang’s sudden resignation from Nvidia last week r..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "Democrats Promised Lower Prices. What Can They Actually Do?",
     "pub_date": "Tue, 17 Nov 2026 10:53:19 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9042a32a-36ba-4d03-b121-571c5be560a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9042a32a-36ba-4d03-b121-571c5be560a4&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "The Democratic Party swept the midterm elections by making big promises to Americans about bringing down the high cost of living. But when they take control of Congress in January, they will face a president who can veto anything they put forward.The New York Times reporters Rebecca F. Elliot, Margot Sanger-Katz and Ben Casselman each discuss wh..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Finally, a Vaccine for Cancer",
     "pub_date": "Mon, 16 Nov 2026 10:45:00 +0000",
@@ -1251,7 +1260,7 @@
     "description": "An experimental vaccine has been found to prevent recurrence of melanoma. Scientists hope it won’t be the last. A new, experimental vaccine could become the first of its kind to treat cancer.Nina Agrawal, a health reporter for The New York Times, explains how a century-old idea is finally becoming a reality and where this breakthrough could lead..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "The Ultraviolent, Wildly Successful, Uniquely American Phenomenon of Grand Theft Auto",
     "pub_date": "Sun, 15 Nov 2026 11:00:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "Thursday, Nov. 19 will see the release of one of the biggest, most anticipated entertainment properties of the year: The video game Grand Theft Auto VI.The first Grand Theft Auto game was released in 1997, and immediately stoked controversy with its aggressively satirical portrait of amoral, criminal American culture. Over the past 30 years, the..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back.",
     "pub_date": "Sat, 14 Nov 2026 11:00:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "The actor-director learned a lot about shame, regret and failure — and then made a hit movie.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/thedaily. Transcripts of each ep..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Can Israel’s Opposition Unseat Netanyahu?",
     "pub_date": "Fri, 13 Nov 2026 10:45:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "More than two weeks after one of the most consequential elections in Israel’s history, there is still uncertainty about who will lead the country.The spotlight has fallen on the opposition leader Gadi Eisenkot, who is trying to make all kinds of deals to build a coalition that could run the government.David Halbfinger, The New York Times’s Jerus..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "What Jensen Huang’s Resignation Will Mean for A.I.",
     "pub_date": "Thu, 12 Nov 2026 10:51:56 +0000",
@@ -1287,7 +1296,7 @@
     "description": "This episode was recorded before the news of Mr. Huang’s resignation was made public.Jensen Huang resigned as the chief executive of Nvidia on Thursday after The New York Times reported that he had extramarital relationships with a woman identified by U.S. officials as a Chinese spy and an executive at the company. In a memo this week, Mr. Huang..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Public Schools Have a New Crisis: Not Enough Students",
     "pub_date": "Wed, 11 Nov 2026 10:47:41 +0000",
@@ -1296,7 +1305,7 @@
     "description": "The number of students in America’s public schools is shrinking. In some cases, the declines have been so drastic that districts are facing empty classrooms, painful budget cuts and angry debates about whether to close schools.Sarah Mervosh, an education reporter at The New York Times, discusses what the enrollment crisis looks like, why it’s ha..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
     "pub_date": "Tue, 10 Nov 2026 10:55:19 +0000",
@@ -1305,21 +1314,12 @@
     "description": "Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "After a Crushing Defeat, Trump Doubles Down",
     "pub_date": "Mon, 9 Nov 2026 10:45:00 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/82833c9b-8790-46e3-95b6-a79e2189b8dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=82833c9b-8790-46e3-95b6-a79e2189b8dd&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "After a stinging rebuke last week at the polls, President Trump announced that he would elevate Stephen Miller — a driving force behind some of the most polarizing policies of Mr. Trump’s second term — to chief of staff.Maggie Haberman and Jonathan Swan, White House reporters for The New York Times, explain what Mr. Miller’s appointment reveals ..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
-    "pub_date": "Sun, 8 Nov 2026 11:00:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/958e1ec4-6157-45a5-882d-490801f9b4e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=958e1ec4-6157-45a5-882d-490801f9b4e7&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/th..."
   }
 ]
