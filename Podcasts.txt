@@ -71,6 +71,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/3c25fbae-6a1b-11ef-b25e-33943a7be
 SHOW: Science Vs
 ========================================================================
 ----------------------------------------
+Episode Title: How Hard Is It to Get Off Antidepressants?
+Published Date: Thu, 19 Nov 2026 10:00:00 -0000
+Description: How hard is it to get off antidepressants? Online, patients tell stories of going through hell when they stopped taking antidepressants: dizziness, brain zaps, panic attacks, anxiety and terror. And Health and Human Services Secretary Robert F. Kennedy Jr. has talked about this, saying members of his family have had a worse time getting off of S...
+Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3195881969.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Is the ‘War on Science’ Over?
 Published Date: Thu, 12 Nov 2026 17:07:00 -0000
 Description: A whole bunch of scientists and doctors won in the U.S. midterm elections, which has got some nerds really excited. They’re wondering: Could this turn things around for U.S. science, which has been hit by cuts and restrictions from the Trump administration?? We talk to journalist Max Kozlov from Nature to find out whether it’s time for a nerd pa...
@@ -123,12 +129,6 @@ Episode Title: Could AI Really Kill Us All?
 Published Date: Thu, 17 Sep 2026 20:25:00 -0000
 Description: Could artificial intelligence really wipe out humanity? Claims that AI poses an existential threat are going gangbusters. AI agents from OpenAI recently hacked into another company, Hugging Face, which has people talking about whether AI can go “rogue.” And some current and former AI company employees are raising the alarm. CEOs have called for ...
 Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4637234946.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Where Have The Insects Gone?? With Dr. Jessica Ware
-Published Date: Thu, 10 Sep 2026 09:00:00 -0000
-Description: Bugs are disappearing at alarming rates, scientists are telling us. Bees, butterflies, beetles: all of them have been dropping like flies. And scientists say there are a bunch of reasons to care about this — for example, fewer bugs means less pollination, which means less pasta in your pantry. But recently, some have suggested that all these sci...
-Audio Stream URL: https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT5572731551.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
@@ -207,7 +207,7 @@ Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-networ
 ----------------------------------------
 Episode Title: How bird poop and manta rays sustain a pristine coral reef
 Published Date: Tue, 17 Nov 2026 08:00:00 +0000
-Description: Coral reefs are at risk around the world. So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommers recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.Interested in more ...
+Description: Coral reefs are at risk around the world. So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.Interested in more s...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d844d8cb-7b7c-41d8-aa78-4d05df7f85fa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d844d8cb-7b7c-41d8-aa78-4d05df7f85fa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5988269&p=510351&d=834&size=13345085
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 ----------------------------------------
@@ -392,6 +392,12 @@ Logo URL: https://static.libsyn.com/p/assets/1/d/9/4/1d946f34af4d1ee6/logo1.jpg
 SHOW: In Our Time
 ========================================================================
 ----------------------------------------
+Episode Title: Ishtar, the Mesopotamian goddess of love, sex and war
+Published Date: Thu, 19 Nov 2026 09:45:00 +0000
+Description: The Mesopotamian goddess Ishtar was transgressive and multifaceted – potentially to the point of paradox. As the goddess of love and sex, she was responsible for the fertility of life on earth. As the goddess of war, she was also incredibly bloodthirsty, vengeful, and violent. Known in Sumerian language as Inanna and Ishtar in Akkadian, this god...
+Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phsnsv.mp3
+Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
+----------------------------------------
 Episode Title: Archive: Frederick Douglass
 Published Date: Mon, 16 Nov 2026 09:45:00 +0000
 Description: Frederick Douglass was born into slavery in Maryland in 1818 and, once he had escaped, became one of that century's most prominent abolitionists.  In this archive episode, first broadcast in 2018, Melvyn Bragg and his guests discuss Douglass’ life and ideas.  He was such a good orator, his opponents doubted his story, but he told it in grim deta...
@@ -449,16 +455,16 @@ Description: One of the most celebrated thinkers of the Renaissance, Erasmus (c1
 In this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch ...
 Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbbn1g.mp3
 Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
-----------------------------------------
-Episode Title: Thomas More's Utopia
-Published Date: Thu, 15 Oct 2026 08:45:00 +0000
-Description: In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book,...
-Audio Stream URL: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p9psnw.mp3
-Logo URL: http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg
 
 ========================================================================
 SHOW: Lore
 ========================================================================
+----------------------------------------
+Episode Title: Deeper Lore: 319 (128, 151, & 196)
+Published Date: Thu, 19 Nov 2026 06:01:00 +0000
+Description: Go deeper into the subject matter of our most recent episode (319: Face Off) with these three recommendations from further back in the Lore catalog:  Episode 128: LorePodcast.com/episodes/128 Episode 151: LorePodcast.com/episodes/151 Episode 196: LorePodcast.com/episodes/196  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Episo...
+Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-319.mp3?dest-id=259905
+Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 ----------------------------------------
 Episode Title: Lore 319: Face Off
 Published Date: Mon, 16 Nov 2026 05:01:00 +0000
@@ -512,12 +518,6 @@ Episode Title: Lore 317: Smoke and Mirrors
 Published Date: Mon, 19 Oct 2026 05:01:00 +0000
 Description: Stage magic as we know it today is very different from how it began. The consequences of those early days, though, are all around us. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources: ...
 Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore317d.mp3?dest-id=259905
-Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
-----------------------------------------
-Episode Title: Lore Alive 3: Under the Rug
-Published Date: Fri, 16 Oct 2026 05:01:00 +0000
-Description: Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we travel north to Maine, and the tiny community of Dark Harbor. It is here that a promising marriage falls apart, and a horrifying legend grows up in its place. Lore Alive wa...
-Audio Stream URL: https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive3.mp3?dest-id=259905
 Logo URL: https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg
 
 ========================================================================
@@ -634,6 +634,12 @@ Logo URL: https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543de
 SHOW: How I Built This with Guy Raz
 ========================================================================
 ----------------------------------------
+Episode Title: Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)
+Published Date: Thu, 19 Nov 2026 05:00:00 -0000
+Description: Given recent news about Jensen Huang, we're revisiting this unusually personal conversation with the Nvidia co-founder and former CEO. Recorded in April 2026, before the revelations that led to his resignation, the interview offers a fuller picture of Jensen: his family, the sacrifices he made during 33 years leading the company, his demanding l...
+Audio Stream URL: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8419655880.mp3
+Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+----------------------------------------
 Episode Title: Exciting News: More How I Built This is on the Way!
 Published Date: Wed, 18 Nov 2026 08:10:00 -0000
 Description: Guy shares what’s next for How I Built This, including a brand-new YouTube channel and a bigger weekly lineup ahead:
@@ -706,12 +712,6 @@ Published Date: Fri, 23 Oct 2026 07:57:00 -0000
 Description: Today’s callers: Kahindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif...
 Audio Stream URL: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8144262595.mp3
 Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
-----------------------------------------
-Episode Title: Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand
-Published Date: Mon, 19 Oct 2026 07:10:00 -0000
-Description: Loren Castle started baking cookies after surviving cancer in her early twenties. Five years later, Sweet Loren’s refrigerated cookie dough was generating just $350,000 a year. But instead of giving up, she listened to customers, and reinvented the dough without gluten, dairy, eggs or nuts.  That transformation turned a small regional business i...
-Audio Stream URL: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6250914256.mp3
-Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress
 
 ========================================================================
 SHOW: TED Radio Hour
@@ -781,6 +781,13 @@ Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-ne
 ========================================================================
 SHOW: Lex Fridman Podcast
 ========================================================================
+----------------------------------------
+Episode Title: #505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money
+Published Date: Thu, 19 Nov 2026 04:37:34 +0000
+Description: Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps keep at-risk youth out of prison.
+Thank you for listening ❤ Check out ...
+Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_larry_lawton.mp3
+Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg
 ----------------------------------------
 Episode Title: #504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare
 Published Date: Tue, 10 Nov 2026 23:52:44 +0000
@@ -861,16 +868,6 @@ Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/spons
 See below for timestamps, transcript, and to give feedback, ...
 Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3
 Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg
-----------------------------------------
-Episode Title: #495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age
-Published Date: Thu, 09 Apr 2026 17:43:17 +0000
-Description: Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.
-Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc
-See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.
-Transcript:
-https://le...
-Audio Stream URL: https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3
-Logo URL: https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg
 
 ========================================================================
 SHOW: The Tim Ferriss Show
@@ -940,6 +937,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: ‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week
+Published Date: Thu, 19 Nov 2026 10:47:50 +0000
+Description: In recent days, a series of technical outages have grounded planes, closed bank accounts, shut us out of our email and generally created a sense that the world is either falling apart or being hacked, or maybe both.The New York Times reporters Karoun Demirjian, Dustin Volz and Zolan Kanno-Youngs explain what’s really going on and whether we can ...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e4f0c51f-a7f8-409f-8786-bccd54d2e1a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e4f0c51f-a7f8-409f-8786-bccd54d2e1a1&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: How Stable Is the A.I. Industry? We’re About to Find Out.
 Published Date: Wed, 18 Nov 2026 10:48:59 +0000
 Description: Anthropic is a barometer of the economy at a volatile time. Its initial public offering will have widespread implications. As Anthropic prepares for what is expected to be a huge initial public offering this week, the company has been wooing investors with a simple message: Bet on us. But Jensen Huang’s sudden resignation from Nvidia last week r...
@@ -993,10 +996,4 @@ Episode Title: Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal
 Published Date: Tue, 10 Nov 2026 10:55:19 +0000
 Description: Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60e9e1cf-51c5-41b1-af3d-736ef4484e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60e9e1cf-51c5-41b1-af3d-736ef4484e18&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: After a Crushing Defeat, Trump Doubles Down
-Published Date: Mon, 9 Nov 2026 10:45:00 +0000
-Description: After a stinging rebuke last week at the polls, President Trump announced that he would elevate Stephen Miller — a driving force behind some of the most polarizing policies of Mr. Trump’s second term — to chief of staff.Maggie Haberman and Jonathan Swan, White House reporters for The New York Times, explain what Mr. Miller’s appointment reveals ...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/82833c9b-8790-46e3-95b6-a79e2189b8dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=82833c9b-8790-46e3-95b6-a79e2189b8dd&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

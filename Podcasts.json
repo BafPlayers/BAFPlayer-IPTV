@@ -92,6 +92,15 @@
   {
     "id": "science-vs--gimlet--ep-1",
     "show_name": "Science Vs",
+    "episode_title": "How Hard Is It to Get Off Antidepressants?",
+    "pub_date": "Thu, 19 Nov 2026 10:00:00 -0000",
+    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT3195881969.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "How hard is it to get off antidepressants? Online, patients tell stories of going through hell when they stopped taking antidepressants: dizziness, brain zaps, panic attacks, anxiety and terror. And Health and Human Services Secretary Robert F. Kennedy Jr. has talked about this, saying members of his family have had a worse time getting off of S..."
+  },
+  {
+    "id": "science-vs--gimlet--ep-2",
+    "show_name": "Science Vs",
     "episode_title": "Is the ‘War on Science’ Over?",
     "pub_date": "Thu, 12 Nov 2026 17:07:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4521877056.mp3",
@@ -99,7 +108,7 @@
     "description": "A whole bunch of scientists and doctors won in the U.S. midterm elections, which has got some nerds really excited. They’re wondering: Could this turn things around for U.S. science, which has been hit by cuts and restrictions from the Trump administration?? We talk to journalist Max Kozlov from Nature to find out whether it’s time for a nerd pa..."
   },
   {
-    "id": "science-vs--gimlet--ep-2",
+    "id": "science-vs--gimlet--ep-3",
     "show_name": "Science Vs",
     "episode_title": "How Music Can Be Medicine, with Dr. Dan Levitin",
     "pub_date": "Thu, 05 Nov 2026 10:00:00 -0000",
@@ -108,7 +117,7 @@
     "description": "A lot of us reach for music when we’re struggling. Whether we’re going through a breakup or just a rough day, our favorite jams seem to have an almost magical ability to give us relief. But WHY?! What exactly is music doing in the brain that affects how we feel? And how powerful is it? Like, could music actually treat diseases? We dig into these..."
   },
   {
-    "id": "science-vs--gimlet--ep-3",
+    "id": "science-vs--gimlet--ep-4",
     "show_name": "Science Vs",
     "episode_title": "Sitting: As Bad As Smoking?!",
     "pub_date": "Thu, 29 Oct 2026 09:00:00 -0000",
@@ -117,7 +126,7 @@
     "description": "Lots of us spend HOURS a day sitting on our bums. And we’re often told that this is terrible for us — even that it could be as bad for our health as smoking. But how bad is it really? And can exercise or standing desks help make up for all those hours on the couch?? We dig into what happens inside our bodies when we sit all day — with sedentary ..."
   },
   {
-    "id": "science-vs--gimlet--ep-4",
+    "id": "science-vs--gimlet--ep-5",
     "show_name": "Science Vs",
     "episode_title": "Testosterone: Do We All Need a Boost?",
     "pub_date": "Thu, 22 Oct 2026 09:00:00 -0000",
@@ -126,7 +135,7 @@
     "description": "We’re hearing a ton about the marvels of testosterone from influencers, celebrities, and even government officials. They say we should be thinking about our T levels, topping them off with extra if they’re too low. And we’re told that the benefits of testosterone are HUGE: that we’ll be stronger, sexier, and more energized. So is that true?? And..."
   },
   {
-    "id": "science-vs--gimlet--ep-5",
+    "id": "science-vs--gimlet--ep-6",
     "show_name": "Science Vs",
     "episode_title": "Fiber Maxxing and Poo Maxxing, with Dr. Trisha Pasricha",
     "pub_date": "Thu, 15 Oct 2026 09:00:00 -0000",
@@ -135,7 +144,7 @@
     "description": "Have you been puzzled by your poos or felt down about your dumps?? You’re not alone! So many of us are struggling with gut issues, which is why fiber is having a major moment. But even though we’re secretly guzzling psyllium husk, tons of us are too embarrassed to talk about our poo problems. No more! We’re putting an end to the silence on stool..."
   },
   {
-    "id": "science-vs--gimlet--ep-6",
+    "id": "science-vs--gimlet--ep-7",
     "show_name": "Science Vs",
     "episode_title": "Collagen Peptides: Should You Take Them?",
     "pub_date": "Thu, 08 Oct 2026 09:00:00 -0000",
@@ -144,7 +153,7 @@
     "description": "Collagen peptides!! Can they make you look younger and be healthier? It feels like everyone wants to be bursting with collagen, and apparently the way to do it is by scooping up that white powder of collagen peptides and guzzling it down. Do that, and — according to the wellfluencers — not only will your skin be as bouncy as a baby's bottom, but..."
   },
   {
-    "id": "science-vs--gimlet--ep-7",
+    "id": "science-vs--gimlet--ep-8",
     "show_name": "Science Vs",
     "episode_title": "Why We Never Forget Our Teen Years, with Dr. Lisa Damour",
     "pub_date": "Thu, 01 Oct 2026 09:00:00 -0000",
@@ -153,7 +162,7 @@
     "description": "Our brains go completely WILD when we go through our teenage years. It’s a time where it feels like every disagreement with our parents turns into World War III, and every idea that could get us killed sounds like the most fun we could ever have. In this episode, we get into the science of what the brain is doing during the teenage years with cl..."
   },
   {
-    "id": "science-vs--gimlet--ep-8",
+    "id": "science-vs--gimlet--ep-9",
     "show_name": "Science Vs",
     "episode_title": "Stress: The Science of Chilling Out",
     "pub_date": "Thu, 24 Sep 2026 09:00:00 -0000",
@@ -162,22 +171,13 @@
     "description": "Stress! We’re all feeling it. And besides just feeling crappy, we’re also told that stress can wreak havoc on our bodies. The internet has a million solutions: vagus nerve stimulators, deep breaths, or a hot sauna! If that doesn’t work, maybe a cold plunge? But what does the science say about all this — what works to lower our stress? And is it ..."
   },
   {
-    "id": "science-vs--gimlet--ep-9",
+    "id": "science-vs--gimlet--ep-10",
     "show_name": "Science Vs",
     "episode_title": "Could AI Really Kill Us All?",
     "pub_date": "Thu, 17 Sep 2026 20:25:00 -0000",
     "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4637234946.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "Could artificial intelligence really wipe out humanity? Claims that AI poses an existential threat are going gangbusters. AI agents from OpenAI recently hacked into another company, Hugging Face, which has people talking about whether AI can go “rogue.” And some current and former AI company employees are raising the alarm. CEOs have called for ..."
-  },
-  {
-    "id": "science-vs--gimlet--ep-10",
-    "show_name": "Science Vs",
-    "episode_title": "Where Have The Insects Gone?? With Dr. Jessica Ware",
-    "pub_date": "Thu, 10 Sep 2026 09:00:00 -0000",
-    "stream_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT5572731551.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Bugs are disappearing at alarming rates, scientists are telling us. Bees, butterflies, beetles: all of them have been dropping like flies. And scientists say there are a bunch of reasons to care about this — for example, fewer bugs means less pollination, which means less pasta in your pantry. But recently, some have suggested that all these sci..."
   },
   {
     "id": "astronomy-cast--libsyn--ep-1",
@@ -285,7 +285,7 @@
     "pub_date": "Tue, 17 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d844d8cb-7b7c-41d8-aa78-4d05df7f85fa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d844d8cb-7b7c-41d8-aa78-4d05df7f85fa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5988269&p=510351&d=834&size=13345085",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Coral reefs are at risk around the world. So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommers recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.Interested in more ..."
+    "description": "Coral reefs are at risk around the world. So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.Interested in more s..."
   },
   {
     "id": "npr-short-wave--science--ep-3",
@@ -542,6 +542,15 @@
   {
     "id": "bbc-in-our-time-ep-1",
     "show_name": "In Our Time",
+    "episode_title": "Ishtar, the Mesopotamian goddess of love, sex and war",
+    "pub_date": "Thu, 19 Nov 2026 09:45:00 +0000",
+    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phsnsv.mp3",
+    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
+    "description": "The Mesopotamian goddess Ishtar was transgressive and multifaceted – potentially to the point of paradox. As the goddess of love and sex, she was responsible for the fertility of life on earth. As the goddess of war, she was also incredibly bloodthirsty, vengeful, and violent. Known in Sumerian language as Inanna and Ishtar in Akkadian, this god..."
+  },
+  {
+    "id": "bbc-in-our-time-ep-2",
+    "show_name": "In Our Time",
     "episode_title": "Archive: Frederick Douglass",
     "pub_date": "Mon, 16 Nov 2026 09:45:00 +0000",
     "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0phgb8l.mp3",
@@ -549,7 +558,7 @@
     "description": "Frederick Douglass was born into slavery in Maryland in 1818 and, once he had escaped, became one of that century's most prominent abolitionists.  In this archive episode, first broadcast in 2018, Melvyn Bragg and his guests discuss Douglass’ life and ideas.  He was such a good orator, his opponents doubted his story, but he told it in grim deta..."
   },
   {
-    "id": "bbc-in-our-time-ep-2",
+    "id": "bbc-in-our-time-ep-3",
     "show_name": "In Our Time",
     "episode_title": "The Battle of Antietam",
     "pub_date": "Thu, 12 Nov 2026 09:45:00 +0000",
@@ -558,7 +567,7 @@
     "description": "Misha Glenny and guests discuss The Battle of Antietam, the single deadliest day of the American Civil War. The battle took place on 17th September 1862, less than 100 miles from Washington D.C. The conflict had been going on for over a year, and there had been a string of successes by the rebel Confederate Army against Union forces. The Confede..."
   },
   {
-    "id": "bbc-in-our-time-ep-3",
+    "id": "bbc-in-our-time-ep-4",
     "show_name": "In Our Time",
     "episode_title": "Archive: Feathered Dinosaurs",
     "pub_date": "Mon, 09 Nov 2026 09:45:00 +0000",
@@ -567,7 +576,7 @@
     "description": "All dinosaurs were originally thought to be related to lizards - the word 'dinosaur' was created by Richard Owen (1804-1892) from the Greek for 'terrible lizard' - but that now appears to be false. In this archive episode, first released in October 2017, Melvyn Bragg and guests discuss the development of theories about dinosaur feathers, followi..."
   },
   {
-    "id": "bbc-in-our-time-ep-4",
+    "id": "bbc-in-our-time-ep-5",
     "show_name": "In Our Time",
     "episode_title": "Megalosaurus",
     "pub_date": "Thu, 05 Nov 2026 09:45:00 +0000",
@@ -576,7 +585,7 @@
     "description": "The first dinosaur to ever be scientifically named, almost 20 years before we even had the word ‘dinosaur’. In 1824, the geologist and priest William Buckland (1784-1856) stood before the Geological Society of London and announced something that would kickstart two centuries of dinosaur science. He’d been studying large, fossilised bones which d..."
   },
   {
-    "id": "bbc-in-our-time-ep-5",
+    "id": "bbc-in-our-time-ep-6",
     "show_name": "In Our Time",
     "episode_title": "Archive: Citizen Kane",
     "pub_date": "Mon, 02 Nov 2026 09:45:00 +0000",
@@ -585,7 +594,7 @@
     "description": "Orson Welles was only 25 when his film Citizen Kane was released in 1941. It is widely acclaimed as one of the greatest, if not the greatest, films yet made.   Melvyn Bragg and guests discuss Welles' film, in which he plays the lead role of Charles Foster Kane, a newspaper magnate. It was his first acting role. He also directed, produced and co-..."
   },
   {
-    "id": "bbc-in-our-time-ep-6",
+    "id": "bbc-in-our-time-ep-7",
     "show_name": "In Our Time",
     "episode_title": "Casablanca",
     "pub_date": "Thu, 29 Oct 2026 09:45:00 +0000",
@@ -594,7 +603,7 @@
     "description": "Recorded at the Crossed Wires Festival in Sheffield, Misha Glenny and guests discuss Casablanca, one of the greatest films from Hollywood’s Golden Era.   The film stars Humphrey Bogart and Ingrid Bergman and features the unforgettable song As Time Goes By.    Casablanca opened in November 1942 when Europe had been at war for three years and the ..."
   },
   {
-    "id": "bbc-in-our-time-ep-7",
+    "id": "bbc-in-our-time-ep-8",
     "show_name": "In Our Time",
     "episode_title": "Archive: Dark Matter, the mysterious substance in space",
     "pub_date": "Mon, 26 Oct 2026 09:45:00 +0000",
@@ -603,7 +612,7 @@
     "description": "Dark Matter is a proposed form of matter that does not absorb, reflect or emit light. It is known to make up 27% of our universe, while the matter that makes up stars and galaxies accounts for only 5%.   \n  \nIn this archive episode, first released in March 2015, Melvyn Bragg and his guests discuss dark matter, the mysterious and invisible substa..."
   },
   {
-    "id": "bbc-in-our-time-ep-8",
+    "id": "bbc-in-our-time-ep-9",
     "show_name": "In Our Time",
     "episode_title": "Particle Accelerators",
     "pub_date": "Thu, 22 Oct 2026 08:45:00 +0000",
@@ -612,7 +621,7 @@
     "description": "Misha Glenny and guests discuss the machines that are described as the world’s largest experiments: Particle Accelerators. A famous example of a Particle Accelerator is the Large Hadron Collider, a device which stretches for nearly 30km, deep beneath the ground in a tunnel between France and Switzerland.    This enormous scale enables the partic..."
   },
   {
-    "id": "bbc-in-our-time-ep-9",
+    "id": "bbc-in-our-time-ep-10",
     "show_name": "In Our Time",
     "episode_title": "Archive: Erasmus",
     "pub_date": "Mon, 19 Oct 2026 08:45:00 +0000",
@@ -621,16 +630,16 @@
     "description": "One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. \n \nIn this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch ..."
   },
   {
-    "id": "bbc-in-our-time-ep-10",
-    "show_name": "In Our Time",
-    "episode_title": "Thomas More's Utopia",
-    "pub_date": "Thu, 15 Oct 2026 08:45:00 +0000",
-    "stream_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p9psnw.mp3",
-    "logo_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8dsw0.jpg",
-    "description": "In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book,..."
+    "id": "lore--folklore---history--ep-1",
+    "show_name": "Lore",
+    "episode_title": "Deeper Lore: 319 (128, 151, & 196)",
+    "pub_date": "Thu, 19 Nov 2026 06:01:00 +0000",
+    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore-deeper-319.mp3?dest-id=259905",
+    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
+    "description": "Go deeper into the subject matter of our most recent episode (319: Face Off) with these three recommendations from further back in the Lore catalog:  Episode 128: LorePodcast.com/episodes/128 Episode 151: LorePodcast.com/episodes/151 Episode 196: LorePodcast.com/episodes/196  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Episo..."
   },
   {
-    "id": "lore--folklore---history--ep-1",
+    "id": "lore--folklore---history--ep-2",
     "show_name": "Lore",
     "episode_title": "Lore 319: Face Off",
     "pub_date": "Mon, 16 Nov 2026 05:01:00 +0000",
@@ -639,7 +648,7 @@
     "description": "While much of folklore is invisible to the naked eye, there are a few traditions that put a face to those beliefs. And some of them can be downright terrifying. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed..."
   },
   {
-    "id": "lore--folklore---history--ep-2",
+    "id": "lore--folklore---history--ep-3",
     "show_name": "Lore",
     "episode_title": "Legends 92: Last Call",
     "pub_date": "Mon, 09 Nov 2026 05:01:00 +0000",
@@ -648,7 +657,7 @@
     "description": "The older the building, the longer the history inside. While that's a nice thought, there are some structures in England that give that rule a more sinister tone. Today's journey through the past will leave you feeling restless.  Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick and research by Jamie Vargas. ————————— ..."
   },
   {
-    "id": "lore--folklore---history--ep-3",
+    "id": "lore--folklore---history--ep-4",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 318 (3, 53, & 155)",
     "pub_date": "Thu, 05 Nov 2026 05:01:00 +0000",
@@ -657,7 +666,7 @@
     "description": "Go deeper into the subject matter of our most recent episode (318: Pack Mentality) with these three recommendations from further back in the Lore catalog:  Episode 3: LorePodcast.com/episodes/3 Episode 53: LorePodcast.com/episodes/53 Episode 155: LorePodcast.com/episodes/155  ———————— Lore Resources:   Episode Music: lorepodcast.com/music  Episo..."
   },
   {
-    "id": "lore--folklore---history--ep-4",
+    "id": "lore--folklore---history--ep-5",
     "show_name": "Lore",
     "episode_title": "Lore 318: Pack Mentality",
     "pub_date": "Mon, 02 Nov 2026 05:01:00 +0000",
@@ -666,7 +675,7 @@
     "description": "Europe didn't spend all of its time hunting witches in its darkest past, and a great example of their other obsession can be found in the forests of France. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ———..."
   },
   {
-    "id": "lore--folklore---history--ep-5",
+    "id": "lore--folklore---history--ep-6",
     "show_name": "Lore",
     "episode_title": "Lore Alive 5: In the Next Room",
     "pub_date": "Fri, 30 Oct 2026 05:01:00 +0000",
@@ -675,7 +684,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's final Halloween bonus of the year, we have the sort of story that captured my heart as a kid. On the surface, it's the story of a woman grieving the departure of a dear friend. But there's..."
   },
   {
-    "id": "lore--folklore---history--ep-6",
+    "id": "lore--folklore---history--ep-7",
     "show_name": "Lore",
     "episode_title": "Legends 91: Landslide",
     "pub_date": "Mon, 26 Oct 2026 05:01:00 +0000",
@@ -684,7 +693,7 @@
     "description": "Humans have a special ability to create a lot of tragedy, and history is marked with many examples. But the natural world has always done its best to keep up, as these stories show. Narrated and produced by Aaron Mahnke, with writing by Molly Quinlan Artwick and research by Jamie Vargas. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed —————..."
   },
   {
-    "id": "lore--folklore---history--ep-7",
+    "id": "lore--folklore---history--ep-8",
     "show_name": "Lore",
     "episode_title": "Lore Alive 4: Peg & Button",
     "pub_date": "Fri, 23 Oct 2026 05:01:00 +0000",
@@ -693,7 +702,7 @@
     "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we meet a group of mischievous young men who pick on the wrong woman before heading off to war in the far north. Their decision, it turns out, became something that haunted th..."
   },
   {
-    "id": "lore--folklore---history--ep-8",
+    "id": "lore--folklore---history--ep-9",
     "show_name": "Lore",
     "episode_title": "Deeper Lore: 317 (84, 111, & 215)",
     "pub_date": "Thu, 22 Oct 2026 05:01:00 +0000",
@@ -702,22 +711,13 @@
     "description": "Go deeper into the subject matter of our most recent episode (317: Smoke and Mirrors) with these three recommendations from further back in the Lore catalog:  Episode 84: LorePodcast.com/episodes/84 Episode 111: LorePodcast.com/episodes/111 Episode 215: LorePodcast.com/episodes/215  ———————— Lore Resources:   Episode Music: lorepodcast.com/music..."
   },
   {
-    "id": "lore--folklore---history--ep-9",
+    "id": "lore--folklore---history--ep-10",
     "show_name": "Lore",
     "episode_title": "Lore 317: Smoke and Mirrors",
     "pub_date": "Mon, 19 Oct 2026 05:01:00 +0000",
     "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Lore317d.mp3?dest-id=259905",
     "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
     "description": "Stage magic as we know it today is very different from how it began. The consequences of those early days, though, are all around us. Narrated and produced by Aaron Mahnke, with writing by GennaRose Nethercott, research by Cassandra de Alba, and music by Chad Lawson. ————————— BUY EXHUMED TODAY: aaronmahnke.com/exhumed ————————— Lore Resources: ..."
-  },
-  {
-    "id": "lore--folklore---history--ep-10",
-    "show_name": "Lore",
-    "episode_title": "Lore Alive 3: Under the Rug",
-    "pub_date": "Fri, 16 Oct 2026 05:01:00 +0000",
-    "stream_url": "https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Alive3.mp3?dest-id=259905",
-    "logo_url": "https://static.libsyn.com/p/assets/6/0/8/9/6089c6a6a3b6312ce5bbc093207a2619/__lore-cover.jpg",
-    "description": "Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.  For today's spooky tale, we travel north to Maine, and the tiny community of Dark Harbor. It is here that a promising marriage falls apart, and a horrifying legend grows up in its place. Lore Alive wa..."
   },
   {
     "id": "dan-carlin-s-hardcore-history-ep-1",
@@ -875,6 +875,15 @@
   {
     "id": "how-i-built-this-with-guy-raz-ep-1",
     "show_name": "How I Built This with Guy Raz",
+    "episode_title": "Jensen Huang: The Personal Cost of Building NVIDIA (April 2026)",
+    "pub_date": "Thu, 19 Nov 2026 05:00:00 -0000",
+    "stream_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8419655880.mp3",
+    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Given recent news about Jensen Huang, we're revisiting this unusually personal conversation with the Nvidia co-founder and former CEO. Recorded in April 2026, before the revelations that led to his resignation, the interview offers a fuller picture of Jensen: his family, the sacrifices he made during 33 years leading the company, his demanding l..."
+  },
+  {
+    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "show_name": "How I Built This with Guy Raz",
     "episode_title": "Exciting News: More How I Built This is on the Way!",
     "pub_date": "Wed, 18 Nov 2026 08:10:00 -0000",
     "stream_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5396536074.mp3",
@@ -882,7 +891,7 @@
     "description": "Guy shares what’s next for How I Built This, including a brand-new YouTube channel and a bigger weekly lineup ahead:\n\n\n  Rest of 2026: A new episode every Monday (in audio and video) and an archive favorite every Thursday.\n\n  Starting January: Three episodes a week: two new founder interviews (in audio and video) plus never-before-seen video ver..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-2",
+    "id": "how-i-built-this-with-guy-raz-ep-3",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Good Culture: How Jesse Merrill Made Cottage Cheese Cool",
     "pub_date": "Mon, 16 Nov 2026 08:10:00 -0000",
@@ -891,7 +900,7 @@
     "description": "Jesse Merrill wanted to make movies. Instead, he made cottage cheese cool—and built a business with more than $200 million in annual sales.\n\nJesse got his start fetching coffee on the set of Jackass and handing out product samples for extra cash. After helping build Moby’s tea brand and grow Honest Tea, he teamed up with cofounder Anders Eisner ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-3",
+    "id": "how-i-built-this-with-guy-raz-ep-4",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Panera: Ron Shaich. The Big Bet That Changed Fast Food (2018)",
     "pub_date": "Thu, 12 Nov 2026 05:00:00 -0000",
@@ -900,7 +909,7 @@
     "description": "In the early 1980s, Ron Shaich took over Au Bon Pain, a struggling group of Boston bakeries, and helped grow it into a national chain with 250 locations. But Ron saw an even bigger opportunity in a small bakery chain in St. Louis. So he made a remarkable gamble: he sold Au Bon Pain to focus entirely on what would become Panera Bread. That bet he..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-4",
+    "id": "how-i-built-this-with-guy-raz-ep-5",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand",
     "pub_date": "Mon, 09 Nov 2026 08:10:00 -0000",
@@ -909,7 +918,7 @@
     "description": "Jack Haldrup didn’t set out to build a billion-dollar company. He just wanted a way out of consulting and a bar of soap he actually liked.\n\nAfter developing psoriasis, Jack started paying closer attention to the products he used on his skin. A chance purchase at a farmers market introduced him to handmade soap and sparked a business idea. With j..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-5",
+    "id": "how-i-built-this-with-guy-raz-ep-6",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
     "pub_date": "Thu, 05 Nov 2026 08:10:00 -0000",
@@ -918,7 +927,7 @@
     "description": "Michael Dell was building a tech business in his dorm room long before it became a familiar startup story. In 1983, the UT Austin student began selling PC upgrade kits. Within months, he left college to devote himself to the business. When Dell entered the Fortune 500 in 1992, Michael was just 27—the youngest CEO on the list.\n\nIn this episode, M..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-6",
+    "id": "how-i-built-this-with-guy-raz-ep-7",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”",
     "pub_date": "Mon, 02 Nov 2026 08:10:00 -0000",
@@ -927,7 +936,7 @@
     "description": "This episode is available on Youtube: https://youtu.be/ZYf-DfxJg1c\n\nBrian Chesky was 26 when he and his co-founders launched Airbnb, turning a few air mattresses in a San Francisco apartment into one of the most successful startups of all time.\n\nBut as Airbnb grew into a company worth more than $100 billion, Brian struggled to keep up. He hired ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-7",
+    "id": "how-i-built-this-with-guy-raz-ep-8",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Tope Awotona of Calendly",
     "pub_date": "Thu, 29 Oct 2026 07:10:00 -0000",
@@ -936,7 +945,7 @@
     "description": "Today’s callers: Dominic in London faces challenges with profitability and scaling for his foldable bike helmet. Then, Ivana in Vancouver wonders how to maintain the momentum of her pet gear brand as she prepares for the arrival of her first child. Danny in South Carolina wants to expand her nail salon concept without making major trade-offs in ..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-8",
+    "id": "how-i-built-this-with-guy-raz-ep-9",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work",
     "pub_date": "Mon, 26 Oct 2026 07:10:00 -0000",
@@ -945,22 +954,13 @@
     "description": "Heather Hasson and Trina Spear saw an opportunity nobody else seemed to notice: millions of healthcare workers were spending long days in uncomfortable, ill-fitting scrubs.\n\nSo they set out to reinvent them.\n\nHeather was a designer with almost no money. To join her, Trina left a prestigious job at Blackstone and cashed out her retirement. They s..."
   },
   {
-    "id": "how-i-built-this-with-guy-raz-ep-9",
+    "id": "how-i-built-this-with-guy-raz-ep-10",
     "show_name": "How I Built This with Guy Raz",
     "episode_title": "Advice Line with Seth Berkowitz of Insomnia Cookies",
     "pub_date": "Fri, 23 Oct 2026 07:57:00 -0000",
     "stream_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8144262595.mp3",
     "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "description": "Today’s callers: Kahindo from New York is looking to reboot her African-rooted fashion brand after losing a few key retailers. Then Tara from San Diego considers avenues to educate consumers about the benefits of her wool sauna hats. And Carol from Houston wonders whether to market her collegiate purses and accessories l to students or their gif..."
-  },
-  {
-    "id": "how-i-built-this-with-guy-raz-ep-10",
-    "show_name": "How I Built This with Guy Raz",
-    "episode_title": "Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
-    "pub_date": "Mon, 19 Oct 2026 07:10:00 -0000",
-    "stream_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6250914256.mp3",
-    "logo_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "description": "Loren Castle started baking cookies after surviving cancer in her early twenties. Five years later, Sweet Loren’s refrigerated cookie dough was generating just $350,000 a year. But instead of giving up, she listened to customers, and reinvented the dough without gluten, dairy, eggs or nuts.  That transformation turned a small regional business i..."
   },
   {
     "id": "ted-radio-hour-ep-1",
@@ -1055,6 +1055,15 @@
   {
     "id": "lex-fridman-podcast-ep-1",
     "show_name": "Lex Fridman Podcast",
+    "episode_title": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money",
+    "pub_date": "Thu, 19 Nov 2026 04:37:34 +0000",
+    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_larry_lawton.mp3",
+    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
+    "description": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps keep at-risk youth out of prison.\nThank you for listening ❤ Check out ..."
+  },
+  {
+    "id": "lex-fridman-podcast-ep-2",
+    "show_name": "Lex Fridman Podcast",
     "episode_title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
     "pub_date": "Tue, 10 Nov 2026 23:52:44 +0000",
     "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_preston_stewart_michael_kofman.mp3",
@@ -1062,7 +1071,7 @@
     "description": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carne..."
   },
   {
-    "id": "lex-fridman-podcast-ep-2",
+    "id": "lex-fridman-podcast-ep-3",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
     "pub_date": "Mon, 26 Oct 2026 22:52:28 +0000",
@@ -1071,7 +1080,7 @@
     "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting th..."
   },
   {
-    "id": "lex-fridman-podcast-ep-3",
+    "id": "lex-fridman-podcast-ep-4",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
     "pub_date": "Thu, 17 Sep 2026 00:40:49 +0000",
@@ -1080,7 +1089,7 @@
     "description": "Andrew Scull is a historian of psychiatry.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/andrew-scull-transcript\nCONTACT LEX:\nFeedback – give feedback to Lex: https://lexf..."
   },
   {
-    "id": "lex-fridman-podcast-ep-4",
+    "id": "lex-fridman-podcast-ep-5",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
     "pub_date": "Wed, 26 Aug 2026 21:47:04 +0000",
@@ -1089,7 +1098,7 @@
     "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/dhh-2-transcript\nCONTACT LEX:\nFee..."
   },
   {
-    "id": "lex-fridman-podcast-ep-5",
+    "id": "lex-fridman-podcast-ep-6",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
     "pub_date": "Wed, 12 Aug 2026 13:11:45 +0000",
@@ -1098,7 +1107,7 @@
     "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It’s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to m..."
   },
   {
-    "id": "lex-fridman-podcast-ep-6",
+    "id": "lex-fridman-podcast-ep-7",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
     "pub_date": "Tue, 28 Jul 2026 20:06:06 +0000",
@@ -1107,7 +1116,7 @@
     "description": "Gary Gallagher is a historian of the American Civil War.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/gary-gallagher-transcript\nCONTACT LEX:\nFeedback – give feedback to L..."
   },
   {
-    "id": "lex-fridman-podcast-ep-7",
+    "id": "lex-fridman-podcast-ep-8",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
     "pub_date": "Tue, 30 Jun 2026 21:33:40 +0000",
@@ -1116,7 +1125,7 @@
     "description": "Anthony Kaldellis is a historian of the Roman Empire and author of “The New Roman Empire”, a comprehensive history of the Byzantine Empire (Eastern Roman Empire).\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, et..."
   },
   {
-    "id": "lex-fridman-podcast-ep-8",
+    "id": "lex-fridman-podcast-ep-9",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
     "pub_date": "Fri, 29 May 2026 16:22:02 +0000",
@@ -1125,22 +1134,13 @@
     "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://lexfridman.com/don-li..."
   },
   {
-    "id": "lex-fridman-podcast-ep-9",
+    "id": "lex-fridman-podcast-ep-10",
     "show_name": "Lex Fridman Podcast",
     "episode_title": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
     "pub_date": "Wed, 06 May 2026 22:06:47 +0000",
     "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3",
     "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
     "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc\nSee below for timestamps, transcript, and to give feedback, ..."
-  },
-  {
-    "id": "lex-fridman-podcast-ep-10",
-    "show_name": "Lex Fridman Podcast",
-    "episode_title": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
-    "pub_date": "Thu, 09 Apr 2026 17:43:17 +0000",
-    "stream_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
-    "logo_url": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
-    "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\nTranscript:\nhttps://le..."
   },
   {
     "id": "the-tim-ferriss-show-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week",
+    "pub_date": "Thu, 19 Nov 2026 10:47:50 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e4f0c51f-a7f8-409f-8786-bccd54d2e1a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e4f0c51f-a7f8-409f-8786-bccd54d2e1a1&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "In recent days, a series of technical outages have grounded planes, closed bank accounts, shut us out of our email and generally created a sense that the world is either falling apart or being hacked, or maybe both.The New York Times reporters Karoun Demirjian, Dustin Volz and Zolan Kanno-Youngs explain what’s really going on and whether we can ..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "How Stable Is the A.I. Industry? We’re About to Find Out.",
     "pub_date": "Wed, 18 Nov 2026 10:48:59 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c0d8552f-8a74-4b9d-9cbf-0ba520ea03bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c0d8552f-8a74-4b9d-9cbf-0ba520ea03bd&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "Anthropic is a barometer of the economy at a volatile time. Its initial public offering will have widespread implications. As Anthropic prepares for what is expected to be a huge initial public offering this week, the company has been wooing investors with a simple message: Bet on us. But Jensen Huang’s sudden resignation from Nvidia last week r..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "Democrats Promised Lower Prices. What Can They Actually Do?",
     "pub_date": "Tue, 17 Nov 2026 10:53:19 +0000",
@@ -1251,7 +1260,7 @@
     "description": "The Democratic Party swept the midterm elections by making big promises to Americans about bringing down the high cost of living. But when they take control of Congress in January, they will face a president who can veto anything they put forward.The New York Times reporters Rebecca F. Elliot, Margot Sanger-Katz and Ben Casselman each discuss wh..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Finally, a Vaccine for Cancer",
     "pub_date": "Mon, 16 Nov 2026 10:45:00 +0000",
@@ -1260,7 +1269,7 @@
     "description": "An experimental vaccine has been found to prevent recurrence of melanoma. Scientists hope it won’t be the last. A new, experimental vaccine could become the first of its kind to treat cancer.Nina Agrawal, a health reporter for The New York Times, explains how a century-old idea is finally becoming a reality and where this breakthrough could lead..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "The Ultraviolent, Wildly Successful, Uniquely American Phenomenon of Grand Theft Auto",
     "pub_date": "Sun, 15 Nov 2026 11:00:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "Thursday, Nov. 19 will see the release of one of the biggest, most anticipated entertainment properties of the year: The video game Grand Theft Auto VI.The first Grand Theft Auto game was released in 1997, and immediately stoked controversy with its aggressively satirical portrait of amoral, criminal American culture. Over the past 30 years, the..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back.",
     "pub_date": "Sat, 14 Nov 2026 11:00:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "The actor-director learned a lot about shame, regret and failure — and then made a hit movie.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/thedaily. Transcripts of each ep..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Can Israel’s Opposition Unseat Netanyahu?",
     "pub_date": "Fri, 13 Nov 2026 10:45:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "More than two weeks after one of the most consequential elections in Israel’s history, there is still uncertainty about who will lead the country.The spotlight has fallen on the opposition leader Gadi Eisenkot, who is trying to make all kinds of deals to build a coalition that could run the government.David Halbfinger, The New York Times’s Jerus..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "What Jensen Huang’s Resignation Will Mean for A.I.",
     "pub_date": "Thu, 12 Nov 2026 10:51:56 +0000",
@@ -1296,7 +1305,7 @@
     "description": "This episode was recorded before the news of Mr. Huang’s resignation was made public.Jensen Huang resigned as the chief executive of Nvidia on Thursday after The New York Times reported that he had extramarital relationships with a woman identified by U.S. officials as a Chinese spy and an executive at the company. In a memo this week, Mr. Huang..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "Public Schools Have a New Crisis: Not Enough Students",
     "pub_date": "Wed, 11 Nov 2026 10:47:41 +0000",
@@ -1305,21 +1314,12 @@
     "description": "The number of students in America’s public schools is shrinking. In some cases, the declines have been so drastic that districts are facing empty classrooms, painful budget cuts and angry debates about whether to close schools.Sarah Mervosh, an education reporter at The New York Times, discusses what the enrollment crisis looks like, why it’s ha..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
     "pub_date": "Tue, 10 Nov 2026 10:55:19 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60e9e1cf-51c5-41b1-af3d-736ef4484e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60e9e1cf-51c5-41b1-af3d-736ef4484e18&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "After a Crushing Defeat, Trump Doubles Down",
-    "pub_date": "Mon, 9 Nov 2026 10:45:00 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/82833c9b-8790-46e3-95b6-a79e2189b8dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=82833c9b-8790-46e3-95b6-a79e2189b8dd&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "After a stinging rebuke last week at the polls, President Trump announced that he would elevate Stephen Miller — a driving force behind some of the most polarizing policies of Mr. Trump’s second term — to chief of staff.Maggie Haberman and Jonathan Swan, White House reporters for The New York Times, explain what Mr. Miller’s appointment reveals ..."
   }
 ]
