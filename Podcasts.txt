@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: This gas station drug acts like opioids. It’s getting harder to buy
+Published Date: Fri, 20 Nov 2026 08:00:00 +0000
+Description: Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0ed0c538-f450-4a92-9098-3795550ed618/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0ed0c538-f450-4a92-9098-3795550ed618&feed=F0qJcgXZ&t=podcast&e=nx-s1-6045648&p=510351&d=854&size=13669817
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: How a viral video gave a huge boost to new gene therapy
 Published Date: Wed, 18 Nov 2026 08:00:00 +0000
 Description: Sanfilippo syndrome is a rare and degenerative disease that can be fatal by the time someone reaches their teens. So the O’Neill family knew they didn’t have much time after learning their 4-year old daughter, Eliza, had it. At the time no treatment existed, and the world of drug development had its eyes on more common illnesses. So the family t...
@@ -252,12 +258,6 @@ Episode Title: AI is changing mathematics -- but not how you think
 Published Date: Wed, 04 Nov 2026 08:00:00 +0000
 Description: Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/973df2af-52b7-47fb-bbd0-b48aa71b3372/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=973df2af-52b7-47fb-bbd0-b48aa71b3372&feed=F0qJcgXZ&t=podcast&e=nx-s1-6010471&p=510351&d=833&size=13339254
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: OpenAI whistleblowers on the fight over AI safety | Machine Gods
-Published Date: Tue, 03 Nov 2026 08:00:00 +0000
-Description: Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how th...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e6a3cb83-f129-4f9b-9427-4b5da3a023e7/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e6a3cb83-f129-4f9b-9427-4b5da3a023e7&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023241&p=510351&d=1935&size=30970444
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -717,6 +717,12 @@ Logo URL: https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4da
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: Uncovering the mysteries of the animal kingdom
+Published Date: Fri, 20 Nov 2026 08:00:00 +0000
+Description: From the bugs in our backyards to prehistoric reptiles, animal biology and behavior are full of puzzles and conundrums. On this episode, we hear from experts solving the mysteries of the animal kingdom.Guests include paleontologist Dean Lomax, biochemical engineer Saad Bhamla, herpetologist Gowri Shankar and conservation biologist Patrícia Medic...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/2ebf8e4e-1080-455b-866b-1c46bae026af/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=2ebf8e4e-1080-455b-866b-1c46bae026af&feed=gGUt_fS1&t=podcast&e=nx-s1-6047049&p=510298&d=2977&size=47639449
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: An epidemiologist's guide to good health advice
 Published Date: Fri, 13 Nov 2026 08:00:00 +0000
 Description: Bad medical advice is everywhere, from TikTok to chatbots. Epidemiologist Jessica Malaty Rivera is fighting back. This hour, how she’s taking on the internet and helping us figure out who to trust.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.N...
@@ -770,12 +776,6 @@ Episode Title: Big mysteries explained through your senses
 Published Date: Fri, 18 Sep 2026 07:00:00 +0000
 Description: Our senses help us navigate everyday life. But can they also reveal what lies beyond our perception? This hour, TED speakers explore the hidden world through the senses. Guests include astronomer Mark Whittle, chemosensory researcher Paule Joseph and artist Yiyun Kang.Support public media with NPR+ and enjoy perks for over 25 podcasts like this ...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/501060c0-fbe7-441f-b0cb-30266d1be183/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=501060c0-fbe7-441f-b0cb-30266d1be183&feed=gGUt_fS1&t=podcast&e=nx-s1-5972958&p=510298&d=3002&size=48046124
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: What this musician’s identity crisis teaches us about navigating change
-Published Date: Fri, 11 Sep 2026 07:00:00 +0000
-Description: Since childhood, Joshua Roman's life revolved around the cello. But when long COVID forced him to set his cello aside, he had to rethink his approach to life, faith and music.Original broadcast date: September 26, 2025.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listen...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4cd40b2b-7723-4073-b05c-0713448a15a1/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4cd40b2b-7723-4073-b05c-0713448a15a1&feed=gGUt_fS1&t=podcast&e=nx-s1-5964816&p=510298&d=3002&size=48043617
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -937,6 +937,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: What Trump, Putin and Xi Left on the Table
+Published Date: Fri, 20 Nov 2026 10:45:00 +0000
+Description: On Thursday, the leaders of the United States, China and Russia met for a summit that produced no breakthroughs on war or nuclear arms and left the A.I. race largely unspoken.David Sanger, White House and national security correspondent for The New York Times, examines the competition over advanced computer chips that is at the heart of U.S.-Chi...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b1c3c3f9-31e5-4b47-83eb-c33ddb8b288c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b1c3c3f9-31e5-4b47-83eb-c33ddb8b288c&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: ‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week
 Published Date: Thu, 19 Nov 2026 10:47:50 +0000
 Description: In recent days, a series of technical outages have grounded planes, closed bank accounts, shut us out of our email and generally created a sense that the world is either falling apart or being hacked, or maybe both.The New York Times reporters Karoun Demirjian, Dustin Volz and Zolan Kanno-Youngs explain what’s really going on and whether we can ...
@@ -990,10 +996,4 @@ Episode Title: Public Schools Have a New Crisis: Not Enough Students
 Published Date: Wed, 11 Nov 2026 10:47:41 +0000
 Description: The number of students in America’s public schools is shrinking. In some cases, the declines have been so drastic that districts are facing empty classrooms, painful budget cuts and angry debates about whether to close schools.Sarah Mervosh, an education reporter at The New York Times, discusses what the enrollment crisis looks like, why it’s ha...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/99e149de-75d1-4f1c-8a8c-e26e47dcb648/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=99e149de-75d1-4f1c-8a8c-e26e47dcb648&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal
-Published Date: Tue, 10 Nov 2026 10:55:19 +0000
-Description: Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60e9e1cf-51c5-41b1-af3d-736ef4484e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60e9e1cf-51c5-41b1-af3d-736ef4484e18&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed

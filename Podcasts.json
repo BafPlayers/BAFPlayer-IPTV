@@ -272,6 +272,15 @@
   {
     "id": "npr-short-wave--science--ep-1",
     "show_name": "Short Wave",
+    "episode_title": "This gas station drug acts like opioids. It’s getting harder to buy",
+    "pub_date": "Fri, 20 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0ed0c538-f450-4a92-9098-3795550ed618/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0ed0c538-f450-4a92-9098-3795550ed618&feed=F0qJcgXZ&t=podcast&e=nx-s1-6045648&p=510351&d=854&size=13669817",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+    "description": "Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+  },
+  {
+    "id": "npr-short-wave--science--ep-2",
+    "show_name": "Short Wave",
     "episode_title": "How a viral video gave a huge boost to new gene therapy",
     "pub_date": "Wed, 18 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/8d27e9f5-844d-4899-89e9-99a92c6c96bd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=8d27e9f5-844d-4899-89e9-99a92c6c96bd&feed=F0qJcgXZ&t=podcast&e=nx-s1-6034426&p=510351&d=893&size=14293830",
@@ -279,7 +288,7 @@
     "description": "Sanfilippo syndrome is a rare and degenerative disease that can be fatal by the time someone reaches their teens. So the O’Neill family knew they didn’t have much time after learning their 4-year old daughter, Eliza, had it. At the time no treatment existed, and the world of drug development had its eyes on more common illnesses. So the family t..."
   },
   {
-    "id": "npr-short-wave--science--ep-2",
+    "id": "npr-short-wave--science--ep-3",
     "show_name": "Short Wave",
     "episode_title": "How bird poop and manta rays sustain a pristine coral reef",
     "pub_date": "Tue, 17 Nov 2026 08:00:00 +0000",
@@ -288,7 +297,7 @@
     "description": "Coral reefs are at risk around the world. So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.Interested in more s..."
   },
   {
-    "id": "npr-short-wave--science--ep-3",
+    "id": "npr-short-wave--science--ep-4",
     "show_name": "Short Wave",
     "episode_title": "Are your body clocks off? Meet ‘circadian depression’",
     "pub_date": "Mon, 16 Nov 2026 08:00:00 +0000",
@@ -297,7 +306,7 @@
     "description": "What if depression is sometimes linked to your body’s internal sense of time? That’s what researchers from the University of Sydney’s Brain and Mind Centre wanted to know. In a new study, they surveyed patients with depression whose symptoms may reflect problems with their circadian rhythms – like their sleep schedule, how tired they feel in the..."
   },
   {
-    "id": "npr-short-wave--science--ep-4",
+    "id": "npr-short-wave--science--ep-5",
     "show_name": "Short Wave",
     "episode_title": "AI could help hospitals diagnose PTSD in real time",
     "pub_date": "Fri, 13 Nov 2026 08:00:00 +0000",
@@ -306,7 +315,7 @@
     "description": "Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demog..."
   },
   {
-    "id": "npr-short-wave--science--ep-5",
+    "id": "npr-short-wave--science--ep-6",
     "show_name": "Short Wave",
     "episode_title": "Can scientists reverse your age?",
     "pub_date": "Wed, 11 Nov 2026 08:00:00 +0000",
@@ -315,7 +324,7 @@
     "description": "Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to c..."
   },
   {
-    "id": "npr-short-wave--science--ep-6",
+    "id": "npr-short-wave--science--ep-7",
     "show_name": "Short Wave",
     "episode_title": "How this year's record El Niño could hit your wallet \n",
     "pub_date": "Tue, 10 Nov 2026 08:00:00 +0000",
@@ -324,7 +333,7 @@
     "description": "Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which c..."
   },
   {
-    "id": "npr-short-wave--science--ep-7",
+    "id": "npr-short-wave--science--ep-8",
     "show_name": "Short Wave",
     "episode_title": "An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist",
     "pub_date": "Mon, 09 Nov 2026 08:00:00 +0000",
@@ -333,7 +342,7 @@
     "description": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors cau..."
   },
   {
-    "id": "npr-short-wave--science--ep-8",
+    "id": "npr-short-wave--science--ep-9",
     "show_name": "Short Wave",
     "episode_title": "Predicting elections is getting harder. What did the midterms teach us?",
     "pub_date": "Thu, 05 Nov 2026 08:00:00 +0000",
@@ -342,22 +351,13 @@
     "description": "Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his Senate forecasting model for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us unde..."
   },
   {
-    "id": "npr-short-wave--science--ep-9",
+    "id": "npr-short-wave--science--ep-10",
     "show_name": "Short Wave",
     "episode_title": "AI is changing mathematics -- but not how you think",
     "pub_date": "Wed, 04 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/973df2af-52b7-47fb-bbd0-b48aa71b3372/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=973df2af-52b7-47fb-bbd0-b48aa71b3372&feed=F0qJcgXZ&t=podcast&e=nx-s1-6010471&p=510351&d=833&size=13339254",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
     "description": "Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science..."
-  },
-  {
-    "id": "npr-short-wave--science--ep-10",
-    "show_name": "Short Wave",
-    "episode_title": "OpenAI whistleblowers on the fight over AI safety | Machine Gods",
-    "pub_date": "Tue, 03 Nov 2026 08:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e6a3cb83-f129-4f9b-9427-4b5da3a023e7/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e6a3cb83-f129-4f9b-9427-4b5da3a023e7&feed=F0qJcgXZ&t=podcast&e=nx-s1-6023241&p=510351&d=1935&size=30970444",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "description": "Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how th..."
   },
   {
     "id": "the-history-of-rome-ep-1",
@@ -965,6 +965,15 @@
   {
     "id": "ted-radio-hour-ep-1",
     "show_name": "TED Radio Hour",
+    "episode_title": "Uncovering the mysteries of the animal kingdom",
+    "pub_date": "Fri, 20 Nov 2026 08:00:00 +0000",
+    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/2ebf8e4e-1080-455b-866b-1c46bae026af/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=2ebf8e4e-1080-455b-866b-1c46bae026af&feed=gGUt_fS1&t=podcast&e=nx-s1-6047049&p=510298&d=2977&size=47639449",
+    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
+    "description": "From the bugs in our backyards to prehistoric reptiles, animal biology and behavior are full of puzzles and conundrums. On this episode, we hear from experts solving the mysteries of the animal kingdom.Guests include paleontologist Dean Lomax, biochemical engineer Saad Bhamla, herpetologist Gowri Shankar and conservation biologist Patrícia Medic..."
+  },
+  {
+    "id": "ted-radio-hour-ep-2",
+    "show_name": "TED Radio Hour",
     "episode_title": "An epidemiologist's guide to good health advice",
     "pub_date": "Fri, 13 Nov 2026 08:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/7f77890e-86aa-414a-a345-5c5db9e91fba/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=7f77890e-86aa-414a-a345-5c5db9e91fba&feed=gGUt_fS1&t=podcast&e=nx-s1-6035796&p=510298&d=2977&size=47639032",
@@ -972,7 +981,7 @@
     "description": "Bad medical advice is everywhere, from TikTok to chatbots. Epidemiologist Jessica Malaty Rivera is fighting back. This hour, how she’s taking on the internet and helping us figure out who to trust.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.N..."
   },
   {
-    "id": "ted-radio-hour-ep-2",
+    "id": "ted-radio-hour-ep-3",
     "show_name": "TED Radio Hour",
     "episode_title": "Escaping the modern world and your noisy mind",
     "pub_date": "Fri, 06 Nov 2026 08:00:00 +0000",
@@ -981,7 +990,7 @@
     "description": "How do you find the courage to leave the world you know and make your way to a completely different reality? This episode, TED speakers share ideas about escape and renewal.Guests include author Pico Iyer, NXIVM whistleblower Sarah Edmondson, captain and navigator Lehua Kamalu and TV producer and screenwriter Shonda Rhimes.Original broadcast dat..."
   },
   {
-    "id": "ted-radio-hour-ep-3",
+    "id": "ted-radio-hour-ep-4",
     "show_name": "TED Radio Hour",
     "episode_title": "Can curiosity save the wild?",
     "pub_date": "Fri, 30 Oct 2026 07:00:00 +0000",
@@ -990,7 +999,7 @@
     "description": "How do we inspire people to care about wild animals without disrupting their lives? This hour, two surprising approaches to getting to know wildlife — and rethinking what it means to protect it.Guests include conservationist Maya Higa and computational linguist Jeffery Reed.Support public media with NPR+ and enjoy perks for over 25 podcasts like..."
   },
   {
-    "id": "ted-radio-hour-ep-4",
+    "id": "ted-radio-hour-ep-5",
     "show_name": "TED Radio Hour",
     "episode_title": "How we experience time",
     "pub_date": "Fri, 23 Oct 2026 07:00:00 +0000",
@@ -999,7 +1008,7 @@
     "description": "Why does one hour drag by, but a year can pass in a flash? And how does our relationship with time influence our behavior? This hour, TED speakers share ideas on making the most of the time we have. Guests include artist Katie Paterson, cognitive neuroscientist Irena Arslanova,  the late music director Robert Franz and the late psychologist Phil..."
   },
   {
-    "id": "ted-radio-hour-ep-5",
+    "id": "ted-radio-hour-ep-6",
     "show_name": "TED Radio Hour",
     "episode_title": "Have we forgotten how to play?",
     "pub_date": "Fri, 16 Oct 2026 07:00:00 +0000",
@@ -1008,7 +1017,7 @@
     "description": "Play is how we evolved to learn, solve problems, and navigate the world. So why do we treat it as optional? This hour, the science of play — and what happens when we don’t get enough of it.Guests include psychology researcher Peter Gray, sailor and social activist Tracy Edwards and photographer Stefen Chow.Support public media with NPR+ and enjo..."
   },
   {
-    "id": "ted-radio-hour-ep-6",
+    "id": "ted-radio-hour-ep-7",
     "show_name": "TED Radio Hour",
     "episode_title": "The shocking power of tiny things",
     "pub_date": "Fri, 09 Oct 2026 07:00:00 +0000",
@@ -1017,7 +1026,7 @@
     "description": "You don't need to be big and boisterous to pack a punch. This hour, TED speakers explore the surprising strength of all things minuscule and fleeting. Guests include microbiologist Anne Madden, cognitive scientist Lera Boroditsky, former educator YeYoon Kim and former industrial engineer and Zen Buddhist monk Bart Weetjens.Original broadcast dat..."
   },
   {
-    "id": "ted-radio-hour-ep-7",
+    "id": "ted-radio-hour-ep-8",
     "show_name": "TED Radio Hour",
     "episode_title": "The women missing from music\n",
     "pub_date": "Fri, 02 Oct 2026 07:00:00 +0000",
@@ -1026,7 +1035,7 @@
     "description": "Women have been writing music for centuries. Why do we know so few of them today? This hour, TED speakers explore the role of women in music history and how we can remember their contributions. Guests include opera singer and activist Gabriella Di Laccio and Nadya Tolokonnikova, a Russian artist and founder of Pussy Riot.Support public media wit..."
   },
   {
-    "id": "ted-radio-hour-ep-8",
+    "id": "ted-radio-hour-ep-9",
     "show_name": "TED Radio Hour",
     "episode_title": "Life can be so awkward. Here's how to embrace the embarrassing",
     "pub_date": "Fri, 25 Sep 2026 07:00:00 +0000",
@@ -1035,22 +1044,13 @@
     "description": "Forgetting a name, a poorly executed hug, the 7th grade — awkwardness is part of our lives whether we like it or not. But what if we put the embarrassment aside and embraced our awkward selves? Guests include social scientist Ty Tashiro, cartoonist Liana Finck, journalist Melissa Dahl and sex and relationship counselor Erin Chen.Original broadca..."
   },
   {
-    "id": "ted-radio-hour-ep-9",
+    "id": "ted-radio-hour-ep-10",
     "show_name": "TED Radio Hour",
     "episode_title": "Big mysteries explained through your senses",
     "pub_date": "Fri, 18 Sep 2026 07:00:00 +0000",
     "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/501060c0-fbe7-441f-b0cb-30266d1be183/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=501060c0-fbe7-441f-b0cb-30266d1be183&feed=gGUt_fS1&t=podcast&e=nx-s1-5972958&p=510298&d=3002&size=48046124",
     "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
     "description": "Our senses help us navigate everyday life. But can they also reveal what lies beyond our perception? This hour, TED speakers explore the hidden world through the senses. Guests include astronomer Mark Whittle, chemosensory researcher Paule Joseph and artist Yiyun Kang.Support public media with NPR+ and enjoy perks for over 25 podcasts like this ..."
-  },
-  {
-    "id": "ted-radio-hour-ep-10",
-    "show_name": "TED Radio Hour",
-    "episode_title": "What this musician’s identity crisis teaches us about navigating change",
-    "pub_date": "Fri, 11 Sep 2026 07:00:00 +0000",
-    "stream_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/4cd40b2b-7723-4073-b05c-0713448a15a1/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=4cd40b2b-7723-4073-b05c-0713448a15a1&feed=gGUt_fS1&t=podcast&e=nx-s1-5964816&p=510298&d=3002&size=48043617",
-    "logo_url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg",
-    "description": "Since childhood, Joshua Roman's life revolved around the cello. But when long COVID forced him to set his cello aside, he had to rethink his approach to life, faith and music.Original broadcast date: September 26, 2025.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listen..."
   },
   {
     "id": "lex-fridman-podcast-ep-1",
@@ -1235,6 +1235,15 @@
   {
     "id": "the-daily--nyt--ep-1",
     "show_name": "The Daily",
+    "episode_title": "What Trump, Putin and Xi Left on the Table",
+    "pub_date": "Fri, 20 Nov 2026 10:45:00 +0000",
+    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b1c3c3f9-31e5-4b47-83eb-c33ddb8b288c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b1c3c3f9-31e5-4b47-83eb-c33ddb8b288c&feed=54nAGcIl",
+    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+    "description": "On Thursday, the leaders of the United States, China and Russia met for a summit that produced no breakthroughs on war or nuclear arms and left the A.I. race largely unspoken.David Sanger, White House and national security correspondent for The New York Times, examines the competition over advanced computer chips that is at the heart of U.S.-Chi..."
+  },
+  {
+    "id": "the-daily--nyt--ep-2",
+    "show_name": "The Daily",
     "episode_title": "‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week",
     "pub_date": "Thu, 19 Nov 2026 10:47:50 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e4f0c51f-a7f8-409f-8786-bccd54d2e1a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e4f0c51f-a7f8-409f-8786-bccd54d2e1a1&feed=54nAGcIl",
@@ -1242,7 +1251,7 @@
     "description": "In recent days, a series of technical outages have grounded planes, closed bank accounts, shut us out of our email and generally created a sense that the world is either falling apart or being hacked, or maybe both.The New York Times reporters Karoun Demirjian, Dustin Volz and Zolan Kanno-Youngs explain what’s really going on and whether we can ..."
   },
   {
-    "id": "the-daily--nyt--ep-2",
+    "id": "the-daily--nyt--ep-3",
     "show_name": "The Daily",
     "episode_title": "How Stable Is the A.I. Industry? We’re About to Find Out.",
     "pub_date": "Wed, 18 Nov 2026 10:48:59 +0000",
@@ -1251,7 +1260,7 @@
     "description": "Anthropic is a barometer of the economy at a volatile time. Its initial public offering will have widespread implications. As Anthropic prepares for what is expected to be a huge initial public offering this week, the company has been wooing investors with a simple message: Bet on us. But Jensen Huang’s sudden resignation from Nvidia last week r..."
   },
   {
-    "id": "the-daily--nyt--ep-3",
+    "id": "the-daily--nyt--ep-4",
     "show_name": "The Daily",
     "episode_title": "Democrats Promised Lower Prices. What Can They Actually Do?",
     "pub_date": "Tue, 17 Nov 2026 10:53:19 +0000",
@@ -1260,7 +1269,7 @@
     "description": "The Democratic Party swept the midterm elections by making big promises to Americans about bringing down the high cost of living. But when they take control of Congress in January, they will face a president who can veto anything they put forward.The New York Times reporters Rebecca F. Elliot, Margot Sanger-Katz and Ben Casselman each discuss wh..."
   },
   {
-    "id": "the-daily--nyt--ep-4",
+    "id": "the-daily--nyt--ep-5",
     "show_name": "The Daily",
     "episode_title": "Finally, a Vaccine for Cancer",
     "pub_date": "Mon, 16 Nov 2026 10:45:00 +0000",
@@ -1269,7 +1278,7 @@
     "description": "An experimental vaccine has been found to prevent recurrence of melanoma. Scientists hope it won’t be the last. A new, experimental vaccine could become the first of its kind to treat cancer.Nina Agrawal, a health reporter for The New York Times, explains how a century-old idea is finally becoming a reality and where this breakthrough could lead..."
   },
   {
-    "id": "the-daily--nyt--ep-5",
+    "id": "the-daily--nyt--ep-6",
     "show_name": "The Daily",
     "episode_title": "The Ultraviolent, Wildly Successful, Uniquely American Phenomenon of Grand Theft Auto",
     "pub_date": "Sun, 15 Nov 2026 11:00:00 +0000",
@@ -1278,7 +1287,7 @@
     "description": "Thursday, Nov. 19 will see the release of one of the biggest, most anticipated entertainment properties of the year: The video game Grand Theft Auto VI.The first Grand Theft Auto game was released in 1997, and immediately stoked controversy with its aggressively satirical portrait of amoral, criminal American culture. Over the past 30 years, the..."
   },
   {
-    "id": "the-daily--nyt--ep-6",
+    "id": "the-daily--nyt--ep-7",
     "show_name": "The Daily",
     "episode_title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back.",
     "pub_date": "Sat, 14 Nov 2026 11:00:00 +0000",
@@ -1287,7 +1296,7 @@
     "description": "The actor-director learned a lot about shame, regret and failure — and then made a hit movie.Thoughts? Email us at theinterview@nytimes.comWatch our show on YouTube: youtube.com/@TheInterviewPodcastFor transcripts and more, visit: nytimes.com/theinterview\nFor more information on today’s episode, visit nytimes.com/thedaily. Transcripts of each ep..."
   },
   {
-    "id": "the-daily--nyt--ep-7",
+    "id": "the-daily--nyt--ep-8",
     "show_name": "The Daily",
     "episode_title": "Can Israel’s Opposition Unseat Netanyahu?",
     "pub_date": "Fri, 13 Nov 2026 10:45:00 +0000",
@@ -1296,7 +1305,7 @@
     "description": "More than two weeks after one of the most consequential elections in Israel’s history, there is still uncertainty about who will lead the country.The spotlight has fallen on the opposition leader Gadi Eisenkot, who is trying to make all kinds of deals to build a coalition that could run the government.David Halbfinger, The New York Times’s Jerus..."
   },
   {
-    "id": "the-daily--nyt--ep-8",
+    "id": "the-daily--nyt--ep-9",
     "show_name": "The Daily",
     "episode_title": "What Jensen Huang’s Resignation Will Mean for A.I.",
     "pub_date": "Thu, 12 Nov 2026 10:51:56 +0000",
@@ -1305,21 +1314,12 @@
     "description": "This episode was recorded before the news of Mr. Huang’s resignation was made public.Jensen Huang resigned as the chief executive of Nvidia on Thursday after The New York Times reported that he had extramarital relationships with a woman identified by U.S. officials as a Chinese spy and an executive at the company. In a memo this week, Mr. Huang..."
   },
   {
-    "id": "the-daily--nyt--ep-9",
+    "id": "the-daily--nyt--ep-10",
     "show_name": "The Daily",
     "episode_title": "Public Schools Have a New Crisis: Not Enough Students",
     "pub_date": "Wed, 11 Nov 2026 10:47:41 +0000",
     "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/99e149de-75d1-4f1c-8a8c-e26e47dcb648/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=99e149de-75d1-4f1c-8a8c-e26e47dcb648&feed=54nAGcIl",
     "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "description": "The number of students in America’s public schools is shrinking. In some cases, the declines have been so drastic that districts are facing empty classrooms, painful budget cuts and angry debates about whether to close schools.Sarah Mervosh, an education reporter at The New York Times, discusses what the enrollment crisis looks like, why it’s ha..."
-  },
-  {
-    "id": "the-daily--nyt--ep-10",
-    "show_name": "The Daily",
-    "episode_title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
-    "pub_date": "Tue, 10 Nov 2026 10:55:19 +0000",
-    "stream_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60e9e1cf-51c5-41b1-af3d-736ef4484e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60e9e1cf-51c5-41b1-af3d-736ef4484e18&feed=54nAGcIl",
-    "logo_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "description": "Over the weekend, Jensen Huang, the chief executive and co-founder of Nvidia — which makes the chips that power artificial intelligence — admitted to having an affair with a woman who has been determined by U.S. officials to be a spy. That revelation came after The New York Times broke the story of how U.S. intelligence officers uncovered what t..."
   }
 ]
