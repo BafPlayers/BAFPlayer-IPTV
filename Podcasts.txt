@@ -199,6 +199,12 @@ Logo URL: https://static.libsyn.com/p/assets/0/2/6/2/0262ad5cfd2b3da4/astronomy_
 SHOW: Short Wave
 ========================================================================
 ----------------------------------------
+Episode Title: Feeling more anxious? Researchers may know what’s driving it
+Published Date: Fri, 27 Nov 2026 08:00:00 +0000
+Description: Younger people are more anxious these days than previous generations, and scientists have speculated all kinds of reasons as to why. A new study pinpoints when anxiety started rising –  about 15 years ago. That aligns with when many people started amping up their smartphone use. But what about phones is making people more anxious? The answer may...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f81c2e92-6cdd-4427-9cb7-dd5880f568d0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f81c2e92-6cdd-4427-9cb7-dd5880f568d0&feed=F0qJcgXZ&t=podcast&e=nx-s1-6044623&p=510351&d=657&size=10524674
+Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Want a better winter workout? Train your muscle clocks
 Published Date: Wed, 25 Nov 2026 08:00:00 +0000
 Description: TikTok has another trend: the winter arc. It’s a self-improvement challenge where people try to be their best self in the 3 months leading up to New Year – often, through exercise. We at Short Wave wanted to know if the science really holds up: Is ramping up your exercise routine when your circadian rhythm may be struggling with less light reall...
@@ -251,13 +257,6 @@ Episode Title: Can scientists reverse your age?
 Published Date: Wed, 11 Nov 2026 08:00:00 +0000
 Description: Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to c...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c11a4fcd-bae3-4e66-ae53-c01e33212a58/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c11a4fcd-bae3-4e66-ae53-c01e33212a58&feed=F0qJcgXZ&t=podcast&e=nx-s1-5971828&p=510351&d=864&size=13838673
-Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: How this year's record El Niño could hit your wallet 
-
-Published Date: Tue, 10 Nov 2026 08:00:00 +0000
-Description: Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which c...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/11d9e8b7-05a7-4f76-9816-b788ccf9decb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=11d9e8b7-05a7-4f76-9816-b788ccf9decb&feed=F0qJcgXZ&t=podcast&e=nx-s1-6011189&p=510351&d=587&size=9403289
 Logo URL: https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -713,6 +712,12 @@ Logo URL: https://megaphone-images.spotifycdn.com/podcasts/0c36921a-c8b9-11f1-9b
 SHOW: TED Radio Hour
 ========================================================================
 ----------------------------------------
+Episode Title: What makes a relationship last?
+Published Date: Fri, 27 Nov 2026 08:00:00 +0000
+Description: What makes some relationships thrive while others fizzle? And how do we decide which relationships are worth prioritizing? This hour, TED speakers explain what's behind lasting connections.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Priva...
+Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/ceb782f6-7ae8-4231-990c-99958b1a0992/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=ceb782f6-7ae8-4231-990c-99958b1a0992&feed=gGUt_fS1&t=podcast&e=nx-s1-6051606&p=510298&d=3031&size=48501700
+Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
+----------------------------------------
 Episode Title: Uncovering the mysteries of the animal kingdom
 Published Date: Fri, 20 Nov 2026 08:00:00 +0000
 Description: From the bugs in our backyards to prehistoric reptiles, animal biology and behavior are full of puzzles and conundrums. On this episode, we hear from experts solving the mysteries of the animal kingdom.Guests include paleontologist Dean Lomax, biochemical engineer Saad Bhamla, herpetologist Gowri Shankar and conservation biologist Patrícia Medic...
@@ -766,12 +771,6 @@ Episode Title: Life can be so awkward. Here's how to embrace the embarrassing
 Published Date: Fri, 25 Sep 2026 07:00:00 +0000
 Description: Forgetting a name, a poorly executed hug, the 7th grade — awkwardness is part of our lives whether we like it or not. But what if we put the embarrassment aside and embraced our awkward selves? Guests include social scientist Ty Tashiro, cartoonist Liana Finck, journalist Melissa Dahl and sex and relationship counselor Erin Chen.Original broadca...
 Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/6f151f1f-1bd6-458b-9ba6-da5aec61f76e/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=6f151f1f-1bd6-458b-9ba6-da5aec61f76e&feed=gGUt_fS1&t=podcast&e=nx-s1-5980086&p=510298&d=2987&size=47796185
-Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
-----------------------------------------
-Episode Title: Big mysteries explained through your senses
-Published Date: Fri, 18 Sep 2026 07:00:00 +0000
-Description: Our senses help us navigate everyday life. But can they also reveal what lies beyond our perception? This hour, TED speakers explore the hidden world through the senses. Guests include astronomer Mark Whittle, chemosensory researcher Paule Joseph and artist Yiyun Kang.Support public media with NPR+ and enjoy perks for over 25 podcasts like this ...
-Audio Stream URL: https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/501060c0-fbe7-441f-b0cb-30266d1be183/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=501060c0-fbe7-441f-b0cb-30266d1be183&feed=gGUt_fS1&t=podcast&e=nx-s1-5972958&p=510298&d=3002&size=48046124
 Logo URL: https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-3ca507bd2dfa5c26d7db5b41c2b981b24a8789fa.jpg?s=1400&c=66&f=jpg
 
 ========================================================================
@@ -933,6 +932,12 @@ Logo URL: https://static.libsyn.com/p/assets/5/a/8/7/5a87e01004b980c1/TimFerriss
 SHOW: The Daily
 ========================================================================
 ----------------------------------------
+Episode Title: From Wirecutter: Don’t let Inflated Prices Ruin your Black Friday
+Published Date: Fri, 27 Nov 2026 11:00:00 +0000
+Description: Black Friday and Cyber Week deals aren’t what they used to be. As inflation continues to drive up prices, today’s “sale” price often matches what an item cost at full price just a year or two ago.In this episode of The Wirecutter Show, Wirecutter’s deals editor Nathan Burrow shares strategies for clawing back savings on your holiday purchases. H...
+Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e83ca95b-d81a-4a61-b35f-e52772230e19/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=e83ca95b-d81a-4a61-b35f-e52772230e19&feed=54nAGcIl
+Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
+----------------------------------------
 Episode Title: Don’t Let Go: My Balloon Training for the Macy’s Thanksgiving Day Parade
 Published Date: Thu, 26 Nov 2026 11:00:00 +0000
 Description: On Saturday morning, a few days later than normal because of atrocious weather in New York City, the 100th Macy’s Thanksgiving Day Parade will march its way down Central Park West and into the living rooms of tens of millions of Americans.Whether you watch it not, whether you love it or not, it’s there, as a kind of communal hearth around which ...
@@ -986,10 +991,4 @@ Episode Title: How Stable Is the A.I. Industry? We’re About to Find Out.
 Published Date: Wed, 18 Nov 2026 10:48:59 +0000
 Description: Anthropic is a barometer of the economy at a volatile time. Its initial public offering will have widespread implications. As Anthropic prepares for what is expected to be a huge initial public offering this week, the company has been wooing investors with a simple message: Bet on us. But Jensen Huang’s sudden resignation from Nvidia last week r...
 Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c0d8552f-8a74-4b9d-9cbf-0ba520ea03bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c0d8552f-8a74-4b9d-9cbf-0ba520ea03bd&feed=54nAGcIl
-Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
-----------------------------------------
-Episode Title: Democrats Promised Lower Prices. What Can They Actually Do?
-Published Date: Tue, 17 Nov 2026 10:53:19 +0000
-Description: The Democratic Party swept the midterm elections by making big promises to Americans about bringing down the high cost of living. But when they take control of Congress in January, they will face a president who can veto anything they put forward.The New York Times reporters Rebecca F. Elliot, Margot Sanger-Katz and Ben Casselman each discuss wh...
-Audio Stream URL: https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9042a32a-36ba-4d03-b121-571c5be560a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9042a32a-36ba-4d03-b121-571c5be560a4&feed=54nAGcIl
 Logo URL: https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed
